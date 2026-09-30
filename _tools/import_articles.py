@@ -1,4 +1,4 @@
-"""One-time import: Resource App/Asset Text/*.md  ->  Article Library/articles/<topic>/<slug>.md
+"""One-time import: Resource App/Asset Text/*.md  ->  Cru Press Green Archive/articles/<topic>/<slug>.md
 
 What it does
 - Groups the 36 archive themes into 8 topics and files each article under the topic
