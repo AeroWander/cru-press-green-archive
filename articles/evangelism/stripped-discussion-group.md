@@ -11,8 +11,6 @@ summary: "An overview of the \"Stripped\" small-group discussion guide (part of 
 source: "Evangelism/outreach/Stripped.pdf"
 ---
 
-## Tanya Walker
-
 What if everyone came to a discussion with something to learn and experience? What if both those who follow Jesus and those who don’t follow Him got together and talked about eternal issues of humanity like isolation, love, and purpose? What if each person had the opportunity to openly share from their own experience and efforts to make sense of it all? the western world: The Scream by Munch, Mona Lisa by Da Vinci, Return of the Prodigal Son by Rembrandt, among other works. The paintings surface the universal cries of the human heart and ultimately lead the discussion to our need for a Savior. Inside the “Stripped” study guide you’ll find all of the paintings reproduced in full-color making it look and feel like a printed museum piece.
 
 ## How to Use “Stripped”
@@ -121,7 +119,7 @@ For example, we have seven manuscript copies of Natural History, written by Plin
 
 (Occasionally a word can vary among ancient manuscripts, as they were hand copied and not xeroxed. When this happens the variant word with the greater amount of manuscript attestation (900 manuscripts said ‘hare’ vs. 3 that said ‘hair) is chosen for the translation. On the rare occasion where a decision is difficult, you’ll find the two variations noted in the margin of your Bible, neither of which will obscure the basic meaning of the passage.) Do we have any of the original New Testament documents? No, but biblical scholars are constantly monitoring Antiques Roadshow in case one should emerge from an old shoebox in someone’s attic. So, how do we know our New Testament is accurate? To evaluate the accuracy of our New What role did Constantine and the Council of Nicea play in deciding what would go in the New Testament? Dan Brown’s The Da Vinci Code makes some creative statements concerning the New Testament, which can be disconcerting to those who are not familiar with church history (and perhaps even more disconcert ing to those who are) Constantine had nothing to do with deciding on the books of the New Testament. Of the twenty rulings made at the Council of Nicea (A.D. 325), none dealt with the contents of the New Testament.
 
-Constantine convened the council to provide spiritual unity and a clear church position on an ongoing debate causing division within the newly Christianized Roman Empire. That debate was not about the New Testament but about the nature of Christ. • • Specifically, the debate was about whether Jesus was coeternal with the Father, that is, if there was a time in eternity past when Jesus “was not.” No one at the council thought Jesus was just a man or a prophet. The debate was concluded with a 300-to-2 vote deciding that Jesus was coeternal with the Father. Thus the Nicene Creed affirms that Jesus was “one in being with the Father, begotten not made.”3 “Mark, the disciple and interpreter of Peter, did also hand down to us in writing what had been preached by Peter.” (Papias, A.D. 60−140)5 “Luke also, the companion of Paul, recorded in a book the Gospel preached by him.” (Irenaeus, A.D. 120−200)6 When was the New Testament decided upon?
+Constantine convened the council to provide spiritual unity and a clear church position on an ongoing debate causing division within the newly Christianized Roman Empire. That debate was not about the New Testament but about the nature of Christ. Specifically, the debate was about whether Jesus was coeternal with the Father, that is, if there was a time in eternity past when Jesus “was not.” No one at the council thought Jesus was just a man or a prophet. The debate was concluded with a 300-to-2 vote deciding that Jesus was coeternal with the Father. Thus the Nicene Creed affirms that Jesus was “one in being with the Father, begotten not made.”3 “Mark, the disciple and interpreter of Peter, did also hand down to us in writing what had been preached by Peter.” (Papias, A.D. 60−140)5 “Luke also, the companion of Paul, recorded in a book the Gospel preached by him.” (Irenaeus, A.D. 120−200)6 When was the New Testament decided upon?
 
 Most of the letters and Gospels of the New Testament were recognized as Scripture before the end of the first century. Yet, as letters, these documents circulated in various geographic regions, and so it is closer to about A.D.. 150 (175 years prior to Nicea) before we have a comprehensive list that closely reflects our New Testament.
 
@@ -143,9 +141,9 @@ As for the idea that Jesus had a child and that there was a royal bloodline, how
 
 1Josh McDowell, The New Evidence That Demands a Verdict (San Bernardino, Calif.:
 
-Here’s Life, 1999), p. 42.
+Here’s Life, 1999), p.
 
-2Ibid., p. 40.
+2Ibid., p.
 
 3Darrell L. Bock, Breaking the Da Vinci Code (Nashville: Thomas Nelson, 2006).
 

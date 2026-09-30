@@ -11,9 +11,7 @@ summary: "An article by Eric Swanson on the strategy and rationale behind recrui
 source: "Building Community/Conferences and Retreats/The Philosophy of Recruiting.pdf"
 ---
 
-## Eric Swanson
-
-• • • • • retreat than in a whole semester of Bible studies. Conferences can serve as a rallying point--something that everyone is looking forward to. Conferences build vision.
+- retreat than in a whole semester of Bible studies. Conferences can serve as a rallying point--something that everyone is looking forward to. Conferences build vision.
 
 Conferences raise the commitment level of those who attend. Commitments to Christ or decisions to go on missions projects often happen at conferences.
 
@@ -27,7 +25,13 @@ After recruiting for three conferences a year, it’s easy to lose motivation fo
 
 ## What Conferences Accomplish
 
-Here is a short list of what conferences can accomplish in both the life of a believer and the life of a ministry: • Conferences are catalytic. Things happen at conferences that do not happen on campus. • Conferences change lives. Studies show that we develop convictions from personal Bible study and conferences of three or more days. • Conferences are a time of bonding. Often at a conference or on the bus ride to the conference, friendships are formed which bring students from the fringes into community. • Conferences get all those in the ministry moving in the ministry moving in the same direction. • Conferences help to build multiplying disciples. Conferences are just as essential to building disciples as meeting in small groups or one-to- one. You will typically notice that all of the student leaders have attended a retreat or conference. Often more is accomplished at a
+Here is a short list of what conferences can accomplish in both the life of a believer and the life of a ministry:
+
+- Conferences are catalytic. Things happen at conferences that do not happen on campus.
+- Conferences change lives. Studies show that we develop convictions from personal Bible study and conferences of three or more days.
+- Conferences are a time of bonding. Often at a conference or on the bus ride to the conference, friendships are formed which bring students from the fringes into community.
+- Conferences get all those in the ministry moving in the ministry moving in the same direction.
+- Conferences help to build multiplying disciples. Conferences are just as essential to building disciples as meeting in small groups or one-to- one. You will typically notice that all of the student leaders have attended a retreat or conference. Often more is accomplished at a
 
 ## The Importance of Recruiting
 
@@ -42,9 +46,9 @@ MOTIVATE. This is where you answer, “What difference does it make if I go?” 
 Students do not go to conferences solely because they are good, although that is important, but 1) because their friends will be there. Generally speaking, the strength of the relationships will determine the strength of the recruiting effort. Unless there is a strong web of relationships within the movement, gathering people to conferences will be very difficult.
 
 2. Because they are asked, and 3) because they see themselves as an integral part of the ministry.
-- • A time to pull away from a busy campus schedule and grow in your relationship with God. A greenhouse for growth.
+- A time to pull away from a busy campus schedule and grow in your relationship with God. A greenhouse for growth.
 
-A time to get to know other Christians from your • • • • campus.
+A time to get to know other Christians from your campus.
 
 Excellent training.
 
@@ -54,7 +58,7 @@ Ask, “What do you think you’d get out of this conference?”
 
 It’ll be a great time.
 
-This is where you say, “I’d really like you to come with me to the retreat. Let me tell you how God has used it in my life and how I can see you benefiting from being there.” (Think back on your own life changes, impressions, reservations and fears.) Motivation is helping them want to go. The more important it is to you, the more important it will be for them. When asked why they decided to come to a conference, 250 students responded as follows: • • • • • • • • Wanted to grow in my walk with God --39% Had attended before--12% Wanted to be with my friends--12% Wanted to renew my commitment to God--8% A friend encouraged me to come--6% To deal with my future--5% I knew it was where God wanted me--5% Other--11%
+This is where you say, “I’d really like you to come with me to the retreat. Let me tell you how God has used it in my life and how I can see you benefiting from being there.” (Think back on your own life changes, impressions, reservations and fears.) Motivation is helping them want to go. The more important it is to you, the more important it will be for them. When asked why they decided to come to a conference, 250 students responded as follows: Wanted to grow in my walk with God --39% Had attended before--12% Wanted to be with my friends--12% Wanted to renew my commitment to God--8% A friend encouraged me to come--6% To deal with my future--5% I knew it was where God wanted me--5% Other--11%
 
 ## A Four-fold Challenge
 

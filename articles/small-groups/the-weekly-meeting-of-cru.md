@@ -11,8 +11,6 @@ summary: "A lengthy article by Dennis Leskowski analyzing the purpose and design
 source: "godsquad/weekly meeting/The Weekly Meeting of Cru.pdf"
 ---
 
-## Dennis Leskowski
-
 and experiencing God personally.
 
 “A community of students who want to experience God personally”
@@ -31,7 +29,7 @@ So, what Cru can offer that McDonald’s, a fraternity party, an email account, 
 
 Now, let’s take a look at some of the elements of Cru that’ll help Josh and Doug experience God personally when they come to Cru.
 
-## CRU and the Culture
+CRU and the Culture
 
 Jesus intimately knew his audience. He used farming terms to describe the Kingdom of God. Why? Because he was talking to farmers. His message was tailored specifically to address the questions of his crowd. How about us? Can we make some generalities about today’s college students that’ll help us understand their lives? What is it about Josh and Doug that is important to them?
 
@@ -145,7 +143,7 @@ For those of you, like Josh who invited Doug, who will use the weekly meeting to
 
 Finally, prayer for those involved with the meeting is so important. You may want to consider a dedicated team of a few prayer warriors who are committed to the ministry of Cru on-campus of those who are neither involved with the execution of the meeting nor involved with bringing their Community Groups to the meeting to pray during the meeting. God wants to make Himself known on campus, and I hope this vision of Cru’s weekly meeting as a tool for students gathering together to experience more of God is seen. usually 1-10 verses dealing with the same topic). Why do you want to study this passage or topic?
 
-## II. OBSERve THE PASSAGE ASKING qUESTIONS
+## II. Observe the Passage Asking Questions
 
 Who are all the people in the text, and what is said about them?
 
@@ -172,7 +170,7 @@ Why does the author or speaker write/speak what he does? What concerns of the au
 
 Write out any additional observations, questions of insights from the passage. These may include connective words, comparisons and contrasts, lists, verb tenses, illustrations and quotes, etc.
 
-## Iii. Prepare Your Talk from the Passage by Answering
+## III. Prepare Your Talk from the Passage by Answering
 
 1. What is the Fallen Condition Focus of this passage? While there may actually be several, on which will you focus on from this passage? The needs of your hearer will most often determine this question. The Fallen Condition Focus is the mutual human condition shared by the original recipients with contemporary believers that requires the grace of the passage. What do we share in common with those to whom/about whom the text was written? Every passage of Scripture has a Fallen Condition Focus - examples of areas of the Fallen Condition Focus could include different categories of sin such as attitudes (about God, self, others, etc.), beliefs or actions. An appropriate Fallen Condition Focus, however, does not always cover an area of sin but also other realities “true to life” of our fallen human condition such as grief over loss of loved ones, legitimate fears, or being victims of others’ sins.
 2. What is going to be your Proposition from the passage? The Proposition consists of the two-part statement of the passage’s main theme that applies directly to your Fallen Condition Focus: a timeless, universal principle wedded to an application statement hitting your Fallen Condition focus. Your theme must be sufficiently covered throughout the entire passage, not just a few verses - it needs to be what the passage is about. That can most readily be identified from the commands and repeated/ key words and ideas. To write your Proposition you need two elements: (1) a timeless principle from the passage, and (2) an appropriate hortatory statement (application-focused statement) that hits upon the Fallen Condition Focus. Your principle clause will probably begin with “Because,” or “Since,” and your application clause will probably begin with “we must,” or “we can,” or “we should.”
@@ -192,7 +190,7 @@ What is your second Main Point? What verses will it cover?
 
 What is your third Main Point? What verses will it cover?
 
-## iv. ASK THE NATURAL qUESTIONS THAT ARISE FROM EACH OF YOUR MAIN POINTS
+iv. ASK THE NATURAL qUESTIONS THAT ARISE FROM EACH OF YOUR MAIN POINTS
 
 This will usually be “How,” “Why,” or “What.” You may experiment with many questions before finding the right one.
 
@@ -202,7 +200,7 @@ Main Point #2:
 
 Main Point #3:
 
-## v. ANSWER THE QUESTIONS YOU HAVE RAISED UNDER EACH MAIN POINT FROM THE PASSAGE BEING STUDIED
+v. ANSWER THE QUESTIONS YOU HAVE RAISED UNDER EACH MAIN POINT FROM THE PASSAGE BEING STUDIED
 
 Put your answers in the form of an outline (probably best on another piece of paper) to form the Sub-points under each of your Main Points. To develop each Main Point, use your Sub-points to do these three things: Explain It (state the point, place the point by citing the verses supporting it in the passage and prove how the verses are making that point)
 

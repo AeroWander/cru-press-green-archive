@@ -18,15 +18,11 @@ Flesh (for men) deals fearlessly with lust, sex and pornography in a clear, comp
 
 FLESH
 
-## Order Online at Crupress.com
-
-## A BELT OfTRUTH
+A BELT OfTRUTH
 
 You belong to your father, the devil, and you want to carry out your father’s desire. He was a murderer from the beginning, not holding to the truth, for there is no truth in him. When he lies, he speaks his native language, for he is a liar and the father of lies. John 8:44 The power of lust is its embedded lies—little white ones, dark and monstrous things. With Christ dwelling in us, our hearts cannot endure the pain of outright rebellion. So, to do the unthinkable, we conceal ideas under layers of lies. We smuggle lust in, dressed in rationales and justification, always hoping the metal detector will not go off. We tell ourselves the following: “It’s not that bad. God doesn’t care about me anyway. I’m already this far gone. I might as well keep going. It’s just a small sin. This is really the last time. After all, my desires are stronger than other people’s desires. I should have the freedom to watch this show. I’m just doing an image search.” And the list goes on, etc., etc., ad infinitum.
 
 080 f h...
-
-### l e s
 
 a belt of truth We lie to put ourselves into the path of temptation. We have believed lies about women. We lie to both justify and hide our behavior. We have told ourselves—and listened—to lies that tell us God is at fault, doesn’t care or hasn’t provided. We have been less than honest with ourselves about the potential consequences. Then, when we sin, we fail to believe that God is merciful and forgiving and that our sin has been paid for. These are all lies, lies, lies.
 
@@ -52,10 +48,6 @@ Mark 8:29-33 Wouldn’t you expect that Jesus would greet this temptation (the s
 
 What I also take from this passage is the importance of voicing the truth, not simply thinking or confessing the truth to God in our thoughts but actually hearing our voices speak and say the truth. If you commit yourself to a life of truth, and make it your goal to inject every thought and action with the serum, it will be difficult to continue in sexual sin. Truth will continually drive lies further and further away from your life. a belt of truth f
 
-e
-
-h ...
-
 The Truth of Scripture I have not put the truth of Scripture second because it is secondary to honesty. It isn’t. But, because the first thought is less obvious, I didn’t want you to miss it. Knowing you (the reading audience) would be more sprightly on page one than on page three, I put it first in order, not priority. Scripture is not only truth, but it also has the power to renew our minds, strengthen our faith and inflame our hearts with loving God. As Joshua Harris states in his book Not Even a Hint:
 
 Scripture cuts through the confusion and hazy half-truths that our sin generates. It reveals our wrong desires. It rebukes our apathy. It corrects our selfish human thinking. It unmasks the deception of sin. It points us to God’s goodness and faithfulness when we’re tempted to forget. It counters the false promises of lust with God’s true promises. … Part of sin is dissatisfaction with God. Lust’s power comes from the promise it gives that something besides God can make us happy. What this means is the only way to overcome the power of lust in our lives is by finding better promises.
@@ -74,9 +66,7 @@ Ephesians 5:3 Flee from sexual immorality. All other sins a man commits are outs
 
 Job 31:1 082 f h...
 
-### l e s
-
-a belt of truth © 2010, CruPress, All Rights Reserved. CruPress.com Now, don’t just memorize these verses, but meditate on them. Think about the truth encapsulated in the words. This ain’t Harry Potter. Bible verses are not spells. They are truths that, if meditated upon and believed, will protect and renew our minds.
+a belt of truth Now, don’t just memorize these verses, but meditate on them. Think about the truth encapsulated in the words. This ain’t Harry Potter. Bible verses are not spells. They are truths that, if meditated upon and believed, will protect and renew our minds.
 
 Secondly, memorize more individual verses that are tailored to your situation. Specifically, find Scripture that counteracts the typical lies that lead you to sexual sin. For example, I often believe in my heart of hearts that there will be no consequences for my actions. So, I find this verse very helpful: Do not be deceived: God cannot be mocked. A man reaps what he sows.
 
@@ -87,7 +77,3 @@ Consequently, faith comes from hearing the message, and the message is heard thr
 Romans 10:17 I long to see you so that I may impart to you some spiritual gift to make you strong—that is, that you and I may be mutually encouraged by each other’s faith.
 
 Romans 1:11-12 The first passage obviously affirms the power of hearing God’s Word. The second verse is less apparent, but the point is that there is something about actually communicating and orally repeating the Word of God that is different than simply saying it in your head. You are imitating God. God did not just think creation into existence but spoke it. Saturate yourself in the Word of God, and your entire life—not just the sexual area—will be transformed. a belt of truth f
-
-e
-
-h ...

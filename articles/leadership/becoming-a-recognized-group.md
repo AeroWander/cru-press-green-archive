@@ -18,7 +18,7 @@ A visit to the Student Government office should provide you with all the necessa
 
 What follows are two sample constitutions from which you can create your own.
 
-## Sample Constitutions Constitution of Campus Crusade for Christ Boise State University Chapter
+Sample Constitutions Constitution of Campus Crusade for Christ Boise State University Chapter
 
 Article I: Name The name of this organization shall be Campus Crusade for Christ.
 
@@ -30,7 +30,7 @@ Article IV: Officers The officers of BSU Campus Crusade for Christ shall be pres
 
 Article VI: Advisor The advisor to Campus Crusade for Christ will be chosen by the officers and full-time staff members of Campus Crusade for Christ. The advisor will be a member of the BSU faculty Article VII: Committees Regular committees will established and special committees will be set up as they are needed. [NOTE: The national leadership of the Campus Ministry of Campus Crusade for Christ may review this charter on a year-by-year basis]
 
-## Southeastern Community College Student Organization: Campus Crusade for Christ
+Southeastern Community College Student Organization: Campus Crusade for Christ
 
 Name of Organization Campus Crusade for Christ Purpose of Organization Campus Crusade for Christ exists to provide regular opportunities to study and discuss the Bible, worship, and pray, all in a group setting, which also provides opportunities for fellowship, encouragement and spiritual among members. We seek to be a resource to the student body by offering opportunities to discuss spiritual matters and provide materials in the form of speakers, video’s, books and articles, all for their benefit and consideration. Membership Campus Crusade for Christ has an open-door policy. All members of the Southeastern Community College, as well as any interested persons outside Southeastern College, are welcome to attend the Bible studies and meetings. There are no “members” in the sense of meeting requirements or being accepted into membership. Campus Crusade for Christ was formed by Christians who agree in their belief that man’s only access to God is through Jesus Christ and faith in His deity, His death as full payment for man’s sins, and His resurrection. While this is the foundation for the Bible study, those holding other beliefs are welcome to attend. Officers Campus Crusade for Christ does not have officers. However, a small group of participants with a strong commitment to the maintenance of the organization agree to be named as a steering committee for the purpose of financial responsibility communication with Southeastern Community College administration. These persons are named in a separate document. At the end of the 2011-2012 academic year, those steering committee members who will graduate from Southeastern Community College will, in group conference, select successors to be named to the committee. Selection will be based upon an appointment by the steering committee at the last Bible study in the 1996 spring semester, and agreement by those selected.
 

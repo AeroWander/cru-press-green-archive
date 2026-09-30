@@ -24,7 +24,7 @@ EIGHT HABITS 1
 
 ### Eight Habits
 
-## 1) Ppersonal development Pplan: Overview
+1) Ppersonal development Pplan: Overview
 
 Nothing happens in isolation. There’s always a bigger picture. A context that is bigger than the moment itself. For us, that context is Eternity. Heaven. The eighty or so years you may get to spend on this earth are but a small dot on the endless line of eternity. One writer of the Bible put it rather bluntly: “Why, you do not even know what will happen tomorrow. What is your life? You are a mist that appears for a little while and then vanishes” (James 4:14). You won’t find that on a Hallmark card!
 
@@ -32,7 +32,7 @@ We often think of our lives in slices, parsing it into anywhere from six to a do
 
 We make a grave error if we see our spiritual life as only one piece of the entire pie and miss the point of a life fully surrendered to the Lordship of Christ. To continue to grow spiritually, we must bring each area of our life into relationship with Christ and see through the lens of an eternal perspective. How will your faith affect your relationships or how you choose a marriage partner? How will you live out your faith in an authentic and appropriate way at work? Will God have control of your checkbook? Will you trust Him to guide you with each new career opportunity? In the end, what will last? What will really matter as you step into eternity? It is with this mindset that we’ll approach the writing of a Personal Development Plan. God desires that your whole life glorify Him and for Him to be Lord over every area of our life.
 
-### assessing the Ttransition: key questions
+assessing the Ttransition: key questions
 
 - When you think about graduating, what are some of the first things that come to your mind?
 - What worries you or concerns you the most as you think about leaving the college environment?
@@ -40,7 +40,7 @@ We make a grave error if we see our spiritual life as only one piece of the enti
 - What temptations do you think you could encounter that might distract you in your walk with God?
 - From a practical standpoint, how are you preparing yourself for the transitions ahead?
 
-## 2) the mission statement
+## 2) The mission statement
 
 Take a first pass at writing a God-honoring life mission statement.
 
@@ -54,7 +54,7 @@ In the end, what do you want to be true of your life? Here is a creepy, but help
 
 Rather than just waiting until the end of your life and hoping that you will have somehow made a difference or accomplished something of importance, why not start now with an end in mind?
 
-### your mission statement
+### Your mission statement
 
 Crafting a personal mission statement is one way to gain a clearer vision and purpose for your life. And there are several benefits to taking the time and making the effort to write one:  It helps to give purpose to your life  It helps you to identify your values and beliefs  It helps you to get involved in something greater than yourself  It helps you to make wise choices about what you will and will not give your time to  It helps guide your decision-making process
 
@@ -77,13 +77,13 @@ Crafting a personal mission statement is one way to gain a clearer vision and pu
 
 As best you can, write a short mission statement (in pencil, of course) in the space below: “My mission is to ______________________________________________________________________ _____________________________________________________________________________________ ” ____________________________________________________________________________
 
-## 3) a personal plan for growth
+## 3) A personal plan for growth
 
 God has changed your life and given you a new identity. Isn’t that true? You made a 180-degree turn around. You understood biblical truths for the first time. You gained God’s perspective on your purpose in life. You experienced ways that God could use you in another person’s life. You stepped out in faith and trusted God to see you through challenging situations. Your faith became your own: not just something passed down from your parents or friends. Indeed, God has done something significant, something unexpected, in your life. You may have come to college looking for God. Or not. Either way, He found you. You are not the same. Jesus has drawn you to Himself and He will never let you go.
 
 More than likely, God used several catalysts to help in your spiritual growth. Things such as:  A small group Bible study  A church body  A spiritual movement on your campus  An older person investing in your life  A missions project  A conference or retreat speaker  A consistent personal study of God’s Word  An accountability or prayer partner  An opportunity to serve or lead in ministry to others  A friend who would never give up on you
 
-### a quick inventory
+### A quick inventory
 
 - Describe, in one to two sentences or phrases, how God has changed your life during your college years:
 - Based on the list above, place a check mark by anything that helped spur on your spiritual growth during college.
@@ -91,11 +91,11 @@ More than likely, God used several catalysts to help in your spiritual growth. T
 
 Do you feel a sense of gratefulness as you remember what God has done for you? Do everything you can to keep this memory fresh. Don’t let it fade away with time. Now that we have taken a quick look back, let’s consider what is about to change. How can your spiritual growth continue as you transition from your college surroundings to a whole new world?
 
-### the new reality
+### The new reality
 
 Though there are a few exceptions, most people move to a new city when they graduate from college. This means searching for a new church, establishing new friendships, and finding a new place to serve in ministry. In other words, the spiritual support system that you have experienced during college will be gone. Scattered. New beginnings. And new beginnings take time, effort and commitment. Because of the initiative that you will need to put forth, I believe that it’s important for you to consider your future needs and make some commitments now— before you are dead tired from managing a new job…. and a new everything.
 
-### how do we grow?
+how do we grow?
 
 Practicing Personal Disciplines (or Habits)
 
@@ -121,7 +121,7 @@ Taking Steps of Faith I don’t know about you, but I like comfort and convenien
 
 If any of these things have contributed to your spiritual growth during college, they may have been so woven into your environment that you took them for granted. Taking inventory of what helps you to grow spiritually will help you to weave the right elements into your new environment.
 
-## 4) Ppersonal plan for finances
+4) Ppersonal plan for finances
 
 Let’s talk about your money—what little there may be of it. For most college students, this will be a huge transition. Regardless of your starting salary, it might seem like a lot of money compared to what you have been making as a college student. But then there’s the flip side of the coin as well; your expenses are about to change. Whatever your experiences have been, let me assure you that change is on the horizon. Let’s see what it will take to make a Christ-centered transition in this area of your life.
 
@@ -141,7 +141,7 @@ Learn how to make wise financial decisions for the future Should I buy or rent? 
 
 These (and more) are common questions. Proverbs 21:5 says that, “The plans of the diligent lead to profit as surely as haste leads to poverty. ” It has been said that most people don’t plan to fail; they simply fail to plan. Even if you agree that making a plan is profitable and wise, you might think, “give me a couple of years to get myself established and then I’ll start thinking about a financial plan. ” But believe me, developing biblically financial habits during your first year or two out of college will pay huge dividends for many years to come. Don’t put this off!
 
-### financial self assessment questionnaire
+financial self assessment questionnaire
 
 - Are you graduating from college with debt? Yes / No
 - If so, how much in Credit Card Debt ___________ School Loans ____________ Car loan _______________ Other ______________
@@ -172,7 +172,7 @@ Family  How will becoming financially independent change your relationship wi
 
 Friends it make?  How will living in a different city than your closest friends affect you? What difference will Spiritual Community  How will your spiritual community be different from your college experience? Dating  How do you think this will change?
 
-### what do these changes mean for you?
+what do these changes mean for you?
 
 Of all the relational changes you are about to face, the changes in your spiritual community may be the greatest. College is such a unique environment where you can find others your age committed to the same things, making it much easier for a tight community to be formed. You are all located in very close proximity. You attend many of the same events. Your lives crisscross in many arenas. In other words, it just doesn’t take a ton of effort on your part to have a community of friends--people who are there for you, who spur you on and encourage you to walk with the Lord.
 
@@ -182,13 +182,13 @@ You know yourself. You know where you are weak. You know where you have struggle
 
 And now a word about dating … I’ll only say one thing about this. Make a decision no w about what traits in a mate you consider nonnegotiable. Put it in writing. Share it with one other person. Date, have fun, and keep praying for God to meet your needs.
 
-## 6) a personal plan for ministry
+## 6) A personal plan for ministry
 
 Do you remember the first time that you saw God use you to minister to another person? You may have shared the gospel, met a physical or financial need, taught a biblical truth, pointed someone to Christ through your encouraging words, served behind the scenes, or given leadership to a project. It is amazing and humbling to realize that God can use us—with all of our shortcomings—to be a source of His love and grace toward another person.
 
 “For we are God’s workmanship, created in Christ Jesus to do good works, which God prepared in advance for us to do” (Ephesians 2:10)
 
-### life map
+### Life map
 
 A “Life Map” is a helpful tool for guiding you to a place of ministry, surfacing how God has worked in your life, and recognizing how God has used and motivated you. All of which sets a trajectory toward future service. Using the following guide, take some time to think about the significant experiences and people that have made you who you are today.
 
@@ -211,7 +211,7 @@ Part Three: Past Ministry Experiences Since it is the actual work of ministry th
 - How have you seen God use you in the past? This is probably something that you enjoyed doing or found great pleasure in being able to do. List everything that you can think of (nothing is too small to be counted).
 - What have you experienced that you would say probably does no t fit within your giftings? What made you come to that conclusion?
 
-### looking ahead
+### Looking ahead
 
 What will it be like to serve in ministry a n d hold down a full-time job? Because of the demands of a busy life, I believe you must get honest about this question: Is serving in ministry something you are committed to making a priority in your schedule?
 
@@ -235,7 +235,7 @@ At other times, your decisions may not really create problems, per se, but inste
 
 Not only will asking this question have positive benefits to your character, but it will also have practical implications to your schedule.
 
-### personal assessment
+### Personal assessment
 
 - On a spectrum of “very slow” to “very fast” how would you describe yourself as a decision maker?
 - What or who tends to influence your decisions the most?
@@ -254,17 +254,17 @@ Up until this point, I would say that most of your jobs have been a means to an 
 
 Will you do your job for the glory of God?
 
-### god’s calling
+### God’s calling
 
 God has called you to your job. Do you believe that? For many years I have watched students wrestle with career and vocational decisions. Granted, there is a lot of pressure to make som e decision at this juncture of your life.
 
 From my observations, it seems like there is a greater emphasis on “God’s call” for those who have full-time ministry as a vocational option. But does God only “call” people to ministry? Does He not also “call” believers into teaching or medicine or sales or service or whatever? What difference will it make if you view that job, secular or sacred, as “God’s calling” on your life for this time? How will that affect your mindset as you go to work each day? What difference will it make on the bad days – those days when you work with cranky people, temperamental bosses and impossible deadlines?
 
-### character tests
+### Character tests
 
 This test is about who you will become over time. It’s about character. Integrity. Honesty. Some describe the true test of character as “who we are when no one is looking. and it is a highly esteemed trait in our society today—probably because it is so rare. There is no place where character may be tested more than in the workplace.  What examples can you think of that might be considered “character tests”?  You probably came up with several signals to alert you to a problem. Let me just highlight a few you might encounter:
 
-#### o Conformity – everyone else is doing it
+o Conformity – everyone else is doing it
 
 o Compromise – this one small thing will help me move up the career ladder o Justification – constantly defending actions or decisions to yourself or others o Entitlement – I deserve this Character is developed by making “right choices” against the pressure of compromising options: our internal structure forged by ratifying our values in our actions and choices, rather than conforming to the world. Such courageous choices are always the product and measure of our intimacy with Christ and the support of His body. The opposite—wandering away from a pure heart, good conscience and sincere faith (1 Timothy 1:5-6)—take us on a path away from love, and toward self-centered compromise.
 
@@ -272,7 +272,7 @@ Passing the character test will also open doors for ministry while you are at wo
 
 Well, it’s time to go to work. And what better way to start than with a goal and a prayer lifted straight from the pages of scripture:
 
-### personal development worksheet
+personal development worksheet
 
 One Commitment: Specific faith steps to take along the way:
 
@@ -286,7 +286,7 @@ One Commitment: Specific faith steps to take along the way:
 
 #### Relationships
 
-#### Serving in
+Serving in
 
 #### Ministry
 

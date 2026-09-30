@@ -11,8 +11,6 @@ summary: "An article by Eric Heistand recounting a student-led evangelism week a
 source: "Evangelism/traning/Perspective/New Perspectives on Initiative Evangelism.pdf"
 ---
 
-## Eric Heistand
-
 How might we invite students to begin Gospel conversations in a world where the high bar of initiation is clicking an ‘Accept friend request’ button?
 
 ## An Amazing Week of Perspective at Appalachian State

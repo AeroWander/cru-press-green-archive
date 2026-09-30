@@ -20,7 +20,7 @@ This study was written by former Crusade staff members: Will Walker and Bob Thun
 
 The following articles are taken from the study pack. Please do not distribute but order the material following the link below
 
-### Order at Worldharvestmission.com
+Order at Worldharvestmission.com
 
 ## The Gospel Grid
 
@@ -213,7 +213,7 @@ As a case study, let’s take the surface sin of gossip – talking about someon
 - The idol of reputation (I want to feel important, so I cut someone else down verbally)
 - The idol of success (Someone is succeeding - and I’m not - so I gossip about them)
 
-#### • The idol of security (Talking about others masks my own insecurity)
+The idol of security (Talking about others masks my own insecurity)
 
 - The idol of pleasure (Someone else is enjoying life – and I’m not – so I attack them)
 - The idol of knowledge (Talking about people is a way of showing I know more)

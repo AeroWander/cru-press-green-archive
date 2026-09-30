@@ -11,7 +11,7 @@ summary: "An evangelistic article by Bill Bright (founder of Campus Crusade for 
 source: "Evangelism/apologetic/Jesus And The Intellectual.pdf"
 ---
 
-## Dr. Bill Bright Jesus and the Intellectual
+## Jesus and the Intellectual
 
 Who, in your opinion, is the most outstanding personality of all time? I have posed this question to people of many religions, even atheists and Communists around the world. The answer from all knowledgeable people is always the same: “Jesus of Nazareth.”
 

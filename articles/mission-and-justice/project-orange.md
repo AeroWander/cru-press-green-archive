@@ -11,7 +11,7 @@ summary: "An event recap and planning writeup for 'Project Orange,' a Greek-life
 source: "Justice/Project Orange.pdf"
 ---
 
-## IJM Orange: the Color and the Movement
+## IJM Orange: The Color and the Movement
 
 There are 27 million people enslaved. They are literally in shackles and have no hope of securing their own freedom.
 
@@ -21,7 +21,7 @@ We want to change how people think of Orange. For us it serves as a bright color
 
 TRANSFORMATIONAL COMMUNITY 1
 
-## PROJECT(ORANGE( Event!Plan/Recap!
+## Project(orange( Event!Plan/Recap!
 
 Landon!Friend!– !event!coordinator!
 
@@ -105,7 +105,7 @@ Publicity!
 
 At!the!event!we!had!a!chart!showing!the!number!of!shirts!ordered!of!each!color!and! the!total!amount!of!money!raised!through!shirt!purchases.!This!gave!attendees!a! tangible!depiction!of!the!cost!to!fight!slavery.!We!thought!most!students!would!buy! the!cheaper!shirt!and!we!could!then!say!“Thank!you!for!buying,!but!this!goes!to! show!us!all!the!reality!of!how!difficult!it!is!to!free!slaves.”!However,!most!students! bought!the!more!expensive!shirts!and!we!were!therefore!able!to!say,!“Thank!you.! You!have!proved!that!we!can!make!a!difference.”!
 
-4. Creative!ad!campaign!ideas! o Laying!flyers!on!the!ground!with!an!orange!on!top!acting!as!a!paper!weight! (worked!really!well,!people!picked!them!up!quickly)! o Human!art!campaign!such!as!“flash!mob”!or!the!“truth!antiTtobacco” !style! utilizing!tTshirts! o Big!expensive!banners!in!sets!of!3!(2!blue:!one!word!describing!slavery!on! each,!1!orange:!inspiring!freedom!and!event!date)! o Chalk!Art!(Drew!big!oranges!on!the!ground)!
+4. Creative!ad!campaign!ideas! o Laying!flyers!on!the!ground!with!an!orange!on!top!acting!as!a!paper!weight! (worked!really!well,!people!picked!them!up!quickly)! o Human!art!campaign!such!as!“flash!mob”!or!the!“truth!antiTtobacco” !style! utilizing!Ttshirts! o Big!expensive!banners!in!sets!of!3!(2!blue:!one!word!describing!slavery!on! each,!1!orange:!inspiring!freedom!and!event!date)! o Chalk!Art!(Drew!big!oranges!on!the!ground)!
 5. Announcements!at!Cru!weekly!meeting!involving!creative!art!
 6. Passed!out!oranges!with!a!sticker!on!it!with!the!PO!website!
 

@@ -16,15 +16,11 @@ The InTransition Workbook/Magazine equips and prepares graduating seniors to tra
 
 Single life, finances, life-transitions, the will of God, a theology of work, evangelism in the real world: InTransition addresses all the critical issues of a successful transition from campus-a resource for the last and most neglected phase of campus discipleship.
 
-### Order Online at Crupress.com
-
-## Sexegrity Sexegrity
+*Sexegrity Sexegrity*
 
 ### Sexual Integrity: Purity as a Process by Nick Decola
 
-## Sexual Integri- Ty:
-
-###  © 2010, CruPress, All Rights Reserved. CruPress.com
+## Sexual Integrity
 
 You’re entering crunch time (and I’m not talking about finals here). The transition to the “working world” is not easily negotiated. The sexual landscape is littered with land mines, even for those of us who are seeking to honor Christ, and a major life transition often arouses the anxiety, uncertainty, and isolation that for many are triggers for lust and sexual sin.
 
@@ -44,7 +40,7 @@ You’re entering crunch time (and I’m not talking about finals here). The tra
 
 My hunch is that I don’t need to sell you on the fact that God treats our sexuality seriously—for many reasons. When we sin sexually, we sin against our own bodies. Sexual sin damages our most important relationships, not the least of which is the marriage bond—a mirror of Christ’s relationship with His bride, the church. Sexual sin often takes on a life of its own and can quickly spin out of control. Sexual sin is a form of idolatry, taking what was created and using it as a substitute for what only God can fill, whether it is in the form of pixels, romance novels, chat rooms, or sexually immoral relationships. Perhaps more than any other, it is an area of life that produces great shame and guilt. When it comes to controlling ourselves sexually, the stakes are high. But let’s stop and catch our breath. I’d like to offer some hope here. It is possible to live in sexual integrity. It is possible to walk the journey of progressive victory over lust and sexual temptation. And even more important is the hope that our sexual temptation can lead us into deeper intimacy with Christ and the opportunity to experience His life-giving presence in significant ways.
 
-###  a Fresh Look at an Ancient Principle
+ a Fresh Look at an Ancient Principle
 
 God’s Word has much to say about personal and sexual purity (see Psalm 51:10; Proverbs 15:16; Matthew 5:8; 15:16; Mark 7:21; Romans 13:13; 1 Corinthians 6:18; 10:8; 2 Corinthians 6:6; Philippians 1:10; 2:15; 4:8; Colossians 3:5; 1 Timothy 1:5; 4:12; 2 Timothy 2:22; Hebrews 13:4). I’d like to introduce a phrase that I’ve found helpful in creating an environment in which we can experience freedom in the sexual area of our lives. The principle of sexual integrity, while honoring the biblical pursuit of purity, creates a context by which we move toward the Lord in relationship. Here are a couple of examples of how integrity can be defined: “The quality of being honest and morally upright.” “Moral soundness, honesty, freedom from corrupting influence or motive.” Note the emphasis I’ve placed on honesty in the definitions above. We can say that honesty—“walking in the light,” to use biblical language (1 John 1)—is the context through which we move toward sexual integrity. In fact, as you move into the marketplace, the foundation for success in honoring God sexually will be your willingness and intention to be honest and to walk in the light with God and others.
 
@@ -58,8 +54,6 @@ It is not bad or wrong to be weak. In fact, the Bible expresses clearly that it 
 
 And we will fail. In fact, pursuing perfection can lead to a rigid way of life bent on rule keeping. We need to remember: progress, not perfection.
 
-###  © 2010, CruPress, All Rights Reserved. CruPress.com
-
 My son is recovering from brain cancer. We’ve entered the world of childhood cancer. As part of a support group for parents of kids with cancer, our conversation often moves
 
 ### Normalize
@@ -70,7 +64,7 @@ toward things that would have been almost unthinkable before Doug was diagnosed.
 
 we are as sick as our secrets. This must also be true when speaking of sexual struggle and temptation.
 
-### Cussion Normalize
+*Cussion Normalize*
 
 We have to make normal our conversations about our sexual thoughts and fantasies and our screwups. We need to
 
@@ -82,7 +76,7 @@ talk about particular triggers that are often present when we slip. We need to r
 
 ways. When we bring our sin and temptations into the light with others, it tends to break the pattern of shame and guilt that so often surrounds sexual sin.
 
-### True Accountability True Accountability
+### True Accountability
 
 True accountability friendships are comprised of both truth and grace. Grace is the acceptance we experience as we come into the light with God and others. Truth is both my willingness to be authentic as well as my willingness to receive direction from others.
 
@@ -90,7 +84,7 @@ There is great freedom and acceptance in the shared struggle. On the other hand,
 
 Good recovery groups exhibit both of these qualities. Nobody goes to an AA support group, for example, followed by a brass band. People enter meetings for the first time broken and beaten up. It doesn’t matter whether one is an ex-con or the CEO of a Fortune 500 company. Our accountability relationships must embrace both grace and truth. And we need to go further than just tracking or informing of behavior. We need to explore what is going on in our hearts—our emotions, passions, dreams. Ultimately our sexual sin flows from our heart (Mark 7:21).
 
-### Deal with Emotions Deal with Emotions
+### Deal with Emotions
 
 There is always a context to sexual struggle. Living in sexual integrity means that we must become increasingly aware of our emotions. There are two important reasons for this. First, the way that we process our emotions will determine our progress in living in sexual integrity. Our emotions will be processed somehow. We will either, identify, feel, and express them or they will come out sideways in mostly destructive ways such as anger, fear, resentment, or lust. Let me offer an example. But there is a second and more important reason to actively process feelings. Emotions are the windows into our hearts and minds. This morning I realized that much of the fear and anxiety I was feeling about my deadline had to do with being approved by others. I want desperately for people to think I’m good at what I do. Over the years I’ve based my identity on what I do and not on who God says I am. So my feelings exposed some faulty and sinful beliefs. God says I will be transformed by the renewing of my mind (Romans 12:2). The deepest This morning, during my quiet time, I felt a strong temptation to click issue at play here is not my emotions, though they are an important on some suggestive sites on the Internet. I admitted my powerlessness part of who I am, but rather what I believe and how I think. So I need to the Lord and surrendered my lust to Him. I sensed some relief and my mind and my beliefs renewed and realigned. then began to process why I might be pulled so powerfully toward lust. I realized I was feeling anxious, scared, and inadequate about getting this article in by the end of the day. I brought those feelings out to the Lord and later talked about them with a trusted friend. Identifying and expressing them broke the power of the pull toward lust.
 
@@ -100,15 +94,15 @@ While heart change is ultimately the goal in pursuing sexual integrity, I must c
 
 For example, hotel rooms and I don’t mix very well because of the temptation I experience in watching lustful content on TV. So, if I travel, I need to make sure I’m either rooming with someone to whom I can be accountable or staying with a friend. If neither of these options is possible, I need to make a commitment to those I’m in a covenant relationship with that when I arrive at the hotel I will immediately disconnect the cable connection and bring it to the front desk. I’ve had some looks of disbelief, to be sure, from hotel attendants, but it’s more than worth it for me to avoid the temptation and to stay true to what the Lord has called me to—the particular reason for the trip. This is true freedom. I accept my limits and in surrender make choices that will help to ensure continued connections with God and others. Of course everybody has different weaknesses and vulnerabilities that can potentially trip them up when it comes to remaining in sexual integrity. It’s important to remember that while we can’t protect ourselves from every temptation, constructing boundaries helps to set the table for heart change.
 
-### Bound-
+### Bound
 
 ## BOU
 
 ### Aries
 
-## Nda Ries
+*Nda Ries*
 
-### Be Intentional About Making Sexual Integrity a Priority Integrity a Priority Making Sexual Be Intentional About
+Be Intentional About Making Sexual Integrity a Priority Integrity a Priority Making Sexual Be Intentional About
 
 The road to living in sexual integrity is not easy. It will take everything you’ve got—not in your own strength, mind you, but in working in partnership with the Lord and others. Finding those whom you can walk through life with in grace and truth will take great intention on your part.
 
@@ -118,9 +112,7 @@ Then look, look, look. Find a church where the pastor shares authentically from 
 
 Take some risks. Jump in. Don’t be foolish, but as the Spirit leads, be will-ing to be authentic and real with your own life. You may expose yourself to being hurt, but you will also open up the possibility of having truly transformational friendships.
 
-###  © 2010, CruPress, All Rights Reserved. CruPress.com
-
-## The Time Is Now the Time Is Now
+## The Time Is Now
 
 Picture yourself eight months from now. You’re out of school. You’re at home. You’re lonely. The closeness of the friendships you enjoyed on campus seems far away. The pull toward medicating with lust is strong. graduate. Let the Lord breathe life into the process as you surrender to Him and solicit His help in being proactive to prepare yourself for the onslaught that will surely come your way.
 

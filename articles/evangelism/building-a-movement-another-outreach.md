@@ -17,4 +17,4 @@ There are times during the school year where you want evangelism in the form of 
 
 As students return for second semester you need to devote several weeks to getting your community functioning like a community again. But times of building up should always be followed by times of reaching out. And so at some point in February you want to be thinking in terms of a major ministry focus on evangelism.
 
-You’ll find all manner of ideas and options in the Evangelism section entitled “Outreach.” © 2010, CruPress, All Rights Reserved. CruPress.com
+You’ll find all manner of ideas and options in the Evangelism section entitled “Outreach.”

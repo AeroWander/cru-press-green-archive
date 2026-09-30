@@ -17,11 +17,9 @@ Community is not simply another ministry activity; it is the context for all min
 
 Will Walker’s book is probably the best apologetic written for why community is the matrix for spiritual growth. But the content goes well beyond theological reasoning, providing extremely practical how’s and why’s for living out our faith in community. Through excellent writing and reasoning, personal examples and stories, the book creates a hunger and desire for communal living. Content of Book: Why We Pursue Independence; Why We Need Community; Repentance; Community and the Word-Communal Quiet Times, Community and Confession; Group Prayer; Godly Speech and Conversation, and A Commitment to Live Communally.
 
-## Order Online at Crupress.com
-
 v i
 
-## conversation
+## Conversation
 
 Sometimes I wake up with what feels like a hangover. As best as I can remember, an actual hangover feels like bankruptcy—spent, impoverished, regretful. That is how I feel some mornings, only without the obvious explanation for why. I still have to get up on these days, if not for work then because my four-year-old is jump-ing on the bed. So I’ll drag myself across the floor to the bathroom. My friend Rick says that you are never more yourself than when you are on the toilet. “It is the place of ultimate humility,” he says. “Can you think of a place where you would least want to be seen than on the toilet?” I tell you this because the last time I felt bankrupt, God spoke to me precisely in that place, the place of humility. He kept bringing a verse to my mind: “Everyone who drinks this water will be thirsty again, but whoever drinks the water I give him will never thirst.”1 Jesus told that to a woman one day when she had gone to draw water from a well. He was saying that the water from the well would only last for a little while. Eventually she would have to come back and draw more. He was using water, something she depended upon for survival, to reveal Himself as the Living Water––what she needed for life.
 

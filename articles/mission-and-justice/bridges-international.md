@@ -20,7 +20,7 @@ If you would like information about becoming a volunteer with Bridges Internatio
 
 Bridges International began as a specialized ministry to international students from China in 1983 and was broadened to focus on all international students in 2000. We currently have 180 staff members and interns spread across US campuses. Students from some of the world’s hardest-to-reach places are here in our house. Our vision is to reach the nations here… that we might reach the nations there.
 
-## Reachinginternationals.com
+Reachinginternationals.com
 
 Reachinginternationals.com is an effort to put some of the “best practices” for ministry to international students in one place. Those experienced and those new to the work have contributed ideas, tools, and strategies that are effective.
 

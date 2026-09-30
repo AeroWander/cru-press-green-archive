@@ -17,9 +17,7 @@ But it is more than a book on prayer. It is a book of stories; stories of great 
 
 This is not simply a reprint of an old classic. Fireseeds has been updated and expanded to include recent accounts of student revivals as well as stories from around the world and not simply the U.S. The new Fireseeds also recounts the contribution of women to these revivals as they are often overshadowed, and contains an additional chapter on the filling of the Spirit (including the Satisfied Prayer Experience). Last, the revised version opens with a foreword by Mark Gauthier, and a vision to trust God for movements everywhere. FIRESEEDS OF SPIRITUAL AWAKENING
 
-## Order Online at Crupress.com
-
-## let’s turn the college campus right side up
+let’s turn the college campus right side up
 
 “God’s concern is worldwide. How the church has responded to that mandate is also clear in the light of history. All too frequently the Church has fallen into lethargy in relation to its world-wide obligations. But God does not leave Himself without a witness. Whether it be a Nicolas Von Zinzendorf, a Samuel Mills, a C. T. Studd, a Robert Wilder, a John Mott, a Jim Elliot or a hundred others who could be named, God singles out a man to prophesy to His church. And with remarkable frequency that man has been a student.”
 

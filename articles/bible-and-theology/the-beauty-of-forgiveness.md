@@ -11,8 +11,6 @@ summary: "Personal testimony article by Shellie R. Warren recounting her fourth 
 source: "Building Community/Men and Women/Women/The Beauty of Forgiveness.pdf"
 ---
 
-## Shellie R. Warren
-
 I had my fourth abortion on a Saturday. For me, that is the seventh-day Sabbath—a day when I am usually in church (if not in spirit, then at least in body). But on this particular winter day, I was on a road trip with my baby’s daddy to terminate my pregnancy.
 
 I was still coming down from my anesthesia high on that evening, and so I can recall only snapshots of memories. I remember the father of my former child asking me if I needed anything and my hating him for trying to be so nice. I remember trying to watch television in hopes that the volume would drown out my internal conflict. And I remember waking up in the middle of the night with a halfchewed french fry in my mouth. Even my mouth and stomach were mad at me, it seemed, because no matter how much I tried, I couldn’t chew and could barely swallow.

@@ -75,6 +75,6 @@ A Discovery Group will be meeting at:
 
 Talk to someone about Christ.
 
-Who would you like to tell about the good news of God's love and forgiveness? When would be a good time to call to set up a time to see this person? Who would you like to have help you share this good news? Heres Lie Publishers, on rom © 1984 by Campus Crusade for Christ, Inc.
+Who would you like to tell about the good news of God's love and forgiveness? When would be a good time to call to set up a time to see this person? Who would you like to have help you share this good news? Heres Lie Publishers, on rom
 
 All rights reserved.

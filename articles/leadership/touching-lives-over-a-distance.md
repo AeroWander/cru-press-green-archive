@@ -11,7 +11,7 @@ summary: "An article by Rick Pridey on conducting effective phone coaching appoi
 source: "MTL/Distance Coaching/Touching Lives.pdf"
 ---
 
-## Rick Pridey Phone Coaching
+## Phone Coaching
 
 The phone coaching appointment is essential to what I do. I’ve learned alot through my mistakes and it’s my hope that you can avoid some of my mistakes. effectiveness. Each phone call contains a gracious inspection component. As I have heard Gilbert Kingsley say, “People don’t do what you expect, they do what you inspect.”
 
@@ -31,7 +31,7 @@ I also give attention to people and programs. We need to continually capture a p
 
 Use the following worksheet to guide your phone coaching appointment.
 
-## Phone Coaching Appointment Worksheet
+*Phone Coaching Appointment Worksheet*
 
 Preperation Review from last week Assessment and update with coaching plan Ministry priorities for Prayer Evangelism Discipleship Sending Materials and resources for this week Discipleship Ministry Prayer Phone conversation Personal: family, health, studies, relationships Spiritual life: walk with the Lord, time in the Word, what are they learning? Discipleship Questions from last week Discussion and assignment for this week Ministry priorities Vision Current assessment Next steps:
 

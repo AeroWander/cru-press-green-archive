@@ -17,9 +17,7 @@ But it is more than a book on prayer. It is a book of stories; stories of great 
 
 This is not simply a reprint of an old classic. Fireseeds has been updated and expanded to include recent accounts of student revivals as well as stories from around the world and not simply the U.S. The new Fireseeds also recounts the contribution of women to these revivals as they are often overshadowed, and contains an additional chapter on the filling of the Spirit (including the Satisfied Prayer Experience). Last, the revised version opens with a foreword by Mark Gauthier, and a vision to trust God for movements everywhere. FIRESEEDS OF SPIRITUAL AWAKENING
 
-## Order Online at Crupress.com
-
-## five prerequisites to revival
+five prerequisites to revival
 
 “The appearance of revivals owes nothing to chance; they are a witness to God’s sovereignty. … We are able to see a regularity in their appearance and, within certain limits, to anticipate their coming. … First of all, we perceive that they come when preparations have been made, when the times are ripe.”
 

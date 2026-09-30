@@ -11,15 +11,15 @@ source: "Small Groups and Meetings/Posters and Publicity copy/Weekly Meeting Pos
 also_filed: ["Small Groups and Meetings/Posters and Publicity copy/Weekly Meeting Posters —Longing For Joy/Longing For Joy 2 b_w.pdf"]
 ---
 
-## drink SEX
+## Drink SEX
 
-### and WHEN
+and WHEN
 
 ## Ambition
 
 ## Infinite Joy
 
-### is offered us,
+is offered us,
 
 like an ignorant child who wants to go on making mud pies in a slum because he cannot imagine what is meant by the offer of
 
@@ -27,7 +27,7 @@ like an ignorant child who wants to go on making mud pies in a slum because he c
 
 —C.S. LEWIS
 
-### . Real Faith. Real Relationships. Real Life.
+. Real Faith. Real Relationships. Real Life.
 
 If we consider the rewards promised in the Gospels, it would seem that God finds our desires, not too strong, but too weak. Join us each week as we try to discover what it means to really live.
 

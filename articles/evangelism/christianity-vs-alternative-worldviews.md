@@ -16,8 +16,6 @@ The reason for the Critical Concept series is that there are important topics no
 
 Volume 1 contains five booklets addressing the following topics: Heaven and Hell: Alternative Endings Worldviews: War of the Worlds God’s Will: The Art of Discerning the Will of God Missions/ Great Commission: Mission Impossible Christ-centered Bible Study: Hearing the Music of the Gospel
 
-### Order Online at Crupress.com
-
 Critical Concept Series
 
 ## White
@@ -92,7 +90,7 @@ If you can get these five things all worldviews share under your belt, it really
 
 2. All worldviews begin with a set of assumptions that can only be taken “by faith.”
 
-No worldview is established by the sheer force of logic 1. Not everybody has a religion, but everybody has a worldview that acts almost exactly like a religion. or unassailable proofs. For example, some people say confidently that there is no God or that God cannot be real. But how can they know that? To know there is no God you’d have to know everything in the universe, and you’d Sometimes Christians fall into the trap of thinking that the truth of Christianity can be conclusively settled either by bomb-proof arguments or by miracles. It’s true that providing people reasons or evidences to believe in God (the study of apologetics) can help. It’s also true that when God does a miracle in front of your own eyes it can, well, open them. But somewhere in there faith has to happen, and faith is the decisive issue. © 2010, CruPress, All Rights Reserved. CruPress.com3 4 WHITEPAGES Worldview is the intellectual and cultural furniture in the room. We use it all the time and don’t think much about it. Worldview is unseen, like the air we breathe.
+No worldview is established by the sheer force of logic 1. Not everybody has a religion, but everybody has a worldview that acts almost exactly like a religion. or unassailable proofs. For example, some people say confidently that there is no God or that God cannot be real. But how can they know that? To know there is no God you’d have to know everything in the universe, and you’d Sometimes Christians fall into the trap of thinking that the truth of Christianity can be conclusively settled either by bomb-proof arguments or by miracles. It’s true that providing people reasons or evidences to believe in God (the study of apologetics) can help. It’s also true that when God does a miracle in front of your own eyes it can, well, open them. But somewhere in there faith has to happen, and faith is the decisive issue. 3 4 WHITEPAGES Worldview is the intellectual and cultural furniture in the room. We use it all the time and don’t think much about it. Worldview is unseen, like the air we breathe.
 
 So it’s not just Christians or religious people who take things by faith while others rely only on reason and logic. Everybody has a faith starting point, even if that starting point is a set of assumptions about nonbelief. Absolutes—the strict, inflexible rules 3. Worldview assumptions are rarely acknowledged openly, questioned, or challenged by those who hold them. of each worldview—must be obeyed without fail. They are revealed in disagree with their main assumption are obviously and Worldview is the intellectual and cultural furniture in horribly ignorant or wrong. the room. We use it all the time and don’t think much about it. Worldview is unseen, like the air we breathe. It’s under our noses, but we don’t notice. It is the real Matrix, if you will. superstitions and daily rituals, in religious rulings or secular laws, in a general sense of moral propriety, in One of the surest indicators that you’re in worldview conflict is when someone hints or says, “But that’s absurd!” When someone says this, pay close attention to how that person’s worldview assumptions are being revealed. philosophical ideas, in discussions of what we can and can’t “know,” in definitions of important words, in taboos, or in mockery and ridicule.
 
@@ -116,7 +114,7 @@ Just trying to establish a beginning point presents problems. The idea of worldv
 
 Some worldviews try to sidestep this issue. They condemn narrow-mindedness and at the same time say, “The Truth is that there is no truth.” Their worldview assumption alone is seen as right; any viewpoints or worldviews that 5. Every worldview has strict and inflexible rules, or absolutes, that must never be broken.
 
-Even so, it might not be as hard as it seems. Despite the uncountable worldview possibilities, all the worldview Normally when Christians speak of absolutes, they are variations from whatever country, speaking of moral absolutes such as “Thou shalt not steal” 5 © 2010, CruPress, All Rights Reserved. CruPress.com philosophy, or religion can be boiled down to just a few basic variations.
+Even so, it might not be as hard as it seems. Despite the uncountable worldview possibilities, all the worldview Normally when Christians speak of absolutes, they are variations from whatever country, speaking of moral absolutes such as “Thou shalt not steal” 5 philosophy, or religion can be boiled down to just a few basic variations.
 
 If that sounds too simplistic, that’s okay. I’m trying to simplify. I admit that what I’m about to show you is just one way of looking at worldviews. It might not be the best way. But at least it’s a start, something you can get your mind around.
 
@@ -132,7 +130,7 @@ The Haunted Worldview The Haunted Worldview is the deep structure behind most an
 
 There are two basic ideas. (1) All things around us (rocks, hills, rivers, trees, animals, weather, sun, moon . . . rhododendrons, etc.) are animated by spirit beings. (2) There are gods or spirits, some of whom have major powers, who at any time might appear in the world. As best as the ancients could tell, the world was full of moody, capricious spirits who could quickly ruin your life. Religion—sometimes worshiping and hoping for the best, sometimes sacrificing just to get the gods off your back—was what people used to cope.
 
-In academia, this outlook is known as polytheism, animism, spiritism, paganism, and neopaganism. On your xBox, you might have come across it in World of Warcraft or Final Fantasy.
+In academia, this outlook is known as polytheism, animism, spiritism, paganism, and neopaganism. On your Xbox, you might have come across it in World of Warcraft or Final Fantasy.
 
 For some examples, think Greek and Roman mythology, the Gilgamesh Epic, the Egyptian Book of the Dead, African pre-Islamic or pre-Christian tribal religions, the Aztecs, Mayas, and other pre-Columbian peoples, the Australian aborigines, and the religions in Europe and Asia before European expansion. For modern expressions, think Wicca, neopaganism, and witchcraft (spells and incantations to spirits to achieve certain effects). In diagram 1, and the diagrams for the other worldviews, the stick figures in the center represent people like you and me—intelligent observers of their environment trying to figure things out. The rectangular box represents the physical world we experience every day. Notice the gaps: the material world surrounding has portals or windows into the supernatural, gates into the spiritual realm. Notice, too, that the figures have no arms or faces—this has no significance but does symbolize my inability to draw.
 
@@ -162,7 +160,7 @@ Diagram 2 THE BIBLICAL WORLDVIEW GOD AND HIS HOLY ANGELS SPIRITS SPIRITS SATAN A
 - God is good. He loves you.
 - “He has showed you, O man, what is good. And what does the LORD require of you? To act justly and to love mercy and to walk humbly with your God” (Micah 6:8).
 
-The What-You-See-Is-What- You-Get Worldview This worldview says that the physical, material, natural world—what we experience with our five senses—is the only solid reality. According to this worldview, religious and spiritual explanations or doctrines are imaginary superstitions, illusions, or wishful thinking having nothing to do with what is real or knowable. As a shortcut, we’ll refer to this view with the unwieldy but usable acronym WYSIWYG, or “whizzy-wig.”
+The What-You-See-Is-What-You-Get Worldview This worldview says that the physical, material, natural world—what we experience with our five senses—is the only solid reality. According to this worldview, religious and spiritual explanations or doctrines are imaginary superstitions, illusions, or wishful thinking having nothing to do with what is real or knowable. As a shortcut, we’ll refer to this view with the unwieldy but usable acronym WYSIWYG, or “whizzy-wig.”
 
 Academic names for this worldview include naturalism (the idea that nature is all there is), materialism (the belief that the material world is all there is), and atheism (the belief that there is no God). Agnosticism (the belief that we don’t know or can’t be sure there is a God) should also be included in this category because agnostics make daily decisions as if the WYSIWYG worldview were true.
 
@@ -188,7 +186,7 @@ This worldview leads directly to moral relativism. Since any one person’s or c
 
 Also, in the first four centuries after Christ, the religion of Manichaeanism tried to solve the problem of evil (how can an all-powerful and good God allow suffering in the world?) by blending Christian and Zoroastrian ideas. As a result the Manichaeans rejected God’s omnipotence and elevated Satan’s status to that of an uncreated, self-existent entity equal in power to God.
 
-The diagram of the bipolar worldview of the Dueling- Yodas (diagram 4) shows a box representing the physical world, with figures inside, and again my figures have no arms or faces. Unlike the What-You-See-Is-What-You-Get world (which rejects any transcultural moral absolutes) the Dueling-Yodas world can be seen as a moral universe, a battlefield for the constant duel between good and evil (or a tug-of-war between the forces of yin and yang). The good and evil principles may be conceived of as personal (a good god versus an evil god) or impersonal (a good force versus an evil force). Each human being must choose which side to follow; to be moral, a person must master his or her passions and make the right choices.
+The diagram of the bipolar worldview of the Dueling-Yodas (diagram 4) shows a box representing the physical world, with figures inside, and again my figures have no arms or faces. Unlike the What-You-See-Is-What-You-Get world (which rejects any transcultural moral absolutes) the Dueling-Yodas world can be seen as a moral universe, a battlefield for the constant duel between good and evil (or a tug-of-war between the forces of yin and yang). The good and evil principles may be conceived of as personal (a good god versus an evil god) or impersonal (a good force versus an evil force). Each human being must choose which side to follow; to be moral, a person must master his or her passions and make the right choices.
 
 Diagram 4 THE DUELING YODAS WORLDVIEW GOOD YANG EVIL YIN Here are some sayings and attitudes from the Dueling-Yodas Worldview:
 
@@ -304,7 +302,7 @@ Bayard Taylor spent four years on staff with Campus Crusade for Christ at Northw
 
 CruPress is the publishing www.CruPress.com division of the Campus Ministry.
 
-Or call 1.800.827–2788 ©2008, CruPress All rights reserved.
+Or call 1.800.827–2788
 
 Scriptures taken from the Holy Bible, New International Version ®NIV ®©1973, 1978, 1984 by International Bible Society. Used by permission.
 

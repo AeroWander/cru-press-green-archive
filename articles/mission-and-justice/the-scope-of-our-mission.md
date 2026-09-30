@@ -11,8 +11,6 @@ summary: "An article by Eric Swanson urging campus staff to embrace the full sco
 source: "Launching a New Ministry/Ministry Leadership/Scope of the Mission.pdf"
 ---
 
-## Eric Swanson
-
 On February 17, 1994, Robert C. Goizueta, Chairman of the Board of Directors and CEO of Coca-Cola wrote in his report to the stockholders, “All of us in the Coca-Cola family wake up each morning knowing that every single one of the world’s 5.6 billion people will get thirsty that day...and we are the ones with the best opportunity to refresh them. Our task is simple: make Coca-Cola and our other products available, affordable and acceptable to them, quenching their thirst and providing them a perfect moment of relaxation. If we do this...if we make it impossible for these 5.6 billion people to escape Coca-Cola...then we assure our future success for many years to come. Doing anything else is not an option.” overseas campuses by the year 2000,” “One billion people won to Christ by the turn of the century,” Where do these goals come from? Should we really be taking them seriously? Let’s see if we can make some sense of this and bring it down to the area, campus and individual staff level.
 
 Those in the Coca-Cola family are aware of two things--that everyone will get thirsty today and that they want to be in the best possible position for each of those people to have their thirsts slaked with a Coke. To do this is to accomplish their “scope.” They can’t force people to buy or drink Coke but they can put themselves in a place where Coke is available to every thirsty person.

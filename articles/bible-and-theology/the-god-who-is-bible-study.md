@@ -56,17 +56,15 @@ How does it make you feel that one day God will “judge the world with justice�
 
 We learn from other passages in the Bible (Romans 3:21-26; Hebrews 9:26-28) that Jesus is not only the man who will justly judge us as “guilty”, but He will also serve our sentence (of death) in our place if we will only trust in Him. How does that make you feel? Questions For Personal Reflection: Questions For Personal Reflection: Questions For Personal Reflection: Questions For Personal Reflection:
 
-#### Passages For
+*Passages For*
 
-#### Further Study:
+#### Further Study
 
 Job 38-41 Colossians 1:13-23 John 1:1-5 Hebrews 9:26-28 Romans 3:21-26; 5:6-8 1. Reread Acts 17:32-34. When you hear about the resurrection of Jesus, are you:
 
 1. One who sneers?
 2. One who wants to hear more on the subject?
 3. One who believes and follows?
-
-4)
 
 2. Are you trusting in yourself to be declared “innocent” when God judges you, or are you trust-ing in Jesus Christ to be your substitute?
 3. What do you need to repent of? Is there sin in your life you need to turn from?
@@ -86,9 +84,9 @@ Jesus Christ How does it make you feel that one day God will “judge the world 
 
 We learn from other passages in the Bible (Romans 3:21-26; Hebrews 9:26-28) that Jesus is not only the man who will justly judge us as “guilty”, but He will also serve our sentence (of death) in our place if we will only trust in Him. How does that make you feel? The main point that we want to get across here is that God has to be totally JUST (and we’re guilty sinners deserving punishment), and so it wouldn’t be right for Him to just “let us off the hook”. But because He is also totally LOVING, He sent His Son Jesus to serve our punishment for us. This way God doesn’t have to be a wimp, but He can be loving at the same time.
 
-#### Passages For
+*Passages For*
 
-#### Further Study:
+#### Further Study
 
 **The end of this lesson has probably focused more on God’s JUSTICE, but we want everyone one to know God is LOVE, too. Let everyone know that next week we’ll be focusing in on God’s LOVE.
 
@@ -99,8 +97,6 @@ Hebrews 9:26-28 Questions For Personal Reflection: Questions For Personal Reflec
 1. One who sneers?
 2. One who wants to hear more on the subject?
 3. One who believes and follows?
-
-4)
 
 2. Are you trusting in yourself to be declared “innocent” when God judges you, or are you trust-ing in Jesus Christ to be your substitute?
 3. What do you need to repent of? Is there sin in your life you need to turn from?
@@ -118,7 +114,7 @@ Blaise Pascal, the famous French mathematician and philosopher, once said, “Th
 
 Technically, the answer is that we need to be saved from God’s wrath, which He right-fully should pour out on us because of our sin. But many people might answer “from our sins” or “from ourselves”, which is on the right train of thought.
 
-#### WORD STUDY: Love (or “agape” in the original Greek language):
+#### Word Study: Love (or “agape” in the original Greek language)
 
 This word appears 29 times in the above passage (words like “dear children” are actually “loved ones”). Agape “expresses the deep and constant love and interest of a perfect Being towards entirely unworthy objects…It is an exercise of the divine will in deliberate choice, made without assignable cause save that which lies in the nature of God Himself”. It is the key, defining word used to characterize God both in the Old and New Testament. It is contrasted with other Greek words for love, such as “phileo” (tender affection/brotherly love) and “eros” (sexual love). In summary, it is a complete, unconditional, pure, sacrificial love. (From Vine’s Expository Dictionary)
 
@@ -140,9 +136,9 @@ God can, in a way, be “seen” through our tangible, loving actions toward oth
 
 No, not necessarily. What v.8 says is that if someone doesn’t love, they don’t know God—the solution is for that person to get to know God better—to have a greater reve-lation of God’s love for them In what ways, large or small, can we sacrificially love each other?
 
-#### Passages For
+*Passages For*
 
-#### Further Study:
+#### Further Study
 
 Psalm 136 John 15:9-13 Romans 5:5-8; 8:31-39 Questions for personal refle Questions for personal refle Questions for personal refle Questions for personal reflection ction ction ction I Corinthians 13 Ephesians 2:1-5 Pray the prayer from Ephesians 3:16-19 for your prayer partner for this week. Is there someone whom you have a hard time loving? Pray and ask God to reveal His love more fully for you—and then see if this changes your feelings for the other person. Acknowledge to God that you don’t have the ability, in your own power, to love them, and ask God to love them “through” you.
 
@@ -158,7 +154,7 @@ Why do you think the topic of love dominates music, movies, books and magazines,
 
 Blaise Pascal, the famous French mathematician and philosopher, once said, “There is a God-shaped vacuum inside the heart of every man, that can only be filled by the person of Jesus Christ”. What are some of the things we try to use to fill the “God-shaped” hole in our lives? Read I John 4:7 Read I John 4:7 Read I John 4:7 Read I John 4:7- - - -21 21 21 21 In v.14, John writes that, “The Father has sent His Son to be the savior of the world”. What is it that we need to be saved from?
 
-#### WORD STUDY: Love (or “agape” in the original Greek language):
+#### Word Study: Love (or “agape” in the original Greek language)
 
 This word appears 29 times in the above passage (words like “dear children” are actually “loved ones”). Agape “expresses the deep and constant love and interest of a perfect Being towards entirely unworthy objects…It is an exercise of the divine will in deliberate choice, made without assignable cause save that which lies in the nature of God Himself”. It is the key, defining word used to characterize God both in the Old and New Testament. It is contrasted with other Greek words for love, such as “phileo” (tender affection/brotherly love) and “eros” (sexual love). In summary, it is a complete, unconditional, pure, sacrificial love. (From Vine’s Expository Dictionary)
 
@@ -176,9 +172,9 @@ If someone isn’t loving, does that mean they’re not a Christian?
 
 In what ways, large or small, can we sacrificially love each other?
 
-#### Passages For
+*Passages For*
 
-#### Further Study:
+#### Further Study
 
 Psalm 136 John 15:9-13 Questions for personal reflection Questions for personal reflection Questions for personal reflection Questions for personal reflection Romans 5:5-8; 8:31-39 Pray the prayer from Ephesians 3:16-19 for your prayer partner for this week. I Corinthians 13 Ephesians 2:1-5 Is there someone whom you have a hard time loving? Pray and ask God to reveal His love more fully for you—and then see if this changes your feelings for the other person. Acknowledge to God that you don’t have the ability, in your own power, to love them, and ask God to love them “through” you.
 
@@ -190,15 +186,15 @@ The turning point of our lives is when we stop seeking the God we want and start
 
 Leader’s Guide Holy, Holy, Holy Isaiah 6:1-8 Background Background Background Background The book of Isaiah is named after its author, Isaiah, a prophet to the Jewish people, in the time before and after 700 BC. During this period, Israel was in a time of great political struggle and spiritual decline. Isaiah’s book has more prophetic references to the coming Savior, Jesus, than any other Old Testament book, and he is the prophet most quoted by Jesus in the New Testament. Fittingly, his name means, “Yahweh is salvation”. We are not sure how Isaiah died, but tradition has it that he was sawed in two inside a hollow log for his faith. Chapter six tells of an experience R R R Read Isaiah 6:1 ead Isaiah 6:1 ead Isaiah 6:1 ead Isaiah 6:1- - - -8 8 8 8 Now go back and see what we learn about God in each of the following verses: v.1 -called “Lord” (what is a “lord”?) -seated on a throne -He is high and exalted -the train of His robe fills the temple
 
-#### Ask: “What kind of picture is this? If you had to pick one word to
+Ask: “What kind of picture is this? If you had to pick one word to
 
 describe God from this verse, what would it be?”
 
-#### Answer: a king!
+#### Answer: A king!
 
 v.2 -seraphs flying around above Him ***seraphs are a type of angel—their name literally means “burning ones” v.3-4 -seraphs sing to each other about Him -He is holy! (the repetition of the word 3 times denotes the supremacy & completeness of His holiness) -He is Almighty (Hebrew “El Shaddai”—the mightiest God) -the whole earth is full of His glory
 
-#### WORD STUDY: Holy (or “qados” in the original Hebrew language):
+#### Word Study: Holy (or “qados” in the original Hebrew language)
 
 The word “holy” means “separated”, and is used here (and in many other places in Scripture) to signify the complete “separateness” or “otherness” of God—there is no one like Him. He is absolute in His purity, majesty, and glory. Webster’s Dictionary defines holy as, “exalted or worthy of complete devotion as one perfect in goodness and righteousness”. Being in the presence of God made Isaiah very aware of his own sinfulness, as well as the sins of his country. How does God make us aware of our sin today?
 
@@ -224,9 +220,9 @@ He is so excited! He wants to go!
 
 Notice again that there are no excuses or delays in Isaiah’s response. What aspect of God do you think Isaiah had seen that caused him to respond so quickly and absolutely to God call? The complete rule, majesty, and authority of God the King—and the total honor it is to serve Him
 
-#### Passages For
+*Passages For*
 
-#### Further Study:
+#### Further Study
 
 ***End by asking, “How many of you want to be used by God?” Assuming that most or all of them want to, point out what we’ve learned from this passage that will make them prepared to be used. First we have to know God—to see Him as He really is: Ezekiel 1-2 holy, holy, holy. Next we have to be cleansed from all sin. Then we have to be willing Psalm 40 to go wherever God sends us, right when He calls us. That’s how we can experience the Psalm 99 incredible fulfillment of being used by God!
 
@@ -241,7 +237,7 @@ The turning point of our lives is when we stop seeking the God we want and start
 
 Holy, Holy, Holy Isaiah 6:1-8 Background Background Background Background The book of Isaiah is named after its author, Isaiah, a prophet to the Jewish people, in the time before and after 700 BC. During this period, Israel was in a time of great political struggle and spiritual decline. Isaiah’s book has more prophetic references to the coming Savior, Jesus, than any other Old Testament book, and he is the prophet most quoted by Jesus in the New Testament. Fittingly, his name means, “Yahweh is salvation”. We are not sure how Isaiah died, but tradition has it that he was sawed in two inside a hollow log for his faith. Chapter six tells of an experience R R R Read Isaiah 6:1 ead Isaiah 6:1 ead Isaiah 6:1 ead Isaiah 6:1- - - -8 8 8 8 Now go back and see what we learn about God in each of the following verses: v.1 v.2 v.3-4
 
-#### WORD STUDY: Holy (or “qados” in the original Hebrew language):
+#### Word Study: Holy (or “qados” in the original Hebrew language)
 
 The word “holy” means “separated”, and is used here (and in many other places in Scripture) to signify the complete “separateness” or “otherness” of God—there is no one like Him. He is absolute in His purity, majesty, and glory. Webster’s Dictionary defines holy as, “exalted or worthy of complete devotion as one perfect in goodness and righteousness”. Being in the presence of God made Isaiah very aware of his own sinfulness, as well as the sins of his country. How does God make us aware of our sin today?
 
@@ -257,9 +253,9 @@ What was Isaiah’s response (v.8)?
 
 Notice again that there are no excuses or delays in Isaiah’s response. What aspect of God do you think Isaiah had seen that caused him to respond so quickly and absolutely to God call? Questions for personal reflection Questions for personal reflection Questions for personal reflection Questions for personal reflection 1. How does God’s holiness affect your life?
 
-#### Passages For
+*Passages For*
 
-#### Further Study:
+#### Further Study
 
 Ezekiel 1-2 Psalm 40 Psalm 99 Revelation 4-5 2. What can you do this week to become more aware of God’s holiness?
 
@@ -291,13 +287,13 @@ He makes us alive He raises us up with Christ He shows us grace He expresses kin
 
 In vv. 8-9, Paul states that we are not saved by our works, but in v.10 he says we were created to do good works. How do you explain this?
 
-Good works do NOT earn us salvation (even in part!), but good works are always a RE- SULT of salvation (see the book of James). We aren’t saved BY works, but FOR works. It’s not FAITH + WORKS = SALVATION, but FAITH = SALVATION + WORKS.
+Good works do NOT earn us salvation (even in part!), but good works are always a RE-SULT of salvation (see the book of James). We aren’t saved BY works, but FOR works. It’s not FAITH + WORKS = SALVATION, but FAITH = SALVATION + WORKS.
 
 In v.10, Paul says that “we are God’s workmanship”. The Greek work for “workmanship” is “poema”, where we get the English word for “poem”. How does it make you feel that you are “God’s poem”—an original creation, unlike any other?
 
-#### 1. Passages For
+1. Passages For
 
-#### Further Study:
+#### Further Study
 
 Ephesians 1:3-14 Questions for personal reflection Questions for personal reflection Questions for personal reflection Questions for personal reflection 2 Timothy 1:8-11 Titus 2:11 - 3:8 1 Peter 1:3-5 Paul says in v.9 that because salvation is totally a gift from Him, not based on anything we do, there shouldn’t be any boasting. What should our response be?
 
@@ -311,11 +307,11 @@ Luke 6:36 says, “Be merciful, just as your Father is merciful”. Who do you n
 
 The turning point of our lives is when we stop seeking the God we want and start seeking the God who is.”
 
-## Gracious And Merciful Father Gracious And Merciful Father Ephesians 2:1 Ephesians 2:1- -10 10
+Gracious And Merciful Father Gracious And Merciful Father Ephesians 2:1 Ephesians 2:1- -10 10
 
 Background Information: Background Information:
 
-Ephesians is a letter written by the Apostle Paul to the church located in the city of Ephesus. We learned previously that Paul was a devout Jew until God converted him into the greatest Christian missionary in all of time. Paul helped establish the church in Ephesus while he was on one of his missionary trips. Ephesus was a lead- ing city in the Roman Empire, and is located in present day Turkey. Paul writes this letter while he is in another city serving a prison sentence for sharing the gospel, in or around the year 60 AD. Many scholars also believe that Ephesians was a "cyclical letter”, sent on to other churches in the area for their instruction.
+Ephesians is a letter written by the Apostle Paul to the church located in the city of Ephesus. We learned previously that Paul was a devout Jew until God converted him into the greatest Christian missionary in all of time. Paul helped establish the church in Ephesus while he was on one of his missionary trips. Ephesus was a leading city in the Roman Empire, and is located in present day Turkey. Paul writes this letter while he is in another city serving a prison sentence for sharing the gospel, in or around the year 60 AD. Many scholars also believe that Ephesians was a "cyclical letter”, sent on to other churches in the area for their instruction.
 
 Read Ephesians 2:1-10.
 
@@ -336,7 +332,7 @@ In v.10, Paul says that “we are God’s workmanship”. The Greek work for “
 
 Questions For Personal Reflection:
 
-Ephesians 1:3-14 2 Timothy 1:8-11 1. Paul says in v.9 that because salvation is totally a gift from Him, not based on any- Titus 2:11 - 3:8 thing we do, there shouldn’t be any boasting. What should our response be? 1 Peter 1:3-5 Matthew 18:8-11 2. What do you think are some of the good works God has “prepared in advance” for you to do?
+Ephesians 1:3-14 2 Timothy 1:8-11 1. Paul says in v.9 that because salvation is totally a gift from Him, not based on any-Titus 2:11 - 3:8 thing we do, there shouldn’t be any boasting. What should our response be? 1 Peter 1:3-5 Matthew 18:8-11 2. What do you think are some of the good works God has “prepared in advance” for you to do?
 
 3. Reflect on all the ways God has been gracious to you. Then pray and ask God to bring to mind someone you can “grace” today.
 4. Luke 6:36 says, “Be merciful, just as your Father is merciful”. Who do you need to show mercy to? How does realizing how merciful God has been to you allow you to be merciful to others? Leader’s Guide Jesus, Our Substitute on the Cross John 19:1-30 Background Background Background Background In this passage from John’s gospel, we will be looking at the final hours of Jesus’ earthly life. He has already said good-bye to His disciples, been betrayed by Judas, captured by the Roman guard, and spent all night being attacked in illegal judicial proceedings. His friends have abandoned him. He has been beaten. He is, no doubt, worn out. But now the day has broken, and the only thing left before Him is the cross. The Apostle John gives us an intimate look into the events surrounding the greatest sacrifice ever made.
@@ -365,9 +361,9 @@ Why was it important that a sinless man die on the cross, and not just anybody? 
 
 How does it affect you emotionally that Jesus died on the cross in your place?
 
-#### Passages For
+*Passages For*
 
-#### Further Study:
+#### Further Study
 
 Matthew 27 Mark 15 Luke 23 (For a great study, examine all seven of Jesus’ sayings on the cross!)
 
@@ -389,9 +385,9 @@ The religious leaders of the day had been following Jesus around the clock for m
 
 Why was it important that a sinless man die on the cross, and not just anybody? How does it affect you emotionally that Jesus died on the cross in your place?
 
-#### Passages For
+*Passages For*
 
-#### Further Study:
+#### Further Study
 
 Questions for personal reflection Questions for personal reflection Questions for personal reflection Questions for personal reflection Matthew 27 Mark 15 Luke 23 (For a great study, examine all seven of Jesus’ sayings on the cross!)
 
@@ -443,9 +439,9 @@ Questions for personal reflection Questions for personal reflection Questions fo
 
 Are you discouraged about the discipline from God you’re enduring right now? How can this passage give you hope and encouragement? Maybe read through the passage again, inserting your particular situation whenever you see the word “hardship” or “discipline”.
 
-#### Passages For
+*Passages For*
 
-#### Further Study:
+#### Further Study
 
 The whole book of Proverbs!
 
@@ -473,9 +469,9 @@ Questio Questio Questio Questions for personal reflection: ns for personal refle
 
 1. Is there any discipline from God that you are making light of? What do you need to do to take it more seriously?
 
-#### Passages For
+*Passages For*
 
-#### Further Study:
+#### Further Study
 
 The whole book of Proverbs!
 
@@ -491,19 +487,19 @@ Read Philippians 2:5 Read Philippians 2:5 Read Philippians 2:5 Read Philippians 
 
 What is the significance in Jesus taking on “the very nature of a servant” (v.7)? Not only did Jesus veil His divine glory and become human (so that he was “made in the likeness of men”), but he became a low form of human! He could have come as a king, a powerful person, but He chose just the opposite!
 
-#### WORD STUDY: Servant (or “doulos” in the original Greek language)
+#### Word Study: Servant (or “doulos” in the original Greek language)
 
 From the root meaning “in bondage”, this word came to mean “one who gives himself up for the will of another”. The “doulos” was the lowest form of servant, and is perhaps better translated “slave”. Although a “doulos” slave originally gave himself up for service voluntarily, once he was under contract to his master, his obedience was complete, absolute, and binding. What is the significance in the fact that Jesus “humbled Himself and became obedient to death— even death on a cross” (v.8)?
 
 Again, Jesus, even though He was God, submitted Himself to the authority of the Father to the full extent! He went the farthest He could go—to death. And a gruesome, painful death at that. Leader’s Guide Jesus, The Humble Servant – page 2 Philippians 2:5-11
 
-#### Passages For
+*Passages For*
 
-#### Further Study:
+#### Further Study
 
 Isaiah 52:13-53:12 Mark 10:35-45 John 12:23-33; 13:1-17 2 Corinthians 8:9 Hebrews 2:9-18
 
-#### WORD STUDY: Humble (or “tapinoo” in the Greek)
+#### Word Study: Humble (or “tapinoo” in the Greek)
 
 This word literally means “low-lying” and may be translated “made low” or “humiliated”. It is not the idea of acting like a wimpy doormat, or thinking “I’m a worm”, but of placing the needs and desires of others before yours. It has been said that “humility is not thinking less of yourself; it is simply not thinking of yourself at all”. Perhaps the best example of how Jesus humbled Himself was that He not only “lowered” Himself from His throne in heaven to live on earth, but then He also allowed Himself to be crucified. Crucifixion was the most humiliating form of death at the time—reserved only for non-citizens and the worst criminals. The word “Himself” appears twice in these two verses (7-8). What is the significance of this word?
 
@@ -517,7 +513,7 @@ His knowledge of the Father enabled Him to have complete trust in Him. He always
 
 What did the Father do in response (vv.9-11)?
 
-He exalted Jesus to the highest place—gave Him the highest name—and one day EVE- RYONE will bow down before Him and acknowledge that Jesus is Lord This passage begins by stating “our attitude should be the same as that of Christ Jesus” (v.5). How can we empty ourselves? Take on the nature of a slave? Lower ourselves? Personal Ap Personal Ap Personal Ap Personal Application plication plication plication 1. Although Jesus had every “right” to live like God, He laid aside his “rights” for the sake of obedience to the Father and His love for humanity. What are “rights” you feel like you have, that you may need to lay aside in order to obey God and love others?
+He exalted Jesus to the highest place—gave Him the highest name—and one day EVERYONE will bow down before Him and acknowledge that Jesus is Lord This passage begins by stating “our attitude should be the same as that of Christ Jesus” (v.5). How can we empty ourselves? Take on the nature of a slave? Lower ourselves? Personal Ap Personal Ap Personal Ap Personal Application plication plication plication 1. Although Jesus had every “right” to live like God, He laid aside his “rights” for the sake of obedience to the Father and His love for humanity. What are “rights” you feel like you have, that you may need to lay aside in order to obey God and love others?
 
 2. Think through how you can practically serve each of the following people this week: your roommate; a classmate; a cafeteria worker; someone who works in your dorm or apartment office; someone who works in the Student Center.
 
@@ -529,13 +525,13 @@ Jesus, The Humble Servant Philippians 2:5-11 Background Background Background Ba
 
 Read Philippians 2:5 Read Philippians 2:5 Read Philippians 2:5 Read Philippians 2:5- - - -11 11 11 11 Paul writes in v.6 that Jesus, in his very nature, or make-up, was God. He could have always lived like a God, but He didn’t. What did He do instead (vv.7-8)? v.7 v.7 v.8 Let’s look at each of these more in depth. The exact translation of v.7, where Paul writes that Jesus “made Himself nothing” is Jesus “emptied Himself”. What is the significance of this? What is the significance in Jesus taking on “the very nature of a servant” (v.7)?
 
-#### WORD STUDY: Servant (or “doulos” in the original Greek language)
+#### Word Study: Servant (or “doulos” in the original Greek language)
 
 From the root meaning “in bondage”, this word came to mean “one who gives himself up for the will of another”. The “doulos” was the lowest form of servant, and is perhaps better translated “slave”. Although a “doulos” slave originally gave himself up for service voluntarily, once he was under contract to his master, his obedience was complete, absolute, and binding. What is the significance in the fact that Jesus “humbled Himself and became obedient to death— even death on a cross” (v.8)?
 
 Jesus, The Humble Servant – page 2 Philippians 2:5-11
 
-#### WORD STUDY: Humble (or “tapinoo” in the Greek)
+#### Word Study: Humble (or “tapinoo” in the Greek)
 
 This word literally means “low-lying” and may be translated “made low” or “humiliated”. It is not the idea of acting like a wimpy doormat, or thinking “I’m a worm”, but of placing the needs and desires of others before yours. It has been said that “humility is not thinking less of yourself; it is simply not thinking of yourself at all”. Perhaps the best example of how Jesus humbled Himself was that He not only “lowered” Himself from His throne in heaven to live on earth, but then He also allowed Himself to be crucified. Crucifixion was the most humiliating form of death at the time—reserved only for non-citizens and the worst criminals. The word “Himself” appears twice in these two verses (7-8). What is the significance of this word?
 
@@ -547,9 +543,9 @@ What did the Father do in response (vv.9-11)?
 
 This passage begins by stating “our attitude should be the same as that of Christ Jesus” (v.5). How can we empty ourselves? Take on the nature of a slave? Lower ourselves?
 
-#### Passages For
+*Passages For*
 
-#### Further Study:
+#### Further Study
 
 Isaiah 52:13-53:12 Personal Application Personal Application Personal Application Personal Application Mark 10:35-45 John 12:23-33; 13:1-17 2 Corinthians 8:9 Hebrews 2:9-18 1. Although Jesus had every “right” to live like God, He laid aside his “rights” for the sake of obedience to the Father and His love for humanity. What are “rights” you feel like you have, that you may need to lay aside in order to obey God and love others?
 
@@ -577,9 +573,9 @@ What are other things we sometimes put our hope in? How do they compare to God? 
 
 Strength renewed – soar like eagles – not grow weary Verse 31 might be better translated, “But those who hope in the Lord will exchange their strength for His.” In light of this passage (learning about His mighty strength), how does that make you feel?
 
-#### Passages For
+*Passages For*
 
-#### Further Study:
+#### Further Study
 
 Genesis 1 Questions for personal reflection: Questions for personal reflection: Questions for personal reflection: Questions for personal reflection: Job 38-41 Psalm 2 Matthew 11:28-30 1. Are you feeling tired and weary (v.30)? Ask God to help you determine if you are trying to live in your own strength, or if you need to exchange your strength for His!
 
@@ -604,9 +600,9 @@ Questions for personal reflection: Questions for personal reflection: Questions 
 
 1. Are you feeling tired and weary (v.30)? Ask God to help you determine if you are trying to live in your own strength, or if you need to exchange your strength for His!
 
-#### Passages For
+*Passages For*
 
-#### Further Study:
+#### Further Study
 
 Genesis 1 Job 38-41 Psalm 2 Matthew 11:28-30 2. What (or who) are you putting your hope in? How does it/do they compare to God? Do they promise you the same thing that God does in v.31?
 
@@ -624,7 +620,7 @@ R R R Read 2 Corinthians 1:1 ead 2 Corinthians 1:1 ead 2 Corinthians 1:1 ead 2 C
 
 Some dictionary definitions: “consolation in time of trouble or worry” – “to give strength and hope to” – “to ease the grief of”
 
-#### WORD STUDY: Comfort (“parakaleo” in the original Greek language)
+#### Word Study: Comfort (“parakaleo” in the original Greek language)
 
 This word literally means, “to be called alongside.” It is the idea of someone being there with you, especially in times of need. In John 14-15, Jesus describes the Holy Spirit as the Comforter (“paraklete”), or “the one who walks alongside.” This was a new concept, for only in New Testament times has the Holy Spirit lived inside every believer, and so truly lives alongside us. In Hebrews 13:5 God said, “Never will I leave you; never will I forsake you.” This promise has brought comfort to Christians for 2000 years now.
 
@@ -652,9 +648,9 @@ We get scared in thinking that if someone sees our sadness or weakness, then we 
 
 Comfort others (with God’s comfort)! We become a vessel of His comfort. God doesn’t intend for us to hoard His blessings (like His comfort), but to pass them on to others! ***Additional note: the “Footprints” story might be appropriate to share at the end of this lesson.
 
-#### Passages For
+*Passages For*
 
-#### Further Study:
+#### Further Study
 
 Psalm 42 Isaiah 53 John 14:16-15:27 Philippians 4:6-7 1 Peter 4:12-16 Questions for personal reflection: Questions for personal reflection: Questions for personal reflection: Questions for personal reflection:
 
@@ -672,7 +668,7 @@ R R R Read 2 Corinthians 1:1 ead 2 Corinthians 1:1 ead 2 Corinthians 1:1 ead 2 C
 
 Today we are going to be focusing in on one of these descriptions: the God of all comfort. What does it mean to “comfort” somebody?
 
-#### WORD STUDY: Comfort (“parakaleo” in the original Greek language)
+#### Word Study: Comfort (“parakaleo” in the original Greek language)
 
 This word literally means, “to be called alongside.” It is the idea of someone being there with you, especially in times of need. In John 14-15, Jesus describes the Holy Spirit as the Comforter (“paraklete”), or “the one who walks alongside.” This was a new concept, for only in New Testament times has the Holy Spirit lived inside every believer, and so truly lives alongside us. In Hebrews 13:5 God said, “Never will I leave you; never will I forsake you.” This promise has brought comfort to Christians for 2000 years now.
 
@@ -698,9 +694,9 @@ Questions for personal reflection: Questions for personal reflection: Questions 
 
 1. Are you trying to carry a burden all by yourself? Pour your heart out to God and receive His comfort. Make sure and read the “Passages for further study”.
 
-#### Passages For
+*Passages For*
 
-#### Further Study:
+#### Further Study
 
 Psalm 42 Isaiah 53 John 14:16-15:27 Philippians 4:6-7 1 Peter 4:12-16 2. Is there some kind of suffering in your life that you need to share with another Christian in order to be further comforted?
 

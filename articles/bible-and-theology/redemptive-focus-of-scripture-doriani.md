@@ -12,7 +12,7 @@ note: "10 of 10 pages had no text layer and were read with OCR; expect some reco
 source: "Discipleship/Basic Growth Concepts/Studying scripture/Redemptive_Focus_of_Scripture_Doriani.pdf"
 ---
 
-Getting the Message A Plan for Interpreting and Applying the Bible Daniel M. Doriani BR BL N G PO BOX 8I7 - PHILLPSBURG • NEW TERSEY 08865-0817 Reflecting on the Redemptive Thrust of Scripture The Right Focus When I was in seminary, shortly before I preached for the first time in my regular church, the pastor showed me a plaque hung over the corridor that led from his study to the pulpit. It read, "Sir, we want to see Jesus" (John 12:21). Later, when I was a young pastor, one of my elders told me, "I believe we need to hear the gospel message, at least for a few minutes, in every sermon." Recently, in a church of two thousand, just before I climbed the steps to the pulpit, the senior pastor leaned toward me and said, "On an average Sunday, we have two hundred seekers in attendance."
+Getting the Message A Plan for Interpreting and Applying the Bible Daniel M. Doriani BR BL N G PO BOX 8I7 - PHILLPSBURG · NEW TERSEY 08865-0817 Reflecting on the Redemptive Thrust of Scripture The Right Focus When I was in seminary, shortly before I preached for the first time in my regular church, the pastor showed me a plaque hung over the corridor that led from his study to the pulpit. It read, "Sir, we want to see Jesus" (John 12:21). Later, when I was a young pastor, one of my elders told me, "I believe we need to hear the gospel message, at least for a few minutes, in every sermon." Recently, in a church of two thousand, just before I climbed the steps to the pulpit, the senior pastor leaned toward me and said, "On an average Sunday, we have two hundred seekers in attendance."
 
 Although they expressed it in very different ways, each leader wanted to see if I shared a vital conviction with them, a conviction Thope you share, too: every truly Christian message draws attention to Jesus Christ, Redeemer and Lord. Conversely, no matter how true, how moral, how informative, how stirring, or how practical a sermon may be, it is sub-Christian if it fails to present Jesus to this fallen world.
 
@@ -20,7 +20,7 @@ This chapter suggests two ways for teachers to focus on Christ: the "fallen-cond
 
 - Principle 1: Every passage in the Bible presents Christ both as the remedy for human fallenness and as the end point of God's plan of salvation.?
 
-Characteristic Comparing and Contrasting the FCF and the RHF Fallen-Condition Redemptive- Focus Historical Focus Source of authority Scripture Theological emphasis Doctrine of man: the Fall and sin Initial appeal The experience of human need Scripture Doctrine of God: grace and sovereignty The unfolding of the divine plan Special insight Every text shows how Christ meets a universal human need.
+Characteristic Comparing and Contrasting the FCF and the RHF Fallen-Condition Redemptive-Focus Historical Focus Source of authority Scripture Theological emphasis Doctrine of man: the Fall and sin Initial appeal The experience of human need Scripture Doctrine of God: grace and sovereignty The unfolding of the divine plan Special insight Every text shows how Christ meets a universal human need.
 
 Every text manifests the need for a redeemer, the work of the-Redeemer, or the consequences of redemption.
 

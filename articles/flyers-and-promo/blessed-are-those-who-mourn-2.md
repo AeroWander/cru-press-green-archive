@@ -11,11 +11,11 @@ source: "Small Groups and Meetings/Posters and Publicity copy/Bible Study Flyers
 also_filed: ["Small Groups and Meetings/Posters and Publicity copy/Bible Study Flyers —Beatitudes/Beatitudes 2 b_w.pdf"]
 ---
 
-## —Jesus
+## Jesus
 
 HAITI. Port-Au-Prince. 2010. Carrel RAPHAEL, a Haitian ‘Tap-Tap’ driver who lost his wife and two of his children in the earthquake just after returning to his neighborhood.
 
-## cru.
+cru.
 
 ### Bible Study/discussion
 

@@ -17,30 +17,28 @@ The CD contains over 40 lessons to help prepare you for weekly appointments with
 
 Topics Include: Community, Prayer, Position in Christ, Assurance of Salvation, Sharing the Gospel, Filling of the Spirit, Confession, Obedience, Sanctification, Eternal Perspective, Justification by Faith, Spiritual Multiplication, How to Share the Ministry of the H.S., How to Conduct Basic Follow-up, God’s Will, Scripture Memory, Time Management, and Sharing Your Testimony. We’ve also included a number of additional resources. Not the least of which is a series of talks by Roger Hershey on discipleship.
 
-## Order Online at Crupress.com
-
 Walk by Faith Assurance of Salvation Position in Christ The Spirit-Filled Life Fellowship The Word Prayer Sharing the Gospel Justification by Faith Confession Growth The Importance of Church Obedience Eternal Perspective Time Management Communicate your Faith Initiative Evangelism Successful Witnessing Personal Purity The Four Laws Transitions to the Gospel Scripture Memory Worry Stewardship Gospel Illustrations Leading a Small Group Motives for Evangelism Sharing Your Story Responses to the Gospel Apologetics Conflict Resolution Multiply your faith Spiritual Multiplication Challenging to Discipleship A Primer on Discipleship How to Use Satisfied Follow Up World Vision Spiritual Battle Relationships of a Leader Roles of a Leader Responsibilities of a Leader Trials Sanctification Discerning God’s Will Pride and Submission This page intentionally left blank.
 
 ### Walk
 
-## The Compass The Compass
+## The Compass
 
-### a tool for disciplers a tool for disciplers Conversation On the JourneyWalk by Faith WALK
+a tool for disciplers a tool for disciplers Conversation On the JourneyWalk by Faith WALK
 
 Assurance of Salvation Position in Christ The Spirit-Filled Life Fellowship The Word Prayer Sharing the Gospel Justification by Faith Confession Growth The Importance of Church Obedience Eternal Perspective Time Management This page intentionally left blank.
 
 ### Communicate
 
-## The Compass The Compass
+## The Compass
 
-### a tool for disciplers a tool for disciplers Conversation On the Journey Communicate Your Faith COMMUNICATE
+a tool for disciplers a tool for disciplers Conversation On the Journey Communicate Your Faith COMMUNICATE
 
 Initiative Evangelism Successful Witnessing Personal Purity The Four Laws Transitions to the Gospel Scripture Memory Worry Stewardship Gospel Illustrations Leading a Small Group Motives for Evangelism Sharing Your Story Responses to the Gospel Apologetics Conflict Resolution This page intentionally left blank.
 
 ### Multiply
 
-## The Compass The Compass
+## The Compass
 
-### a tool for disciplers a tool for disciplers Conversation On the Journey Multiply Your Faith MULTIPLY
+a tool for disciplers a tool for disciplers Conversation On the Journey Multiply Your Faith MULTIPLY
 
 Spiritual Multiplication Challenging to Discipleship A Primer on Discipleship How to Use Satisfied Follow Up World Vision Spiritual Battle Relationships of a Leader Roles of a Leader Responsibilities of a Leader Trials Sanctification Discerning God’s Will Pride and Submission This page intentionally left blank.

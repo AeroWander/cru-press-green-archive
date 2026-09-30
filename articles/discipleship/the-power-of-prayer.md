@@ -11,9 +11,7 @@ summary: "Classic article by R.C. Sproul cataloguing biblical examples of powerf
 source: "Building Community/Prayer/Classic Articles On Prayer/The Power of Prayer.pdf"
 ---
 
-## R.c. Sproul
-
-We are moved by the litany of faith that the author of Hebrews records in Chapter 11 of that book. There we have the “Roll Call of Faith,” which catalogues the heroic acts of biblical men and women of faith. Their acts are partially summarized in verses 33 and 34: • Zerah (2 Chronicles 14)
+We are moved by the litany of faith that the author of Hebrews records in Chapter 11 of that book. There we have the “Roll Call of Faith,” which catalogues the heroic acts of biblical men and women of faith. Their acts are partially summarized in verses 33 and 34: · Zerah (2 Chronicles 14)
 
 By the prayer of Hezekiah, God sent an angel and slew in one night 185,000 men in Sennacherib’s army (2 Kings 19)
 
@@ -21,7 +19,7 @@ By the prayer of Hezekiah, God sent an angel and slew in one night 185,000 men i
 
 The Scriptures do not provide a similar catalogue of the heroes of prayer, but such a list could easily be compiled. Using the same format as does the writer of Hebrews, let us examine a partial list of the accomplishments of prayer:
 
-And time would fail me to tell of Abraham, who prayed for and received a son at the age of one hundred years; and Moses who received help at the Red Sea; and the Israelites, who were delivered from Egypt after much prayer; and David, who escaped the treachery of Saul by prayer; and Solomon, who received great wisdom as the result of prayer; and Daniel, who was able to interpret dreams, after prayer. People were delivered from peril, healed from diseases, saw loved ones cured, and witnessed innumerable miracles as the result of fervent prayer. • • • • • • • By prayer, Esau’s heart was changed toward Jacob, so that they met in a friendly, rather than hostile, manner (Genesis 32)
+And time would fail me to tell of Abraham, who prayed for and received a son at the age of one hundred years; and Moses who received help at the Red Sea; and the Israelites, who were delivered from Egypt after much prayer; and David, who escaped the treachery of Saul by prayer; and Solomon, who received great wisdom as the result of prayer; and Daniel, who was able to interpret dreams, after prayer. People were delivered from peril, healed from diseases, saw loved ones cured, and witnessed innumerable miracles as the result of fervent prayer. By prayer, Esau’s heart was changed toward Jacob, so that they met in a friendly, rather than hostile, manner (Genesis 32)
 
 By the prayer of Moses, God brought the plagues upon Egypt, and then removed them again (Exodus 7-11)
 

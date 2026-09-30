@@ -10,7 +10,7 @@ summary: "A lengthy strategic framework document by the CFM National Team for le
 source: "Launching a New Ministry/Ministry Leadership/Movement Building copy.pdf"
 ---
 
-## Reaching Your Piece of the Great Commission Through Healthy Win-build-send Movements
+Reaching Your Piece of the Great Commission Through Healthy Win-build-send Movements
 
 By the CFM National Team Focus has to do with vision. It answers critical questions: What you are shooting for? Where are you going? Why does it matter? The why question is by far the most important. The ultimate reason behind our efforts to deliver the gospel to students and faculty, to make disciples and send them out to the world, is Jesus. Because of who He is and what He has done on behalf of people, we respond to His call to join Him in what He is doing in the world today. This is the direction we are heading. Christ is central to everything we do. We call on Him in prayer as we worship, as we plan, and as we go. We live our lives surrendered to Him and serve to His glory and honor. The principles in this document provide leaders with a framework and a toolset to develop win-build-send movements. The model assumes that a leader has successfully launched a movement. It walks through a breadth of needs that a leader will discover as we seek to grow where we are and go where we are not. It addresses where a leader should focus, what resources they must secure, how to raise movement leaders, how to successfully plan for a growing movement and what results we should observe. This article will have 6 sections:
 
@@ -42,7 +42,7 @@ The Four Aims contains an important perspective for missional team leaders. You 
 3. Map out the scope of your ministry: a) What are the demographics of your setting? b) How many campuses/audiences are within your reach? Where do you want to be in 5 years?
 4. How many missional teams will we need to reach our scope?
 
-## Ii. Right Resources
+Ii. Right Resources
 
 1. Motivated people - Jesus modeled the importance of selecting the right people by doing two things. One, he spent time with them in ministry contexts. Two, he spent a full night in prayer before choosing the twelve. For ministries to grow, we must select and work with the right leaders. It’s too easy to begin discipling someone with potential but who may not become a multiplier. Roger Hershey, with 35 years of campus ministry experience, says that movements grow by 1) Working with the right people and 2) Doing the right things with the right people.
 
@@ -63,7 +63,7 @@ Questions to consider:
 2. What ministry tools and expertise do you, your team, students and faculty need to possess in order to take the next steps?
 3. How much funding will you need to accomplish your plan?
 
-## Iii. Release Ownership
+Iii. Release Ownership
 
 ### Empowerment
 
@@ -89,7 +89,7 @@ Questions to consider:
 2. Whom are your emerging leaders that have the potential to be your future leaders?
 3. Whom do you need to be coaching? Whom do you need to let go?
 
-## Iv. Right Processes and Practices
+## IV. Right Processes and Practices
 
 Some practical steps to help in you build a movement, or, coach someone to build a movement:
 
@@ -190,7 +190,7 @@ Your Life Before Christ. You want to paint a picture of what your life was like 
 
 The Closing. Close it out with a summary statement that ties your story together according to your theme. You could close with a verse, but only if it’s meaningful and relates to the story you’ve just told.
 
-### Testimony Worksheet
+*Testimony Worksheet*
 
 1. The Opening A. Identify a theme.
 2. Your Life Before Christ (or gave Him complete control)

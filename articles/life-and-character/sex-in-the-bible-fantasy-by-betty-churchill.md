@@ -17,13 +17,11 @@ Like its male counterpart, Flesh, Fantasy is divided into three sections: small 
 
 Partial List of Topics: Masturbation, How Far is Too Far, The Role of Fathers, Confession-Forgiveness, Community, Filling of the Spirit, Cosmetic Surgery, Worship, Singleness, Faith, Homosexuality, Why Wait?, Body/Self Image, and Pornography. Contributions by Henry Cloud and Shellie R. Warren
 
-## Order Online at Crupress.com
-
 ## The Same Page
 
 Sometimes when you start talking about the Bible and morality in your average group of Jane Shmoes, certain phrases tend to pop up. Phrases that people think make them sound smart and make them feel better about themselves and their choices: “Well, the Bible doesn’t really say that, exactly” or “It’s all in how you interpret it” or “Culture is so different today; you can’t really apply what the Bible says.” It’s funny because often, if you ask, “Have you read the Bible yourself, or do you know what it says?” the answer is a muffled no of some sort. These people are going with the word on the street, what they’ve heard others say, the cultural tide. God forbid that you would be in that ignorant camp. No, really: God forbids it. Throughout this book, many of the articles will refer to passages of Scripture and develop thoughts and principles from those passages. But I want you to have a cheat sheet, your very own “quick reference user’s guide to key biblical passages about most things sexual.” (There should be a shortcut term for that—QRUGKBPAMTS doesn’t roll off the tongue.) You should know where to go to see what the Bible says for yourself. I’ve found this “quick reference guide” quite helpful, as I’m convinced I have early-onset Alzheimer’s.
 
-### The Quick Reference User’s Guide to Key Biblical Passages about Most Things Sexual
+The Quick Reference User’s Guide to Key Biblical Passages about Most Things Sexual
 
 Genesis 2:24-25 A man will leave his father and mother and be united to his wife, and they will become one flesh. The man and his wife were both naked, and they felt no shame.
 
@@ -109,7 +107,7 @@ Pure—without contamination, undefiled, holy. Defraud—take advantage of (stea
 
 Pornography—sexually explicit printed or visual materials intended to stimulate erotic rather than emotional feelings.
 
-Love (Greek, agape)—unconditional love; (Greek, phileo)—brotherly love; (Greek, eros—romantic love). Agape is characterized in Scripture by things like laying down your life for one another, considering others more important than yourself— all that stuff in 1 Corinthians 13.
+Love (Greek, agape)—unconditional love; (Greek, phileo)—brotherly love; (Greek, eros—romantic love). Agape is characterized in Scripture by things like laying down your life for one another, considering others more important than yourself— all that stuffin 1 Corinthians 13.
 
 Celibacy—a lifelong vow of abstinence.
 
@@ -135,7 +133,7 @@ If you are looking for a cultural loophole on what the New Testament communicate
 
 IT’S BEEN A COUPLE THOUSAND YEARS; THINGS CHANGE … Not so much, really. As for the Bible in general being relevant to the culture today, have you read 1 and 2 Corinthians? Corinth was the Hollywood of its day, known for materialism and sex. It was at least as perverse as our culture is today. One Greek writer reports that the name Corinth was even slang for fornication. Instead of looking for a “hook-up,” you might be looking for someone to “go to Corinth.” Much of the culture of the day was similar to that in Corinth.
 
-We often think that the Bible was written to a puritanical society. In reality, though, it was a wild and woolly era—pagans gone wild. In many ways, we’re more civil and morally regulated than they were. We live in a culture that at least has a Judeo- Christian moral basis for law. In their era, the early Jews and the Christians were not so influential. (Slaves and prisoners usually aren’t.)
+We often think that the Bible was written to a puritanical society. In reality, though, it was a wild and woolly era—pagans gone wild. In many ways, we’re more civil and morally regulated than they were. We live in a culture that at least has a Judeo-Christian moral basis for law. In their era, the early Jews and the Christians were not so influential. (Slaves and prisoners usually aren’t.)
 
 The Bible always has been and always will be countercultural. Today we just have more high-tech manifestations of our debauchery. Most of the passages listed are New Testament teaching given directly to believers so that they would live a life honoring to Christ. These are timeless moral principles and most assuredly were as countercultural to their original audience as they are to us. No matter what you think about whether the Bible is totally true, nothing could be more applicable to people trying to live an “alternative” lifestyle today.
 

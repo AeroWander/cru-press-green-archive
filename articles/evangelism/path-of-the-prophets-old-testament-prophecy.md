@@ -11,19 +11,17 @@ summary: "An excerpt from the Y-Jesus apologetics magazine (CruPress) on Old Tes
 source: "Evangelism/apologetic/Path of the Prophets.pdf"
 ---
 
-## Y-jesus Apologetics Magazine- Article Excerpt
+## Y-jesus Apologetics Magazine-Article Excerpt
 
 There are many great apologetic books that you could leave with students if only they would read them. But they probably won’t. They might, however, skim through a magazine. So we compiled the most convincing apologetics for the existence of God and the best evidence for Jesus into two highly graphic magazines and had the designers of Relevant magazine make it look really cool. Y-Origins deals with proofs for the existence of God ranging from arguments from Intelligent Design to the nature of man (mind, aesthetics, morality, etc.).
 
 Y-Jesus presents the classic evidence for Christ including “Lord, Liar, Lunatic,” Evidence for the Resurrection, Claims to Deity, New Testament Reliability and Fulfillment of Prophecy. Y-JESUS
 
-## Order Online at Crupress.com
-
-© 2010, CruPress, All Rights Reserved. CruPress.com © 2010, CruPress, All Rights Reserved. CruPress.comTHE PATH LAID BY PROPHETS • ARTICLE FIVE • 59 Today, Frank Abagnale is sought after by governments and corporations as an expert on detecting forgery, embezzlement, and document falsification. But between the ages of 16 and 21, he was one of the world’s most successful con artists. He cashed $2.5 million in fraudulent checks in all 50 states and 26 foreign countries. He also success-fully passed himself off as an airline pilot, an attorney, a college professor, and a pediatrician before being apprehended by the French police.
+Today, Frank Abagnale is sought after by governments and corporations as an expert on detecting forgery, embezzlement, and document falsification. But between the ages of 16 and 21, he was one of the world’s most successful con artists. He cashed $2.5 million in fraudulent checks in all 50 states and 26 foreign countries. He also success-fully passed himself off as an airline pilot, an attorney, a college professor, and a pediatrician before being apprehended by the French police.
 
 So, could Jesus have been a fake Messiah, fooling even the most noteworthy religion scholars? Is it possible he was groomed by his parents or undisclosed mentors to become the long-promised king that Israel had been looking for?
 
-### Go D’s Mouth
+*Go D’s Mouth*
 
 ## Pieces
 
@@ -37,7 +35,7 @@ Ancient Hebrew prophecies had clearly predicted the reign of a future king who w
 
 In general, being a prophet ranked up there with working at a meatpacking plant among the world’s most hazardous occupations. Even when they were telling the truth, prophets might be killed or thrown into prison by people who didn’t like what they were saying. (Some kings hated hearing bad news.) According to historical accounts, the prophet Isaiah was sawn in half.
 
-60 • ARTICLE FIVE • THE PATH LAID BY PROPHETS © 2010, CruPress, All Rights Reserved. CruPress.com So consider a prophet’s dilemma: death if he was proved wrong and the possibility of death if he was right. No true prophet wanted to offend God, and just as few wanted to be sawn in half. Thus most prophets waited until they were absolutely convinced that God had spoken, or else they kept their mouths shut. Kings began to shudder at their words. A true prophet’s messages were never wrong. above this man until it covered the whole earth. According to Dixon, this child would be a descendant of the ancient Egyptian Queen Nefertiti. 1 Where is this guy? Have you seen him? And how about that lasting world peace—it’s nice, huh?
+60 · ARTICLE FIVE · THE PATH LAID BY PROPHETS So consider a prophet’s dilemma: death if he was proved wrong and the possibility of death if he was right. No true prophet wanted to offend God, and just as few wanted to be sawn in half. Thus most prophets waited until they were absolutely convinced that God had spoken, or else they kept their mouths shut. Kings began to shudder at their words. A true prophet’s messages were never wrong. above this man until it covered the whole earth. According to Dixon, this child would be a descendant of the ancient Egyptian Queen Nefertiti. 1 Where is this guy? Have you seen him? And how about that lasting world peace—it’s nice, huh?
 
 This is said to be about the death of Princess Diana. (You were probably thinking Margaret Thatcher.) Prophecies like this are as nebulous as seeing images in clouds. Yet some insist this is evidence of a Nostradamus prophecy fulfilled. Highly suspect, but difficult to disprove.
 
@@ -47,7 +45,7 @@ In fact, an exhaustive search of her prediction yields two indisputable facts. H
 
 ### Prop Het S
 
-### Psy Chics?
+Psy Chics?
 
 To consider whether modern psychics’ accuracy approaches that of biblical prophets, let’s take Jean Dixon as a case study. This American psychic seemed to have a special ability to foretell events. But upon analysis her reputation seems unwarranted.
 
@@ -55,7 +53,7 @@ Even the widely publicized prophecies of Nostradamus have frequently been proved
 
 For instance, Dixon had a vision that on February 5, 1962, a child was born in the Middle East who would transform the world by the year 2000. This special man would create a one-world religion and bring last-ing world peace. She saw a cross growing Takes the Goddess of the Moon, for his Day & Movement:
 
-A frantic wanderer and witness of Gods Law, In awakening the worlds great regions to Gods will (Ones Will).3 © 2010, CruPress, All Rights Reserved. CruPress.comTHE PATH LAID BY PROPHETS • ARTICLE FIVE • 61 The difference between psychics and prophets seems to be more one of kind than one of degree. Prophets made specific declarations about future events in relation to God’s unfurling plan—and did it with unwavering accuracy. Psychics are more mercenary, providing vague sketches of the future to a market willing to pay for their services. They offer information with a questionable track record.
+A frantic wanderer and witness of Gods Law, In awakening the worlds great regions to Gods will (Ones Will).3 The difference between psychics and prophets seems to be more one of kind than one of degree. Prophets made specific declarations about future events in relation to God’s unfurling plan—and did it with unwavering accuracy. Psychics are more mercenary, providing vague sketches of the future to a market willing to pay for their services. They offer information with a questionable track record.
 
 According to the Hebrew requirements that a prophecy must have a 100 percent rate of accuracy, the true Messiah of Israel must fulfill them all or else he is not the Messiah. relig ious P ROPH ECY I N PERSPECTIV E
 
@@ -72,11 +70,14 @@ But in the world of religion, prophecy serves an important function. It becomes 
 - One state (Florida) would swing the election.
 - The U.S. Supreme Court would ultimately determine the winner.
 
-Bible scholar Wilbur Smith compared the prophecies of the Bible with other historical books, stating that the Bible “is the only volume ever produced by man, or a group of men, in which is to be found a large body of prophecies relating to individual nations, to Israel, to all the peoples of the earth, to certain cities, and to the coming one who was to be the Messiah.”5 Thus the Bible lays out its claim for inspiration in such a way that it can be either substantiated or disproved. Had such occurred, there would be churches named after you and dashboard statuettes bearing your likeness. But you didn’t, so there aren’t. As difficult (or impossible) as it would have been in 1910 to have accurately predicted this precise sequence of events, the odds are incredibly more difficult for Jesus, or any one person, to have fulfilled all the Hebrew prophe-cies for the Messiah. Contained within the Old Testament, written hundreds of years before the birth of Jesus, are 61 specific prophecies and nearly 300 references about the Messiah.6 62 • ARTICLE FIVE • THE PATH LAID BY PROPHETS © 2010, CruPress, All Rights Reserved. CruPress.com According to the Hebrew requirement that a prophecy must have a 100 percent rate of accuracy, the true Messiah of Israel must fulfill them all or else he is not the Messiah. So the question that either vindicates Jesus or makes him culpable for the world’s greatest hoax is, did he fit and fulfill these Old Testament prophecies?
+Bible scholar Wilbur Smith compared the prophecies of the Bible with other historical books, stating that the Bible “is the only volume ever produced by man, or a group of men, in which is to be found a large body of prophecies relating to individual nations, to Israel, to all the peoples of the earth, to certain cities, and to the coming one who was to be the Messiah.”5 Thus the Bible lays out its claim for inspiration in such a way that it can be either substantiated or disproved. Had such occurred, there would be churches named after you and dashboard statuettes bearing your likeness. But you didn’t, so there aren’t. As difficult (or impossible) as it would have been in 1910 to have accurately predicted this precise sequence of events, the odds are incredibly more difficult for Jesus, or any one person, to have fulfilled all the Hebrew prophe-cies for the Messiah. Contained within the Old Testament, written hundreds of years before the birth of Jesus, are 61 specific prophecies and nearly 300 references about the Messiah.6 62
+
+- ARTICLE FIVE
+- THE PATH LAID BY PROPHETS According to the Hebrew requirement that a prophecy must have a 100 percent rate of accuracy, the true Messiah of Israel must fulfill them all or else he is not the Messiah. So the question that either vindicates Jesus or makes him culpable for the world’s greatest hoax is, did he fit and fulfill these Old Testament prophecies?
 
 ## ARE
 
-### TA HM th e ODDS ?
+### TA HM th e Odds ?
 
 When forensic scientists discover a DNA profile match, the odds of having the wrong person is frequently less than one in several billion (something for deviants to keep in mind). It would seem we are in the same neighborhood of odds, and numbers of zeros, in considering a single individual fulfilling these prophecies.
 
@@ -90,7 +91,7 @@ Now, before considering the other 59 proph-ecies, you have to stop and ask yours
 
 The students calculated that the odds against one person fulfilling all eight prophecies are astronomical—one in 1021 .
 
-To illustrate that number, Stoner gave the following example: “First, blanket the entire Earth land mass with silver dollars 120 feet high. Second, specially mark one of those dollars and randomly bury it. Third, ask a person to travel the Earth and select the marked dollar, while blindfolded, from the trillions of other dollars.”7 © 2010, CruPress, All Rights Reserved. CruPress.comTHE PATH LAID BY PROPHETS • ARTICLE FIVE • 63 People can do some pretty squishy things with numbers (especially with a last name like that), so it’s important to note that Stoner’s work was reviewed by the American Scientific Association, which stated, “The mathematical analysis … is based upon principles of prob-ability which are thoroughly sound, and Professor Stoner has applied these principles in a proper and convincing way.” 8 With that as an introduction, let’s add six more predictions to the two we’ve already considered, giving us a total of Professor Stoner’s eight: Prophecy: The Messiah would be from the lineage of King David.
+To illustrate that number, Stoner gave the following example: “First, blanket the entire Earth land mass with silver dollars 120 feet high. Second, specially mark one of those dollars and randomly bury it. Third, ask a person to travel the Earth and select the marked dollar, while blindfolded, from the trillions of other dollars.”7 People can do some pretty squishy things with numbers (especially with a last name like that), so it’s important to note that Stoner’s work was reviewed by the American Scientific Association, which stated, “The mathematical analysis … is based upon principles of prob-ability which are thoroughly sound, and Professor Stoner has applied these principles in a proper and convincing way.” 8 With that as an introduction, let’s add six more predictions to the two we’ve already considered, giving us a total of Professor Stoner’s eight: Prophecy: The Messiah would be from the lineage of King David.
 
 Fulfillment: “Jesus … the son of David …” Prophecy: The Messiah would be betrayed for 30 pieces of silver.
 
@@ -112,9 +113,9 @@ Matthew 21:7 a.d. 30 Malachi 3:1 500 b.c.
 
 John 1:26 a.d. 27 The eight prophecies we’ve reviewed about the Messiah were written by men from different times and places between about 500 and 1,000 years before Jesus was born. Thus there was no opportunity for collusion among them. Notice too, the specificity. This is not the genre of a Nostradamus prediction—“When the moon turns green, the lima bean will lie cloaked by the roadside.”
 
-### out of HIS CONTROL
+out of HIS CONTROL
 
-Imagine winning a Powerball lottery with merely one ticket among tens of millions sold. Now imagine winning a hundred of these lotteries in a row. What would people think? Right, “It was rigged!” 64 • ARTICLE FIVE • THE PATH LAID BY PROPHETS © 2010, CruPress, All Rights Reserved. CruPress.com And over the years a similar claim has been made by skeptics about Jesus’ fulfillment of Old Testament prophecy. They have granted that Jesus fulfilled messianic prophecies but have accused him of living his life in such a way as to intentionally fulfill them. A reason-able objection, but not as plausible as it might seem. Consider the nature of just four of the messianic prophecies:
+Imagine winning a Powerball lottery with merely one ticket among tens of millions sold. Now imagine winning a hundred of these lotteries in a row. What would people think? Right, “It was rigged!” 64 · ARTICLE FIVE · THE PATH LAID BY PROPHETS And over the years a similar claim has been made by skeptics about Jesus’ fulfillment of Old Testament prophecy. They have granted that Jesus fulfilled messianic prophecies but have accused him of living his life in such a way as to intentionally fulfill them. A reason-able objection, but not as plausible as it might seem. Consider the nature of just four of the messianic prophecies:
 
 - His lineage would come from David (Jeremiah 23:5).
 - His birth would occur in Bethlehem (Micah 5:2).
@@ -125,11 +126,9 @@ Now, what could Jesus do about fulfilling these prophecies? Neither he nor his p
 
 Two conclusions emerge: First, only a transcendent Being could orchestrate such events. And second, it makes all of Jesus’ other claims credible and worthy of serious consideration. HELD
 
-In 1947 an Arab boy named Muhammad discovered a limestone cave near the Dead Sea that contained some clay jars. After Muhammad’s initial surprise, he discovered that inside the jars were ancient scrolls. No one knew at the time how valuable these scrolls were. Inside those clay jars were well-preserved manuscripts from every Old Testament book except Esther. Most importantly, these were by far the oldest biblical manuscripts scholars had ever seen. How did these manuscripts get there? Well, it seems they originally belonged to an ascetic religious group called the Essenes (a little like monks of the Middle Ages) who lived in a community near the caves. © 2010, CruPress, All Rights Reserved. CruPress.comTHE PATH LAID BY PROPHETS • ARTICLE FIVE • 65 of things and they came to pass, then I guess I’d have to believe there’s some kind of supernatural being.” Bible scholar Norman Geisler responded to Russell’s skepticism. “I’d say, ‘Mr. Russell, there has been a voice from heaven; it has predict-ed many things; and we’ve seen them undeniably come to pass.’”11 Geisler was alluding to the fact that only a transcendent Being outside of time would be able to accurately predict future events.
+In 1947 an Arab boy named Muhammad discovered a limestone cave near the Dead Sea that contained some clay jars. After Muhammad’s initial surprise, he discovered that inside the jars were ancient scrolls. No one knew at the time how valuable these scrolls were. Inside those clay jars were well-preserved manuscripts from every Old Testament book except Esther. Most importantly, these were by far the oldest biblical manuscripts scholars had ever seen. How did these manuscripts get there? Well, it seems they originally belonged to an ascetic religious group called the Essenes (a little like monks of the Middle Ages) who lived in a community near the caves. of things and they came to pass, then I guess I’d have to believe there’s some kind of supernatural being.” Bible scholar Norman Geisler responded to Russell’s skepticism. “I’d say, ‘Mr. Russell, there has been a voice from heaven; it has predict-ed many things; and we’ve seen them undeniably come to pass.’”11 Geisler was alluding to the fact that only a transcendent Being outside of time would be able to accurately predict future events.
 
-### a n TWIS T I N TERE ST ING PROOF A NI
-
-## J A R
+J A R
 
 We’ve looked at the evidence for Jesus’ fulfillment of messianic prophecies from every angle but one. What if the Christian scribes who copied scrolls of Isaiah and the other Old Testament prophetic books altered them to make them correspond to Jesus’ life? If these predictions were fulfilled so accurately through the life of Jesus, it seems logical to wonder why everyone in Israel would not have been able to see it. But as his crucifixion attests, not everyone did see it. As the apostle John said of Jesus, “Even in his own land and among his own people, he was not accepted” (John 1:11). Why? This is a question many scholars and skeptics have asked. And it seems possible, even attractive. It would prevent us from making Jesus into a lying imposter, which seems highly unlikely, and it would explain the amazing accuracy of his fulfillment of prophecies. So, how do we know that the Old Testament prophetic books, such as Isaiah, Daniel, and Micah, were written hundreds of years before Christ, as purported? And if they were, how do we know Christians didn’t alter the texts later?
 
@@ -137,13 +136,16 @@ Considering the embattled history of Israel, it is not difficult to read into th
 
 For 1,900 years, many skeptics held fast to that theory, based upon the human impossibility of accurately predicting future events. But then something occurred that doused all enthusiasm for the theory. Something called the Dead Sea Scrolls. Half a century back, the finding of the Dead Sea scrolls provided Bible scholars with copies of Old Testament books that were far older than any others known to exist. Extensive tests proved that many of these copies were made before Jesus Christ even lived. And they are virtually identical to the texts of the Bible we were already using. While Jesus fulfilled the messianic prophe-cies, he did so in ways that no one was expecting. He sought a moral and spiritual revolution, not a political one, accomplish-ing his objectives through self-sacrifice and humble service, healing and teaching. Meanwhile, Israel was looking for another Moses or Joshua who would lead them in a conquest to recover their lost kingdom. As a result, even scholars who deny Jesus as the Messiah accept these manuscripts of the Old Testament as having predated his birth and therefore concede that the prophecies about the Messiah contained within them have not been altered in order to conform to Jesus.
 
-Of course, many Jews of Jesus’ day did recognize him as the Messiah—the entire foundation of the Christian church being Jewish. The majority, however, did not. And it’s not so hard to comprehend why. 66 • ARTICLE FIVE • THE PATH LAID BY PROPHETS © 2010, CruPress, All Rights Reserved. CruPress.com To better understand the first-century Jews’ misunderstanding, consider this messianic prophecy written 700 years before the birth of Jesus by the prophet Isaiah. Was it referring to Jesus?
+Of course, many Jews of Jesus’ day did recognize him as the Messiah—the entire foundation of the Christian church being Jewish. The majority, however, did not. And it’s not so hard to comprehend why. 66
+
+- ARTICLE FIVE
+- THE PATH LAID BY PROPHETS To better understand the first-century Jews’ misunderstanding, consider this messianic prophecy written 700 years before the birth of Jesus by the prophet Isaiah. Was it referring to Jesus?
 
 All of us have strayed away like sheep. We have left God’s paths to follow our own. Yet the Lord laid on him the guilt and sins of us all. He was oppressed and treated harshly, yet he never said a word. He was led as a lamb to the slaughter. And as a sheep is silent before the shearers, he did not open his mouth. From prison and trial they led him away to his death. But who among the people realized that he was dying for their sins—that he was suffering their punishment? He had done no wrong, and he never deceived anyone. But he was buried like a criminal; he was put in a rich man’s grave. But it was the Lord’s good plan to crush him and fill him with grief. Yet when his life is made an offering for sin, he will have a multitude of children, many heirs…. And because of what he has experienced, my righteous servant will make it possible for many to be counted righteous, for he will bear all their sins. (Portions of Isaiah 53:6-11)
 
 As Jesus hung on the cross, some understandably may have been thinking, How could this be the Messiah? At the same time, others may have been wondering, Who else but Jesus could Isaiah be talking about?
 
-### Endn Otes I Possib Le W Imp Oster
+Endn Otes I Possib Le W Imp Oster
 
 So, what are we to make of Jesus having fulfilled so many prophecies written hundreds of years prior to his birth? Leonardo DiCaprio … I mean, Frank Abagnale might be a good imposter, but even he got caught by the time he was old enough to drink a beer legally. Jesus doesn’t look anything like a more competent Frank Abagnale. He’s in a different category altogether. No imposter could ever beat such odds as those presented by Hebrew prophecy.
 
@@ -167,4 +169,4 @@ In the Gospel of John, Jesus made the claim, “I am the way, the truth and the 
 
 10 Lee Strobel, The Case for Faith (Grand Rapids, MI: Zondervan, 2000), 262.
 
-11 Quoted in Strobel, 141. © 2010, CruPress, All Rights Reserved. CruPress.comTHE PATH LAID BY PROPHETS • ARTICLE FIVE • 67
+11 Quoted in Strobel, 141.

@@ -51,13 +51,13 @@ Before delving into the specifics of structure and planning it is important for 
 
 #### Schedule of Outreach
 
-#### Week One:
+#### Week One
 
 - Monday through Friday signs will be put up all around campus that read, “Do you agree with…? Depending on your school, you may need a small team to go out everyday or every other day to repost the fliers.
 - You should put table tents on tables in the student Unions with the same questions.
 - You may be able to get a banner approved to place in a more prominent place on campus.
 
-#### Week Two:
+#### Week Two
 
 #### Monday-Friday
 
@@ -105,7 +105,7 @@ It is suggested that these 7 students should meet at least once a week during th
 
 The following will provide a more detailed description of the responsibilities each of these people has and also the skills needed to accomplish each job. However, all of these positions require both practical and spiritual leadership skills, they should be well organized, motivated, committed people of integrity, willing to give both their time and energy to make the gospel known.
 
-#### Outreach Coordinators
+*Outreach Coordinators*
 
 When we did this the heads of our week were one student and one Campus Crusade staff member. These two people should have good rapport with one another and should be able to effectively communicate both with one another and the rest of the team. The role of these two people is to make sure that the outreach happens and that everything gets done so that the week is successful.
 
@@ -134,7 +134,7 @@ When we did this the heads of our week were one student and one Campus Crusade s
 - Dedicated
 - Disciplined
 
-#### Prayer Coordinator
+*Prayer Coordinator*
 
 This position was actually an afterthought of “I agree with Paul week” at Berkeley. The outreach coordinators organized this through out the planning of the week and during the outreach itself and determined that it would be best to have a prayer coordinator responsible for all of the corporate prayer for the week. It is too much for the other coordinators to be doing this and prayer is too important.
 
@@ -153,7 +153,7 @@ This position was actually an afterthought of “I agree with Paul week” at Be
 - Focused on what to pray for
 - Understanding of Spiritual Warfare
 
-#### Evangelism Training Coordinator
+*Evangelism Training Coordinator*
 
 This person is the point person for the training of all of the participants in the outreach in sharing their faith.
 
@@ -174,7 +174,7 @@ This person is the point person for the training of all of the participants in t
 - Encourager
 - Implementer
 
-#### Communications Coordinator
+*Communications Coordinator*
 
 This person is the key person in communicating with the Christian Community and other organizations throughout the planning of the outreach and during the week.
 
@@ -193,7 +193,7 @@ This person is the key person in communicating with the Christian Community and 
 - Adobe PageMaker
 - Reliable
 
-#### Grassroots Coordinator
+*Grassroots Coordinator*
 
 This person organizes all campus flyering and pamphlets in addition to the information table and the board located in the center of campus (see “Campus Presence”).
 
@@ -216,7 +216,7 @@ This person organizes all campus flyering and pamphlets in addition to the infor
 - Encourager
 - Delegates effectively
 
-#### Financial Coordinator
+*Financial Coordinator*
 
 This person handles all finance related issues.
 
@@ -281,7 +281,7 @@ Once the leadership teams of all of the groups have been brought on board with o
 - Describe their role/what they will be doing
 - Be creative and create energy and momentum. (ex. Have the whole room stand and ask them to stay standing if Jesus is their Lord and Savior. To stay standing if they want to see unity among believers. To stay standing if they want to reach the campus for Christ. Then have them sit down and explain how we can fulfill those desires through the “I Agree With…” week.
 
-#### Spiritual Preperation
+*Spiritual Preperation*
 
 Spiritual Preparation is essential if a campus is to be prepared and successful in defeating Satan’s attacks. If the goal is to give the entire campus an opportunity to hear about Christ, Spiritual Warfare will be evident. There are three groups of people that will be attacked: The person chosen to write the statement of faith and the planning team, those who will participate in wearing the T-shirts, and those who are being shared with (the unbelievers). The greatest defense is PRAYER. Not just during the week, but at the beginning of the preparation.
 
@@ -309,7 +309,7 @@ There are various ways the communication coordinator and team can communicate to
 
 You can also establish a Website, to explain what the week is about, list a schedule of events, display the statement of faith, and also contain information on how to become a Christian, follow-up, how to get involved in a Christian club, or even information of when your figurehead is going to speak. This is something that could just be very simple, or a little more complex depending upon what you feel is best for your campus. The URL should be displayed on the pamphlet or the devotional book.
 
-#### Newspaper Ads
+*Newspaper Ads*
 
 Another area that has flexibility and creativity to it is the newspaper ad designs for the school newspaper. The only thing that must to be printed in the newspaper is the statement of faith on a Monday of the second week. The size of these ads can vary, though we strongly suggest that the statement of faith be a ½ page to a full page in size while the others should be smaller. If you are able to raise enough money for more newspaper ads we suggest that you include the following:
 
@@ -350,7 +350,7 @@ It is important that you find out from your campus what the rules are about flye
 
 We handed out pamphlets at our table and around campus highlighting the personal testimony of Paul (the guy we were agreeing with), outlining the gospel message (4 Spiritual Laws), and provided our email address and contact information. This pamphlet is essential as it explains what the week is about and also presents the gospel clearly. The grassroots coordinator is responsible for creating this pamphlet and for ensuring that it meets all of the campus requirements for literature to be disseminated. See the Campus Presence section for more details about this and the sample pamphlet enclosed at the end of the packet.
 
-#### Newspaper Ads
+*Newspaper Ads*
 
 See the Communications section for information about this.
 
@@ -395,7 +395,7 @@ Throughout the week there were many different reactions and responses to the out
 1. The open/curious person who is sincerely asking questions and who God is clearly drawing.
 2. The antagonistic person who is there to simply challenge Chirstians, but is not really there to seek the truth of the gospel of Jesus.
 
-#### 3) The neutral person who may or may not have the right motives when
+3) The neutral person who may or may not have the right motives when
 
 approaching you but can come around if you give them answers with gentleness and respect (1 Peter 3:15).
 
@@ -522,7 +522,7 @@ The goal of this packet has been to give you the basic framework from which to p
 
 We’ve broken down possible scenarios according to various groups and what you might expect see happen with these groups.
 
-#### 1. Non-Christians Strangers:
+#### 1. Non-Christians Strangers
 
 what to expect:
 
@@ -532,11 +532,11 @@ what to expect:
 - stares
 - People being offended/fear of being converted
 
-#### Recommendations/Response:
+#### Recommendations/Response
 
 ∗ Be yourself. Engage with them ∗ Smile. Initiate with a look ∗ Be discerning and do not argue or debate with the non-Christian ∗ Personalize the approach ∗ Make every moment count. Give them the most attention you can ∗ Emotionally be calm and cool ∗ Be a listener. Be aware of their mannerisms/body language, and your own. ∗ If you’re worried, be honest about it to yourself …be genuine. ∗ Don’t talk down to them or use Christian clichés.
 
-#### 2) Non-Christian Friends:
+#### 2) Non-Christian Friends
 
 what to expect:
 
@@ -545,7 +545,7 @@ what to expect:
 - tension
 - friends will be scrutinizing your actions
 
-#### Recommendations/Response:
+#### Recommendations/Response
 
 ∗ Approach them/go in with attitude “your friendship is more important than the Paul week itself, but not more important that Christ.” ∗ While dialoging with friends about the gospel, ask them how they are feeling ∗ They can e-mail Paul if they have specific questions at Paulweek@hotmail.com 3) Those wearing the shirt/Interacting with other Christians: what to expect:
 
@@ -556,7 +556,7 @@ what to expect:
 - Some will not be wearing the T-shirt and will evangelize
 - Some will make value judgments against those who are not wearing the T-shirt.
 
-#### Response/Recommendations:
+#### Response/Recommendations
 
 ∗ Encourage those considering wearing the shirt who are part of a fellowship choosing not to participate to talk to their pastor. ∗ Know how to explain, “Paul Week” Have a spirit of encouragement. ∗ Use T-shirts as an opportunity for potential networks with other Christians.
 
@@ -568,11 +568,11 @@ Apologetics:
 
 An integral part of evangelism is knowing how to the defend the faith: “but sanctify Christ as Lord in your hearts always being ready to make a defense to everyone who asks you to give an account for the hope that is in you, yet with gentleness and reverence.” 1 Peter 3:15
 
-#### Key assumptions to keep in mind:
+#### Key assumptions to keep in mind
 
 ! Practice “Evangelism of the heart.” Most “intellectual” objections to the gospel are usually a smoke screen to mask the true problem: a sinful heart. People’s main objections to the gospel are heart problems though couched in an intellectual manner. Often, intellectual objections are merely an excuse. It is not the real problem, but a mask. Evangelism of the heart tries to address those intellectual problems, but always aiming toward “the real” heart problem. ! Be sensitive to the non-Christian’s concerns and questions, but keep directing the conversation back to the essential issue: Christ. Try to be the one directing the conversation. Don't get bogged down in answering objections to the gospel, but always seek to point the person to Jesus. Don't dwell on minor issues, be discerning in what you choose not to explain and pick your battles carefully. Dwelling on minor issues shows spiritual immaturity in discerning what is essential to the gospel message. It also tends to show that the evangelist is more interested in winning argumentation than winning the person to Christ. ! Do not be argumentative or debate. Share the truth in gentleness and love to show that you are a true disciple of Christ. Recognize that you were once as lost and only by God’s sheer grace are we able to know the truth. ! From beginning to end, remember that salvation is of the Lord and completely God's work. Our job will not be to persuade and convict, but our task is to gently close every mouth who objects and lovingly proclaim His name. ! Be faithful to the teachings of the Bible and do not compromise the Word of God. Remember that we don't have to be offensive to do this. The gospel in itself is inherently confrontational and offensive to the non-believer. ! Apologetics when used with evangelism should always be used as transitions to the gospel. The two go hand in hand. Some examples how to do so are given below.
 
-#### Common objections to the gospel and their refutations:
+#### Common objections to the gospel and their refutations
 
 This obviously is not a comprehensive list of apologetics questions. Less attention is given to extra-biblical “evidences” for the faith. This list has an emphasis on helping the believer think through and challenge some common biased, faulty assumptions/presuppositions taken against Christianity and using it to transition into sharing the gospel.
 

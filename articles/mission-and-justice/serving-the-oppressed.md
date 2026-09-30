@@ -11,8 +11,6 @@ summary: "A Bible study by Libby Swenson examining Isaiah 53 and Matthew 25:31-4
 source: "Justice/serving the oppressed.pdf"
 ---
 
-## Libby Swenson
-
 the vulnerable child living thousands of miles away. We naturally feel badly for them but may perhaps find it too demanding to “get our hands dirty” for their sake.
 
 ## What's the Big Deal?
@@ -51,13 +49,13 @@ As Tim Keller, pastor of Redeemer Presbyterian Church in NYC states, “On Judgm
 
 Christ is more among us than we think He is.
 
-## Luauch Questions:
+**Luauch Questions:**
 
 How does serving the vulnerable apply to you as a college student?
 
 Have you ever felt that “ministry” and “serving the least of these” are two separate issues? Why or why not?
 
-## Explore Questions:
+## Explore Questions
 
 Read Isaiah 53, paying particular attention to vv. 7-8 1. Why did Jesus have to go through this type of suffering for the world? Why couldn’t He have just said, “OK, everyone is forgiven, you’re all fine now.”?
 

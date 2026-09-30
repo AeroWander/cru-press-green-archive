@@ -12,7 +12,7 @@ summary: "Cru.comm Bible study curriculum article by Henry Cloud on choosing hea
 source: "Building Community/Men and Women/Women/Dating the Right Person.pdf"
 ---
 
-## Cru.comm • Bible Study Curriculum
+Cru.comm · Bible Study Curriculum
 
 Cru.Comm is the Campus Ministry’s core Bible study content. Over 110 Bible studies, written to ensure that everyone involved in our ministry is grounded in our classic, biblical teaching and training.
 
@@ -22,9 +22,9 @@ Each of the studies presents classic, transferable Campus Crusade teaching throu
 
 Content includes book studies on Luke, Ephesians, Thessalonians, James, 1 Samuel, John, and Acts. In addition, there are topical studies on issues such as spiritual leadership, God’s redemptive plan, and Old Testament character studies.
 
-## Order Online at Crupress.com Article
+Order Online at Crupress.com Article
 
-### PICKING GOOD PEOPLE • Henry Cloud
+### Picking Good People • Henry Cloud
 
 After 20 years in the profession of helping people, I have come to understand something: we cause much of our pain by the people we choose. In every kind of clinical issue that psychologists deal with, relationships are a big part of the picture in some way. Consider these questions:
 
@@ -104,6 +104,6 @@ So, get to work. Find a good community where you can learn how to grow in your a
 
 Adapted from Changes That Heal by Dr. Henry Cloud, Zondervan Publishers, and Safe People by Dr. Henry Cloud and Dr. John Townsend, Zondervan Publishers. ©1996, Henry Cloud, Ph.D.
 
-End The Compass is the discipleship curriculum for Campus Crusade for Christ’s Campus Ministry. It was created by Centerfield Productions, the field based division of CruPress. We’d love to hear your feedback on this lesson. Please write us at centerfield@uscm.org ©2007 Cru Press, Campus Crusade for Christ, Inc. All rights reserved.
+End The Compass is the discipleship curriculum for Campus Crusade for Christ’s Campus Ministry. It was created by Centerfield Productions, the field based division of CruPress. We’d love to hear your feedback on this lesson. Please write us at centerfield@uscm.org All rights reserved.
 
 No part of this publication may be digitally reproduced, stored in a retrieval system, or transmitted, without the prior permission of Cru Press.

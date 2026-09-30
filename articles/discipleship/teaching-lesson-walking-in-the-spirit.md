@@ -61,7 +61,7 @@ H. Claim Christ’s love and forgiveness, and continue to have fellowship with H
 
 “The very act of looking for an emotional experience is a denial of the concept of faith, and `whatever is not of faith is sin.’ We can know right now that we are filled with the Holy Spirit by trusting in God’s holy word, his command and promise, and we can go through life with that assurance. In order to walk in the Spirit we must first be sure that we are filled and then we must continue to breathe spiritually.”
 
-## Ii. Be Prepared for Spiritual Conflict
+## II. Be Prepared for Spiritual Conflict
 
 [Have the class divide into groups of 4-6 and ask the question, “Why is the Christian life sometimes so difficult and challenging to live?” Have each group come up with as many answers as they can. Have each group share their responses as time allows.] Why is the Christian life sometimes so difficult and challenging to live?
 
@@ -87,7 +87,7 @@ Do not love the world or anything in the world. If anyone loves the world, the l
 
 “We have nothing to fear from Satan if we depend upon Christ and not on our own strength. Remember, Satan has no power except that which God in his wisdom allows him to have. Satan was defeated 2,000 years ago at the cross and God’s power is sovereign over him.” “God’s Spiritual armor provides our safety against Satan.” (Ephesians 6:11,12)
 
-## Iii. Know Your Resources as a Child of God
+## III. Know Your Resources as a Child of God
 
 [Have the class as a whole consider the question, “What does Jesus want you to experience in your Christian life?” Record the class answers on an overhead.] What does Jesus want you to experience in your Christian life?
 
@@ -101,7 +101,7 @@ That power is like the working of his mighty strength, which he exerted in Chris
 
 The more we understand our resources in Christ, the more we will desire to do His will. “A student asked, ‘If I give my life to Christ, do I become a puppet?’ No. We never become puppets. We have the right to make choices; we are free moral agents. God guides and encourages us, but we must act. He does not force us. But the more we understand the love of God, the faithfulness of God and the wisdom and power of God, the more we will want to trust Him with every detail of our lives. The secret of the successful Christian life is to keep Christ on the throne of our lives and live in the power and control of the Holy Spirit. Failure in our Christian lives will occur only if we deliberately choose to be disobedient.”
 
-## Iv. Live by Faith
+Iv. Live by Faith
 
 [Have the class divide into groups of 4-6 and consider the question, “What will typify the person who understands how to walk by faith?” Have each group list as many as they can. Have each group share their answers as time allows.] What will typify the person who understands how to walk by faith?
 

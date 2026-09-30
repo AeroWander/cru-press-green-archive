@@ -11,8 +11,6 @@ summary: "An article by Eric Swanson on building a \"learning team\" in campus m
 source: "MTL/MTL/MTL2/Leading Learners.pdf"
 ---
 
-## Eric Swanson
-
 (Ecclesiastes 4:13).
 
 2. Over dependence on the team leader. Using the analogy from Flight of the Buffalo, the herd stands around until the head buffalo starts moving. Learning organizations are more like a flock of geese, where the roles of leadership (based on knowledge and competency) change frequently. Because positional hierarchy is not stressed nor needed in a knowledge based learning organization does not mean that lines of influence and power are removed. Peter Drucker in Managing in a Time of Great Change writes “In a world without hierarchical reporting structures, information replaces authority. The ones with the best information will yield the most influence.”

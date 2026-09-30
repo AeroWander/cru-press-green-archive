@@ -11,7 +11,7 @@ summary: "An article by Scott M. Crocker explaining the missiological rationale 
 source: "Launching a New Ministry/Ethnic_ Contextualized Ministries/Focus on People of African Descent copy.pdf"
 ---
 
-## Scott M. Crocker
+Scott M. Crocker
 
 Why The Impact Movement Focuses on People of African Descent As a new campus missionary with Campus Crusade for Christ in the mid-1990’s, I noticed something early on during my time at Kent State University. Although I had the privilege of seeing a number of African American students indicate decisions to receive Christ and then meet with me for personal discipleship, none of them wanted to continue on with their involvement in Campus Crusade after being invited to a weekly meeting or small group Bible study. Though one of the largest groups on campus, we were overwhelmingly made up of white students and staff members and had very few students of color involved in the ministry. customs, institutions, and all other products of human work and thought created by a people or group at a particular time.”2 This could include, but is not limited to, preferences for food, music, clothing, family, time orientation and humor. Culture pervades all areas of life whether one realizes it or not. In fact, there is no human being on the planet that exists apart from culture.
 

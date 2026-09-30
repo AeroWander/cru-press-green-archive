@@ -11,7 +11,7 @@ summary: "A Bible study titled 'Trustworthy Stewards' by Libby Swenson, built ar
 source: "Justice/Trustworthy Stewards.pdf"
 ---
 
-## Libby Swenson What's the Big Idea?
+## What's the Big Idea?
 
 Since much has been given to us, much is required of us, and since much is entrusted to us, much will be demanded of us. By inviting the poor into our homes, we are being rightful stewards of what we have been given.
 
@@ -38,7 +38,7 @@ Think of it like a trust account. The more one has in the account, the more resp
 
 Luke 14:12-14: Jesus was invited to eat at the home of a prominent Pharisee. On his way, He healed a man who had an abnormal swelling of his body, knowing that the Pharisees were watching Him. He then noticed at the meal that guests were seating themselves in the most prominent places at the table. It is with this backdrop that He gives instructions for hosting a dinner. He told his host not to invite friends that would pay him in return for his generosity, but to instead invite those who could not pay him back.
 
-## Launch Questions:
+## Launch Questions
 
 1. How do you equate stewardship with helping the poor?
 2. In what ways are you particularly blessed by being afforded a college education?

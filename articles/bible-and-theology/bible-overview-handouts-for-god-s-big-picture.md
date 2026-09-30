@@ -108,12 +108,6 @@ Sin Judgement Grace
 
 The Three Promises
 
-1)
-
-2)
-
-3)
-
 APPLICATION
 
 - We are sinful
@@ -444,12 +438,6 @@ A promise:
 Read Acts 1:6-11
 
 A Chronology of the last days:-
-
-1.
-
-2.
-
-3.
 
 Acts 2: The promise begins to be fulfilled
 

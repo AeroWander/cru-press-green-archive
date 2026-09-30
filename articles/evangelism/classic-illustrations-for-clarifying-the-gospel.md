@@ -21,8 +21,6 @@ Topics Include: Community, Prayer, Position in Christ, Assurance of Salvation, S
 
 We’ve also included a number of additional resources. Not the least of which is a series of talks by Roger Hershey on discipleship.
 
-## Order Online at Crupress.com
-
 This analogy comes from the book Becoming a Contagious Christian by Bill Hybels. A good way to distinguish Christianity from all other religions, religion in general, as well as emphasize Christ’s death for our sin is the analogy of “do vs. done.” It goes like this:
 
 I like to think of the difference between Christianity and religion as the difference between do vs. done. Religion is about following lists of do’s and don’t’s. Religion is about what we can do for God to be good enough to get into heaven. But the problem is that you never know when you’ve done enough. It’s like being a salesman that knows he must make a quota but never being told what it is.
@@ -57,7 +55,7 @@ The Bible says that he declared us guilty, because we are, and demanded that a p
 
 Then he comes to us to offer his life on our behalf. Just like your dad with the check he stands before you and says, “I’ll take the blame for every rotten thing you’ve ever done, and give you credit, for my perfect life. All you need to do is accept it.” Does that make sense?
 
-Have you ever come to the point where you accepted his death on your behalf- That substitutionary payment? Would you like to now?
+Have you ever come to the point where you accepted his death on your behalf-That substitutionary payment? Would you like to now?
 
 Copyright 2003 Centerfield Productions. All rights reserved. This study may be copied, without alteration, for personal ministry use. Resale of this study for profit is strictly forbidden. Published by Centerfield Productions 722 Tanager Dr. State College, PA 16803.
 
@@ -83,7 +81,7 @@ He asked the crowd, “How many believe that I can walk to the other side and ba
 
 Trusting Christ is not simply assenting to the facts of the gospel message, there is a decision that implies actually getting into the wheelbarrow.
 
-Copyright 2003 Centerfield Productions. All rights reserved. This study may be copied, without alteration, for personal ministry use. Resale of this study for profit is strictly forbidden. Published by Centerfield Productions 722 Tanager Dr. State College, PA 16803. © 2010, CruPress, All Rights Reserved. CruPress.com This is similar to the Judge Illustration. It seeks to draw into sharp relief God’s love and his justice and show the tension between the two. Only because of the cross is he able to be “just and the one who justifies those who have faith in Jesus.” As in the judge illustration you want to heighten awareness of those two attributes, love and justice, and show how both are satisfied by Jesus’ death.
+Copyright 2003 Centerfield Productions. All rights reserved. This study may be copied, without alteration, for personal ministry use. Resale of this study for profit is strictly forbidden. Published by Centerfield Productions 722 Tanager Dr. State College, PA 16803. This is similar to the Judge Illustration. It seeks to draw into sharp relief God’s love and his justice and show the tension between the two. Only because of the cross is he able to be “just and the one who justifies those who have faith in Jesus.” As in the judge illustration you want to heighten awareness of those two attributes, love and justice, and show how both are satisfied by Jesus’ death.
 
 It is slightly stronger than the judge illustration in that the punishment is physical and thus more consistent with the cross. It is weaker in as much it’s entirely in the third person and not personalizable. Not that “personalizable” is actually a word. Anyway, here’s the script:
 
@@ -109,7 +107,7 @@ So here’s what he did. He declared us guilty and order that the penalty be pai
 
 Does that make sense?
 
-Copyright 2003 Centerfield Productions. All rights reserved. This study may be copied, without alteration, for personal ministry use. Resale of this study for profit is strictly forbidden. Published by Centerfield Productions 722 Tanager Dr. State College, PA 16803. © 2010, CruPress, All Rights Reserved. CruPress.com The following illustration seeks to inject meaning into what is for many an empty phrase: “Jesus died to show that he loved us.” Almost everyone would agree with that, but few have thought through what the heck it means. With a simple guided conversation you can explain what it means and leave people faced with the unavoidable conclusion that they are in grave danger. Ultimately you are just walking them through a simple syllogism:
+Copyright 2003 Centerfield Productions. All rights reserved. This study may be copied, without alteration, for personal ministry use. Resale of this study for profit is strictly forbidden. Published by Centerfield Productions 722 Tanager Dr. State College, PA 16803. The following illustration seeks to inject meaning into what is for many an empty phrase: “Jesus died to show that he loved us.” Almost everyone would agree with that, but few have thought through what the heck it means. With a simple guided conversation you can explain what it means and leave people faced with the unavoidable conclusion that they are in grave danger. Ultimately you are just walking them through a simple syllogism:
 
 Jesus’ death shows he loves us.
 
@@ -163,4 +161,4 @@ Logically, then there are only three possibilities for Jesus’ identity: He was
 
 There’s a fourth option that people prefer because it makes him nice and safe. It’s that he was a just a good teacher. Just a nice, moral man. But that’s not possible. Insane people don’t make particularly good teachers, and it would be hard to call the greatest scam artist “moral.” You need to evaluate his claims honestly and take him as he is, not invent some fourth option fantasy because it’s more comfortable. Who do you think he was? Lord, Liar, or Lunatic?
 
-Copyright 2003 Centerfield Productions. All rights reserved. This study may be copied, without alteration, for personal ministry use. Resale of this study for profit is strictly forbidden. Published by Centerfield Productions 722 Tanager Dr. State College, PA 16803. © 2010, CruPress, All Rights Reserved. CruPress.com
+Copyright 2003 Centerfield Productions. All rights reserved. This study may be copied, without alteration, for personal ministry use. Resale of this study for profit is strictly forbidden. Published by Centerfield Productions 722 Tanager Dr. State College, PA 16803.

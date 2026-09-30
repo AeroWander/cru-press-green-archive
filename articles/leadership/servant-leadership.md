@@ -11,7 +11,7 @@ summary: "An article by Eric Swanson defining servant-leadership as the biblical
 source: "MTL/Lead Your Team/Servant Leadership.pdf"
 ---
 
-## Eric Swanson Who Wants to Be First?
+## Who Wants to Be First?
 
 In first century Palestine, authority and power were at a premium. The Romans ruled with pomp and authority. To see the centurions and their soldiers marching through the streets of Jerusalem or Capernaum, ready to enforce their will must have been an awesome sight. With authority came influence, prestige and position. By way of contrast, servants were on the opposite end of the social order. They were there for the benefit of others. On our own, who wouldn’t rather be a ruler than a servant? Several times in the gospels, Jesus spoke of a different kind of leadership, usually ending with a poignant summary--“...if anyone wants to be first, he must be the very last and the servant of all” (Mark 9:34), To Jesus, greatness and power were not measured by the number of people serving a leader but the extent that the leader was serving the people under him or her. Oswald Sanders summed up this thought by writing, “True greatness, true leadership, is achieved not by reducing men to one’s service but in giving oneself in selfless service to them” (Spiritual Leadership, Moody Press, 1980) John Stott has written, ”Leaders have power, but power is safe only in the hands of those who humble themselves to serve.”
 

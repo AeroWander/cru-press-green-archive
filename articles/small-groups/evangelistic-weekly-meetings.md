@@ -11,13 +11,11 @@ summary: "An article by Rick James providing do-it-yourself outlines for evangel
 source: "Evangelism/outreach/Evangelistic Weekly Meetings.pdf"
 ---
 
-## Rick James
-
 One of the most effective means of evangelism on campus is for students to invite their friends to an evangelistic talk or event—provided, of course, that the event is done well. The problem is that it’s typically not in the campus budget to bring in an evangelistic speaker. The solution is to do it yourself. Take the points, content, and approaches used by evangelistic speakers and do the talk yourself. Show some interesting video clips, hijack their data and research, and follow the outline of their presentation. No, it will probably not be as good, but it is both cheap and effective.
 
 Here are a handful of my evangelistic talk outlines, feel free to pillage. But if you don’t use these, still think in terms of doing a low-cost version of existing outreach topics and talks.
 
-While this will save you some money, the bigger reason for this approach is so that you can have multiple evangelistic meetings over the course of the year. Ideally, every six weeks or so your meeting should be something that students can invite their non- Christian friends to.
+While this will save you some money, the bigger reason for this approach is so that you can have multiple evangelistic meetings over the course of the year. Ideally, every six weeks or so your meeting should be something that students can invite their non-Christian friends to.
 
 As you’ll see from the following outlines, events on the calendar provide great opportunities for outreach topics.
 
@@ -41,7 +39,7 @@ Read Ephesians 5:25-32 Story: If you can think of one..
 
 “Husbands, love your wives, just as Christ loved the church and gave himself up for her to make her holy, cleansing her by the washing with water through the word, and to present her to himself as a radiant church, without stain or wrinkle or any other blemish, but holy and blameless. In this same way, husbands ought to love their wives as their own bodies. He who loves his wife loves himself. After all, no one ever hated his own body, but he feeds and cares for it, just as Christ does the church — for we are members of his body. For this reason a man will leave his father and mother and be united to his wife, and the two will become one flesh. This is a profound mystery — but I am talking about Christ and the church.”
 
-## Anorexic Relationships
+*Anorexic Relationships*
 
 This is a serious illness where the person literally starves themselves, depriving themselves of all needed nutrition, to drain all life from the body. Example: There are people, bless their souls, who were never loved as children, or whatever the reason, who are emotional black holes. They suck all light and life from the other person in the relationship. They manipulate the other person to sever their other close relational ties, and then once isolated, like a vampire suck all the life out of their partner. They are pathologically narcissistic.
 
@@ -266,15 +264,13 @@ Second these texts circulated shortly after his death. If anyone knew of a discr
 
 Third. Historians know an account is factual, and not propaganda by two clues.
 
-## Part I: Was He Killed and Crucified? Organizing Statement Other Historical Accounts
+Part I: Was He Killed and Crucified? Organizing Statement Other Historical Accounts
 
 Unfortunately there were only a few historians who took it upon themselves to provide an over-arching history of the period. Three of which do mention Jesus:
 
 - Lucian (125-190): refers to Jesus as a crucified sophist (philosopher)
 - Josephus (37-?) “At this time there appeared Jesus, a wise man, for he was a doer of amazing
 1. The document has counterproductive material. Why else would it be there unless the account was true?
-- •
-- •
 - Examples: How would it be productive to show Peter, the pillar of the church denying Christ unless it happened?
 
 Who is it that finds the body? Women. Their testimony wasn’t even accepted in court. It would be like starting a religion in Alabama in the 1930’s and saying to African Americans found the body Relatives question Jesus sanity. That’s not helpful Disbelief of disciples Jesus last words: “my God, my God why have you forsaken me.”
@@ -299,14 +295,14 @@ What is his point? David talked about the messiah, and by the way, we all know w
 
 So Jesus lived, taught, performed miracles, was crucified by Pontius Pilate and his tomb was empty. This seems indisputable. So was he resurrected?
 
-## Part Ii: Was the Tomb Empty
+## Part II: Was the Tomb Empty
 
 1. THE TOMB OF JOSEPH OF ARIMATHEA Luke 23:50-54: (read) he was a member of the Council. This is like being a senator. Everyone knew who was on the council.
 2. EASY TO FIND TOMB AND VERIFY Early Christians had great anger toward Sanhedrin. Inexplicable that they would make this up. HIS ENEMIES ACCEPTED THE TOMB WAS EMPTY Read Matthew 28:13-15:
 
 Telling them, “You are to say, ‘His disciples came during the night and stole him away while we were asleep.’ If this report gets to the governor, we will satisfy him and keep you out of trouble.” So the soldiers took the money and did as they were instructed. And this story has been widely circulated among the Jews to this very day..
 
-## Part Iii: Was He Resurrected?
+## Part III: Was He Resurrected?
 
 1. 500 people could not have the same hallucination
 2. Isaiah 53: predicts the messiah would not see death
@@ -389,7 +385,7 @@ In Iraq we won a war, but the battle still wages in individual hearts, thus ther
 
 Example: Lord of the Rings “Return of the return of the King.”The king as it work in a humble state, an individual level. But a day awaits when he will truly reign.
 
-The hopes of Israel for Shalom were bound up in the Messiah. Let me go back to the passages and make some observations. • • • • One person would take on the sins of many The messiah would be pierced for the transgressions of others.
+The hopes of Israel for Shalom were bound up in the Messiah. Let me go back to the passages and make some observations. One person would take on the sins of many The messiah would be pierced for the transgressions of others.
 
 He would mistaken for an evil doer and killed His death would bring shalom
 

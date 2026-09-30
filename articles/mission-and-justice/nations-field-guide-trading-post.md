@@ -121,7 +121,7 @@ Or after introducing yourself and who you’re with, say, “…I’m really ign
 
 - Some helpful ways to initiate new relationships: » Serve at Native American campus Pow Wows. Help with set up or whatever logistical needs they may have. Or, just show up and observe. » Invite a Native professor or elder, or a student leader, to teach Cru student leaders and staff about an interesting topic like Native Spirituality, or A Native Perspective on Christian Missions, or Cultural Awareness. » Work together on a community project that they are leading. One time we joined them in their Adopt a Highway clean up project. » Invite a drum group to come to one of your meetings and share who they are and what they’re about. Make sure you gift them with money and a meaningful gift. If you’re not sure what or how much then ask.
 
-## Recommended Resources Blogs
+*Recommended Resources Blogs*
 
 “Begay Blog” Donnie & Renee Begay-the founders of Nations and currently serving as staff at New Mexico State University.
 
@@ -153,6 +153,6 @@ Aaron Huey-Americas Native Prisoners of War Aaron Huey’s effort to photograph 
 
 www.nationsmovement.com www.wiconi.com www.naim.ca www.greatplainsgathering.com www.onechurchonetribe.com
 
-## Contact US
+## Contact Us
 
 www.nationsmovementinfo@gmail.com

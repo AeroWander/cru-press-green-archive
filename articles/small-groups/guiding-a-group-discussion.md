@@ -58,10 +58,10 @@ As you ask heart-level questions, your Bible study should grow in authenticity, 
 
 Asking good questions is half the battle to having good discussion. Listening is the other half. When you listen as a leader, it shows you value the opinions and input of the group.
 
-As you become a better listener, your questions become more pertinent and those in your group will more likely participate in the discussion. Here are some tips on how to accomplish this. • • • Be an “in-their-shoes” listener, seeing the situation from their perspective. Try to understand the emotion expressed in their comments.
+As you become a better listener, your questions become more pertinent and those in your group will more likely participate in the discussion. Here are some tips on how to accomplish this. Be an “in-their-shoes” listener, seeing the situation from their perspective. Try to understand the emotion expressed in their comments.
 
 Be an active listener. Your goal is to understand what the other person is communicating. If you are unclear about what they are trying to say, then rephrase in your own words what you believe was just said. This will give the other person a chance to correct you if you misunderstood the meaning. For example, “I’m not sure I caught that, Kristen. Let me see if I understand you. You think that Christians aren’t lonely because they have a relationship with God. Is that right?”
 
-Be an encouraging listener. Many people need affirmation of their comments before they’ll feel comfortable sharing anything more. Verbally respond to their questions and answers by saying something positive: “That answer shows you’re thinking.” “Great, that’s right ...” (repeat what • they said).
+Be an encouraging listener. Many people need affirmation of their comments before they’ll feel comfortable sharing anything more. Verbally respond to their questions and answers by saying something positive: “That answer shows you’re thinking.” “Great, that’s right ...” (repeat what · they said).
 
 Be a “total body” listener. Maintain eye contact with the person speaking and be aware of your posture. Certain positions (like crossing your arms or leaning back in your chair) communicate less concern than other positions, like leaning.

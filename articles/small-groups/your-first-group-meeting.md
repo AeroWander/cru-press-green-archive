@@ -30,7 +30,7 @@ The first group meeting is a crucial one. People will sometimes decide whether t
 2. Take care of all the details regarding the environment – e.g., the room, time, lighting.
 3. Be there early to welcome everyone and introduce people to each other. Work like a dog on remembering names.
 4. Be enthusiastic, regardless of the turnout. If only
-7. Don’t put people on the spot by asking for their testimony or having them pray when they aren’t prepared to do either. Depending on your group, you can also have some strange conversations that aren’t appropriate for the group if you ask too much. Ask safer questions at first. © 2010, CruPress, All Rights Reserved. CruPress.com
+7. Don’t put people on the spot by asking for their testimony or having them pray when they aren’t prepared to do either. Depending on your group, you can also have some strange conversations that aren’t appropriate for the group if you ask too much. Ask safer questions at first.
 8. Don’t blow people away with your big words, grandiose dreams or spirituality. If you start your freshman group with a lecture on how this group is going to reach the world, you might not have a group left.
 9. Be real. Share with the group some of your own journey with the Lord – your ups and downs along the way. Put yourself in their shoes. Remember, they probably don’t know what to expect, so help them feel at ease.
 10. Be positive when asking people to come each week. You might say something like, “You know, one of the things I’m looking forward to about this group is getting to know each other. If seven of us are here one week and four different people the next, we’ll never develop a sense of unity, and we’ll never get to know each other. I’ll be here every week and hopefully everyone will be able to make this time a priority so we can get to know each other.”
@@ -39,10 +39,10 @@ Follow up with each person later and ask if they think they can attend the group
 
 ## After Your First Group Meeting
 
-• Take some time to thank God for your group and the meeting time. • Try to drop by and see each member at least once before the next meeting to get to know them better and get feedback. You might do something social, but don’t force yourself on them. Let them know you care about them as a person. • For the first couple weeks remind your group about the meeting a day or so before. This can easily be done with a short phone call. After a couple of weeks it will be in their schedule.
+- Take some time to thank God for your group and the meeting time. • Try to drop by and see each member at least once before the next meeting to get to know them better and get feedback. You might do something social, but don’t force yourself on them. Let them know you care about them as a person. • For the first couple weeks remind your group about the meeting a day or so before. This can easily be done with a short phone call. After a couple of weeks it will be in their schedule.
 
 ## For Thought / Discussion
 
 1. Share your first small group experiences. What can you learn, good and bad, from them?
 2. Agree or disagree: How people feel during and after the first group meeting is more important than what they learn?
-3. What are some specific steps you can take to create a good atmosphere for your group? © 2010, CruPress, All Rights Reserved. CruPress.com
+3. What are some specific steps you can take to create a good atmosphere for your group?

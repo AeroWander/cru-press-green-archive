@@ -16,8 +16,6 @@ The reason for the Critical Concept series is that there are important topics no
 
 Volume 1 contains five booklets addressing the following topics: Heaven and Hell: Alternative Endings Worldviews: War of the Worlds God’s Will: The Art of Discerning the Will of God Missions/ Great Commission: Mission Impossible Christ-centered Bible Study: Hearing the Music of the Gospel
 
-### Order Online at Crupress.com
-
 Critical Concept Series
 
 ## White
@@ -32,9 +30,9 @@ HEARING THE
 
 Christ-Centered Bible Study by Keith E. Johnson, Ph.D.
 
-Imagine yourself in a large house in which those who are deaf and those who can hear are living together.1 In one of the rooms, you see a guy sitting in a chair and listening to music on his iPod. Rhythmically, he’s tapping his foot, drumming his thighs, jutting his chin out, swaying to the beat, and pursing his lips like Mick Jagger or someone. His entire body moves in response to what his ears are hearing. It’s obvious that he’s enjoying himself and listening to a pretty good song.
+Imagine yourself in a large house in which those who are deaf and those who can hear are living together.1 In one of the rooms, you see a guy sitting in a chair and listening to music on his Ipod. Rhythmically, he’s tapping his foot, drumming his thighs, jutting his chin out, swaying to the beat, and pursing his lips like Mick Jagger or someone. His entire body moves in response to what his ears are hearing. It’s obvious that he’s enjoying himself and listening to a pretty good song.
 
-A few minutes later, one of the deaf persons enters the room. Seeing the guy listening to the music and impersonating Mick Jagger, he thinks, That looks like fun. I think I’ll try that. So he sits down next to him and begins to imitate him. Awkwardly at first, he tries drumming his thighs, jutting his chin out, and swaying to the music just like the guy with the iPod. With a little practice, he begins to catch onto it. By watching and trying, he begins to mirror the other guy’s actions pretty closely. But although he eventually gets better at keeping time, he concludes that it’s not as much fun or as easy as it initially seemed (especially the chin jut—very difficult to do when you’re not actually hearing the music).
+A few minutes later, one of the deaf persons enters the room. Seeing the guy listening to the music and impersonating Mick Jagger, he thinks, That looks like fun. I think I’ll try that. So he sits down next to him and begins to imitate him. Awkwardly at first, he tries drumming his thighs, jutting his chin out, and swaying to the music just like the guy with the Ipod. With a little practice, he begins to catch onto it. By watching and trying, he begins to mirror the other guy’s actions pretty closely. But although he eventually gets better at keeping time, he concludes that it’s not as much fun or as easy as it initially seemed (especially the chin jut—very difficult to do when you’re not actually hearing the music).
 
 After a while, a third person enters the room and watches this scene. What does he see?
 
@@ -260,7 +258,7 @@ Williams, Neil H. Gospel Transformation. 2d ed. Jenkintown, PA: World Harvest Mi
 
 As we allow Scripture to expose our brokenness and point us to our Savior, it functions as it was intended: as a speaker amplifying the music of the gospel.
 
-CruPress is the publishing division of the Campus Ministry. ©2008, CruPress All rights reserved.
+CruPress is the publishing division of the Campus Ministry.
 
 Critical Concept Series Vol. 1 Published by CruPress Design: Devon Sayers Series Editor: Rick James To Order go to: www.CruPress.com Or call 1.800.827–2788 Scriptures taken from the Holy Bible, New International Version ®NIV ®©1973, 1978, 1984 by International Bible Society. Used by permission.
 

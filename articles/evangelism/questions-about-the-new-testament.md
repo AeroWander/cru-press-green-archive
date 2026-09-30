@@ -11,8 +11,6 @@ summary: "An apologetics FAQ-style article by Rick James addressing common quest
 source: "Evangelism/apologetic/Questions About the New Testament.pdf"
 ---
 
-## Rick James
-
 a manuscript of this collection, called the Beatty manuscript. This collection contains ten of Paul’s thirteen letters found in the New Testament. Yet even against such evidence there are scholars who push for later dates on several of the letters, and the reason is a simple presupposition. I’ll try to illustrate. This article is by no means exhaustive on the subject but addresses some of the most common questions concerning the New Testament. For further study we recommend “The Canon of Scripture” by F. F. Bruce (InterVarsity Press).
 
 When I go to McDonalds, I feel unhealthy even when I order the McSalad. The reason is that I have a presupposition that McDonalds food can’t be good for me. Even if the friendly cashier had hand-picked the lettuce and killed the cow herself, I would believe nothing to the contrary.
@@ -39,7 +37,7 @@ And so, at the synod of Hippo (A.D. 393), not at Nicea, the church listed the tw
 
 How did the church come to recognize the books of the New Testament as Scripture?
 
-There were four major criteria. The first is fairly obvious: was it written by one of the disciples? While most of the authors, such as Peter and John, were clearly disciples, what about Mark and Luke, whom we didn’t see sitting at the Last Supper? Early Christian writings explain why these books were included. • • “Mark, the disciple and interpreter of Peter, did also hand down to us in writing what had been preached by Peter.” (Papias, A.D. 60−140)5 “Luke also, the companion of Paul, recorded in a book the Gospel preached by him.” (Irenaeus, A.D. 120−200)6 Jesus and Mary Magdelene While the Gospels do lack romance and a love interest, not a single ancient source indicates that Jesus was married, let alone to Mary Magdalene. By ancient sources, I mean the writings of the New Testament, the writings of early Christians and church leaders, and even the writings of second-century cults such as the Gnostics. The Gospel of the Nazarenes, the Gospel of the Egyptians, the Gospel of the Ebionites, the Gospel of Mary, the Gospel of Peter—not a mention in any of these Gnostic documents. Simply put, there is no historical basis for the claim, and no reputable New Testament scholar would say otherwise.
+There were four major criteria. The first is fairly obvious: was it written by one of the disciples? While most of the authors, such as Peter and John, were clearly disciples, what about Mark and Luke, whom we didn’t see sitting at the Last Supper? Early Christian writings explain why these books were included. “Mark, the disciple and interpreter of Peter, did also hand down to us in writing what had been preached by Peter.” (Papias, A.D. 60−140)5 “Luke also, the companion of Paul, recorded in a book the Gospel preached by him.” (Irenaeus, A.D. 120−200)6 Jesus and Mary Magdelene While the Gospels do lack romance and a love interest, not a single ancient source indicates that Jesus was married, let alone to Mary Magdalene. By ancient sources, I mean the writings of the New Testament, the writings of early Christians and church leaders, and even the writings of second-century cults such as the Gnostics. The Gospel of the Nazarenes, the Gospel of the Egyptians, the Gospel of the Ebionites, the Gospel of Mary, the Gospel of Peter—not a mention in any of these Gnostic documents. Simply put, there is no historical basis for the claim, and no reputable New Testament scholar would say otherwise.
 
 The second criterion was, did the writing conform to the doctrine that had been handed down from the original disciples to their disciples and so on? Third, did the document have wide use and attestation from the earliest and most recognized churches (usually those founded by the disciples) and church leaders? Last, the testimony of the disciples of the original disciples were taken into account, considering what was said by those who had lived on into the second century and testified to their firsthand knowledge of what were authentic apostolic documents. Papias, for example, mentioned his acquaintance with many who had been personally taught by the disciples.7 While it is clear that the apostle Paul, John the Baptist and Jesus were all single, the apostle Paul indicated that many of the disciples had wives (“Don’t we have the right to take a believing wife along with us, as do the other apostles and the Lord’s brothers and Cephas?” [1 Corinthians 9:5]). And, as marriage is clearly not a sin, it is inexplicable why all of the ancient sources would indicate that these three were unmarried, unless they were.
 
@@ -51,9 +49,9 @@ As for the idea that Jesus had a child and that there was a royal bloodline, how
 
 1Josh McDowell, The New Evidence That Demands a Verdict (San Bernardino, Calif.:
 
-Here’s Life, 1999), p. 42.
+Here’s Life, 1999), p.
 
-2Ibid., p. 40.
+2Ibid., p.
 
 3Darrell L. Bock, Breaking the Da Vinci Code (Nashville: Thomas Nelson, 2006).
 

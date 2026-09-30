@@ -11,8 +11,6 @@ summary: "An article by Tim Henderson explaining why Cru emphasizes discipleship
 source: "Discipleship/How to Disciple Others/The Right Reasons for Discipleship.pdf"
 ---
 
-## Tim Henderson
-
 Two years after graduating from Penn State, Roger Hershey visited his alma mater and dropped in on the weekly Cru meeting. There he made an unexpected acquaintance. After the meeting, Roger was approached by a student named Doug, who introduced himself and began to share his personal story of how he had come to Christ. As his story unfolded, Doug mentioned that he had been led to Christ and been discipled by a guy named Lee. and down the road there will be hundreds of people’s lives who have changed because of the privilege of discipleship I had in college.” This is why Cru exists. Cru is not a movement of fellowship and worship. Cru is not a movement of small groups and parties. We like to worship, fellowship, have parties, etc. But Cru is about evangelism and discipleship. Here are three reasons why.
 
 “Lee. You mean Lee Carerra in the Theta Chi House?” Roger asked.
@@ -43,7 +41,7 @@ Biblical disciples communicate their faith Biblical disciples are developing a h
 
 Biblical disciples multiply their faith They can take the things that God has taught them and pass them on to someone else. For instance, if they lead someone to Christ, do they know what to do besides invite them to Cru or take them to church? Biblical disciples can learn how to study the Word of God in depth, how to dig in, observe, and apply the Scriptures, so they themselves can ground a new believer in the faith by walking through Scripture with them. They can also learn how to follow-up with a new believer, lead a Bible study, and act as an accountability partner.
 
-As you’re meeting with a biblical disciple, ask yourself: “Where is this person?” • • • Do we need to focus on walking by faith? Are they spending time in the Word?
+As you’re meeting with a biblical disciple, ask yourself: “Where is this person?” Do we need to focus on walking by faith? Are they spending time in the Word?
 
 Is this person already growing? Are they learning and doing the Word of God? Are they motivated to learn how to reach out to people around them who don’t know Christ?
 

@@ -10,7 +10,7 @@ summary: "A promotional flyer for Cru's weekly meeting, describing Cru as a comm
 source: "Small Groups and Meetings/Posters and Publicity copy/CRU/final/shelb2.pdf"
 ---
 
-## cru
+cru
 
 CHECK OUT OUR WEEKLY MEETING Cru is a community where the gospel is lived as well as taught—real faith, real people, real life. But it’s not just for Christians: it’s also a place to bring your honest questions, problems, and doubts. Hope to see you at our Weekly Meeting.
 

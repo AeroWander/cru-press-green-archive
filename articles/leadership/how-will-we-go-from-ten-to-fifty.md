@@ -11,8 +11,6 @@ summary: "An article by Mike Tilley outlining four critical-path steps for growi
 source: "Launching a New Ministry/Launching a Ministry/Going From 10 to 50.pdf"
 ---
 
-## Mike Tilley
-
 Ask yourself, “How will I go about it? How will our small group of 10 become a ministry of 50?” There are at least four critical path steps for building a community to transform your campus for Christ.
 
 ## Evangelism

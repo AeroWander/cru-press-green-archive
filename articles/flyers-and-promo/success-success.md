@@ -12,6 +12,6 @@ source: "Small Groups and Meetings/Posters and Publicity copy/Weekly Meeting Pos
 
 JESus CAME, HE TOLD us, nOT TO DESTROy LIfe but THAT WE MAy HAVE IT MORE ABunDAnTLy, “LIfe TO THE fuLL”. JOIn us AS WE TRy TO DISCOVER WHAT HE MEAnt and WHAT IT MEAns TO REALLy LIVE.
 
-## real faith. real relationships. real life.
+real faith. real relationships. real life.
 
 WEEKLY DATE/TIME/PLACE

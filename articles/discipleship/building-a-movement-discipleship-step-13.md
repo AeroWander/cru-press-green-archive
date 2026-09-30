@@ -26,8 +26,6 @@ What follows is an article on how to use The Compass, as well as an article on t
 
 ## How to Use the Compass
 
-## Tim Henderson
-
 Often times in the Scriptures, God uses metaphors of journeys to describe both life in general and a relationship with Him. In Psalm 23, David describes life as a path on which God guides us, and death as a valley through which we walk. In Matthew 7, our Lord spoke of the small gate and narrow road that leads to life. And John said that he had no greater joy than to find his children walking in the truth (3 John 4). easy, but to make great discipleship possible. If you just glance over the material 10 minutes before a meeting, they’ll know it, and you’ll feel like a loser. (I know that of which I speak.) If, on the other hand, you will take the time to rigorously interact with what you learn here, and combine it with your own passions and experience, you’ll change their lives and they’ll love you forever. They may even name their kids after you and cry at your funeral. It’s worth it, so dig in. Like most trips, this one is more fun with a companion. And like all adventures into new places, you get more out of them if you can travel with someone who has been there before. It’s extremely likely that you were led to Christ by someone who had already “crossed over from death to life.” By God’s grace they were willing to come back and get you, and walk over that bridge again with you. The same goes if you have had the privilege of being discipled. Even a stud like Paul needed a Barnabas to guide him until he was ready to lead himself. Life in Christ is not meant to be experienced alone.
 
 ## Step One
@@ -71,8 +69,6 @@ Article taken from The Compass.
 Tim Henderson is the Campus Director at Penn State University and has authored or co-authored many of the Campus Ministry resources like The Compass.
 
 ## The Right People for Discipleship
-
-## Tim Henderson
 
 them, and stood on a level place; and there was a great multitude of His disciples, and a great throng of people from all Judea and Jerusalem and the coastal region of Tyre and Sidon, who had come to hear Him, and to be healed of their diseases; and those who were troubled with unclean spirits were being cured. And all the multitude were trying to touch Him, for power was coming from Him and healing them all.”
 

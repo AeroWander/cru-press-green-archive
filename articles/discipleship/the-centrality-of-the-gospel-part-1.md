@@ -12,7 +12,7 @@ summary: "An article by Tim Keller (Part 1) arguing the gospel is not merely an 
 source: "MTL/MTL/MTL2/Centrality of Gospel Part 1.pdf"
 ---
 
-## Tim Keller
+Tim Keller
 
 hearts to give us the light of the knowledge of the glory of God in the face of Jesus Christ.” (II Cor.4:4,6) It has the life of God. Paul said to the Corinthians, “I gave you birth through the gospel”! And then, after it has regenerated us, it is the instrument of all continual growth and spiritual progress after we are converted. “All over the world this gospel is bearing fruit and growing, just as it has been doing among you since the day you heard it and understood God’s grace in all its truth.” (Col. 1:6).
 

@@ -11,7 +11,7 @@ summary: "An article by Andrea Buczynski on the \"Results\" component of a leade
 source: "MTL/Lead Your Team/Results.pdf"
 ---
 
-## Andrea Buczynski the Fourth “R” of the Leadership Model
+## The Fourth “R” of the Leadership Model
 
 At the end of my first month on campus as a new staff member, our area directors paid us a visit. I was excited to see them, and even more excited to learn that I would have a personal appointment with my leaders. what was expected of me.
 
@@ -21,11 +21,11 @@ It was a relief to have someone ask—I was dying inside trying to figure out wh
 
 LEADING AND RESULTS 1 Then she did something that I will never forget. She looked me in the eye and said, “If I were you, I would find some way to think about how to structure my week so that I could do what was expected.” We went on to talk about how I could do that so that I could have a different outcome in the future. I was so motivated when we finished our time together that I shared with as many people in the next two hours as I had the previous week.
 
-## Common Misconceptions About Results 1. Looking at Results Makes Me Feel Bad
+Common Misconceptions About Results 1. Looking at Results Makes Me Feel Bad
 
 When our results don’t match our hopes or aspirations, it’s easy to feel bad. The evil one gets in there and begins to whisper just how bad a Christian worker you are. Don’t listen! Whatever the fruits of our labor are, they have nothing to do with our worth and value before God and others. The worth of anything is determined by the price someone is willing to pay for it. Nothing changes the fact that our worth is measured by the price God has paid for us when He redeemed us—His Son. We did nothing to earn His love and grace in the first place. Susan modeled to me how to use the results she was seeing on my reports to investigate my situation, not to condemn me. And in her investigation, she uncovered several realities: I didn’t know what was expected, I was having a hard time adjusting to a different type of campus and I was frustrated with my own results. She was able to come alongside me as a coach and help formulate a strategy to accomplish
 
-## 2. but What’s on the Report Doesn’t Tell the Whole Story
+## 2. But What’s on the Report Doesn’t Tell the Whole Story
 
 Results never tell the entire story. Our identified measurements do not account for motivation, prayer, diligence or activity. They measure outcomes— LEADING AND RESULTS 2 what has happened as a result of our motivation, prayer, diligence and activity? Each team leader needs to understand the results in the context of all those things as the team evaluates them and brings perspective to the team.
 

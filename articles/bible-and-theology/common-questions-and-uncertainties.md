@@ -110,4 +110,4 @@ WHAT WE ARE TO DO.
 
 HOW WE ARE TO LOVE.
 
-NEXT CONCEPT FROM UNCERTAINTY TO CONFIDENCE FROM FEELINGS OF UNWORTHINESS TO FORGIVENESS FROM BEING UNABLE TO EMPOWERED FROM BEING UNPREPARED TO EQUIPPED FROM BEING UNDEVELOPED TO MATURITY To order more Life Concepts go to Crupress.com ©2008, CruPress, Campus Crusade for Christ, Inc. All rights reserved. Scripture references taken from the Holy Bible, New International Version. Copyright© 1973, 1978, 1984 International Bible Society. Used by permission of Zondervan Bible Publishers.
+NEXT CONCEPT FROM UNCERTAINTY TO CONFIDENCE FROM FEELINGS OF UNWORTHINESS TO FORGIVENESS FROM BEING UNABLE TO EMPOWERED FROM BEING UNPREPARED TO EQUIPPED FROM BEING UNDEVELOPED TO MATURITY To order more Life Concepts go to Crupress.com All rights reserved. Scripture references taken from the Holy Bible, New International Version. Copyright© 1973, 1978, 1984 International Bible Society. Used by permission of Zondervan Bible Publishers.

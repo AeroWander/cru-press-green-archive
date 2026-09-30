@@ -82,7 +82,7 @@ Tags: Vocation, Calling, God’s Will, Discipleship
 
 (Image of White Papers)
 
-iPod—The Single Life
+Ipod—The Single Life
 
 File: The Single Life.pdf
 

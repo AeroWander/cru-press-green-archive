@@ -10,11 +10,11 @@ summary: "A Cru/Justice Bible study leader's guide ('Justice and the Gospel') co
 source: "Sending/Missions/Study 3.pdf"
 ---
 
-## Cru/justice Study 3
+Cru/justice Study 3
 
 and greater clarity. The more our hearts grasp Christ’s selflessness and humility, the more we will humble ourselves to serve the oppressed.
 
-## Leaders Guide What Do I Need to Know About the Passage?
+Leaders Guide What Do I Need to Know About the Passage?
 
 Luke 4:16-21: Near the outset of Jesus’ ministry, Jesus proclaims his purpose: to proclaim good news to the poor, liberty to the oppressed, and recovery of sight to the blind. This passage becomes the backdrop for Jesus’ entire ministry, and Jesus fulfills this passage both physically and spiritually. As followers of Christ, we have the same calling: to proclaim the Gospel – in word and in deed – to the world.
 
@@ -36,7 +36,7 @@ Luke 18:1-8: Jesus teaches his disciples to pray always and never lose heart. Th
 
 ## Bible Study Launch Questions
 
-• Do you ever have selfish reasons for serving the poor/oppressed? • Have you ever lost steam in your efforts to seek justice? • How can we as Christians sustain our motivation to tackle injustice?
+- Do you ever have selfish reasons for serving the poor/oppressed? • Have you ever lost steam in your efforts to seek justice? • How can we as Christians sustain our motivation to tackle injustice?
 
 ## Explore and Apply
 

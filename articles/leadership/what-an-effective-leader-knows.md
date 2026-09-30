@@ -11,13 +11,11 @@ summary: "An article by Eric Swanson on what distinguishes effective ministry le
 source: "Launching a New Ministry/Ministry Leadership/What An Effective Leader Knows.pdf"
 ---
 
-## Eric Swanson
-
 who you are is the single most important aspect you of your ministry. Character is comprised of honesty- -conforming our words to what is true, integrity--conforming our lives to our words--our “yes” is “yes,” consistency, loyalty, discipline, and allowing God to conform us to the image of Christ through His Spirit and Word--all developed over time. In most other professions character is optional. In ministry, it is indispensable.
 
 There is little doubt that the toughest job in Campus Crusade is being a missional team leader. Being an effective team leader is even a greater challenge. Effectiveness is seen in the health and growth of your own life as well as the health and growth of those in your ministry. Hard work and giftedness alone do not guarantee effectiveness in the job. So what does an effective leader know?
 
-## They Know Where Effectiveness Is from
+They Know Where Effectiveness Is from
 
 Effectiveness has to do with “getting the desired results.” It means that you are becoming what God wants you to be at this stage of your life and are seeing the results in your ministry that reflect what God wants to do. Effectiveness is the product of three things:
 
@@ -25,7 +23,7 @@ SKILLS—the “how-tos” of your job. A leader can exhibit strong Christian ch
 
 CHARACTER—who you are becoming on the inside. Your character forms the “root” of your ministry. “The root of the righteous yields fruit (Proverbs 12:12) Your effectiveness is the fruit. Ministries can be “successful” for a season on energy and giftedness but a leader whose giftedness outweighs his character will eventually falter. Apart from character, ministry is merely religious activity. Character is the foundation for effective Christian leadership. Your effectiveness in ministry will be an overflow of who you are and FAITH—believing and responding to God. A leader can be developing in his character and skills yet without faith he will not be effective. Psalm 78:9 says that “the men of Ephraim were equipped with bows yet turned back in the day of battle.” They had the skills--they were great shots but they did not have the faith to go forward in the day of battle. Faith is the indispensable ingredient to effectiveness.
 
-## They Distinguish Between the Important, the Necessary and the Urgent
+They Distinguish Between the Important, the Necessary and the Urgent
 
 THE IMPORTANT components of your job are the “right things” that must be done in order to be effective over the long-haul. Although they may not even be written in your job description, they are of utmost importance because they contribute to the accomplishment of your mission, your values, and ultimately define who you will become as a person and leader. Important things rarely scream for your attention or seem urgent. They are often difficult to measure and can be neglected for a time without any harm. However if these are neglected over a period of time you will not have the personal resources to lead your ministry. Practically speaking, the important aspects of your job have to do with development. THE NECESSARY. Whereas the important has to do with doing the “right things,” the necessary has to do with doing “things right.” The necessary things are the administrative/organizational side of your job and must be seen as part of your job. Although many necessary things can be delegated, they cannot be eliminated. When these are neglected they easily become urgent things. Examples of necessary aspects of your job are personal and campus administration and finances, correspondence and returning phone calls, meeting and message preparation.
 
@@ -63,9 +61,9 @@ Illustration of the changing roles As a leader you should probably spend 90% of 
 
 There are two predominant styles of leadership in the campus ministry today. The first concept is that of the team leader being the “high-scorer” on the team. He sees his role of team leader as the pace setter. He wants to lead by example. He gains his satisfaction by doing more evangelism, having more students in groups, and spending more hours on campus than anyone else on his team. He’s really more concerned with how he is doing rather than how his team is doing.
 
-## They Understands Their “Hingepoints”
+They Understands Their “Hingepoints”
 
-Hingepoint are those small things that we do on a consistent basis that lead to long-term effectiveness. Studies have shown that 80% of the desired results come from 20% of our activities. Hinge-points are high leverage activities which yield a great return for a small amount of time or effort invested. Here are some examples (Think through what good these might accomplish in your life and ministry): • • • • • Studying a different book of the Bible each month.
+Hingepoint are those small things that we do on a consistent basis that lead to long-term effectiveness. Studies have shown that 80% of the desired results come from 20% of our activities. Hinge-points are high leverage activities which yield a great return for a small amount of time or effort invested. Here are some examples (Think through what good these might accomplish in your life and ministry): Studying a different book of the Bible each month.
 
 Weekly appointments with close friends Running 1/2 hour per day.
 
@@ -79,7 +77,7 @@ Steven Covey has noted the difference between efficiency and effectiveness. Effi
 
 ## They Knows How to Ask Good Questions
 
-Often it is not having all the answers that is most important but knowing which questions lead to the right answers. Questions are the tools for analysis, diagnosis, and change. Effective leaders know the importance of questions. Here are some examples of good questions: • • • • • • What is one thing you could do, in your personal life or ministry that, if you did on a regular basis, would make a tremendous positive difference in your life or ministry?
+Often it is not having all the answers that is most important but knowing which questions lead to the right answers. Questions are the tools for analysis, diagnosis, and change. Effective leaders know the importance of questions. Here are some examples of good questions: What is one thing you could do, in your personal life or ministry that, if you did on a regular basis, would make a tremendous positive difference in your life or ministry?
 
 What are the obstacles or roadblocks that we seem to consistently face that keep us from getting where we want to go?
 

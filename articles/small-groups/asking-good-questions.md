@@ -19,19 +19,17 @@ The Ultimate Roadtrip was written to communicate all of the subtle, and not so s
 
 Chapter Topics: Lesson Preparation, Lesson Content, Creating Community, Groups With a Purpose, The Right Questions, Facilitating Life Change, Common Roadblocks and Problems, Incorporating Outreach, and Qualities of a Successful Group Leader. THE ULTIMATE ROADTRIP
 
-### Order Online at Crupress.com
-
 ## 20 questions & other car games
 
 8.1 Different Types of Questions 8.2 Guiding a Discussion 8.3 Learning Activities
 
-## Wouldn’t you hate it if your group members dozed off like they do in bor‑
+Wouldn’t you hate it if your group members dozed off like they do in bor‑
 
 ing classes? They won’t if you lead your group right. Small groups have virtually nothing in common with a lecture. A successful group offers people the chance to learn for themselves, through interaction and mutual involve‑ ment. When this happens the experience is far from boring.
 
 In this section you’ll learn the art and science of asking good questions and using learning activities to stimulate your group to learn for themselves. 8.1 Different Types of Questions
 
-## Broadly speaking there are three types of questions—open, closed and
+Broadly speaking there are three types of questions—open, closed and
 
 limiting. It’s important to understand each type of question, because there are a variety of ways you can use them in guiding your group. Closed questions.
 
@@ -52,7 +50,7 @@ Open Questions.
 
 Open questions don’t imply an answer and are quite helpful for promoting discussion. They cause a person to think and, hopefully, learn. An example of an open question would be, “What do most students think about Jesus Christ?” or, “What do you ob serve in this passage? What seems impor‑ tant?” Open questions encourage group participation. The answers can be broad and varied. Open questions are more difficult to prepare, but they help make for a lively discussion. chapter 8 20 questions and other car games 8.2 Guiding a Discussion
 
-## Group discussion is like a captivating, well-played volleyball game. As the
+Group discussion is like a captivating, well-played volleyball game. As the
 
 leader, you serve the ball by asking a good question. Then someone answers, setting up the ball for someone else in the group to respond, who then hits the ball to another individual. When the volley is dead, you serve up another question. The goal is not simply to keep the discussion going, but to direct it in such a way as to facilitate learning and life-change. It takes practice, preparation and hard work to play an exciting game of volleyball, and the same is true in making good group discussion work. There are a variety of ways to use questions. For example, if you were summarizing a lesson, it might be appropriate to use a limiting question such as, “How would you summarize the main emphasis of this passage?” How‑ ever, at the beginning of a lesson you would want a wide open question Pop Quiz What types of questions are these? How would you respond?
 
@@ -107,7 +105,7 @@ As you become a better listener, your questions become more pertinent and those 
 - Be an active listener. Your goal is to understand what the other person is com‑ municating. If you are unclear about what they are trying to say, then rephrase in your own words what you believe was just said. This will give the other person a chance to correct you if you misunderstood the meaning. For example, “I’m not sure I caught that, Kristen. Let me see if I understand you. You think that Chris‑ tians aren’t lonely because they have a relationship with God. Is that right?” Be an encouraging listener. Many people need affirmation of their comments before they’ll feel comfortable sharing anything more. Verbally respond to their questions and answers by saying something positive: “That answer shows you’re thinking.” “Great, that’s right ...” (repeat what they said).
 - Be a “total body” listener. Maintain eye contact with the person speaking and be aware of your posture. Certain positions (like crossing your arms or leaning back in your chair) communicate less concern than other positions, like leaning. chapter 8 20 questions and other car games 8.3 Learning Activities
 
-## Good questions greatly aid self discovery, but there are other learning ac‑
+Good questions greatly aid self discovery, but there are other learning ac‑
 
 tivities that further help you facilitate learning and application. These ac‑ tivities stimulate thinking and personal discovery and keep your group from being predictable. Try these out to add some variety and take your group to another level of learning.
 

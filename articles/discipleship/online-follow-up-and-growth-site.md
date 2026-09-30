@@ -11,7 +11,7 @@ summary: "A short promotional description of StartingWithGod.com, an online foll
 source: "Discipleship/How to Disciple Others/Starting With God.pdf"
 ---
 
-## Startingwithgod.com
+Startingwithgod.com
 
 Surfing the internet you’ll find thousands upon thousands of Christian websites but you’ll notice something strange: there is really no place you can send a new or young believer to ground them in the basics of the Christian faith and help them grow in their relationship with Christ.
 

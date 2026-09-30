@@ -12,8 +12,6 @@ source: "Launching a New Ministry/Launching a Ministry/Cell Groups.pdf"
 also_filed: ["Small Groups and Meetings/Leading Small Group/Cell Groups.pdf", "Launching a New Ministry/Launching a Ministry/Students Launching A Ministry–Starter Kit/7. Portrait of a Healthy Small Group.pdf"]
 ---
 
-## Mike Tilley
-
 Cell Groups are Small Groups that possess the critical traits of a full-grown ministry. Activities like socials, prayer, outreach, discipleship, and Bible study all happen within the group, making it an ideal Small Group structure for launching a ministry on campus. teaching.
 
 4. They had a heart for the lost expressed in leading others to Christ.
@@ -34,7 +32,7 @@ This biblical community exhibited these four values:
 1. They had a passion for God expressed in prayer and praise.
 2. They had a commitment to one another expressed in caring fellowship.
 3. They had a desire to grow expressed in biblical
-3. A cell group is the means of taking the gospel to every student on campus. Members of cell groups © 2010, CruPress, All Rights Reserved. CruPress.com © 2010, CruPress, All Rights Reserved. CruPress.com creatively and prayerfully reach out to lost students. A cell group is not...
+3. A cell group is the means of taking the gospel to every student on campus. Members of cell groups creatively and prayerfully reach out to lost students. A cell group is not...
 1. Just a Bible study, though Bible study is a vital part to a Christian’s growth.
 2. Just a fellowship, though relationships can make or break a group.
 3. An end in itself, but a means of taking the gospel to the campus.
@@ -98,7 +96,7 @@ The group can meet in a dorm room, dorm lounge, a comfortable room in the studen
 5. The prayer coordinator leads praise and intercession in the group and develops a prayer plan. This person may put people in prayer partnerships or implement other creative ways to encourage prayer and dependence on Christ.
 6. The evangelism coordinator encourages personal evangelism by doing it and bringing others along. The coordinator also provides periodic training (how to share Christ, giving a testimony, etc) and helps people organize four-week evangelistic discussion groups with friends. Parties now and then where people can bring their non-Christian friends are also an idea for the coordinator.
 7. The missions person encourages prayer and involvement in an overseas partnership. It gets exciting when the group (or all the cell groups on campus) decide to get involved.
-1. Mixer/ ice- breaker: Relax, laugh, have some refreshments. One bi-weekly cell group met every other Sunday after church in a home and called the meeting “ Sunday Brunch.” Scrambled eggs and English muffins were a big hit.
+1. Mixer/ icebreaker: Relax, laugh, have some refreshments. One bi-weekly cell group met every other Sunday after church in a home and called the meeting “ Sunday Brunch.” Scrambled eggs and English muffins were a big hit.
 2. Welcome/ vision: Guests are introduced, the leader sets a tone for the meeting. This can be a good time to introduce the theme or restate the vision for the cell group.
 3. Bible study: The Cru.Comm Bible studies on a variety of topics can be obtained through Campus Crusade for Christ. You’ll never run out of good things to talk about.
 4. Prayer: Invite people to share prayer requests related to the Bible study or other personal issues in their lives. This is also a good time to pray for the campus and for lost friends.

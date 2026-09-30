@@ -11,8 +11,6 @@ summary: "An article by Tom Hudzina arguing that the entire Bible, Old and New T
 source: "Discipleship/Basic Growth Concepts/Christ in All of Scripture.pdf"
 ---
 
-## Tom Hudzina
-
 It’s quite appropriate that at the end of Luke’s Gospel, he recounts the interaction Jesus had with a couple of his disciples walking along the road to Emmaus. Jesus—the messiah—has been crucified and the disciples are stupefied, unable to piece it all together. But along comes Jesus disguised as he has been throughout the Scripture and he opens their eyes to see that the whole of Scripture is really about him: the book The Ancient Love Song, Charles Drew (P&R Publishing) notes some of the ways Scripture points us to Christ.
 
 The Law (especially portions of Exodus, Leviticus, Numbers, and Deuteronomy) anticipates Christ by exposing our hearts and persuading us of our need for a Savior.

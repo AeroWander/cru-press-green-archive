@@ -11,8 +11,6 @@ summary: "An article by Eric Swanson, drawing on J. Robert Clinton's Making of a
 source: "MTL/Lead Your Team/Stages of Leadership.pdf"
 ---
 
-## Eric Swanson
-
 Effective leaders increasingly perceive their ministries in terms of a lifetime perspective. J. Robert Clinton in his book Making of a Leader (Nav Press, 1988) defines five developmental phases that God wants to take us through. A developmental phase is a unit of time in a person’s life that God uses to bring a person to his greatest point of usefulness. In real life these phases are not as cut and dry as they are presented here. Many things happen concurrently. These phases have been adapted to fit our situation within Campus Crusade. of a strong devotional life is the one indispensable ingredient to Christian leadership. Without learning to be a self-feeder, the leader will never now how to feed others. Without learning to pray, he will never learn dependence on the Lord.
 
 The most effective way of transmitting convictions and skills at this stage is through modeling. The “spiritual imprints” received will stick with them the rest of his life. Remember this: The quality of these first few years will in many ways shape the ministry destiny of the leader. Learn to view this time as the foundation for a lifetime of ministry. You have the privilege of laying the most important convictions and skills he/she will ever receive.
@@ -55,7 +53,7 @@ Leaders have a tendency to cease developing once they develop some skills and ha
 - Help your team to recognize and embrace the growth phases in their lives. As they begin to understand where they are going, the chances are they will be more cooperative in the process.
 - We help others to grow by growing ourselves. Your team needs to see development and growth as the normative experience of a Christian leader.
 
-## Notes from Erik Erikson
+Notes from Erik Erikson
 
 Psychologist Erik Erikson has defined the life stages that each of us will pass through in this lifetime. Each stage presents us with a choice that needs to be settled before we pass on to the next stage.
 

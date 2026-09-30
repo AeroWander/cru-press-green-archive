@@ -24,7 +24,7 @@ Build Relationships. Once at the retreat, the leaders need to plan some events t
 
 Provide Opportunities for Future Involvement. You may have heard the phrase “involvement breeds commitment.” Toward the end of the retreat or conference is a great time to build an opportunity for that future involvement and sense of vision in the whole group. Plan to meet together as a campus on the last day of the event. This provides a great opportunity to do four things:
 
-1. Have a sharing time so students can hear how God has worked in each other’s lives. © 2010, CruPress, All Rights Reserved. CruPress.com
+1. Have a sharing time so students can hear how God has worked in each other’s lives.
 2. Use God’s Word to communicate His heart to the team.
 3. Point to the future. Plan an event (usually an outreach) that will give them an opportunity to apply what they have learned.
 4. Pray together.
@@ -35,4 +35,4 @@ Rick and I seemed to hit it off from the first day we met. He readily trusted Ch
 
 Many times though he would decide at the last minute to “skip this one” until finally a good friend of his was going and Rick decide to join him. He was excited about the conference and felt an extra boost of confidence knowing that he already had one friend there. Rick had a life-changing week. He was infused with a vision that he had never caught before. Soon after the event, he was one of the key leaders of the movement. He led both his roommates to the Lord. He also designed a number of evangelistic strategies that were used by the movement to more effectively reach students for Christ.
 
-Two years after graduation, Rick left his position in one of the top advertising firms in the world to join the staff of Campus Crusade. Today, the Lord is using him to create and develop campus movements all over the United States. © 2010, CruPress, All Rights Reserved. CruPress.com
+Two years after graduation, Rick left his position in one of the top advertising firms in the world to join the staff of Campus Crusade. Today, the Lord is using him to create and develop campus movements all over the United States.

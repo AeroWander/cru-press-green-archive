@@ -17,11 +17,9 @@ Four Sevens begins with a commitment to spend time with the Lord each day for 28
 
 Introductory content explains how and why to have a quiet time, how to study a passage, the ACTS model of prayer, why Bible translations differ, how to start a prayer journal, and other content foundational to a daily time with the Lord.
 
-## Order Online at Crupress.com
-
 LUKE
 
-## Four Sevens Meeting with Jesus in the Gospel of
+Four Sevens Meeting with Jesus in the Gospel of
 
 By TOM HUDZINA Preface I remember the first time I thought about reading the entire Bible. I was sitting in the back row of a church listening to one of the few people whose walk with God really impressed me. He said, “If you want to say you know God, then you need to know God’s story. And if you want to know God’s story, you have to read the entire thing. Knowing God means knowing his story.”
 

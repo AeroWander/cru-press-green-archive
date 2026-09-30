@@ -10,7 +10,7 @@ summary: "A practical guide from San Francisco Bay CRU on publicizing a new camp
 source: "Launching a New Ministry/Launching a Ministry/Publicity copy.pdf"
 ---
 
-## San Fransico Bay CRU
+San Fransico Bay CRU
 
 spiritual movement?”
 
@@ -29,7 +29,7 @@ And so the most critical, and most difficult, phase of planting a ministry is ga
 ## Paper Advertising
 
 1. Targeted Posters - Post posters targeted toward the specific movement with an opportunity to respond specifically to your yahoogroup or to you.
-2. Guerilla Marketing – Poster on a stick, business card pocket posters, banners advertising a party, networking plus phone bank of volunteers, chalk © 2010, CruPress, All Rights Reserved. CruPress.com stencils, poster on balloons, postcards with vision and info. As soon as you have any interested people ask them to go post up 5-10 posters. When they’ve done that, give them more.
+2. Guerilla Marketing – Poster on a stick, business card pocket posters, banners advertising a party, networking plus phone bank of volunteers, chalk stencils, poster on balloons, postcards with vision and info. As soon as you have any interested people ask them to go post up 5-10 posters. When they’ve done that, give them more.
 3. Big Banners - With paper ads, there’s nothing better than a butcher paper banner. Make em simple advertising a free lunch in a public area like the cafeteria. You probably dont need to bother getting them authorized.
 6. Network To Professors Through Department Secretaries - Contact 5 Department secretaries to find Christian faculty who know Christian students. A great tried-and-true CCC option is to make a classroom announcement in a Religious Studies class and pass out www.quickipodsurvey.com surveys. Many of the kids in there grew up going to church and are trying to figure out their faith.
 
@@ -38,7 +38,7 @@ And so the most critical, and most difficult, phase of planting a ministry is ga
 1. Go To Gathering Points and Introduce Yourself
 - Go on campus, ask people in the social network if they know someone who might be interested in seeing a Christian outreach group started. (including any ethnic studies center).This can be scary at first, but a lot of fun after you break through. It helps to take a survey along.
 
-## Pulling It Togther
+*Pulling It Togther*
 
 Now, from the pool of contacts and relationships that God has provided through all of your networking, you need to attempt to launch a first Small Group meeting.
 
@@ -57,4 +57,4 @@ Set the date, pray, show up, and see what God does. That’s it. Your next step 
 2. Through Churches - Call 5 nearby churches and ask if there are students / lay people who have a heart to see something happen. Then call them up.
 3. Survey Classes/Clubs - Talk with classes / clubs on campus to find interested people.
 4. Network Through Involved Students - Ask students involved on other campuses who they know where you are.
-5. Network Through ASO - Network with the Associated Students Organization © 2010, CruPress, All Rights Reserved. CruPress.com
+5. Network Through ASO - Network with the Associated Students Organization

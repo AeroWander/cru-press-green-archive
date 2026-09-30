@@ -18,13 +18,9 @@ Flesh (for men) deals fearlessly with lust, sex and pornography in a clear, comp
 
 FLESH
 
-## Order Online at Crupress.com
-
-## PLAnOF ACTION
+PLAnOF ACTION
 
 Having purposed in your heart to pursue sexual purity, you will need to employ some very basic but crucial tactics to guard your heart from lust. Once you’ve invited the hairy beast in for a visit, it’s difficult to get him to leave until you’ve acted out in some way. Additionally, we’ve all established some patterns or habits of lust that are so ingrained and so fuel our thoughts that victory will hinge on changing those habits. What follow are some very practical steps you can take that will not remove the fight but will position you better to succeed. Bouncing Eyes In Arterburn and Stoeker’s Every Young Man’s Battle, they suggest that the phrase to remember is “bouncing eyes.” When your eyes bounce toward a sexual image or sexy person, you are to bounce them right back off. Through years of lust your eyes have been trained to bounce onto a sexual image and to stay there dribbling, and drooling, like an NBA point guard. Bouncing on and bouncing off is practical way to break a very old habit. Your eyes 0106 f h...
-
-### l e s
 
 plan of action are the gateway of your mind. When your eyes wrap around a person, your mind and thoughts contour them as well. Guard your eyes and you will guard your mind.
 
@@ -48,10 +44,6 @@ AccountABility Because we’ve talked about this elsewhere, we won’t go into g
 
 With regard to your computer, one accountability strategy we cannot more passionately urge you to use is the website filter www.covenanteyes.com. This is not a filter you can bypass. Each day, the addresses of the websites you visited are sent to two friends. Sure, you could still use the library computer, but you’ll probably feel like too much of a “perv” to do that. This is a powerful tool that will help you to reach your goal. plan of action f
 
-e
-
-h ...
-
 Scripture The Word of God is our sword (Ephesians 6:17). There is no time more critical than when you are seeking to establish habits of purity to have passages wash through your mind throughout the day. Here are our top six passages—not just memorize but to meditate on:
 
 But among you there must not be even a hint of sexual immorality, or of any kind of impurity, or of greed, because these are improper for God’s holy people.
@@ -70,14 +62,8 @@ Job 31:1 Settle for Partial Victories Once you’re in the mud, the tendency is 
 
 108 f h...
 
-### l e s
-
-plan of action © 2010, CruPress, All Rights Reserved. CruPress.com Stop mASturBAting For more on this issue, see the article on masturbation. The point here is if masturbation stays a regular practice in your life, even if you’re not lusting, then lust still maintains a foothold. Don’t Give an Inch Your standard is now “not even a hint.” Anything less is still feeding lust, and it becomes only a matter of time before you capitulate. Lust is a hunger that always wants more. You are no longer tolerating anything that is questionable or marginal. This is a battle and you have drawn your line at the very outskirts of your territory—it is there that you construct your wall.
+plan of action Stop mASturBAting For more on this issue, see the article on masturbation. The point here is if masturbation stays a regular practice in your life, even if you’re not lusting, then lust still maintains a foothold. Don’t Give an Inch Your standard is now “not even a hint.” Anything less is still feeding lust, and it becomes only a matter of time before you capitulate. Lust is a hunger that always wants more. You are no longer tolerating anything that is questionable or marginal. This is a battle and you have drawn your line at the very outskirts of your territory—it is there that you construct your wall.
 
 Relinquish Rights “I deserve to be able to watch TV at night when I’m tired,” or “I should be able to work on the Internet like everyone else.” These are our inalienable (whatever that means) rights, aren’t they? These are all wonderful privileges, but these and others need to be relinquished if your freedom leads you to sin. Make a willful choice to lay down your rights and freedoms in order to gain holiness.
 
 Honesty As we discussed in the article on truth, we need to cultivate a lifestyle of truth. It’s a lifestyle referred to as living with the “roof off and walls down”—a strict adherence to truth in every area of your life and vigilance against exaggeration or any falsehood. A lifestyle of truth has great difficulty supporting the many lies that support lust. Filled With the Spirit Last, and most important, is to live a life saturated in Jesus Christ. Praise him. Thank him. Sing to him. Rely on him throughout the day. Like a sponge, we cannot squeeze lust from our lives without filling our souls with Christ. We cannot empty our souls of lust without replacing them with the enjoyment and worship of something else. Replace lust with God. Make a plan to spend rich and satisfying times with him, where your soul is fed, pray continuously and have others praying for you. These are the basic tactics that we have. Don’t be overwhelmed, but move ahead at a staying-speed. If that means simply taking and implementing one of these strategies, then get after that one thing. plan of action f
-
-e
-
-h ...

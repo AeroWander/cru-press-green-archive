@@ -11,7 +11,7 @@ summary: "An article adapting Timothy Keller's argument that the Bible contains 
 source: "Evangelism/traning/The Gospel in All of Its Forms.pdf"
 ---
 
-## Timothy Keller No Single Gospel Message?
+## No Single Gospel Message?
 
 Let’s take the second criticism first. The belief that there is no single basic gospel outline in the Bible goes back at least to the Tubingen school of biblical scholarship, which insisted Paul’s gospel of justification was sharply different from Jesus’ gospel of the kingdom. In the 20th century, British professor C.H. Dodd countered that there was one consensus gospel message in the Bible. Then, in turn, James Dunn argued in Unity and Diversity in the New Testament (1977) that the gospel formulations in the Bible are so different that we can’t come up with a single outline.
 

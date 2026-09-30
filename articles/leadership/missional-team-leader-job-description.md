@@ -10,7 +10,7 @@ summary: "A concise official job description for the Missional Team Leader role 
 source: "MTL/MTL/Missional Team Leader Job Description.pdf"
 ---
 
-## U.S. Campus Ministry
+U.s. Campus Ministry
 
 Missional Team Leader Job Description Purpose: Give leadership to a team of Christ-like laborers who are committed to reaching a defined campus or people group by planting & growing win, build, send movements. Reports to: The sending leadership for direction and coaching Reporting to Missional Team Leaders:
 

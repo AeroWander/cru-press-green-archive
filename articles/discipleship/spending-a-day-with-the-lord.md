@@ -15,8 +15,6 @@ HOW TO SPEND A DAY WITH THE LORD 1
 
 ## Spending a Day with the Lord
 
-## Ryan Berg
-
 - to worship God
 - to experience His presence
 - “to be progressing in an intimate knowledge and experience of God’s person,presence and power” (John 17:3, Philippians 3:8-10, Deuteronomy 4:29)
@@ -33,7 +31,7 @@ In ministry, there is always something important to do. The demands of our role 
 
 Ask God to remove any hindrance to your fellowship with Him. Focus on the reality of His presence by reading through a passage such as Psalm 139 and then focus on cleansing passages like Psalm 139:23,24; Psalm 51; or Psalm 32.
 
-## The Right Perspective It Is Not:
+## The Right Perspective It Is Not
 
 - to please God
 - to have a better day
@@ -43,7 +41,7 @@ Ask God to remove any hindrance to your fellowship with Him. Focus on the realit
 - to have something to share
 - to grow
 
-## It Is:
+## It Is
 
 - to know God Praise and thanksgiving - Praise God through Scripture passages like Psalm 103, 111, or 145 or Revelation 4 and 5. Or give praise and thanksgiving for specific things in your life.
 

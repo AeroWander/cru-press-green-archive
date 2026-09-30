@@ -20,7 +20,7 @@ In the Meetings and Small Groups section of this site you’ll find a wide assor
 
 ## How to Publicize Your Group Meeting
 
-## San Fransico Bay CRU
+San Fransico Bay CRU
 
 spiritual movement?”
 
@@ -48,7 +48,7 @@ And so the most critical, and most difficult, phase of planting a ministry is ga
 1. Go To Gathering Points and Introduce Yourself
 - Go on campus, ask people in the social network if they know someone who might be interested in seeing a Christian outreach group started. (including any ethnic studies center).This can be scary at first, but a lot of fun after you break through. It helps to take a survey along.
 
-## Pulling It Togther
+*Pulling It Togther*
 
 Now, from the pool of contacts and relationships that God has provided through all of your networking, you need to attempt to launch a first Small Group meeting.
 

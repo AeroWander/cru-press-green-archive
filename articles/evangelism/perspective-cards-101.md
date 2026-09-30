@@ -11,8 +11,6 @@ summary: "An article by Barry A. Warren explaining how to use the Perspective ev
 source: "Evangelism/traning/Perspective/Perspective Cards 101.pdf"
 ---
 
-## Barry A. Warren
-
 First say, “Tell me more about that.” Then ask, “How did you come to that belief ?” That’s it! (Note: if you have the new Perspective questionnaire, these will be the ‘a’ and ‘b’ questions under each category.) These questions help you get a clear picture of their view and seek to understand why they believe what they believe. As you do this, people will likely realize that they haven’t thought much about these major issues. They may also recognize that they aren’t making much sense or are contradicting themselves. All this is creating space for self-discovery: allowing people to see that they don’t fully understand the whats and whys or their beliefs.
 
 Since I began using Perspective cards to initiate spiritual conversations and share the gospel, I’ve become convinced that non-believers want to talk about God, the meaning and purpose of life, and even Jesus, but only in an environment where they feel comfortable and safe. Believers have a reputation of being good at defending our beliefs but bad at listening. Perspective is designed to create a comfortable and engaging environment where significant conversation about the gospel can take place.

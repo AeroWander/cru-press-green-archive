@@ -16,11 +16,9 @@ The InTransition Workbook/Magazine equips and prepares graduating seniors to tra
 
 Single life, finances, life-transitions, the will of God, a theology of work, evangelism in the real world: InTransition addresses all the critical issues of a successful transition from campus-a resource for the last and most neglected phase of campus discipleship.
 
-### Order Online at Crupress.com
+## Want Ad
 
-## Want Ad Want Ad////
-
-WANT AD /////////// IN SEARCH OF MEANINGFUL WORK BY TIM HENDERSON IN SEARCH OF MEAN- INGFUL WORK  © 2010, CruPress, All Rights Reserved. CruPress.com
+WANT AD IN SEARCH OF MEANINGFUL WORK BY TIM HENDERSON IN SEARCH OF MEANINGFUL WORK 
 
 In 1983 Steve Jobs, founder and chairman of Apple Computer, knew he needed a proven leader with marketing experience to take over as CEO. He courted John Sculley, then vice president of marketing for Pepsi. The architect of the Pepsi Challenge marketing campaign, Sculley had a prestigious, secure, and extremely well-paying job—and little motivation to work for this upstart company. Sculley turned down repeated invitations until one day Jobs confronted him with the now legendary question “Do you want to spend the rest of your life selling sugared water, or do you want a chance to change the world?” With that question ringing in his ears, Sculley left Pepsi and came to work for Apple.
 
@@ -42,7 +40,7 @@ If you’d like to see how He’s doing it, take a look at this: If anyone is in
 
 In this passage God describes His plan for changing lives. Look at verse 17: “If anyone is in Christ, he is a new creation; the old has gone, the new has come.” That’s a summary statement of the essence of how a life is changed. If anyone is in Christ, he is a new creation. God’s fundamental plan for changing lives is introducing people to His Son. If a person has a relationship with Christ, this person’s identity is in Him, and all things are new. He gets rid of the bad and begins to replace it with good.
 
-### Other At- Tempts at Trans- Form- Ing Lives
+### Other Attempts at Transforming Lives
 
 There are other plans, but their effects are minimal. If you look at crime as an example, the typical conservative solution is stricter laws and harsher penalties. Liberals, on the other hand, might say, “No, we need to consider the sociological causes behind the crime and recognize that people are basically good; society is bad.” But neither has been successful.
 
@@ -64,7 +62,7 @@ Slowly he swung open the massive door, and I saw the prisoner in that punishment
 
 Those men knew that God himself chose to be punished in their place and that there was no longer any wrath for them. Their experience of that kind of love changed their lives and gave them the ability to break free from their slavery to sin. That is what God is all about. If anyone is in Christ, he or she is a new creation.
 
-###  © 2010, CruPress, All Rights Reserved. CruPress.com INTRODUCTION TO THE SON INTRODUCTION TO THE SON
+ INTRODUCTION TO THE SON INTRODUCTION TO THE SON
 
 Going back to 2 Corinthians 5, “If anyone is in Christ, he is a new creation; the old has gone, the new has come” (verse 17), notice that God’s fundamental plan for changing lives is introducing people to His Son.
 
@@ -94,7 +92,7 @@ I want to invite you to seize that. Invite God to make His appeal through you fo
 
 Sometimes people say they will go into business unless God calls them into professional ministry. Maybe you could turn that around. Why don’t you go into ministry unless God calls you into business? He could do that, and He just might. But maybe you could flip your perspective and say, “I’m going to give the best hours of my days to telling people about Jesus unless God clearly shows me that He has another plan.” That seems to be more in line with Paul’s reasoning in Philippians.
 
-###  What About You?
+ What About You?
 
 Obviously, I don’t know the specific plan God has for you. But I think He has one. Why not make the gamble that what He has for you is to play a role in the most exciting and significant endeavor in human history? What could be better than being an ambassador for God? As you might imagine, the standards for such a job are high, as they should be. So prepare yourself for it. Be pure in your relationships. Develop accountability partners to help you beat sin. Trust God, share your faith, and undertake things that will fail unless He shows up—develop your ability to trust Him. Read and apply His Word. Give yourself experiences that will prepare you for ministry—go on a project, lead a Bible study, learn how to pray. Use this time to prepare yourself. The need is great: “The harvest is plentiful, but the workers are few” (Luke 10:2). There is an endless line of people wanting a job for some firm that makes some product that I probably use and enjoy. But many people are qualified to fill those slots. Why get in line behind them when there are vacancies that only you can fill? God is unlikely to use non-Christians to introduce people to Christ—He’s going to use us. He could use you. Give your life to something worthy of your life. By the way, there’s a postscript to that story about Steve Jobs. He’s had an amazing career. When he was 25, he was worth $100 million. He’s now worth more than 40 times that.
 
@@ -118,7 +116,7 @@ In any one of those three options God could use you to help people leave death a
 
 So, will you consider this? Will you hold your plans for your career in an open hand and honestly tell God that you’ll go anywhere, do anything with your life, including going into full-time Christian ministry? If so, and if you’d prepare for the task, we’d love to have you.
 
-###  © 2010, CruPress, All Rights Reserved. CruPress.com REFLECTION REFLECTION
+ REFLECTION REFLECTION
 
 1. If you could serve anywhere on staff with Campus Crusade, where would you serve?
 2. God often calls us to serve in a ministry He used as the major vehicle of our spiritual growth. What ministry or church has been the most spiritually influential to you?

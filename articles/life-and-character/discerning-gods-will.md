@@ -16,8 +16,6 @@ The reason for the Critical Concept series is that there are important topics no
 
 Volume 1 contains five booklets addressing the following topics: Heaven and Hell: Alternative Endings Worldviews: War of the Worlds God’s Will: The Art of Discerning the Will of God Missions/ Great Commission: Mission Impossible Christ-centered Bible Study: Hearing the Music of the Gospel
 
-### Order Online at Crupress.com
-
 Critical Concept Series
 
 ## White
@@ -239,7 +237,7 @@ The decision to yield every aspect of our life to the Lord is sometimes referred
 
 Rick James works with Campus Crusade for Christ and currently functions as the publisher of Crupress, producing ministry resources for the Campus Ministry. Rick and his wife, Katie, live in West Chester, Pennsylvania, with their three teenage children: Avery, Whitney, and Will. NOTES Giving us an immediate answer would undo many of God’s greater purposes: learning to entrust our future to him, learning to rely on him, cultivating intimacy, engaging our hearts in search of discernment, and so forth.
 
-CruPress is the publishing division of the Campus Ministry. ©2008, CruPress All rights reserved.
+CruPress is the publishing division of the Campus Ministry.
 
 Critical Concept Series Vol. 1 Published by CruPress Design: Devon Sayers Series Editor: Rick James To Order go to: www.CruPress.com Or call 1.800.827–2788 Scriptures taken from the Holy Bible, New International Version ®NIV ®©1973, 1978, 1984 by International Bible Society. Used by permission.
 

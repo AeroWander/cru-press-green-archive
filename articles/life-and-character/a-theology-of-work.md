@@ -17,17 +17,15 @@ The InTransition Workbook/Magazine equips and prepares graduating seniors to tra
 
 Single life, finances, life-transitions, the will of God, a theology of work, evangelism in the real world: InTransition addresses all the critical issues of a successful transition from campus-a resource for the last and most neglected phase of campus discipleship.
 
-### Order Online at Crupress.com
+Labor\\\ L Day//
 
-## Labor\\\ L///////////// Day//
-
-LABOR DAY// A THEOLOGY OF WORK, OR “GOD, GET ME OUT OF BED” BY BOB THUNE  © 2010, CruPress, All Rights Reserved. CruPress.com GOD IS CALLING
+LABOR DAY// A THEOLOGY OF WORK, OR “GOD, GET ME OUT OF BED” BY BOB THUNE  GOD IS CALLING
 
 ## YOU
 
 ### YOU
 
-## Calling Godis
+*Calling Godis*
 
 If you enjoy feeling a vague and unsettled sense of guilt for not going into “the ministry,” you’re better off not reading this chapter. On the other hand, if going to work each day with a sense of Christ-exalting joy sounds attractive, then maybe you ought to read on. The majority of Christians aren’t in vocational ministry. So if God really cares about all of life, it’s about time we developed a coherent theology of work.
 
@@ -58,8 +56,6 @@ The LORD God formed man of dust from the ground, and breathed into his nostrils 
 This truth is right there in the Bible, plain as day. God created you to work. And that’s only the beginning of the story! Adam started out tending a garden, but God had much bigger plans in mind. God created man in His own image, in the image of God He created him; male and female He created them. God blessed them; and God said to them, “Be fruitful and multiply, and fill the earth, and subdue it; and rule over the fish of the sea and over the birds of the sky and over every living thing that moves on the earth.” (Genesis 1:27-28)
 
 God’s purpose was for Adam’s dominion over the garden to expand into his dominion over the whole earth. By producing godly offspring and teaching them to work, Adam and Eve were to subdue all of creation. The language of subduing and ruling mirrors what God did in creation, turning chaos into order. Adam and Eve were to turn the whole earth into the Garden of Eden. And it wasn’t going to happen by magic but by concerted effort.
-
-###  © 2010, CruPress, All Rights Reserved. CruPress.com
 
 Theologians call Genesis 1:27-28 the cultural mandate. God is mandating the establishment of culture. Adam and Eve will produce children. Those children will create families, and those families will band together into cities and social networks. Those networks of human beings will
 
@@ -93,7 +89,7 @@ Redemption is not just about individual souls; it’s about the restoration of t
 
 So redemption in Christ must transform our view of work. No longer is work a necessary evil; now it is a calling. Work has great spiritual significance because it is a chance for God to be glorified. Remember 1 Corinthians 10:31: “Whether … you eat or drink or whatever you do, do all to the glory of God.” A similar command is given in Colossians 3:17: “Whatever you do in word or deed, do all in the name of the Lord Jesus, giving thanks through Him to God the Father.” When you show up at your job, you’re there for the glory of God. God wants to be honored in what you do and in how you do it.
 
-### What are some ways that God can be glorified in our work? Consider these biblical ideas:
+What are some ways that God can be glorified in our work? Consider these biblical ideas:
 
 - God is glorified when we put our whole selves into our work, with a view toward pleasing God, not people (Colossians 3:-).
 - God is glorified when we are honest, even when it hurts us or prevents us from getting ahead (Genesis ; Psalm ).
@@ -108,7 +104,7 @@ So redemption in Christ must transform our view of work. No longer is work a nec
 - God is glorified when we trust Him to provide today what we need for today (Matthew 6:).
 - God is glorified when we rest from work (Deuteronomy 5:-; Psalm :10).
 
-### In all these ways and many more, we can do our work to the glory of God.
+In all these ways and many more, we can do our work to the glory of God.
 
 ## So, What What Now?
 
@@ -130,7 +126,7 @@ If you desperately want to see all of your coworkers saved, but you have a habit
 
 Third, learn the Ten Commandments. I’m serious. Especially the fourth one: the Sabbath. You’ve probably been breaking it your whole life. Now would be a good time to stop.
 
-###  © 2010, CruPress, All Rights Reserved. CruPress.com CALLED OUT
+ CALLED OUT
 
 My friend David left full-time ministry to become a rancher in rural Washington. He said God was calling him to do it. At the time I didn’t quite get it. I was still working under the assumption that God calls people into the ministry, not out of it. In fact, I tried to talk David into staying in vocational ministry. He was good at what he did. God was using him. Leaving the ministry didn’t make sense. your work with the same sense of calling as my friend David did. Raise cattle to the glory of God, already! If ranching isn’t your thing, then do whatever is your thing with a God-entranced vision of vocation. As Paul said to the Colossians, “Whatever you do, do your work heartily, as for the Lord rather than for men. … It is the Lord Christ whom you serve” (Colossians 3:23-24). And that’s true whether you’re preaching sermons or branding cattle or selling stocks.
 

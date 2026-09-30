@@ -17,9 +17,7 @@ But it is more than a book on prayer. It is a book of stories; stories of great 
 
 This is not simply a reprint of an old classic. Fireseeds has been updated and expanded to include recent accounts of student revivals as well as stories from around the world and not simply the U.S. The new Fireseeds also recounts the contribution of women to these revivals as they are often overshadowed, and contains an additional chapter on the filling of the Spirit (including the Satisfied Prayer Experience). Last, the revised version opens with a foreword by Mark Gauthier, and a vision to trust God for movements everywhere. FIRESEEDS OF SPIRITUAL AWAKENING
 
-## Order Online at Crupress.com
-
-## results of spiritual awakening on campus
+results of spiritual awakening on campus
 
 “The really effective agency of religion in the life of the college was the revival … which brought so many … into church and into the ministry. Most college presidents and college faculties of this era felt that they or God … had failed a collegiate generation, if once during its four years there did not occur a rousing revival.”
 

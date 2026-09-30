@@ -14,7 +14,7 @@ Jesus said, “You’re tied down to the mundane; I’m in touch with what your 
 
 You live in terms of what you can
 
-## see
+## See
 
 and I’m living on other terms.”
 

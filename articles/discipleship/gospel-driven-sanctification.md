@@ -11,7 +11,7 @@ summary: "An article by Jerry Bridges arguing against \"performance-based\" disc
 source: "MTL/MTL/MTL2/Last MTL/Gospel Driven Sanctification.pdf"
 ---
 
-## Jerry Bridges More Than a Rulebook
+Jerry Bridges More Than a Rulebook
 
 Early in my Christian life I heard someone say, “the Bible was not given to increase your knowledge but to guide your conduct.” Later I came to realize that this statement was simplistic at best and erroneous at worst. The Bible is far more than a rulebook to follow. It is primarily the message of God’s saving grace through Jesus Christ, with everything in Scripture before the cross pointing to God’s redemptive work and everything after the cross -including our sanctification- flowing from that work. committing any sin. I did not think this out but just unconsciously assumed it, given the Christian culture in which I lived. Yet it determined my attitude toward the Christian life.
 
@@ -39,13 +39,13 @@ So I learned that Christians need to hear the gospel all of their lives because 
 
 Yet even when we understand that our acceptance with God is based on Christ’s work, we still naturally tend to drift back into a performance mindset. Consequently, we must continually return to the gospel. To use an expression of the late Jack Miller, we must “preach the gospel to ourselves every day.” For me that means I keep going back to Scriptures such as Isaiah 53:6, Galatians 2:20, and Romans 8:1. It means I frequently repeat the words from an old hymn, “My hope is built on nothing less than Jesus’ blood and righteousness.”
 
-## No “Easy Believism”
+No “Easy Believism”
 
 But doesn’t this idea that our acceptance with God is based solely on Christ’s work apart from our performance lead to a type of “easy believism”? In its most basic form, this is the notion that “Since I asked Christ to be my Savior, I am on my way to heaven regardless of how I live. It doesn’t matter if I continue in my sinful lifestyle. God loves and will accept me anyway.”
 
 By a similar way of thinking, the claim that God’s acceptance and blessing are based solely on Christ’s work could be taken to mean that it really doesn’t matter how I live right now. If Jesus has already “performed” in my place, then why go through all the effort and pain of dealing with sin in my life? Why bother with the spiritual disciplines and why expend any physical and emotional energy to serve God during this earthly life if everything depends on Christ? Missional teaM leaders: love the lord The Apostle Paul anticipated such “easy believism” in Romans 6:1 when he wrote, “What shall we say then? Are we to continue in sin that grace may abound?” His response in Romans 6:2, “By no means! How can we who died to sin still live in it?” answers the question, “Why bother?” Paul was not responding with “How could you be so ungrateful as to think such a thing?” No, instead he is saying, in effect, “You don’t understand the gospel. Don’t you realize that you died to sin and if you died to sin, it’s impossible for you to continue to live in it” (see Rom. 6:3-14).
 
-## We Died to Sin
+We Died to Sin
 
 Now, however, we come to a big question. What does Paul mean when he says we died to sin? It’s fairly obvious he doesn’t mean we died to the daily committal of sin. If that were true, no honest person could claim to be justified because we all sin daily. None of us truly loves God with our whole being and none of us actually loves our neighbor as ourselves (see Matt. 22:35-40). Nor does it mean we have died in the sense of being no longer responsive to sin’s temptations, as some have taught. If that were true, Peter’s admonition to abstain from the passions of the flesh would be pointless (see 1 Pet. 2:11). So what does Paul mean?
 

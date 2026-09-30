@@ -18,11 +18,9 @@ Community is not simply another ministry activity; it is the context for all min
 
 Will Walker’s book is probably the best apologetic written for why community is the matrix for spiritual growth. But the content goes well beyond theological reasoning, providing extremely practical how’s and why’s for living out our faith in community. Through excellent writing and reasoning, personal examples and stories, the book creates a hunger and desire for communal living. Content of Book: Why We Pursue Independence; Why We Need Community; Repentance; Community and the Word-Communal Quiet Times, Community and Confession; Group Prayer; Godly Speech and Conversation, and A Commitment to Live Communally.
 
-## Order Online at Crupress.com
-
 i i i
 
-## interlude
+## Interlude
 
 On one hand the imagery of marriage and the call to missional community sounds pretty glamorous. On the other hand there is still the question of what we are to do in the course of our everyday lives. So far I have only suggested that you do two things: break up with the notion that life is about you and give yourself to Jesus, as in marriage, in order to discover a life that is about others. Jesus said in one sentence what I have taken four chapters to say: “He who loves his life loses it, and he who hates his life in this world will keep it to life eternal.”1 Community is not an application point—something we need to do in spiritual life. Rather, it is the context in which all the stuff we do finds its proper place in spiritual life. Consider the stuff you do, things you probably would not do if you did not believe in God: go to church, read the Bible, confess your faults, sing out loud around other people. Such things are often used as indicators. When we see people raise their hands during worship or lead a small group, we tend to assume something about their spiritual 1 See John 12:25 maturity, and likewise when we see someone sin. In circles where the “most important” indicators are well defined, they usually become ends in and of themselves. In other words, following Jesus becomes less and less about living for others and more and more about our faithfulness to certain activities. Now these activities are not bad—they are in fact very good—but they are means toward an end and not the end, in and of themselves. So we do not throw out the activities. We simply put them in their proper place. Community enables us to redeem the activities of daily life for their purpose in discipleship.
 

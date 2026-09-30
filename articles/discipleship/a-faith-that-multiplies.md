@@ -12,8 +12,6 @@ source: "Discipleship/Mature Teaching/A Faith That Multiplies.pdf"
 also_filed: ["Discipleship/How to Disciple Others/A Faith That Multiplies.pdf"]
 ---
 
-## Rick James
-
 When I got married to my wife Katie, I would have to say that about the farthest thing from my mind was having children. But something strange begins to happen after you’ve been married for a year or two. Out of your love relationship with your husband or wife, you begin to think increasingly about how fun it would be to not only share a marriage together, but a child as well.
 
 This experience of physical reproduction might very well give us a hint at God’s reason for creating us. Within the Father, Son, and Holy Spirit—there is perfect love. The joy that God has within Himself overflowed to a created order of beings—angels and human beings—who were created out of God’s joy and love within Himself, for the purpose of participating, enjoying, and being the recipients of this love. In light of this, it is interesting that the very first command given to man is to “be fruitful and multiply.” This was also part of the great promise God made to Abraham. God took him outside and said, “Look up to the heavens and count the stars—if indeed you can count them.” Then He said to him, “So shall your offspring be.” God desired to create a holy Nation for Himself through Abraham, and the means was physical reproduction. God could have simply created such a Nation, but God wanted Abraham to have the opportunity and fun of reproducing it.
@@ -58,7 +56,7 @@ Critical to what Jesus modeled, and to the success of our math experiment, is th
 
 2 Timothy 2:2 says, “And the things you have heard me say in the presence of many witnesses entrust to reliable men who will be qualified to teach others.” Paul is writing to his disciple Timothy and telling him to be a good steward of his life and Christ’s teaching by investing in reliable people.
 
-## Everyone Has Kids
+*Everyone Has Kids*
 
 In closing, I want to stress that spiritually multiplying yourself is for everyone and is part of the “normal” Christian life. When you are married for a while, having children just seems to be the natural course of things. When you see people married for many years without kids, often it is because there is a reason. They have either made a choice not to, or there is a physical problem. The same is true spiritually. We are made to reproduce. Our joy is made complete by sharing it with others. If we are not beginning to move in this direction in our spiritual growth, there might be a problem worth investigating. Perhaps an area of sin or some other hindrance to empowerment of the Holy Spirit in your life. Whatever it is, get to the bottom of it so you can move on and start experiencing the joy of parenthood.
 

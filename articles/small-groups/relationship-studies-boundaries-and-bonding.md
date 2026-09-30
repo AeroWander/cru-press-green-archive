@@ -11,13 +11,13 @@ summary: "A Bible study from the Cru.comm curriculum on the church's need for co
 source: "Building Community/Community and Relationships/Relationship Studies.pdf"
 ---
 
-## Cru.comm • Bible Study Curriculum
+Cru.comm · Bible Study Curriculum
 
 Cru.Comm is the Campus Ministry’s core Bible study content. Over 110 Bible studies, written to ensure that everyone involved in our ministry is grounded in our classic, biblical teaching and training. This content ensures continuity and transferability of our teaching from campus to campus and student to student. Each of the studies presents classic, transferable Campus Crusade teaching through a distinctively redemptive lens. Each study is designed to first teach the leaders the passage and then provide them with questions they can use to lead their group through a process of self-discovered learning.
 
 Content includes book studies on Luke, Ephesians, Thessalonians, James, 1 Samuel, John, and Acts. In addition, there are topical studies on issues such as spiritual leadership, God’s redemptive plan, and Old Testament character studies.
 
-## ORDER ONLINE AT CRUPRESS.COM all you need is love • Our Need for Community
+ORDER ONLINE AT CRUPRESS.COM all you need is love · Our Need for Community
 
 What Do I Need to Know About the Passage?
 
@@ -102,7 +102,7 @@ Meeting with Christians helps a person’s spiritual progress and protects him f
 
 And let us consider how we may spur one another on toward love and good deeds.
 
-Hebrews 10:24 Cru.Comm is the small group material for Campus Crusade for Christ’s Campus Ministry. It was created by Centerfield Productions, the field based division of CruPress. We’d love to hear your feedback on this study. Please write us at centerfield@uscm.org ©2007 Cru Press, Campus Crusade for Christ, Inc. All rights reserved. No part of this publication may be digitally reproduced, stored in a retrieval system, or transmitted, without the prior permission of Cru Press.
+Hebrews 10:24 Cru.Comm is the small group material for Campus Crusade for Christ’s Campus Ministry. It was created by Centerfield Productions, the field based division of CruPress. We’d love to hear your feedback on this study. Please write us at centerfield@uscm.org All rights reserved. No part of this publication may be digitally reproduced, stored in a retrieval system, or transmitted, without the prior permission of Cru Press.
 
 ## All you need to love • Bonding
 
@@ -190,7 +190,7 @@ ACTION BONDING 1. To generate discussion on this topic, ask people to share spec
 
 Be devoted to one another in brotherly love. Honor one another above yourselves.
 
-Romans 12:10 Cru.Comm is the small group material for Campus Crusade for Christ’s Campus Ministry. It was created by Centerfield Productions, the field based division of CruPress. We’d love to hear your feedback on this study. Please write us at centerfield@uscm.org ©2007 Cru Press, Campus Crusade for Christ, Inc. All rights reserved. No part of this publication may be digitally reproduced, stored in a retrieval system, or transmitted, without the prior permission of Cru Press.
+Romans 12:10 Cru.Comm is the small group material for Campus Crusade for Christ’s Campus Ministry. It was created by Centerfield Productions, the field based division of CruPress. We’d love to hear your feedback on this study. Please write us at centerfield@uscm.org All rights reserved. No part of this publication may be digitally reproduced, stored in a retrieval system, or transmitted, without the prior permission of Cru Press.
 
 ## Knowing who I am • Boundaries
 
@@ -270,7 +270,7 @@ APPLY 15. Write down how you see yourself making the great-est contribution to t
 
 Now the body is not made up of one part but of many.
 
-1 Corinthians 12:14 Cru.Comm is the small group material for Campus Crusade for Christ’s Campus Ministry. It was created by Centerfield Productions, the field based division of CruPress. We’d love to hear your feedback on this study. Please write us at centerfield@uscm.org ©2007 Cru Press, Campus Crusade for Christ, Inc. All rights reserved. No part of this publication may be digitally reproduced, stored in a retrieval system, or transmitted, without the prior permission of Cru Press.
+1 Corinthians 12:14 Cru.Comm is the small group material for Campus Crusade for Christ’s Campus Ministry. It was created by Centerfield Productions, the field based division of CruPress. We’d love to hear your feedback on this study. Please write us at centerfield@uscm.org All rights reserved. No part of this publication may be digitally reproduced, stored in a retrieval system, or transmitted, without the prior permission of Cru Press.
 
 ## Knowing who I’m not • Boundaries
 
@@ -309,11 +309,15 @@ End ACTION BOUNDArIES Exodus 18 LAUNCH Do you ever feel like you don’t have en
 10. Sometimes our emotions can cause us to take responsibility for things that aren’t on our property. Check off those things you feel would be on your property: Someone• continually needs help with schoolwork
 3. What’s Jethro’s solution? because they fail to plan or prepare.
 
-You feel you should have to be a parent to your • 4. Moses has encountered a wise counselor, yet he still has siblings because your parents are uninvolved. the freedom to choose what he will do with the insight and advice offered to him. How did Moses respond? You feel responsible for your parent’s divorce.• Someone is lonely and you feel an obligation to be his • 5. When we see a person make decisions to not over-or her friend. commit, it typically brings conviction for all the ways we • are over-committing. What things come to your mind?
+You feel you should have to be a parent to your
+
+- 4. Moses has encountered a wise counselor, yet he still has siblings because your parents are uninvolved. the freedom to choose what he will do with the insight and advice offered to him. How did Moses respond? You feel responsible for your parent’s divorce.• Someone is lonely and you feel an obligation to be his
+- 5. When we see a person make decisions to not over-or her friend. commit, it typically brings conviction for all the ways we
+- are over-committing. What things come to your mind?
 
 6. Your boyfriend says that you are making it difficult for him because you won’t have sex.
 
-What are some principles you can draw from this Your roommate never cleans up the room, so you • incident to help you determine what you should and feel you have to do it for her. should not be doing?
+What are some principles you can draw from this Your roommate never cleans up the room, so you · incident to help you determine what you should and feel you have to do it for her. should not be doing?
 
 11. What would be a godly response to someone who is asking, or guilting, you to own more than you should?
 7. In what ways do you tend to over-extend yourself (with your time, in relationships, in activities) or take on more than you can accomplish? Why do you think this pattern is in your life?
@@ -338,4 +342,4 @@ What are some principles you can draw from this Your roommate never cleans up th
 
 What you are doing is not good. You and these people who come to you will only wear yourselves out. The work is too heavy for you; you cannot handle it alone.
 
-Exodus 18:17-18 Cru.Comm is the small group material for Campus Crusade for Christ’s Campus Ministry. It was created by Centerfield Productions, the field based division of CruPress. We’d love to hear your feedback on this study. Please write us at centerfield@uscm.org ©2007 Cru Press, Campus Crusade for Christ, Inc. All rights reserved. No part of this publication may be digitally reproduced, stored in a retrieval system, or transmitted, without the prior permission of Cru Press.
+Exodus 18:17-18 Cru.Comm is the small group material for Campus Crusade for Christ’s Campus Ministry. It was created by Centerfield Productions, the field based division of CruPress. We’d love to hear your feedback on this study. Please write us at centerfield@uscm.org All rights reserved. No part of this publication may be digitally reproduced, stored in a retrieval system, or transmitted, without the prior permission of Cru Press.

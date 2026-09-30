@@ -13,7 +13,7 @@ also_filed: ["Small Groups and Meetings/Posters and Publicity copy/Bible Study F
 
 USA. New York. Homeless man passed out on a train.
 
-## cru. BIBLE STUDY/DISCUSSION
+cru. BIBLE STUDY/DISCUSSION
 
 Blessed (Oh, how lucky) are those without food? Without shelter? What did Jesus mean by this shocking statement? What was he telling us about the meaning of life and where true happiness can be found? Come and join the discussion.
 

@@ -13,7 +13,7 @@ source: "Building Community/Community and Relationships/How To Love By Faith.pdf
 also_filed: ["Discipleship/Basic Growth Concepts/Transferable Concepts/How To Love By Faith.pdf"]
 ---
 
-## Dr. Bill Bright Transferable Concept Eight
+## Transferable Concept Eight
 
 The beautiful ballroom of the Marriott Hotel in Chicago was crowded to capacity with more than thirteen hundred college students and Campus Crusade staff. They seemed to hang on to every word as I explained one of the most exciting spiritual discoveries that I had ever made - how to love by faith. Jews hated one another. The very idea of love and self-sacrifice was foreign to their thinking. When they observed Christians from many nations, with different languages and cultures, actually loving one another and sacrificing to help each other, they responded in amazement, “Behold, how these people love one another!”
 

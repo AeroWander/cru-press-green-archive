@@ -11,8 +11,6 @@ summary: "An article by Sarah Evers addressing the problem of evil and suffering
 source: "Evangelism/apologetic/A World of Suffering and Evil.pdf"
 ---
 
-## Sarah Evers
-
 Asia, finding an open book among the bent rebar, broken bookcases, and roofless rooms where people used to sleep. While helping a Thai family rebuild their humble home after the loss and death in their farming village, we found their wall clock on the ground near a picnic table. It stopped at the time the killer tidal waves devastated their house. Look around you. Turn on the TV. Read the tweets. It’s rather evident that something is not right in our world. In fact, something must be broken. The earthquake in Haiti, Hurricane Katrina, the Tsunami in South East Asia, the Twin Towers. Hunger, pollution, threats of nuclear war, terrorism, campus shootings, greed, genocide. You can’t escape the pressing reality that this is not a perfect world. We are far from experiencing James Cameron’s vision of Pandora in his recent film, AVATAR. No. We are far from that utopia.
 
 I have wept with people who shared horrible stories of abuse, rape, and betrayal. I sat in silence with numb, shell-shocked students in the hours following the tragic shootings at Virginia Tech. Tragedy, suffering and genocide on a global scale are overwhelming. Personal pain is sobering.

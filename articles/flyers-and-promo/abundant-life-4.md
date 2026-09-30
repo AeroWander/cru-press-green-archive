@@ -11,7 +11,7 @@ source: "Small Groups and Meetings/Posters and Publicity copy/Weekly Meeting Pos
 also_filed: ["Small Groups and Meetings/Posters and Publicity copy/Weekly Meeting Posters —Abundant Life/Abundant Life 4 b_w.pdf"]
 ---
 
-## INTIMACY Intimacy
+## INTIMACY
 
 Jesus CAME, he toLD us, not to DEstroy LIfe but thAT WE MAY have IT more abunDAnTLY, “LIfe to the fuLL”. join us as WE try to DIscover whAT he MEAnt and whAT IT MEAns to rEALLY LIve.
 

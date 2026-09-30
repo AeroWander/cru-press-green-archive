@@ -11,8 +11,6 @@ summary: "Classic article by Richard Lovelace outlining specific things Christia
 source: "Building Community/Prayer/Classic Articles On Prayer/Praying For the Next Great Awakening.pdf"
 ---
 
-## Richard Lovelace
-
 What God began building in past awakenings is a good sign of what He intends to complete today. Wholly new features may emerge if He grants us a worldwide spiritual awakening. But since the elements of renewal described in the previous chapter are central to the gospel and anchored in the life and mission of the early church, we can pray for their occurrence today with the assurance that they are critically important for revival and for mission. their hearts toward the Lord with a hunger to seek His will.
 
 ## Hearts That Are Open to God

@@ -69,6 +69,42 @@ def hslug(s, used):
     return k
 
 
+def render_list_block(lines):
+    """A block containing list lines. Handles: a lead-in paragraph before the list, wrapped lines that continue
+    the previous item, bullets nested under a numbered item (and vice versa), and source numbering that
+    skips or repeats (each item keeps its printed number)."""
+    html_, lead, items = [], [], []          # items: [kind, number, text, children[(kind, number, text)]]
+    for l in lines:
+        mu, mo = UL.match(l), OL.match(l)
+        if mu or mo:
+            kind, num, text = ("ul", None, UL.sub("", l)) if mu else ("ol", int(mo.group(1)), OL.sub("", l))
+            if items and kind != items[0][0]:
+                items[-1][3].append([kind, num, text])            # other kind under the current item → nested
+            else:
+                items.append([kind, num, text, []])
+        elif items:
+            target = items[-1][3][-1] if items[-1][3] else items[-1]
+            target[2] += " " + l.strip()                          # wrapped line → same item
+        else:
+            lead.append(l.strip())
+    if lead: html_.append("<p>" + inline(" ".join(lead)) + "</p>")
+
+    def one_list(kind, entries):
+        if kind == "ul":
+            return "<ul>" + "".join(f"<li>{inline(e[2])}{sub(e)}</li>" for e in entries) + "</ul>"
+        start, parts, expect = entries[0][1], [], entries[0][1]
+        for e in entries:
+            val = f' value="{e[1]}"' if e[1] != expect else ""
+            parts.append(f"<li{val}>{inline(e[2])}{sub(e)}</li>"); expect = e[1] + 1
+        return f'<ol{f" start={chr(34)}{start}{chr(34)}" if start != 1 else ""}>' + "".join(parts) + "</ol>"
+
+    def sub(e):
+        return one_list(e[3][0][0], [c + [[]] for c in e[3]]) if len(e) > 3 and e[3] else ""
+
+    if items: html_.append(one_list(items[0][0], items))
+    return "\n".join(html_)
+
+
 def md_to_html(md, skip_headings=()):
     """skip_headings: lower-cased heading texts to leave out entirely (e.g. author names used as headings)."""
     out, toc, used = [], [], set()
@@ -90,12 +126,8 @@ def md_to_html(md, skip_headings=()):
             out.append(f'<h{lvl} id="{hid}">{inline(m.group(2))}</h{lvl}>')
             if lvl <= 3: toc.append((lvl, hid, m.group(2)))
             out.append("<p>" + inline(" ".join(l.strip() for l in lines[1:])) + "</p>")
-        elif all(UL.match(l) for l in lines):
-            out.append("<ul>" + "".join(f"<li>{inline(UL.sub('', l))}</li>" for l in lines) + "</ul>")
-        elif all(OL.match(l) for l in lines):
-            start = int(OL.match(lines[0]).group(1))
-            st = f' start="{start}"' if start != 1 else ""
-            out.append(f"<ol{st}>" + "".join(f"<li>{inline(OL.sub('', l))}</li>" for l in lines) + "</ol>")
+        elif any(UL.match(l) or OL.match(l) for l in lines):
+            out.append(render_list_block(lines))
         elif all(l.startswith(">") for l in lines):
             out.append("<blockquote><p>" + inline(" ".join(l.lstrip("> ").strip() for l in lines)) + "</p></blockquote>")
         elif lines[0].startswith("|") and len(lines) > 1 and re.match(r"^\|?[\s:|-]+\|?$", lines[1]):
@@ -241,6 +273,7 @@ def is_word(w):
         if w.endswith(suf) and len(w) - len(suf) >= 3:
             stem = w[: -len(suf)]
             if stem in WORDS or stem + "e" in WORDS or (stem.endswith("i") and stem[:-1] + "y" in WORDS): return True
+            if len(stem) > 3 and stem[-1] == stem[-2] and stem[:-1] in WORDS: return True     # planning → plan
     return False
 
 
@@ -275,6 +308,12 @@ def tidy_heading(t, authors_first):
     w = t.split()
     if len(w) >= 2 and len(w) % 2 == 0 and [x.lower() for x in w[:len(w)//2]] == [x.lower() for x in w[len(w)//2:]]:
         t = " ".join(w[:len(w)//2])                                              # "Church Church"
+    w = t.split()
+    if len(w) >= 4 and len(w) % 2 == 0 and all(w.count(x) == 2 for x in w):
+        seen_w = []
+        for x in w:
+            if x not in seen_w: seen_w.append(x)
+        t = " ".join(seen_w)                                                     # "Attitude and Attitude and Perspective Perspective"
     t = re.sub(r"\b([A-Za-z]+)- ([a-z]+)\b", lambda m: m.group(1) + m.group(2) if is_word(m.group(1) + m.group(2)) else m.group(0), t)
     m = NAME_PREFIX.match(t)                                                      # "Eric Swanson The Advantage of Teams"
     if m and (m.group(1).lower() in FIRST_NAMES or m.group(1).lower() in authors_first):

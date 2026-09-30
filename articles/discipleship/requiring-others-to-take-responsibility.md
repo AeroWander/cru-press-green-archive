@@ -17,7 +17,7 @@ Postcards is the Users Guide for personal discipleship. While The Compass provid
 
 Here, for example, is a partial list of the topics covered: Habitual Sin, Authority Issues, Christian Counseling, Fasting, Theological Conflicts, Coaching Through Trials, Challenging to Conferences, Confronting Sin, Ministering Cross-Culturally, The Role of Faith, Difficulties in Sharing the Ministry of the Spirit, Selection, Conflict Resolution, Why Does Leadership Matter, Conducting Basic Follow-up... Postcards contains 47 articles on all critical issues of discipleship.
 
-## ORDER ONLINE AT CRUPRESS.COM Requiring others to take responsibility for their choices
+ORDER ONLINE AT CRUPRESS.COM Requiring others to take responsibility for their choices
 
 Being a mature disciple of Christ includes being responsible for our lives; living in light of eternity, and being good stewards of what God has given us. In discipleship, our disciples take more responsibility for their lives and owning their mission of seeking and saving the lost. It is a turning process from self to Christ, from self to others. But, there is a tendency for us to short circuit growth and maturity by taking responsibility for what we are not responsible for. We have a responsibility to those we build, but not for them. Helping others to be responsible for their life and mission has more to do with the discipler than the one being discipled.
 

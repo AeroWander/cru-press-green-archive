@@ -20,27 +20,21 @@ Flesh (for men) deals fearlessly with lust, sex and pornography in a clear, comp
 
 FLESH
 
-### Order Online at Crupress.com
-
-© 2010, CruPress, All Rights Reserved. CruPress.com
-
-## james 5:16 GR oUPS
+james 5:16 GR oUPS
 
 Therefore confess your sins to each other and pray for each other so that you may be healed. The prayer of a righteous man is powerful and effective. James 5:16 If you are already involved in a men’s small group, see if the members would be willing to take a seven-week detour to cover these critical topics. If you don’t have a small group, pull together a handful of Christian friends, and either lead the Bible study yourself, or ask someone else to lead it. Then, devote the next seven weeks to the study of purity, to the Scriptures, and to developing relationships of accountability with other men. For Christian men, purity is not a personal issue—it’s a relational one. Purity must be worked out in community with other men. Answers to the studies are in the back of the book.
 
-### on to the studies
+on to the studies
 
 Week One
 
-## ForgIveN
+## Forgiven
 
 1. Of all of the sins we commit, nothing makes us feel more guilty than sexual sin. Why do you think that is?
 
 No matter how we’ve sexually transgressed, we must all agree that nothing is worse than what Peter did. He out rightly denied Jesus, even after being warned. We can only imagine the sin “hangover” Peter felt from that failure. As a result, there is much we can learn about forgiveness from the account of Peter’s restoration.
 
 Read all of John 21:15-24 022 week one - forgiven f h...
-
-### l e s
 
 When they had finished eating, Jesus said to Simon Peter, “Simon son of John, do you truly love me more than these?” “Yes, Lord,” he said, “you know that I love you.” Jesus said, “Feed my lambs.” Again Jesus said, “Simon son of John, do you truly love me?” He answered, “Yes, Lord, you know that I love you.” Jesus said, “Take care of my sheep.” The third time he said to him, “Simon son of John, do you love me?” Peter was hurt because Jesus asked him the third time, “Do you love me? He said, “Lord, you know all things; you know that I love you.” Jesus said, “Feed my sheep”
 
@@ -67,15 +61,13 @@ Jesus answered, “If I want him to remain alive until I return, what is that to
 15. What struggles do you have that others might not have to deal with?
 16. What two things can you do, that you are not doing, to aid in receiving God’s forgiveness? week one - forgiven
 
-## LUSTWeek two
+LUSTWeek two
 
 Read 2 Samuel 11:1-4.
 
 In the spring, at the time when kings go off to war, David sent Joab out with the king’s men and the whole Israelite army. They destroyed the Ammonites and besieged Rabbah. But David remained in Jerusalem. One evening David got up from his bed and walked around on the roof of the palace. From the roof he saw a woman bathing. The woman was very beautiful, and David sent someone to find out about her. The man said, “Isn’t this Bathsheba, the daughter of Eliam and the wife of Uriah the Hittite?” Then David sent messengers to get her. She came to him, and he slept with her. (She had purified herself from her uncleanness.) Then she went back home.
 
 024 week two - lust f h...
-
-### l e s
 
 1. We all have different things that spark our minds to lust. In his book “Not Even a Hint,” Joshua Harris calls them “lust triggers.” What do you think might have been some of David’s lust triggers?
 2. Fill in some of your lust triggers:
@@ -103,7 +95,7 @@ But among you there must not be even a hint of sexual immorality, or of any kind
 16. In light of that, what would be a godly commitment?
 17. In your own words, write down your own commitment. week two - lust Week three
 
-## tempted
+## Tempted
 
 1. Read James 1:13-18. James avoids putting the blame for temptation on Satan. Why?
 2. To what extent is Satan involved in our temptation?
@@ -111,8 +103,6 @@ But among you there must not be even a hint of sexual immorality, or of any kind
 In Ephesians 6:11 it says, “Put on the full armor of God so that you can take your stand against the devil’s schemes.” The Greek word for schemes is noemata, from the root word noema, which means “mind or thought.” Not coincidently, it is also the root of our word noose (as in “hanging”). The word illustrates that Satan’s schemes are well conceived and that his temptation efforts are usually confined to the most strategic times, and the most strategic methods.
 
 026 week three - tempted f h...
-
-### l e s
 
 3. When is it most strategic for Satan to get personally involved with our temptation?
 4. How do you know when he’s involved? Can you think of a recent time when you felt that he was involved?
@@ -136,12 +126,10 @@ No temptation has seized you except what is common to man. And God is faithful; 
 14. What temptations make you feel guilty, simply for being tempted?
 15. James 1:16 says, “Don’t be deceived.” What have you learned in this study that would keep you from being deceived? What will you do differently as a result? week three - tempted
 
-## sexWeek four
+sexWeek four
 
 1. Read I Thessalonians 4:1-12. Where are the two occurrences of the phrase “more and more” found? What does this tell you about Paul’s primary purpose in writing these words?
 2. Read verses 3-5 and define the following words: Sanctified _ _________________________________ Sexual immorality _ __________________________ Passionate lust _ _____________________________ Heathen _ __________________________________ 028 weeek four - sex f h...
-
-### l e s
 
 3. What are the specific challenges of our culture to remaining pure until marriage? Do you think we have it better, worse, or the same as others? What is the most difficult of all these factors?
 4. Honoring God by controlling our bodies is a consistent theme in Paul’s letters. Look up the following verses and record what they say on this issue:
@@ -161,7 +149,7 @@ Romans 16:16 All the brothers here send you greetings. Greet one another with a 
 
 14. Some have suggested the principle of the “Holy Kiss”—showing physical affection with a commitment to not cause sexual arousal. It moves away from a standard of “What can I get away with?” or “How can I avoid all contact,” and says rather, “How can I physically express affection without sexually arousing either myself or partner.” How do you feel about this as a guideline? week four - sex Week five
 
-## grown
+## Grown
 
 In this study we’ll examine how God makes us holy, and shed light on the question: What’s God’s part in the process, and what’s ours?
 
@@ -177,8 +165,6 @@ We don’t pray enough.
 We aren’t obedient.
 
 3. In the spiritual growth process, what would you say is our responsibility? What is God’s? 030 week five - grown f h...
-
-### l e s
 
 4. Christians can over-emphasize either our role or God’s. How have you seen this?
 
@@ -204,13 +190,11 @@ Another reason for the great struggle for holiness is that God wants to teach us
 15. If there is one component more important than others, it is found in Romans 6:12. Look at the verse, and then answer why it is so crucial.
 16. Give a passage that affirms the hope that one day the sanctification process will be complete. week five - grown Week six
 
-## help
+## Help
 
 The focus of the study is biblical community and accountability. Before we look at community, let’s look at its opposite: isolation. Read Mark 5:2-13: When Jesus got out of the boat, a man with an evil spirit came from the tombs to meet him. This man lived in the tombs, and no one could bind him any more, not even with a chain. For he had often been chained hand and foot, but he tore the chains apart and broke the irons on his feet. No one was strong enough to subdue him. Night and day among the tombs and in the hills he would cry out and cut himself with stones. When he saw Jesus from a distance, he ran and fell on his knees in front of him. He shouted at the top of his voice, “What do you want with me, Jesus, Son of the Most High God? Swear to God that you won’t torture me!” For Jesus had said to him, “Come out of this man, you evil spirit!” Then Jesus asked him, “What is your name?”
 
 032 week six - help f h...
-
-### l e s
 
 “My name is Legion,” he replied, “for we are many.” And he begged Jesus again and again not to send them out of the area.
 
@@ -242,7 +226,7 @@ In Hebrews 10:24 it says, “And let us consider how we may spur one another on 
 
 17. Who could you spur on? List three things you could do that would spur a friend on to love and good deeds? week six - help Week seven
 
-## truth
+## Truth
 
 The power of lust is a lie. Yet, with Christ in our hearts, we cannot endure the pain of outright rebellion. So, to do the unthinkable, we conceal ideas under layers of lies, smuggling in lust dressed in rationales, justifications and outright lies.
 
@@ -257,8 +241,6 @@ The power of lust is a lie. Yet, with Christ in our hearts, we cannot endure the
 Then you will know the truth, and the truth will set you free.
 
 John 8:32 _ _________________________________ 034 week seven - truth f h...
-
-### l e s
 
 An instructor of the foolish, a teacher of infants, because you have in the law the embodiment of knowledge and truth.
 

@@ -11,8 +11,6 @@ summary: "A personal, reflective article by Rick James on the assurance of salva
 source: "Discipleship/Basic Growth Concepts/Eternal Security.pdf"
 ---
 
-## Rick James
-
 I stood there in the bookstore staring, transfixed on the gold-embossed pentagram on the cover. There it was, The Satanic Bible—embodiment of evil. Strangely it was not evil that scared me, but something good, my free will. I had a terrifying thought “What if I were to recant my faith and call upon Lucifer.” I had no desire to do that mind you, I love Christ, but it was the fact that I could, that it was within my power to throw away heaven, that was utterly terrifying.
 
 The security and comfort of our salvation is often short-lived. Mine was anyway. Following on the heels of my discovery of eternal life came the fear that I could loose it. In all honesty, I thought more about that, than I did about my salvation. In point of fact I became compulsive about it, combing through the Bible in search of verses to quiet my growing anxiety. But any verse about salvation, if mentally appendaged with the clause, “unless I loose it,” not only provides little comfort, it actually heightens anxiety. I had salvation, but without security what peace did that bring me? I was anxious here, now, and felt the eternal state of my soul was still in jeopardy, for in theory I had the latent power to relinquish it. I had a winning lottery ticket—so what—I also had the power to tear it up.
@@ -31,7 +29,7 @@ Because I made a decision to place my faith in Christ, I have been born into the
 
 Salvation was a gift. There is not one thing we did to earn it. Likewise, there is not one thing we can do to loose it: if there were, our salvation would in some way be based upon our performance—which it’s not.
 
-## God Wants US to Feel Secure
+## God Wants Us to Feel Secure
 
 I don’t pretend to think that I am in any way as loving as God. But, vile creature that I am, I would want my child (I have several of them) to enjoy the security of knowing they will always be a part of our family. If I said to my daughter, “You will always be in the family provided you don’t (fill in the blank).” Actually let’s fill in the blank. Let’s say I told her that she would always be a member of the family as long as she never touched the Ranch dressing in the refrigerator. Wouldn’t I have done the exact opposite of giving her security? In fact all I’ve done is make her terrified of Ranch dressing.
 

@@ -13,8 +13,6 @@ source: "Discipleship/How to Disciple Others/Design For Discipleship.pdf"
 
 This 20-page, full-color booklet thoroughly, thoughtfully, and biblically explains the Build component of the Campus Ministry. Written by Keith Davy, the article provides an overview, a definition, and a biblical study of what it means to be a disciple and what Jesus meant when he sent us to make disciples. This booklet is a critical resource for growing a ministry into a Movement. The booklet also provides a pictorial survey and explanation of the Campus Ministry resources for Building ministries and Discipling students.
 
-### Order Online at Crupress.com
-
 ## Discipleship
 
 By Keith Davy
@@ -23,7 +21,7 @@ A s Ch r ist’s fol low er s, we have a job to do. Jesus made that clear for us
 
 Disciple making is the work that Christ, with unrivaled authority, has commanded to be done.
 
-### continue is the that is to at all and in times
+continue is the that is to at all and in times
 
 Disciple making is the work for which he promised his presence and in which he participates through the power of his Spirit.
 
@@ -44,7 +42,7 @@ Campus Crusade for Christ (CCC) is a movement of spiritual multiplication whose 
 
 of this age
 
-### final seconds
+### Final seconds
 
 tick away.
 
@@ -104,9 +102,9 @@ There was something better for Christ followers than to be following Christ phys
 - To bring the world to understand the truth about sin, righteousness, and judgment (16:7-11)
 - To guide us into truth, bringing glory to Jesus (16:12-15) This is a mere sampling of the soul-satisfying work the Spirit began to do in people’s lives (John 7:37-39) as he came bestowing power upon Christ’s disciples (Acts 1:8). Apart from the Spirit’s work in our lives, discipleship (that is, following Christ) would be a hopeless, helpless, frustrating, failing proposition. But through the ongoing directing and empowering work of the Spirit in our lives, we increasingly experience the transforming life of Christ from the inside out (ROMans 8:1-17; Galatians 5:16-25; Ephesians 3:16-17). To help us understand what this new post-resurrection relationship with him would be like, Jesus chose the word picture of a branch abiding, or remaining, in its vine (John 15:1- 8). Through staying in an ongoing dependent and obedient Jesus provided the basics of the disciple-making process. relationship with Jesus, the fruit of our lives brings glory to the Father, demonstrating that we are Christ’s disciples indeed. “This is to my Father’s glory,” he said, “that you bear much fruit, showing yourselves to be my disciples” (John 15:8). So, what is a disciple? Here is the summary: To be a disciple is to be a true follower of Jesus Christ. A disciple is one who has come to Christ in faith and continues to follow him, learning to obey him and thus becoming like him in character, lifestyle, and service. Discipleship today is possible only through the presence, power, and work of the Holy Spirit in our lives.
 
-#### 2. What does it mean to
+2. What does it mean to
 
-#### make disciples?
+#### Make disciples?
 
 If you have paid attention during the first section, the answer to the second question should be obvious. To make disciples is to help others become true followers of Jesus. For those who don’t know him, disciple making is helping them come to Christ in faith. For those who believe in Jesus, disciple making involves establishing them in their faith, connecting them with other believers, and encouraging their growth so that, through the transforming power of his Spirit, they increasingly become like Christ. It isn’t primarily about a specific method, activity, or approach. Rather, disciple making is the work of enabling a relationship—the faith-filled following of Jesus Christ as Savior and Lord. Disciple making 101 In the Great Commission (Matthew 28:18-20), Jesus provided the basics of the disciple-making process. With three broad strokes, he painted a picture of what is involved, as we will see. Before examining that process, though, it is important to remember the context that Jesus placed it within. As he issued the directive, Jesus declared his authority: “All authority in heaven and earth has been given to me” (verse 18). There is no higher authority than Jesus. It was this reality that made his first followers unstoppable in their obedience to make disciples (Acts 4:18-20; 5:27-29). The same has been true for countless others in the centuries since. Then, in his conclusion, Jesus promised his presence: “Surely I am with you always, to the very end of the age” (verse 20). Throughout the Bible, when God gave an assignment, he promised his presence to ensure the success of his obedient servants. Consider the examples of Moses (ExODus 3:4-22), Joshua (Joshua 1:1-9), Gideon (Judges 6:1-16), and Jeremiah (Jeremiah 1:4-8). The implications of Jesus’ authority and promise are profound as we engage in disciple making. Because of his authority, nothing should stop us from doing our part. Because of his presence, we should have complete confidence in the outcome. Christ can and will work through our humble efforts to accomplish his magnificent purposes. Disciples will be made.
 
@@ -135,9 +133,9 @@ Imparting foundational truths Along with the relational connections, young disci
 - Prayer (Luke 11:1-13)
 - The Word (2 TiMOthy 3:16-17; HeBRews 4:12)
 - Fellowship (Acts 2:42-47; HeBRews 10:24-25)
-- Witness (Acts 1:8; cOlossians 4:2-6)
+- Witness (Acts 1:8; Colossians 4:2-6)
 - Complete Surrender (MaRK 8:34-38; ROMans 12:1-2)
-- Great Commission (Matthew 28:18-20; Luke 24:45-49) Life Concept guides are available from CruPress and can provide helpful tracks for establishing new believers. Encouraging continual gROWth The concept of discipling has often become associated with an ongoing and intentional relationship in which a more mature believer helps a younger believer grow spiritually. Often, when used this way, the thought moves beyond evangelism or establishing new believers in their faith. Rather, its focus is the ongoing growth and maturity of the one being “discipled.” Paul expressed it this way: “We proclaim him, admonishing and teaching everyone with all wisdom, so that we may present everyone perfect in Christ” (cOlossians 1:28). When I first met Matt and Greg as freshmen football players, I discovered both to be young believers. We began to meet each week, individually and together, for Bible study. We talked about life, sports, school, relationships—you name it and we probably touched on it. We would go sharing Christ together, meet with other young believers, and even spoke together on occasion. I was “discipling” them and continued to do so throughout their five years of college. Now, more than a decade later, both continue to walk with Christ and are reproducing what they experienced with others. Matt claims to use the same diagrams and verses I drew on napkins with those he disciples. Investing time and energy in discipling relationships will yield great dividends, as you leave a legacy in the lives of others. Some prefer to use a standardized curriculum for ongoing disciple-making relationships, while others work more from the needs or interests of the individuals involved. Either approach can be effective. What is “We proclaim him, admonishing and teaching everyone with all wisdom, so that we may present everyone perfect in Christ.” important is the quality of the relationship, the openness and transparency of the communication, the growing understanding of God’s Word, and the deepening experience of the gospel.
+- Great Commission (Matthew 28:18-20; Luke 24:45-49) Life Concept guides are available from CruPress and can provide helpful tracks for establishing new believers. Encouraging continual gROWth The concept of discipling has often become associated with an ongoing and intentional relationship in which a more mature believer helps a younger believer grow spiritually. Often, when used this way, the thought moves beyond evangelism or establishing new believers in their faith. Rather, its focus is the ongoing growth and maturity of the one being “discipled.” Paul expressed it this way: “We proclaim him, admonishing and teaching everyone with all wisdom, so that we may present everyone perfect in Christ” (Colossians 1:28). When I first met Matt and Greg as freshmen football players, I discovered both to be young believers. We began to meet each week, individually and together, for Bible study. We talked about life, sports, school, relationships—you name it and we probably touched on it. We would go sharing Christ together, meet with other young believers, and even spoke together on occasion. I was “discipling” them and continued to do so throughout their five years of college. Now, more than a decade later, both continue to walk with Christ and are reproducing what they experienced with others. Matt claims to use the same diagrams and verses I drew on napkins with those he disciples. Investing time and energy in discipling relationships will yield great dividends, as you leave a legacy in the lives of others. Some prefer to use a standardized curriculum for ongoing disciple-making relationships, while others work more from the needs or interests of the individuals involved. Either approach can be effective. What is “We proclaim him, admonishing and teaching everyone with all wisdom, so that we may present everyone perfect in Christ.” important is the quality of the relationship, the openness and transparency of the communication, the growing understanding of God’s Word, and the deepening experience of the gospel.
 
 It is important to keep discipling relationships in perspective. There are many mature believers and Christian leaders who never experienced such a focused discipleship relationship, and there are many who have never discipled others in this way. Remember that while a one-on-one discipling relationship can be very helpful, it is not essential. When the apostle Paul detailed the growth process for believers in Ephesians 4:11-16, he indicated that gifted individuals would equip God’s people for works of service. Then, as all do their part by speaking the truth in love, believers will grow together into maturity and attain the whole measure of the fullness of Christ. When healthy faith communities live out these principles, spiritual growth happens—disciples grow in the experience of the fullness of Christ. The bottom line is that all disciples need healthy Christian community for growth and maturity. But adding healthy discipling relationships within that community environment can greatly accelerate growth and maturity. pROvding a healthy gROWth enviROnment When it comes to growth, environment is key. Think of gardens, lawns, and farms. Healthy growth in each is dependent on nutrition-rich, well-watered environments. In the same way, the best environment for spiritual growth is one that is relationally healthy and gospel rich. It’s not surprising that growth for disciples occurs in the context of relationships. After all, being a disciple is primarily a relationship with Jesus, and he prioritized the love for one another as one of the marks of his disciples (John 13:34-35). It is in relationships that, over time, we experience grace and truth—the essential ingredients of growth. It is in the context of relationships that the gospel sets us free from the traps of performance and legalism or the pitfalls of excess and license. It is in relationships that our hidden sins and isolation are brought into the open and exposed to the unconditional love of the Savior. It is within a believing community— that is, in a whole lot of interwoven relationships as people do life together—that transforming grace and truth can be best experienced. So, if you are willing and able (by the power of the Spirit) to love people and help them get involved in healthy Christian community, you’ve got the ability to become a first-rate disciple maker. The other essential ingredient for a healthy growth environment is the gospel. In its simplest form, the gospel is the good news about Jesus—who he is and what he has done (see, FOR instance, 1 cORinthians 15:1-5; cOMpare Luke 24:45-48). It is through this gospel that you came to know and experience Jesus as your Savior and Lord by faith (ROMans 1:16-17). But the Christian life doesn’t start with the gospel and then graduate to something else, to some deeper truth. No, you don’t move on; you go deeper and experience more. The gospel, in its fullness, is the whole truth about Jesus and all that his salvation and kingdom have for us. It is like a vein of gold: the deeper you go, the richer you become, not because you are finding something else, but because you are experiencing something more.
 
@@ -194,7 +192,7 @@ What is spiritual multiplication?
 
 What is Jesus calling you to be? His disciple. What is he assigning you to do? Make other disciples. How can you accomplish the most? Through spiritual multiplication. This is the design for discipleship.
 
-#### Questions for Reflection or
+Questions for Reflection or
 
 #### Discussion
 
@@ -219,7 +217,7 @@ What is Jesus calling you to be? His disciple. What is he assigning you to do? M
 19. How are you engaged in each aspect of spiritual multiplication?
 20. What steps can you take to accelerate spiritual multiplication through the lives of others?
 
-### New Resources. New Design. Newly Revised GROWing MOveMent seRies
+### New Resources. New Design. Newly Revised Growing Movement Series
 
 the Growing Movement Series contains the Campus Ministry resources for accomplishing the Build, or discipleship, component of our mission. Every tool serves a specific function in the process of personal discipleship process.
 
@@ -245,7 +243,7 @@ Sharing the ministry of the Holy Spirit the Christian life has been described as
 
 The Satisfied? booklet communicates four foundational truths about being filled and empowered with the Spirit:
 
-The Divine Gift – the gift of the Spirit to each believer The pResent Danger – depending upon or gratifying self The Intimate Journey – walking in the Spirit The eMpOWering pResence – the P ub li sh e d b y W S N P r es s , te ca d . filling of the Spirit du be n o t li p ma y D C s hi T d . ve r se e r WalK BY Faith ts h ig r ll A c. n I t, is hr C r o f de a s ru C s u La k e
+The Divine Gift – the gift of the Spirit to each believer The Present Danger – depending upon or gratifying self The Intimate Journey – walking in the Spirit The eMpOWering Presence – the P ub li sh e d b y W S N P r es s , te ca d . filling of the Spirit du be n o t li p ma y D C s hi T d . ve r se e r WalK BY Faith ts h ig r ll A c. n I t, is hr C r o f de a s ru C s u La k e
 
 #### 4. The Compass
 
@@ -259,7 +257,7 @@ Scripture Memory, and Time Management.
 
 COMMunicate YOUR Faith H a rt
 
-## the COMpass
+## The Compass
 
 #### 5. Thirsty
 
@@ -275,19 +273,19 @@ A ll r ig h ts La k e H a rt P D r te ca d . iv e du be li p , O rl a n o t TRai
 
 CRUsaDE d ve r se e r COMMunity
 
-## Cru.comm
+Cru.comm
 
 version 3.0 explORatiON DiscOveRY actiON
 
-#### 6. Cru.comm
+6. Cru.comm
 
 Small-group material each of the more than one hundred Bible studies in Cru.Comm presents classic, transferable Campus Crusade teaching through a distinctively redemptive lens, in a way that is easy to use in a dynamic, interactive small-group community. Each study is designed to first teach the leaders the passage and then provide them with questions they can use to lead their group through a process of self-discovered learning. the process was to list all of the topics a student should learn through being involved in our ministry for four years. Then books of the Bible were selected that would best cover these topics. Finally, follow-up articles were attached to each study to reinforce the content. This is the Campus Ministry’s small-group curriculum. content includes book studies on Luke, Ephesians, Thessalonians, James, 1 Samuel, John, and Acts. In addition, there are topical studies on issues such as spiritual leadership, God’s redemptive plan, and Old T estament character studies. the studies are also accessible on line at centerfieldproductions.com
 
-#### 8. Postcards from Corinth
+8. Postcards from Corinth
 
 A comprehensive journal on the practice and philosophy of discipleship every ministry has a practice, process, and philosophy of discipleship. Spiritual multiplication, for example, is a distinctive of Campus Crusade discipleship. postcards from Corinth contains forty-seven articles divided into six major sections. The first section deals with life transformation. The second deals with issues of sin. The third looks at gender issues. the Fourth section is marked off for topics concerning ministry (sharing the ministry of the Holy Spirit, basic follow-up, and so on). After the ministry section, there is a series of shorter, quick-read articles. Last is a section entitled “Foundations and History” that brings us back to some fundamental principles of Crusade discipleship that have no expiration date. partial list of topics: Dating, Spiritual Multiplication, Selection, Conducting Basic-Follow-up, Quiet Time—Journaling, Prayer, Campus Missions, Conflict Resolution, Christian Counseling, Fasting, Scripture Memory, Biblical Challenges, Cross-Cultural Ministry, Habitual Sin, Trials, Sharing the Spirit-Filled Life, Evangelism, Faith, Sanctification—How We Grow, and The Role of Leadership.
 
-#### 7. The Ultimate Roadtrip
+7. The Ultimate Roadtrip
 
 A complete guide to leading a successful small group the health and success of a ministry hinge on the health and success of our small groups. Our ministry is comprised of the building blocks of small groups.
 

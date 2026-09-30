@@ -11,13 +11,13 @@ summary: "A Cru.comm Bible study from the Acts curriculum, examining Acts 1:1-8 
 source: "Evangelism/traning/Acts Bible Study.pdf"
 ---
 
-## Cru.comm Bible Study Curriculum
+Cru.comm Bible Study Curriculum
 
 Cru.Comm is the Campus Ministry’s core Bible study content. Over 110 Bible studies, written to ensure that everyone involved in our ministry is grounded in our classic, biblical teaching and training. This content ensures continuity and transferability of our teaching from campus to campus and student to student. Each of the studies presents classic, transferable Campus Crusade teaching through a distinctively redemptive lens. Each study is designed to first teach the leaders the passage and then provide them with questions they can use to lead their group through a process of self-discovered learning.
 
 Content includes book studies on Luke, Ephesians, Thessalonians, James, 1 Samuel, John, and Acts. In addition, there are topical studies on issues such as spiritual leadership, God’s redemptive plan, and Old Testament character studies.
 
-## ORDER ONLINE AT CRUPRESS.COM the power to witneSS • The Holy Spirit
+ORDER ONLINE AT CRUPRESS.COM the power to witneSS · The Holy Spirit
 
 What Do I Need to Know About the Passage? Acts 1:1-8 What’s the Big Idea?
 
@@ -25,9 +25,14 @@ The book of Acts is the sequel to Luke. It opens with a greeting to Theophilus, 
 
 In verse 4, Luke quotes Jesus as saying something that seems counter-intuitive at first glance, given the urgency of their task. Jesus had told the disciples to, “Go, and make disciples of all nations.” But here he says, “Do not leave Jerusalem, but wait for the gift my Father promised, which you have heard me speak about.” It would seem that they should have gone with all haste to carry the news of the risen Savior to the ends of the earth. Understanding why they were to wait is the key to understanding this passage. What Are You Waiting For?
 
-The conversation Jesus is referencing is recorded in John 14-16. Take a second read through those chapters and then come back here for a bit of commentary. Pay special attention to John 14:25-15:8, and 15:26-16:16. As you probably noticed, Jesus had a lot to talk about that night. Notice two topics that were prominent throughout his discourse: power and witnessing. In 15:1-8 He says over and over that there is no power, no fruitfulness, unless we are connected to Him: • No branch can bear fruit in itself. It must remain in the vine. (15:4) • Neither can you bear fruit unless you remain in me. (15:4) • If a man remains in me and I in him he will bear much fruit. (15:5) • Apart from me you can do nothing. (15:5)
+The conversation Jesus is referencing is recorded in John 14-16. Take a second read through those chapters and then come back here for a bit of commentary. Pay special attention to John 14:25-15:8, and 15:26-16:16. As you probably noticed, Jesus had a lot to talk about that night. Notice two topics that were prominent throughout his discourse: power and witnessing. In 15:1-8 He says over and over that there is no power, no fruitfulness, unless we are connected to Him:
 
-And look how often he comments on how the Spirit will help us know and communicate truth: • But the Counselor, the Holy Spirit, whom the Father will send in my name, will teach you all things and will remind you of everything I have said to you. (14:26)
+- No branch can bear fruit in itself. It must remain in the vine. (15:4)
+- Neither can you bear fruit unless you remain in me. (15:4)
+- If a man remains in me and I in him he will bear much fruit. (15:5)
+- Apart from me you can do nothing. (15:5)
+
+And look how often he comments on how the Spirit will help us know and communicate truth: · But the Counselor, the Holy Spirit, whom the Father will send in my name, will teach you all things and will remind you of everything I have said to you. (14:26)
 
 In this passage Luke shows Jesus’ call to take the gospel to the ends of the earth, and He specifies the power by which we must do this. The Holy Spirit is the source of that power, and in fact, is so indispensable that Jesus tells the disciples NOT to go tell people about Him until they are filled with the Spirit. We also need to be sure we are empowered by the Spirit, and then go tell people how they can begin a relationship with God through Christ.
 
@@ -74,7 +79,7 @@ What does it mean to be baptized with the Holy 10. Why did the disciples ask abo
 12. What will they be able to do before the Spirit comes?
 13. How does the Spirit empower us to witness? APPLY
 14. Have you ever felt powerless while talking to people about Jesus?
-17. When was the last conversation you had with a non- Christian concerning Jesus?
+17. When was the last conversation you had with a non-Christian concerning Jesus?
 15. Jesus speaks of this power as a gift. Sometimes it may feel like a gift we’d like to exchange. Do you want this power? What is attractive or repulsive to you about the gift?
 16. How are you experiencing His power in your life right now?
 18. What does that suggest to you about the reality of the Spirit’s power in your life?
@@ -117,9 +122,9 @@ When the Counselor comes, whom I will send to you from the 11. The Holy Spirit w
 
 13.-18. Allow the group to discuss.
 
-Cru.Comm is the small group material for Campus Crusade for Christ’s Campus Ministry. It was created by Centerfield Productions, the field based division of CruPress. We’d love to hear your feedback on this study. Please write us at centerfield@uscm.org ©2007 Cru Press, Campus Crusade for Christ, Inc. All rights reserved. No part of this publication may be digitally reproduced, stored in a retrieval system, or transmitted, without the prior permission of Cru Press.
+Cru.Comm is the small group material for Campus Crusade for Christ’s Campus Ministry. It was created by Centerfield Productions, the field based division of CruPress. We’d love to hear your feedback on this study. Please write us at centerfield@uscm.org All rights reserved. No part of this publication may be digitally reproduced, stored in a retrieval system, or transmitted, without the prior permission of Cru Press.
 
-## a POWerful WITNeSS • Evangelism
+a POWerful WITNeSS · Evangelism
 
 What Do I Need to Know About the Passage? Acts 4:1-22 What’s the Big Idea?
 
@@ -189,9 +194,9 @@ Discuss the topic. Peter and John were remarkably bold and testified of the gosp
 
 5. Allow the group to discuss how they would answer these questions. See the accompanying article, “Lost” for additional insights. You might want to print out several copies for your group.
 
-Cru.Comm is the small group material for Campus Crusade for Christ’s Campus Ministry. It was created by Centerfield Productions, the field based division of CruPress. We’d love to hear your feedback on this study. Please write us at centerfield@uscm.org ©2007 Cru Press, Campus Crusade for Christ, Inc. All rights reserved. No part of this publication may be digitally reproduced, stored in a retrieval system, or transmitted, without the prior permission of Cru Press.
+Cru.Comm is the small group material for Campus Crusade for Christ’s Campus Ministry. It was created by Centerfield Productions, the field based division of CruPress. We’d love to hear your feedback on this study. Please write us at centerfield@uscm.org All rights reserved. No part of this publication may be digitally reproduced, stored in a retrieval system, or transmitted, without the prior permission of Cru Press.
 
-## A POWeRFul PRAyer • Prayer
+## A Powerful Prayer • Prayer
 
 What Do I Need to Know About the Passage? Acts 4:23-37 What’s the Big Idea?
 
@@ -276,9 +281,9 @@ They are filled with the Spirit and enabled to speak with boldness.
 
 Decide to make radical decisions to walk by faith and do things that will fail miserably if God doesn’t intervene. Take steps to see that uncommon prayer is happening on your campus.
 
-Cru.Comm is the small group material for Campus Crusade for Christ’s Campus Ministry. It was created by Centerfield Productions, the field based division of CruPress. We’d love to hear your feedback on this study. Please write us at centerfield@uscm.org ©2007 Cru Press, Campus Crusade for Christ, Inc. All rights reserved. No part of this publication may be digitally reproduced, stored in a retrieval system, or transmitted, without the prior permission of Cru Press.
+Cru.Comm is the small group material for Campus Crusade for Christ’s Campus Ministry. It was created by Centerfield Productions, the field based division of CruPress. We’d love to hear your feedback on this study. Please write us at centerfield@uscm.org All rights reserved. No part of this publication may be digitally reproduced, stored in a retrieval system, or transmitted, without the prior permission of Cru Press.
 
-## a powerful peRSecuTIon • Persecution
+a powerful peRSecuTIon · Persecution
 
 What Do I Need to Know About the Passage? Acts 5:17-42 What’s the Big Idea?
 
@@ -344,9 +349,9 @@ Because Christ suffered and died for us it is a special privilege to suffer for 
 
 15. You want to help your group see that the dynamic experience of being loved, forgiven and delighted in by Jesus is the only thing that can really fuel this sort of response to suffering.
 
-Cru.Comm is the small group material for Campus Crusade for Christ’s Campus Ministry. It was created by Centerfield Productions, the field based division of CruPress. We’d love to hear your feedback on this study. Please write us at centerfield@uscm.org ©2007 Cru Press, Campus Crusade for Christ, Inc. All rights reserved. No part of this publication may be digitally reproduced, stored in a retrieval system, or transmitted, without the prior permission of Cru Press.
+Cru.Comm is the small group material for Campus Crusade for Christ’s Campus Ministry. It was created by Centerfield Productions, the field based division of CruPress. We’d love to hear your feedback on this study. Please write us at centerfield@uscm.org All rights reserved. No part of this publication may be digitally reproduced, stored in a retrieval system, or transmitted, without the prior permission of Cru Press.
 
-## OPPORTuNITIES ABOuND • Divine Appointments
+## Opportunities Abound • Divine Appointments
 
 What Do I Need to Know About the Passage? Acts 8:26-40 What’s the Big Idea?
 
@@ -425,9 +430,9 @@ One answer is that He probably does more than we realize, but we just aren’t t
 
 6. The passage is a prophecy about the Messiah’s crucifixion.
 
-Cru.Comm is the small group material for Campus Crusade for Christ’s Campus Ministry. It was created by Centerfield Productions, the field based division of CruPress. We’d love to hear your feedback on this study. Please write us at centerfield@uscm.org ©2007 Cru Press, Campus Crusade for Christ, Inc. All rights reserved. No part of this publication may be digitally reproduced, stored in a retrieval system, or transmitted, without the prior permission of Cru Press.
+Cru.Comm is the small group material for Campus Crusade for Christ’s Campus Ministry. It was created by Centerfield Productions, the field based division of CruPress. We’d love to hear your feedback on this study. Please write us at centerfield@uscm.org All rights reserved. No part of this publication may be digitally reproduced, stored in a retrieval system, or transmitted, without the prior permission of Cru Press.
 
-## UNLIMITed PATIeNCe • Paul’s Conversion
+## Unlimited Patience • Paul’s Conversion
 
 What Do I Need to Know About the Passage? Acts 9:1-30 What’s the Big Idea?
 
@@ -510,9 +515,9 @@ Romans 5:8 12. They were astonished, angered, murderous. Paul continues to preac
 9. There is no right answer. It might be his tenacity or even expertise in the Jewish Law.
 10. Perhaps this is to say Saul will undergo as much, or more, persecution than he has caused.
 
-Due to his own involvement in Cru.Comm is the small group material for Campus Crusade for Christ’s Campus Ministry. It was created by Centerfield Productions, the field based division of CruPress. We’d love to hear your feedback on this study. Please write us at centerfield@uscm.org ©2007 Cru Press, Campus Crusade for Christ, Inc. All rights reserved. No part of this publication may be digitally reproduced, stored in a retrieval system, or transmitted, without the prior permission of Cru Press.
+Due to his own involvement in Cru.Comm is the small group material for Campus Crusade for Christ’s Campus Ministry. It was created by Centerfield Productions, the field based division of CruPress. We’d love to hear your feedback on this study. Please write us at centerfield@uscm.org All rights reserved. No part of this publication may be digitally reproduced, stored in a retrieval system, or transmitted, without the prior permission of Cru Press.
 
-## Paul’s STRATegy 1 • Broad Sowing and Multiplication
+## Paul’s Strategy 1 • Broad Sowing and Multiplication
 
 What Do I Need to Know About the Passage? Acts 13 What’s the Big Idea?
 
@@ -608,9 +613,9 @@ Perhaps some of the people had questions.
 
 Help your group wrestle with what they love about Jesus and how that should affect their everyday life.
 
-Cru.Comm is the small group material for Campus Crusade for Christ’s Campus Ministry. It was created by Centerfield Productions, the field based division of CruPress. We’d love to hear your feedback on this study. Please write us at centerfield@uscm.org ©2007 Cru Press, Campus Crusade for Christ, Inc. All rights reserved. No part of this publication may be digitally reproduced, stored in a retrieval system, or transmitted, without the prior permission of Cru Press.
+Cru.Comm is the small group material for Campus Crusade for Christ’s Campus Ministry. It was created by Centerfield Productions, the field based division of CruPress. We’d love to hear your feedback on this study. Please write us at centerfield@uscm.org All rights reserved. No part of this publication may be digitally reproduced, stored in a retrieval system, or transmitted, without the prior permission of Cru Press.
 
-## PAUl’s STrATEGy 2 • Starting Points and Discipleship
+## Paul’s Strategy 2 • Starting Points and Discipleship
 
 What Do I Need to Know About the Passage? Acts 14 What’s the Big Idea?
 
@@ -686,9 +691,9 @@ They are reasonably close, and have almost completed a loop.
 
 For those preferring evangelism you might encourage them to see following up new believers as an essential part of evangelism, grounding them in the faith.
 
-Cru.Comm is the small group material for Campus Crusade for Christ’s Campus Ministry. It was created by Centerfield Productions, the field based division of CruPress. We’d love to hear your feedback on this study. Please write us at centerfield@uscm.org ©2007 Cru Press, Campus Crusade for Christ, Inc. All rights reserved. No part of this publication may be digitally reproduced, stored in a retrieval system, or transmitted, without the prior permission of Cru Press.
+Cru.Comm is the small group material for Campus Crusade for Christ’s Campus Ministry. It was created by Centerfield Productions, the field based division of CruPress. We’d love to hear your feedback on this study. Please write us at centerfield@uscm.org All rights reserved. No part of this publication may be digitally reproduced, stored in a retrieval system, or transmitted, without the prior permission of Cru Press.
 
-## an unknown god • Connecting with the Culture
+an unknown god · Connecting with the Culture
 
 What Do I Need to Know About the Passage? Acts 17:16-34 What’s the Big Idea?
 
@@ -769,7 +774,7 @@ Among other things, the authority of the Scriptures cannot be taken for granted.
 7. In pointing to their altar given to worship of “an unknown God,” he is alluding to the fact that with all of their religion, they instinctively know that something is still miss-ing in their spiritual experience.
 14. Are their things he said that reminded you of your need for a Savior?
 
-Cru.Comm is the small group material for Campus Crusade for Christ’s Campus Ministry. It was created by Centerfield Productions, the field based division of CruPress. We’d love to hear your feedback on this study. Please write us at centerfield@uscm.org ©2007 Cru Press, Campus Crusade for Christ, Inc. All rights reserved. No part of this publication may be digitally reproduced, stored in a retrieval system, or transmitted, without the prior permission of Cru Press.
+Cru.Comm is the small group material for Campus Crusade for Christ’s Campus Ministry. It was created by Centerfield Productions, the field based division of CruPress. We’d love to hear your feedback on this study. Please write us at centerfield@uscm.org All rights reserved. No part of this publication may be digitally reproduced, stored in a retrieval system, or transmitted, without the prior permission of Cru Press.
 
 ## God’s powerful presence • God’s Will
 
@@ -868,4 +873,4 @@ We don’t know for sure. It may have been through a mental impression, vision, 
 8. They had to decide whether or not the Gentiles needed to
 13. Allow the group to discuss.
 
-Cru.Comm is the small group material for Campus Crusade for Christ’s Campus Ministry. It was created by Centerfield Productions, the field based division of CruPress. We’d love to hear your feedback on this study. Please write us at centerfield@uscm.org ©2007 Cru Press, Campus Crusade for Christ, Inc. All rights reserved. No part of this publication may be digitally reproduced, stored in a retrieval system, or transmitted, without the prior permission of Cru Press.
+Cru.Comm is the small group material for Campus Crusade for Christ’s Campus Ministry. It was created by Centerfield Productions, the field based division of CruPress. We’d love to hear your feedback on this study. Please write us at centerfield@uscm.org All rights reserved. No part of this publication may be digitally reproduced, stored in a retrieval system, or transmitted, without the prior permission of Cru Press.

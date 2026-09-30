@@ -12,7 +12,7 @@ summary: "Transferable Concept Three by Dr. Bill Bright, teaching that Christian
 source: "Discipleship/Basic Growth Concepts/Transferable Concepts/How to Be Filled With the Spirit.pdf"
 ---
 
-## Dr. Bill Bright Transferable Concept Three
+## Transferable Concept Three
 
 During the depression, a man named Yates owned a ranch in West Texas. Because he did not earn enough money to make his ranching operation pay, Mr. Yates was in danger of losing his ranch. His family, like many others, had to live on government subsidy. It is useless to try to live in our own power the kind of life God has commanded us to live. Our strength must come from the Lord! The Holy Spirit came to enable us to know Christ. When we receive Christ into our lives, we experience a new birth, and are indwelt by the Spirit. The Holy Spirit enables us to live and share the abundant life which Jesus promised to all who trust Him.
 

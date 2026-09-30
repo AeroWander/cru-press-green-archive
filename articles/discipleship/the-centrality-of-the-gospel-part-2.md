@@ -12,7 +12,7 @@ summary: "Part 2 of Tim Keller's article applying the gospel-versus-moralism-ver
 source: "MTL/MTL/MTL2/Centrality of the Gospel 2.pdf"
 ---
 
-## Tim Keller
+Tim Keller
 
 are indifferent to the physical world--they see it as “unimportant”, while many others are downright afraid of physical pleasure. Since they are seeking to earn their salvation, they prefer to focus on sins of the physical like sex and the other appetites. These are easier to avoid than sins of the spirit like pride. Therefore, they prefer to see sins of the body as worse than other kinds. As a result, legalism usually leads to a distaste of pleasure. On the other hand, the relativist is often a hedonist, someone who is controlled by pleasure, and who makes it an idol. The gospel leads us to see that God has invented both body and soul and so will redeem both body and soul, though under sin both body and soul are broken. Thus the gospel leads us to enjoy the physical (and to fight against physical brokenness, such as sickness and poverty), yet to be moderate in our use of material things.
 
@@ -20,7 +20,7 @@ are indifferent to the physical world--they see it as “unimportant”, while m
 
 We have seen that the gospel is the way that anything is renewed and transformed by Christ--whether a heart, a relationship, a church, or a community. It is the key to all doctrine and our view of our lives in this world Therefore, all our problems come from a lack of orientation to the gospel. Put positively, the gospel transforms our hearts and thinking and approaches to absolutely everything.
 
-## A. the Gospel and the Individual.
+## A. The Gospel and the Individual.
 
 1. Approach to discouragement. When a person is depressed, the moralist says, “you are breaking the rules--repent.” On the other hand, the relativist says, “you just need to love and accept yourself ”. But (assuming there is no physiological base of the depression) the gospel leads us to examine ourselves and say: “something in my life has become more important than God, a pseudo-savior, a form of works righteousness.”
 
@@ -42,7 +42,7 @@ The gospel leads us to repentance, but not to merely setting our will against su
 14. Approach to joy and humor. Moralism has to eat away at real joy and humor -- because the system of legalism forces you to take yourself (your image, your appearance, your reputation) very seriously. Pragmatism on the other hand will tend toward cynicism as life goes on because of the inevitable cynicism that grows. This cynicism grows from a lack of hope for the world. In the end, evil will triumph--there is no judgment or divine justice. But is we are saved by grace alone, then the very fact of our being Christians is a constant source of amazed delight. There is nothing matter-of-fact about our lives, no “of course” to our lives. It is a miracle we are Christians, and we have hope. So the gospel which creates bold humility should give us a far deeper sense of humor. We don’t have to take ourselves seriously, and we are full of hope for the world.
 15. Approach to “right living”. Jonathan Edwards points out that “true virtue” is only possible for those who have experienced the grace of the gospel. Any person who is trying to earn their salvation does “the right thing” in order to get into heaven, or in order to better their selfesteem, etc. In other words, the ultimate motive is self-interest. But persons who know they are totally accepted already do “the right thing” out of sheer delight in righteousness for its own sake. Only in the gospel do you obey God for God’s sake, and not for what God will give you. Only in the gospel do you love people for their sake (not yours), do good for its own sake (not yours), and obey God for his sake (not yours). Only the gospel makes “doing the right thing” a joy and delight, not a burden or a means to an end.
 
-## B. the Gospel and the Church.
+## B. The Gospel and the Church.
 
 1. Approach to ministry in the world. Legalism tends to place all the emphasis on the individual human soul. Legalistic religion will insist on converting others to their faith and church, but will ignore social needs of the broader community. On the other hand, “liberalism” will tend to emphasize only amelioration of social conditions and minimize the need for repentance and conversion. The gospel leads to love which in turn moves us to give our neighbor whatever is needed--conversion or a cup of cold water, evangelism and social concern.
 2. Approach to worship. Moralism leads to a dour and somber worship which may be long on dignity but short on joy. A shallow understanding of “acceptance” without a sense of God’s holiness can lead to frothy or casual worship. (A sense of neither God’s love nor his holiness leads to a worship service that feels like a committee meeting.) But the gospel leads us to see that God is both transcendent yet immanent. His immanence makes his transcendence comforting, while his transcendence makes his immanence amazing. The gospel leads to both awe and intimacy in worship, for the Holy One is now our Father.

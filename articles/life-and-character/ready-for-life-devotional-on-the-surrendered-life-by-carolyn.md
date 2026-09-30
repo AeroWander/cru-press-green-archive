@@ -236,7 +236,7 @@ After all that the Israelites had been through, they were on the brink of blessi
 
 THINK: As you think about your future, is there something that you would really love to do if there just weren’t so many barriers in the way? What is that? Do you sense that God is leading you in those dreams? What are the barriers that stand in the way? What are some promises that God gives to deal with each of those barriers?
 
-### MEDITATE: Ready to Act
+### Meditate: Ready to Act
 
 Day Nineteen Asking for wisdom “But if any of you lacks wisdom, let him ask of God.” James 1:5 READ: James 1:2-8 (Philippians 4:6-7)
 
@@ -300,7 +300,7 @@ The reason the psalmist asked God to shine His face upon them and give them His 
 
 THINK: What are the blessings God has given you and how could they be used to expand His glory to the nations? What could you begin to do now to develop a lifetime practice of blessing the nations with the things God gives you? Think of God’s gifts of time, finances, and your talents/abilities. Consider how God’s blessings in these categories could be given to advance His kingdom.
 
-### Using This Devotional Guide
+*Using This Devotional Guide*
 
 While most of you probably really want to know God’s will and want to do what He leads you to do, the process involved can seem so mysterious or vague, that it is just easier to utilize quicker or easier methods of making a decision.
 

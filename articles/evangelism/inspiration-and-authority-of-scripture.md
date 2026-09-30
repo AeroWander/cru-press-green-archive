@@ -17,8 +17,6 @@ Apologetic books typically present arguments for Jesus, stripped from the contex
 
 Jesus Without Religion paints a compelling portrait of Jesus and after finishing the book, the reader will clearly understand the words, works and claims of Jesus. The book concludes with a clear presentation of the gospel. JWR is one of few apologetic resources written to this generation of students.
 
-## Order Online at Crupress.com
-
 Questions About the New Testament A study of the Gospels raises questions concerning the New Testament itself: Who wrote it? When? How was it compiled? How can I get some of my own short stories included in it? Recent books such as The Da Vinci Code have also raised questions along these lines. This appendix is not meant to be exhaustive but to address some of the most common questions concerning the New Testament. For further study I’d recommend The Canon of Scripture by F. F. Bruce (InterVarsity).
 
 When were the books of the New Testament written?

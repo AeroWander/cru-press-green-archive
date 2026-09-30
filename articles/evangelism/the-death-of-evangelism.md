@@ -11,8 +11,6 @@ summary: "An excerpt from Rick James's book \"A Million Ways to Die,\" reflectin
 source: "Evangelism/traning/The Death of Evangelism.pdf"
 ---
 
-## Rick James
-
 Excerpt from A Million Ways To Die torture, stoning, burning, and beheading, but no need to get bogged down in details which they’d discover soon enough. So gruesome, in fact, was the treatment of the early Christians that the Greek word for “witness” (marturion) became synonymous with death, giving us our word “martyr.”
 
 But the semantic migration of the word “witness” into “martyr,” isn’t merely historical irony, it’s precisely how Jesus meant for a “witness” to be defined. It is how he himself defined the role of a witness: Since the beginning, since the disciples disembarked two-by-two from the flood of Pentecost, the concepts of “death” and “evangelism” have been bound together as closely and solemnly as a suicide pact. Even Jesus’ inaugural mission briefings were coupled with strict instructions should any disciple be caught or captured:
@@ -23,7 +21,7 @@ While Jesus obviously has his own death in mind as the initial inference, the st
 
 In his teaching, Jesus would often use hyperbole to sharpen his point: there is not a “splinter” in our eye that needs removing, rather an entire “plank” sticking out like a diving board. Perhaps his disciples were secretly hoping that all of the cryptic talk about being “arrested” or “handed over” was just classic Jesus hyperbole—Jesusisms. It wasn’t. It was actually understatement, as Jesus informs them they’ll be “handed over” but omits telling them to what. The “what” would include: lions, crucifixion, gladiators,
 
-## I Can’t Relate
+I Can’t Relate
 
 I think we understand this martyr concept, relating to it is the problem. Few of us have ever faced the possibility of dying as a result of our witness. I never have. At least that I know of. Perhaps I’ve foisted myself on some unwilling listener and while pontificating them into submission, they’ve secretly schemed to bludgeon me with a shoe or puncture my voice box with a pen, but, again, not that I know of. The truth is, most of us have never faced the threat of violence or physical death in proclaiming the gospel and most likely never will. This can leave us feeling quite removed from the whole martyr/witness concept, but not because we have a narrow view of evangelism. I think the problem is that we have a narrow view of death. home. The toilet, for some scientific reason far beyond my grasp, would not flush correctly. As a man, it’s always difficult to have someone come into your home to fix your stuff; it’s sort of an indictment of your manhood. You stand around feeling like a boy, wondering if you should hand the workman his tools like he was your dad fixing your go-cart. $100 an hour is not enough to assuage white-collar guilt.
 
@@ -43,7 +41,7 @@ As we continued to talk, the plumber eventually asked what I did for a living an
 
 I’ll begin by sharing a recent witnessing experience: a Director’s Cut of sorts—with commentary—allowing me to point to the ways in which death is operant even in an ordinary, non-violent evangelistic encounter.
 
-## Dying in the U.S.A.
+Dying in the U.s.a.
 
 Recently, we had a plumber in to fix a toilet in our But let’s pause, because this choice to begin moving the conversation toward the gospel has some implications. The choice to point the discussion in a spiritual direction—toward Christ—typically involves a willingness to sever an emotional or relational connection, a willingness to cut yourself off from a source of life. Hmm, severing oneself from a source of life: that sounds like the definition of death. Precisely. In a small but significant way it is a death—at least in the emotional, social and relational sense. If in just under thirty minutes I had an IV line dripping life into my soul from a visiting plumber; how much greater is that lifeline flowing to me through friends, family or coworkers? How much greater the risk? Anyway the risk seemed bloody real enough even with the plumber and yet the dying of my dignity wasn’t over. are not interested in talking about God or knowing Christ, make no mistake: they will think you’re a fool. The next problem we encounter in sharing our faith is that there’s no seamless or easy way to transition to the actual gospel, not in a way that you can still retain your dignity or that person’s admiration and respect. Once you’re down on one knee holding out the engagement ring you can’t pretend your shoe is untied. You’re fully committed. And once you move from nebulous chatter about feeling “blessed” and “things all happening for a reason” to actually talking about Jesus, well, you simply must regard your reputation as a casualty should that person reject it. Seriously, what sort of silky transition could you possibly devise to share Christ with the plumber, “Just as there are four rolls of toilet paper in a package of Charmin, so there are Four Spiritual Laws?” or “just as there is refuse that clogs this toilet, so our lives are a cesspool of sin which only God can flush?” There’s just no way to normalize it. Oftentimes it is weird to talk about the gospel and you can’t always create the illusion that it’s not. There are as many great transitions into the gospel as there are into breaking off an engagement.
 
@@ -149,7 +147,7 @@ In no way am I suggesting we do less outreach to the homeless; please do not hea
 
 Relevance can better connect you to the audience you’re trying to reach and there’s not a darn thing wrong with that. But we have to be sensitive to our desire for others to find us attractive, for this goal of having others see us a certain way can override the true power of evangelism—death. Peace-out.
 
-## Strawmen and Stereotypes
+Strawmen and Stereotypes
 
 The fact that those who engage in initiative evangelism are lampooned is neither here nor there. Those who engage in it, as I have at times, know what they’ve signed up for and have been blessed with sufficiently thick skin for their calling. More problematic is that the ghosts of Charles Finney and Billy Sunday provide a rationale to avoid evangelism, to avoid a type of death. It’s not like we’re lining up for the lethal injection, excited to die for our faith to begin with. So when you come to believe that to do so is actually counterproductive or harmful to the gospel, why in the world would you do it? You wouldn’t.
 

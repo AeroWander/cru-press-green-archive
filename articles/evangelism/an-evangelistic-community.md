@@ -12,7 +12,7 @@ source: "Evangelism/outreach/Evangelistic Community.pdf"
 also_filed: ["Building Community/Community and Relationships/Evangelistic Community.pdf"]
 ---
 
-## Tim Henderson Initiative Evangelism in a Culture That Longs for Community
+## Initiative Evangelism in a Culture That Longs for Community
 
 diminishing either. And to top it all off, it’s biblical. For years I’ve been beating my head against a wall trying to figure out how to be more effective in evangelism. I know and agree with our definition of successful witnessing: “Taking the initiative in the power of the Holy Spirit to share Christ, and trusting God for the results.” That’s a good definition and we teach it to our students. But our incredibly high ratio of exposures to involved new believers has left me longing for our evangelistic approaches to be not only successful, but also effective. I want to see more people come to Christ, get involved, and grow in their faith.
 
@@ -28,7 +28,7 @@ Community 2:8 builds on the evangelistic foundation of Pray and Share, and adds 
 
 “We loved you so much that we were delighted to share with you not only the gospel of God but our lives as well, because you had become so dear to us.”
 
-That passage seems an apt description of what effective evangelism might look like in a culture that longs for community and desperately needs the gospel. We’ve found it helps us connect Crusade’s long standing value of initiative evangelism with the culture’s affinity for relationships without Which brings me to the final step, Invite. We ask students to invite their friends to Cru socials, and unofficial parties our students hold. We remind them to invite non-Christians to go to movies or basketball games with no spiritual content whatsoever. We ask them to invite people to our weekly meeting, or special outreaches. Pretty much with any social gathering, whether there is overt evangelistic value or not, we want students to be inviting the lost. © 2010, CruPress, All Rights Reserved. CruPress.com
+That passage seems an apt description of what effective evangelism might look like in a culture that longs for community and desperately needs the gospel. We’ve found it helps us connect Crusade’s long standing value of initiative evangelism with the culture’s affinity for relationships without Which brings me to the final step, Invite. We ask students to invite their friends to Cru socials, and unofficial parties our students hold. We remind them to invite non-Christians to go to movies or basketball games with no spiritual content whatsoever. We ask them to invite people to our weekly meeting, or special outreaches. Pretty much with any social gathering, whether there is overt evangelistic value or not, we want students to be inviting the lost.
 
 ## Pray, Share, Introduce, Invite
 
@@ -47,4 +47,4 @@ The evangelism model describes three modes of evangelism: ministry, natural and 
 
 One of the unexpected benefits we’ve found in Community 2:8 is that it helps us reach the increasing number of students who struggle with shame more than guilt. Many students have great cause for shame and therefore, they hide. What they need is a community where they can feel safe enough to bring their junk into the light. Your movement can provide that community and help them come to Christ.
 
-1. Ministry mode is the best way to train students to share their faith. In that mode they can learn answers Tim Henderson and his wife Kellie have been on staff with Campus Crusade for Christ since 1993. He is currently the Campus Director at Penn State. © 2010, CruPress, All Rights Reserved. CruPress.com
+1. Ministry mode is the best way to train students to share their faith. In that mode they can learn answers Tim Henderson and his wife Kellie have been on staff with Campus Crusade for Christ since 1993. He is currently the Campus Director at Penn State.

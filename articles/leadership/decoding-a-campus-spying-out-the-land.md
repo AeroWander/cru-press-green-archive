@@ -11,8 +11,6 @@ summary: "A short guide by Tom Virtue listing ten practical ways to 'decode' or 
 source: "Launching a New Ministry/Launching a Ministry/Decoding The Campus.pdf"
 ---
 
-## Tom Virtue
-
 album. Shoot pictures of the places where people hang out or party.
 
 6. What’s it like to live there? Lodging, shopping, transportation.
@@ -30,4 +28,4 @@ When you show up on campus, what should you want do? One thing that would be hel
 2. Gather stuff: Maps, brochures, catalogues and other info about the campus.
 3. Get an escort: Find someone who knows their way around, with an insider’s view. Pray for this!
 4. Look for Great Commission resources: God’s people are here! Look for Christian students, a church, or Christian faculty. “Do you know any students who go to a Bible study or church?”
-5. Get pictures of the campus: Maybe make a photo © 2010, CruPress, All Rights Reserved. CruPress.com
+5. Get pictures of the campus: Maybe make a photo

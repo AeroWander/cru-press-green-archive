@@ -11,8 +11,6 @@ summary: "An article by Gary Runn on common mistakes leaders make in each of the
 source: "MTL/Lead Your Team/Six Errors.pdf"
 ---
 
-## Gary Runn
-
 USCM models exist to help you lead your team to accomplish our mission and the vision that God has given you for your campus. But our dependence must always be on the Lord. Models, in and of themselves, cannot make up for the shepherding of our staff, nor can they compensate for intimacy with our Lord and day-to-day spiritual wisdom. Let us be Christ-centered and people- sensitive as leaders, using the tools that God has entrusted to us as servants to this end.
 
 Planning is a little like eating broccoli: you either love it or hate it, or on a good day you might even feign liking it but see the necessity of it. As a leader you may understand the value of planning with a team but can quickly call to mind the glazed-over lookyou get from your staff every time you try to engage them in this endeavor. This can cause many a leader to want to reduce planning to a one-person effort behind closed doors.

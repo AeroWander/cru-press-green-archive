@@ -11,12 +11,12 @@ summary: "An excerpt from The Ultimate Roadtrip listing about fifteen icebreaker
 source: "Small Groups and Meetings/Leading Small Group/Small Group Icebreakers.pdf"
 ---
 
-## Excerpt “Ultimate Roadtrip”
+Excerpt “Ultimate Roadtrip”
 
 3. Two Truths and a Lie. Have each person make three statements about themselves: two true statements and one lie. For example, “I’ve never broken a bone. I have five sisters. I was born in Yugoslavia” The group tries to guess which statement is the lie.
 4. Personal Scavenger Hunt. Take five minutes and find the following items in your wallet or purse: Something that . . .
 
-Icebreakers encourage people to get to know each other. It is important that icebreakers be non-threatening. What is non-threatening to some group members could terrify others. For example, the question, “Who would you like to go on vacation with for one week and why?”, would be threatening to many groups. However, the question, “If you could go on vacation anywhere, where would you go?” is not as threatening. • • • • • You’ve had a long time.
+Icebreakers encourage people to get to know each other. It is important that icebreakers be non-threatening. What is non-threatening to some group members could terrify others. For example, the question, “Who would you like to go on vacation with for one week and why?”, would be threatening to many groups. However, the question, “If you could go on vacation anywhere, where would you go?” is not as threatening. You’ve had a long time.
 
 You’re proud of Reveals a lot about you.
 
@@ -34,7 +34,7 @@ Have each person share the first item. Go around again on the second item, and a
 - What is one characteristic you received from you parents that you want to keep, and one you wish you could change?
 - What is a good thing happening in your life right now? What makes it good?
 - If you knew you couldn’t’ fail and money was no object, what would you like to do in the next five years?
-- What would you like said at your funeral? © 2010, CruPress, All Rights Reserved. CruPress.com
+- What would you like said at your funeral?
 - When, if ever, did God become more than a word to you, and how did it happen?
 
 “What do you value most in a friend?” or, “Who was your best friend growing up and why/” Then pile all the cards face down in the middle of the group and let people draw. Topic ideas: jobs, life gals, funny stories, hobbies, family, fears, dating issues, significant relationships, relationship with God, etc.
@@ -51,4 +51,4 @@ Have each person share the first item. Go around again on the second item, and a
 
 Excerpt taken from “The Ultimate Roadtrip” available at the CruPress store.
 
-10. You Write the Question. Give each person a 3X5 card. You pick the topic and let them write the questions. For example, you choose “friendship” as a topic, and they each write out a question for anyone in the group to answer about friendship. For example, © 2010, CruPress, All Rights Reserved. CruPress.com
+10. You Write the Question. Give each person a 3X5 card. You pick the topic and let them write the questions. For example, you choose “friendship” as a topic, and they each write out a question for anyone in the group to answer about friendship. For example,

@@ -56,7 +56,7 @@ For more details on the results of the staff survey, please see the full report,
 
 Staff who agree the next best step for the typical lost student on their campus is. .
 
-## 78% 38% Unbelievers
+78% 38% Unbelievers
 
 Unbelievers are telling us that there is a disconnect between our efforts to convey the good news about Jesus and their willingness to listen to us tell that message.
 
@@ -410,7 +410,7 @@ Most new believers came to Christ after some obstacle was removed that kept them
 In light of our interviews with these new believers, we are persuaded that we must do the following:
 
 1. We need to know and understand common misconceptions students have about God and be able to help them replace any lies with truth.
-2. We must value all modes of evangelism, realizing that natural-mode is more powerful than ever before. At the same time, we would be wise to create environments where non- Christians can be exposed to genuine believers living out their faith via body-mode.
+2. We must value all modes of evangelism, realizing that natural-mode is more powerful than ever before. At the same time, we would be wise to create environments where non-Christians can be exposed to genuine believers living out their faith via body-mode.
 3. We must continue to take the initiative in evangelism, with the incremental goal of helping bring them closer to God, rather than feel the need to persuade them to pray a prayer (choose or reject God now).
 4. We must be willing to establish relationships with non-believers and invest time in their lives if we expect our ministry with them to be effective.
 
@@ -448,7 +448,7 @@ There seems to be an emphasis within InterVarsity to reach students with the gos
 - For the fallen Christian to recommit his/her life to Christ
 - For the Christian student to make a Lordship decision
 - For the non-Christian student to receive Christ right now
-- For everyone, a decision about something else they just heard in the message In the altar call, students must literally stand up, come forward, and receive prayer up front. Christian students are encouraged by the visible result of seeing many students making public decisions (of various kinds) for Jesus. This gives him or her further confidence to invite their non- Christian friends for the next time such a public altar-call event occurs. Last year, at UC-San Diego, 57 students responded to such an altar call at the end of the semester.
+- For everyone, a decision about something else they just heard in the message In the altar call, students must literally stand up, come forward, and receive prayer up front. Christian students are encouraged by the visible result of seeing many students making public decisions (of various kinds) for Jesus. This gives him or her further confidence to invite their non-Christian friends for the next time such a public altar-call event occurs. Last year, at UC-San Diego, 57 students responded to such an altar call at the end of the semester.
 
 In addition to the Comprehensive Plan, InterVarsity also:
 
@@ -533,11 +533,17 @@ A second application is that not all evangelism is worth doing. In our effort to
 
 Evangelism Made Slightly Less Difficult In Evangelism Made Slightly Less Difficult, Nick Pollard observes that there is broad variance among people’s openness to respond to the gospel message in faith. Some are ready to become Christians, some are nearly ready but have questions and doubts, and some are interested but don’t know where to begin. Organizationally, we are already skilled at helping people in each of these groups come to know Christ. But the fourth and largest category consists of those who simply are not interested. It is this group that we must learn to reach for Christ.
 
-Speaking of this fourth group, Pollard acknowledges this goal, “If people are currently comfortable with their non-Christian worldview we need to know how to help them become uncomfortable with it, so that they may become interested in looking at Jesus.” He calls this “Positive Deconstruction.” In Positive Deconstruction, an evangelist walks through four steps: • First, he identifies the worldview being espoused. • Second, he analyzes the worldview according to the three standard philosophical tests of truth: Does it cohere?
+Speaking of this fourth group, Pollard acknowledges this goal, “If people are currently comfortable with their non-Christian worldview we need to know how to help them become uncomfortable with it, so that they may become interested in looking at Jesus.” He calls this “Positive Deconstruction.” In Positive Deconstruction, an evangelist walks through four steps:
+
+- First, he identifies the worldview being espoused.
+- Second, he analyzes the worldview according to the three standard philosophical tests of truth: Does it cohere?
 
 Does it correspond with reality?
 
-Does it work? • Third, he affirms the truth in the otherwise faulty worldview. • Fourth, he discovers the error.
+Does it work?
+
+- Third, he affirms the truth in the otherwise faulty worldview.
+- Fourth, he discovers the error.
 
 Positive Deconstruction doesn’t sound much like evangelism, at least not to Campus Crusade ears, but Pollard argues that we need to rethink our goals in evangelism. He states: Sometimes well meaning Christians ask me, “How many people were converted?” But that is the wrong question and I’m afraid it shows how out of touch they are with today’s generation. Many of the Christians I am seeking to help day by day are nowhere near ready to become Christians. Nor do they even want to hear about Jesus. . .With these people my immediate goal is not to see them become Christians. Nor is it even to see them take one step closer to Jesus; often we are not quite in that ballpark either. My goal is just to help them take one step further away from their current worldview.
 
@@ -715,7 +721,7 @@ This approach is one that we think has promise on other campuses as well. Organi
 
 On the following page is an example of the application we use in selecting our missionaries. So you want to be a Missionary?
 
-Jesus is so great that he deserves to be known and worshipped by everyone on earth. Someday, Lord willing, every student at Penn State will hear how great he is from somebody they trust. To bring about that day we have a new lane of leaders- Missionaries- students who identify a particular group of students (sorority, fraternity, dorm floor, major, club, ethnic group, etc.] among whom they will live and love, and in natural and appropriate ways, talk about Jesus. To do this among 42,000 plus students we will need at least 1,000 missionaries. During this pilot semester we had 20. They are awesome. Seriously, you should talk to them and ask them what they've been doing. Our goal is to double the size of the lane year after year until Jesus raises up 1,000 tongues, from Cru and elsewhere, to sing his praise to every student on this campus. Below is an application to join the group of missionaries in Cru who will be learning, experimenting, and sharing lessons learned in new evangelistic approaches. To be a missionary you must commit to engaging in a highly intentional, highly relational, incarnational mode of ministry with a group of people at Penn State. You're going to need to read a lot, and learn a lot of new skills. You need to come to Raystown August 18-20. You need to commit to come every Monday from 6:30-8:00pm to a teaching/training/debriefing time. You need to commit to pick a group of people, love them, spend time with them, and through your words and actions, establish a gospel presence among them. You need to take steps of faith and depend on the Holy Spirit to empower you in your ministry. You need to own your own development and do what it takes to reach your group for Christ. And you need to be patient. This is going to be a process, not an event. If you'd like to apply to be one of the 40 missionaries for next year, please fill out the form below, tear it off and turn it in at Cru no later than April 22nd. We'll get back to you shortly with a decision. - - - — Name Class Phone number Email What group would you like to reach for Christ? _ [This could be a dorm floor, sorority, club team, ethnic group, major, affinity group, etc.] Is there another believer (in Cru or otherwise] with whom you'd like to partner? Please provide the name, phone number, and email of a reference who can comment on your walk with Christ and readiness for this role.
+Jesus is so great that he deserves to be known and worshipped by everyone on earth. Someday, Lord willing, every student at Penn State will hear how great he is from somebody they trust. To bring about that day we have a new lane of leaders-Missionaries- students who identify a particular group of students (sorority, fraternity, dorm floor, major, club, ethnic group, etc.] among whom they will live and love, and in natural and appropriate ways, talk about Jesus. To do this among 42,000 plus students we will need at least 1,000 missionaries. During this pilot semester we had 20. They are awesome. Seriously, you should talk to them and ask them what they've been doing. Our goal is to double the size of the lane year after year until Jesus raises up 1,000 tongues, from Cru and elsewhere, to sing his praise to every student on this campus. Below is an application to join the group of missionaries in Cru who will be learning, experimenting, and sharing lessons learned in new evangelistic approaches. To be a missionary you must commit to engaging in a highly intentional, highly relational, incarnational mode of ministry with a group of people at Penn State. You're going to need to read a lot, and learn a lot of new skills. You need to come to Raystown August 18-20. You need to commit to come every Monday from 6:30-8:00pm to a teaching/training/debriefing time. You need to commit to pick a group of people, love them, spend time with them, and through your words and actions, establish a gospel presence among them. You need to take steps of faith and depend on the Holy Spirit to empower you in your ministry. You need to own your own development and do what it takes to reach your group for Christ. And you need to be patient. This is going to be a process, not an event. If you'd like to apply to be one of the 40 missionaries for next year, please fill out the form below, tear it off and turn it in at Cru no later than April 22nd. We'll get back to you shortly with a decision. - - - — Name Class Phone number Email What group would you like to reach for Christ? _ [This could be a dorm floor, sorority, club team, ethnic group, major, affinity group, etc.] Is there another believer (in Cru or otherwise] with whom you'd like to partner? Please provide the name, phone number, and email of a reference who can comment on your walk with Christ and readiness for this role.
 
 Are there any limitations on your ability to commit to all that is described above? Why do you want to be a missionary?
 
@@ -743,17 +749,25 @@ Objection
 
 ### “There can’t be just one true religion.”
 
-• • All major religions are equally valid and basically teach the same things.
+- All major religions are equally valid and basically teach the same things.
 
 The doctrinal differences between major religions are superficial and insignificant.
 
-Analysis • This position is inconsistent: • It insists that doctrines do not matter while asserting its own doctrine about the nature of God. • It claims a superior and more enlightened view of God while condemning those who claim to have a superior view of God.
+Analysis
 
-Response • • • • • • You are suggesting that doctrine is unimportant.
+- This position is inconsistent:
+- It insists that doctrines do not matter while asserting its own doctrine about the nature of God.
+- It claims a superior and more enlightened view of God while condemning those who claim to have a superior view of God.
+
+Response You are suggesting that doctrine is unimportant.
 
 You are asserting a particular doctrine about the nature of God to make your point.
 
-That doctrine doesn’t unify the other major faiths, it actually contradicts them. • Buddhism doesn’t believe in a personal God at all. • Hinduism believes in a multitude of distinct Gods. • Judaism, Christianity and Islam believe in a God who holds people accountable for their beliefs and practices and whose attributes could not be all reduced to love.
+That doctrine doesn’t unify the other major faiths, it actually contradicts them.
+
+- Buddhism doesn’t believe in a personal God at all.
+- Hinduism believes in a multitude of distinct Gods.
+- Judaism, Christianity and Islam believe in a God who holds people accountable for their beliefs and practices and whose attributes could not be all reduced to love.
 
 Are you sure that all religions teach the same things?
 
@@ -771,13 +785,13 @@ Reason for God Study Guide
 
 ### “There can’t be just one true religion.”
 
-Objection (from pages 8-9) • • Each religion sees part of spiritual truth, but none can see the whole truth.
+Objection (from pages 8-9) Each religion sees part of spiritual truth, but none can see the whole truth.
 
 Several blind men were walking along and came upon an elephant.
 
 “This creature is long and flexible like a snake,” said the first blind man, holding the elephant’s trunk. “Not at all—it is thick and round like a tree trunk,” said the second blind man, feeling the elephant’s leg. “No, it is large and flat,” said the third blind man, touching the elephant’s side. Each blind man could feel only part of the elephant; none could envision the entire elephant. In the same way, the religions of the world each have a grasp on part of the truth about spiritual reality, but none can see the whole elephant or claim to have a comprehensive vision of the truth.
 
-Analysis • • • • This illustration praises humility, while being very arrogant.
+Analysis This illustration praises humility, while being very arrogant.
 
 The narrator describes all religious practitioners as blind, and himself as the only one who can see.
 
@@ -785,7 +799,7 @@ How could the narrator know that each blind man only sees part of the elephant u
 
 How did he come to have this superior enlightened knowledge that everyone else lacks?
 
-Response • • • How do you know that no religion can see the whole truth?
+Response How do you know that no religion can see the whole truth?
 
 Do you yourself have the superior, comprehensive knowledge of spiritual reality you just claimed no one can have?
 
@@ -799,15 +813,19 @@ Reason for God Study Guide Point:
 
 ### “There can’t be just one true religion.”
 
-Objection (from pages 11-12) • When you become aware that many intelligent people hold different beliefs from you and you can’t convince them otherwise, it is arrogant to try to convert them or otherwise hold your view to be the superior truth.
+Objection (from pages 11-12) · When you become aware that many intelligent people hold different beliefs from you and you can’t convince them otherwise, it is arrogant to try to convert them or otherwise hold your view to be the superior truth.
 
-Analysis • • • Some say that it is ethnocentric to claim that your religion is superior to someone else’s.
+Analysis Some say that it is ethnocentric to claim that your religion is superior to someone else’s.
 
-That statement itself is ethnocentric: • Most non-Western cultures have no problem saying that their culture and religion is best. • The idea that it is wrong to say so is a particularly Western concept. • Charging others with the “sin” of ethnocentrism is really a way of saying, “Our culture’s approach to other cultures is superior to yours.”
+That statement itself is ethnocentric:
+
+- Most non-Western cultures have no problem saying that their culture and religion is best.
+- The idea that it is wrong to say so is a particularly Western concept.
+- Charging others with the “sin” of ethnocentrism is really a way of saying, “Our culture’s approach to other cultures is superior to yours.”
 
 In saying this you are doing the very thing you forbid others to do.
 
-Response • • • Most people in the world don’t believe that all religions are equally valid.
+Response Most people in the world don’t believe that all religions are equally valid.
 
 Many of these people are as good and intelligent as you are and are unlikely to change their views.
 
@@ -823,15 +841,18 @@ Objection
 
 ### “There can’t be just one true religion.”
 
-• • Religious belief is too culturally and historically conditioned to be “truth.”
+- Religious belief is too culturally and historically conditioned to be “truth.”
 
 People believe what they do largely because they are socially conditioned to do so.
 
-Analysis • • It is difficult to get past our own cultural biases.
+Analysis It is difficult to get past our own cultural biases.
 
-But, that reality can’t be used to argue all truth is relative because the argument would relativize itself: • If you claim that social conditioning relativizes all beliefs, then you must grant that it relativizes the belief about social conditioning. • In which case it cannot be true, on its own terms.
+But, that reality can’t be used to argue all truth is relative because the argument would relativize itself:
 
-Response • • • • • • Are you saying that all claims about religion are culturally conditioned except the one you are making?
+- If you claim that social conditioning relativizes all beliefs, then you must grant that it relativizes the belief about social conditioning.
+- In which case it cannot be true, on its own terms.
+
+Response Are you saying that all claims about religion are culturally conditioned except the one you are making?
 
 If so, how is it that your belief escaped its own demand?
 
@@ -851,31 +872,53 @@ CHAPTER 1 Reason for God Study Guide
 
 ### There can’t be just one true religion.
 
-The Gospel (from pages 19-20) • • • • • • Some suggest that fundamentalism leads to violence.
+The Gospel (from pages 19-20) Some suggest that fundamentalism leads to violence.
 
 Everyone has fundamental faith commitments that they think are superior to other people’s.
 
 Which fundamentals lead their believers to be the most loving to those with whom they differ?
 
-One instructive example is seen in the differences between early Christians and the surrounding culture: • The Greco-Roman world • Religious views were open and tolerant—everyone had his or her own God. • The practices of the culture were brutal. • Despised the poor. • Ignored the sick.
+One instructive example is seen in the differences between early Christians and the surrounding culture:
 
-Christians • Insisted that there was only one true God, the dying Savior Jesus Christ. • It was remarkably welcoming to those that the culture marginalized. • Gave generously not only to their own poor but to those of other faiths. • Cared for all the sick and dying in the city, often at the cost of their lives.
+- The Greco-Roman world
+- Religious views were open and tolerant—everyone had his or her own God.
+- The practices of the culture were brutal.
+- Despised the poor.
+- Ignored the sick.
 
-Why would an exclusive belief system lead to behavior that was so open to others? • Because Christians had within their belief system the strongest possible resource for practicing sacrificial service, generosity, and peace-making: • Jesus died for his enemies, praying for their forgiveness. • Reflection on this lead to a radically different way of dealing with those who were different from them.
+Christians
+
+- Insisted that there was only one true God, the dying Savior Jesus Christ.
+- It was remarkably welcoming to those that the culture marginalized.
+- Gave generously not only to their own poor but to those of other faiths.
+- Cared for all the sick and dying in the city, often at the cost of their lives.
+
+Why would an exclusive belief system lead to behavior that was so open to others?
+
+- Because Christians had within their belief system the strongest possible resource for practicing sacrificial service, generosity, and peace-making:
+- Jesus died for his enemies, praying for their forgiveness.
+- Reflection on this lead to a radically different way of dealing with those who were different from them.
 
 Adapted from The Reason for God, by Timothy Keller. Published by Dutton books. Permission pending.
 
 #### Chapter 1
 
-Reason for God Study Guide Summary (from page 12) • • • • Skeptics believe that any exclusive claims to a superior knowledge of spirituality cannot be true.
+Reason for God Study Guide Summary (from page 12) Skeptics believe that any exclusive claims to a superior knowledge of spirituality cannot be true.
 
-But this objection is itself an exclusive claim about spiritual reality. • It assumes some or all of the following unprovable faith assumptions: • God is unknowable. • God is loving but not wrathful. • God is an impersonal force. • Also, the proponents believe they have a superior way to view things. • The world would be a better place if people dropped the traditional views of God and truth and adopted theirs.
+But this objection is itself an exclusive claim about spiritual reality.
+
+- It assumes some or all of the following unprovable faith assumptions:
+- God is unknowable.
+- God is loving but not wrathful.
+- God is an impersonal force.
+- Also, the proponents believe they have a superior way to view things.
+- The world would be a better place if people dropped the traditional views of God and truth and adopted theirs.
 
 If all such views are to be discouraged, this one should be as well.
 
 If their view is not narrow, then there is nothing inherently narrow about traditional religious beliefs.
 
-Delivery (from pages 4, 19, 20) • • Tim Keller, in his gracious approach, often finds common ground with skeptics, despite coming to different conclusions.
+Delivery (from pages 4, 19, 20) Tim Keller, in his gracious approach, often finds common ground with skeptics, despite coming to different conclusions.
 
 “It is widely believed that one of the main barriers to world peace is religion... it may surprise you that though I am a Christian minister, I agree with this.”
 

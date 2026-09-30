@@ -12,7 +12,7 @@ summary: "Transferable Concept One by Dr. Bill Bright, addressing believers who 
 source: "Discipleship/Basic Growth Concepts/Transferable Concepts/How To Be Sure You_re A Christian.pdf"
 ---
 
-## Dr. Bill Bright Transferable Concept One
+## Transferable Concept One
 
 My experience in counseling students and laymen through the years since I met Christ personally has convinced me that there are thousands of good, faithful church-goers who have “received” Christ, but who are not sure of their salvation. Regardless of how hard they try and how disciplined their efforts to please God, they are still uncertain of their relationship with Him. greatest gift ever offered to man—God’s gift of love and forgiveness through Jesus Christ. Receiving Jesus Christ as Savior and following Him as Lord involves one’s intellect, emotions, and will.
 

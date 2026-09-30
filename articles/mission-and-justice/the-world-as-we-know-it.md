@@ -10,7 +10,7 @@ summary: "A leader's guide for the Cru/Justice Bible study series (developed wit
 source: "Sending/Missions/IJM Social Justice Bible Studies.pdf"
 ---
 
-## Cru/justice Study 1
+Cru/justice Study 1
 
 image to reflect His glory on the Earth. God gave them dominion over the Earth to subdue and rule the creatures within it. As God’s dominion is righteous and just, so should man’s exercise of power be righteous and just. However, when man disobeyed God, sin entered the world and affected every aspect of human existence. This brokenness is particularly salient in the corrupted way in which men use their power in dominion over others.
 
@@ -42,7 +42,7 @@ Gen 1:26-28: Men and women were made in God’s
 
 ## Bible Study Launch Questions
 
-• • • Ask a fallen condition question Show The Justice Mission Ch. 1?
+- Ask a fallen condition question Show The Justice Mission Ch. 1?
 
 What did you think about the movie/the talk?
 
@@ -74,9 +74,15 @@ Teaching Point: Injustice is real, and God hates it. God hears the cries of the 
 
 Watch a Video Consider watching a video on injustice at the beginning of Bible study. Go to www.ijm.org to pick one that interests you.
 
-Cross Referencing: 2 Samuel 11:1-12:13 Look at the passage above for another biblical example of injustice. • What are some of the similarities between how Pharaoh and David abuse their power (in Exodus and 2 Samuel, respectively)? • How does God deal with these offenses? How does this shed light on God’s view of injustice and oppression?
+Cross Referencing: 2 Samuel 11:1-12:13 Look at the passage above for another biblical example of injustice.
 
-Cross Referencing: Romans 5:12-13, 3:9-18 Read these verses to better understand how the sin of Adam affected all of creation. • What was the result of sin coming into the world? • What type of picture does this passage paint of mankind in its broken state? How does this contribute to a biblical understanding of injustice?
+- What are some of the similarities between how Pharaoh and David abuse their power (in Exodus and 2 Samuel, respectively)?
+- How does God deal with these offenses? How does this shed light on God’s view of injustice and oppression?
+
+Cross Referencing: Romans 5:12-13, 3:9-18 Read these verses to better understand how the sin of Adam affected all of creation.
+
+- What was the result of sin coming into the world?
+- What type of picture does this passage paint of mankind in its broken state? How does this contribute to a biblical understanding of injustice?
 
 Listen To A Sermon Maybe on the mandate to exercise dominion?
 
@@ -144,11 +150,11 @@ Teaching Point: The world is fallen and full of injustice, yet in a broken world
 
 ## Justice and the Gospel
 
-## Cru/justice Study 3
+Cru/justice Study 3
 
 and greater clarity. The more our hearts grasp Christ’s selflessness and humility, the more we will humble ourselves to serve the oppressed.
 
-## Leaders Guide What Do I Need to Know About the Passage?
+Leaders Guide What Do I Need to Know About the Passage?
 
 Luke 4:16-21: Near the outset of Jesus’ ministry, Jesus proclaims his purpose: to proclaim good news to the poor, liberty to the oppressed, and recovery of sight to the blind. This passage becomes the backdrop for Jesus’ entire ministry, and Jesus fulfills this passage both physically and spiritually. As followers of Christ, we have the same calling: to proclaim the Gospel – in word and in deed – to the world.
 
@@ -170,7 +176,7 @@ Luke 18:1-8: Jesus teaches his disciples to pray always and never lose heart. Th
 
 ## Bible Study Launch Questions
 
-• Do you ever have selfish reasons for serving the poor/oppressed? • Have you ever lost steam in your efforts to seek justice? • How can we as Christians sustain our motivation to tackle injustice?
+- Do you ever have selfish reasons for serving the poor/oppressed? • Have you ever lost steam in your efforts to seek justice? • How can we as Christians sustain our motivation to tackle injustice?
 
 ## Explore and Apply
 
@@ -220,7 +226,7 @@ Listen To A Sermon Check out Tim Keller’s sermon on Isaiah 58 where he fleshes
 
 ## How to Lead a Small Group
 
-## Cru/justice Studies
+Cru/justice Studies
 
 community. Similarly, evangelism strategies would likely not fit in with the realities and plans already in place on your campus. It’s up to you, locally, to interact with your group, spending time together to build relationships, and to figure out how you can best make the gospel known.
 

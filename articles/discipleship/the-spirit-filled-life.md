@@ -27,15 +27,13 @@ Section Two: Walking in the Spirit, Abiding in the Spirit, Being Led by the Spir
 
 Section Three: Power to Witness, Power for Holiness, Power to Serve, The Father, Son, and Holy Spirit.
 
-### Order Online at Crupress.com
-
 A devotional on living a spirit-filled life.
 
 14 self-study devotions Thirsty Published by CruPress 100 Lake Hart Drive, 2500 Orlando, FL 32832-0100 Written and Developed by Rick James Designed by Mark Arnold (andarnold.com)
 
 Editorial Assistance: Neil Downey, Kindra Pridey Edited: Eric Stanford (editresource.com)
 
-CruPress is the publishing division of the Campus Ministry of Campus Crusade for Christ All Scripture quotations taken from the Holy Bible, New International Version® NIV® copyright ©1973, 1978, 1984 by International Bible Society. Used by permission of Zondervan Publishing House. All rights reserved. ©2008 Cru Press, Campus Crusade for Christ, Inc. All rights reserved. No part of this publication may be reproduced, stored in a retrieval system, or transmitted, recording or otherwise, without the prior permission of CruPress.
+CruPress is the publishing division of the Campus Ministry of Campus Crusade for Christ All Scripture quotations taken from the Holy Bible, New International Version® NIV® copyright ©1973, 1978, 1984 by International Bible Society. Used by permission of Zondervan Publishing House. All rights reserved. All rights reserved. No part of this publication may be reproduced, stored in a retrieval system, or transmitted, recording or otherwise, without the prior permission of CruPress.
 
 ISBN –1-57334-071-5 The phrase Jesus used, “living water,” was meant to evoke, among other Scriptures, Jeremiah 2:13: “My people have committed two sins: They have forsaken me, the spring of living water, and have dug their own cisterns, broken cisterns that cannot hold water.”
 
@@ -105,11 +103,11 @@ Since we’ve touched on some abstract ideas, try to process the content through
 
 How I view him now:
 
-I AM WHO I AM ADONAI JEHOVA ROPHE GOD AL- MIGHTY FATHER LORD ELOHIM EL SHADDAI EL ELYON YESHUA FIRST AND LAST ALPHA AND OMEGA LIVING GOD EL ROI HOLY ONE GREAT SHEPHERD LORD OF HOSTS GOD MOST HIGH EVERLASTING GOD KURIOS WORD MAKER GOD ONLY WISE REDEEMER ADONAI AVINU CREATOR HOLY GLORY ETERNAL IMMANUEL
+I AM WHO I AM ADONAI JEHOVA ROPHE GOD ALMIGHTY FATHER LORD ELOHIM EL SHADDAI EL ELYON YESHUA FIRST AND LAST ALPHA AND OMEGA LIVING GOD EL ROI HOLY ONE GREAT SHEPHERD LORD OF HOSTS GOD MOST HIGH EVERLASTING GOD KURIOS WORD MAKER GOD ONLY WISE REDEEMER ADONAI AVINU CREATOR HOLY GLORY ETERNAL IMMANUEL
 
-### And in him you too are being built together to become a dwelling in which God lives by his Spirit.
+And in him you too are being built together to become a dwelling in which God lives by his Spirit.
 
-ephesians 2:22 Okay, sO yOu enter a rOOm and there yOu find the fOllOwing peOple: twO pOwerful pOlitical figures (Barack OBama and mayBe hillary clintOn), a cOuple Of spOrts icOns (like tOm Brady and tiger wOOds), yOur twO favOrite musicians (let’s say dave matthews and BeyOnce), and twO actOrs whO define Beauty (such as Brad pitt and angelina JOlie). that’s the scenariO. nOw . . .
+ephesians 2:22 Okay, sO yOu enter a rOOm and there yOu find the fOllOwing peOple: twO Powerful Political figures (Barack OBama and mayBe hillary clintOn), a Couple Of spOrts icOns (like tOm Brady and tiger wOOds), Your twO favOrite musicians (let’s say dave matthews and BeyOnce), and twO actOrs whO define Beauty (such as Brad pitt and angelina JOlie). that’s the scenariO. nOw . . .
 
 Whose presence would you find most intimidating?
 
@@ -147,7 +145,7 @@ Tracing the word “filled” in a single chapter of Acts sheds light on the way
 
 W hen the Jews saw the crowds, they w ere filled w ith je alousy. . . .
 
-The disciples w ere filled w ith joy a nd w ith the holy spirit. act 13:9, 45, 52, eMphasis added How is being filled with the Spirit similar to be filled with joy or jealousy? How is it different? Why do you think God makes his influence and presence so subtle in our lives, working in concert with our own thoughts and emotions rather than overriding them?
+The disciples w ere filled w ith joy a nd w ith the holy spirit. act 13:9, 45, 52, Emphasis added How is being filled with the Spirit similar to be filled with joy or jealousy? How is it different? Why do you think God makes his influence and presence so subtle in our lives, working in concert with our own thoughts and emotions rather than overriding them?
 
 How have you experienced or felt the Spirit’s presence or influence in your life since becoming a Christian? What variables might affect how much you feel or experience the Spirit’s influence? Put another way, are there things you can do to increase or decrease the Spirit’s influence upon your thoughts and actions? As the Lord indwells you, your life is now his home. What about your life right now do you think Jesus would want to change to make his new temple more of a “holy dwelling”?
 
@@ -235,9 +233,9 @@ Perhaps the best New Testament description of this partnership is found in Paul�
 
 The Holy Spirit indwells you and he will lead, direct, and empower you. That’s what Philippians 2 says: he will influence your thoughts, actions, motivations, and emotions, but you must play a role. Whether the Spirit’s influence in your life is like a dripping faucet or a racing river depends upon your participation in the process. What follows is how we participate and partner with God to experience the maximum influence of the Spirit in our life.
 
-## The Foundation of
+The Foundation of
 
-### the sword of the spirit, w hich is the word of God. ephesians 6:17
+the sword of the spirit, w hich is the word of God. ephesians 6:17
 
 do not Get drunk on w ine, w hich le ads to debauchery. inste ad, be filled w ith the spirit. spe ak to one a nother w ith psalms, hy mns a nd spiritual sonGs. sinG a nd m ak e music in your he art to the lord, always Gi v inG th a nks to God the father for ev ery thinG, in the na me of our lord jesus christ. ephesians 5:18-20 let the peace of christ rule in your hearts, since as members of one body you were called to peace. and be thankful. let the word of christ dwell in you richly as you teach and admonish one another with all wisdom, and as you sinG psalms, hymns and spiritual sonGs with Gratitude in your hearts to God. colossians 3:15-16 We find in Ephesians and Colossians parallel passages, each describing the Spirit-filled life; parallel that is except that one emphasizes the Spirit and the other God’s Word. Did you catch that?
 
@@ -251,7 +249,7 @@ The Spirit enables and empowers us to believe and trust the Word. How have you e
 
 Second, God’s word is truth. It awakens our conscience. With the power to reach into the private corners of our hearts, the Word bares our motives and secret feelings and reveals our hidden longings. Third, God’s Word discerns our true character. It exposes the weakness in our attitudes and conduct, enabling us to correct ourselves by the power of His Holy Spirit. Bill BriGht Now, with the sword of the Spirit, which is the word of God, let’s look at “walking in the Spirit.”
 
-### Since we live by the Spirit, let us keep in step with the Spirit. Gal atians 5:25
+Since we live by the Spirit, let us keep in step with the Spirit. Gal atians 5:25
 
 can’t seem to get clean.
 
@@ -320,7 +318,7 @@ All of us have emotional, mental, and physical needs that arise each day and for
 
 What do you turn to and rely on daily to meet these needs?
 
-Taste test: In both of these passages, being filled with the Spirit is compared and contrasted with drinking alcohol. From the passages and your own experience (I won’t ask) or observation, what are the similarities? What are the differences? How do you think your life might be different if, whenever you experienced these needs, How do you think your life might be different if, whenever you experienced these needs, How do you think your life might be different if, whenever you experienced these needs, you turned to God and asked the Holy Spirit for enablement, grace, and empowerment? you turned to God and asked the Holy Spirit for enablement, grace, and empowerment? you turned to God and asked the Holy Spirit for enablement, grace, and empowerment? What if the Holy Spirit were your coffee, your cigarettes, your iPod (metaphorically What if the Holy Spirit were your coffee, your cigarettes, your iPod (metaphorically What if the Holy Spirit were your coffee, your cigarettes, your iPod (metaphorically speaking)? What would your day look like?
+Taste test: In both of these passages, being filled with the Spirit is compared and contrasted with drinking alcohol. From the passages and your own experience (I won’t ask) or observation, what are the similarities? What are the differences? How do you think your life might be different if, whenever you experienced these needs, How do you think your life might be different if, whenever you experienced these needs, How do you think your life might be different if, whenever you experienced these needs, you turned to God and asked the Holy Spirit for enablement, grace, and empowerment? you turned to God and asked the Holy Spirit for enablement, grace, and empowerment? you turned to God and asked the Holy Spirit for enablement, grace, and empowerment? What if the Holy Spirit were your coffee, your cigarettes, your Ipod (metaphorically What if the Holy Spirit were your coffee, your cigarettes, your Ipod (metaphorically What if the Holy Spirit were your coffee, your cigarettes, your Ipod (metaphorically speaking)? What would your day look like?
 
 People can turn to alcohol to help them cope with hardship, express affection, relieve worry, boost confidence, and facilitate self-reflection.
 
@@ -428,7 +426,7 @@ As you look around you right now, begin to start the thanksgiving cycle. What do
 
 The nature of the thanksgiving cycle is such that after listing all those things, instead of being thanked-out, you’re actually more thankful. So throw a few more things down before we move on. continuous praise and thanksgiving.
 
-Apollo 11 landed on the surface of the moon on Sunday, July 20, 1969. Most of us are familiar with astronaut Neil Armstrong’s historic statement as he stepped onto the moon’s surface: “That’s one small step for man; one giant leap for mankind.” But few know about the first meal eaten there. We all have a mental iPod. What bands and song lyrics have been playing in your head and heart these last few weeks? Have they brought you closer to or further from the Lord?
+Apollo 11 landed on the surface of the moon on Sunday, July 20, 1969. Most of us are familiar with astronaut Neil Armstrong’s historic statement as he stepped onto the moon’s surface: “That’s one small step for man; one giant leap for mankind.” But few know about the first meal eaten there. We all have a mental Ipod. What bands and song lyrics have been playing in your head and heart these last few weeks? Have they brought you closer to or further from the Lord?
 
 Buzz Aldrin had brought aboard the spacecraft a tiny Communion kit provided by his church. Aldrin sent a radio broadcast to Earth asking listeners to contemplate the events of that day and give thanks. Then, in radio blackout for privacy … [Aldrin] read, “I am the vine, you are the branches. He who abides in me, and I in him, bears much fruit.”9 Are there specific songs that, for whatever the reason, create a negative atmosphere in your heart (one of lust, bad memories, pride, or whatever)?
 
@@ -605,7 +603,7 @@ The verses stretching from 4:25 to 5:3 tell us of habits that don’t fit into t
 
 God does not grow us overnight, nor can we just grow ourselves. It is a process and a partnership, and typically God addresses one issue at a time in our lives. In what area are you currently feeling the Spirit’s conviction? Certain habits of sin are deeply engrained and it can be a prolonged process to see growth. Ultimate victory may never fully be realized. What is critical is that we never give up fighting on these fronts. In what area are you most weary and most tired of the struggle? Are you living in grace and experiencing God’s forgiveness when you fail? When you become aware of a specific issue of sin, do you think, I have to change this, do you think I need to begin to talk to God about this, or do you think I need to draw closer to the Lord?
 
-In 2006, a Russian man named Vladimir Villisov specially designed his own coffin to accommodate his vast collection of pornography. “The girls in those magazines have been my companions for years,” said Villisov, 66, “and I want them to accompany me to the next life.”14 “only in aMerica”
+In 2006, a Russian man named Vladimir Villisov specially designed his own coffin to accommodate his vast collection of pornography. “The girls in those magazines have been my companions for years,” said Villisov, 66, “and I want them to accompany me to the next life.”14 “only in America”
 
 Sexual sin and temptation are typically the greatest challenge to our personal holiness and to the Spirit’s control of our life. How have you seen God at work in this area?
 
@@ -615,7 +613,7 @@ POSTLES PROPHETS MERCY MIRACLES ADMINISTRATION ELPS EVANGELISM TEACHING ENCOURAG
 
 By popular poll, here are the super powers that adults would most like to possess: To read minds: 28% To fly: 15% To be invisible: 11% To possess super strength: 9% To walk through walls: 1% If you could have any of these special abilities, which would you choose? Why? What would you do with it? What does your choice of super power say about you? When you think of who God has made you to be, what would you say is your greatest strength (power)?
 
-The Holy Spirit brings glory to Christ by empowering us to witness for him, by moving us to greater degrees of holiness in our thoughts, speech, and actions, and by equipping us to love and serve others. We’ll look here at the Spirit’s ministry in our lives that empowers us to love and serve. empowered to serve. to e ach one of us Gr ace h as been Gi v en as christ apportioned it. it was he w ho Gav e some to be apostles, some to be prophets, some to be eva nGelists, a nd some to be pastors a nd te achers, to prepare God’s people for works of serv ice. ephesians 4:7, 11-12 When this passage mentions “works of service” what kinds of things might it be referring to?
+The Holy Spirit brings glory to Christ by empowering us to witness for him, by moving us to greater degrees of holiness in our thoughts, speech, and actions, and by equipping us to love and serve others. We’ll look here at the Spirit’s ministry in our lives that empowers us to love and serve. empowered to serve. to e ach one of us Gr ace h as been Gi v en as christ apportioned it. it was he w ho Gav e some to be apostles, some to be prophets, some to be eva Ngelists, a nd some to be pastors a nd te achers, to prepare God’s people for works of serv ice. ephesians 4:7, 11-12 When this passage mentions “works of service” what kinds of things might it be referring to?
 
 Building the body.
 
@@ -627,7 +625,7 @@ Helps/mercy: An energy for serving and a sensitivity to those hurting Miracles: 
 
 Read 1 Corinthians 12. This is the user’s guide to spiritual gifts. What are some of the purposes for which the Spirit has This is the user’s guide to spiritual gifts. What are some of the purposes for which the Spirit has given us these gifts? What are the cautions and instructions?
 
-We are most empowered and directed by the Spirit when we are engaged in serving others. How are you currently ministering to others? How could you be more involved? How has your involvement shed light on your areas of gifting? LOOK IT UP: If you Google “Spiritual Gifts Test,” you’ll find questionnaires online that may be helpful in determining your spiritual gifts. empowered to love. if i spe ak in the tonGues of men a nd of a nGels, but h av e not the Gift of prophecy a nd c a n fathom all mysteries a nd all h av e not lov e, i a m nothinG. 1 corinthians 13:1-2 Of all virtues, love is preeminent in Scripture. Why do you think that is?
+We are most empowered and directed by the Spirit when we are engaged in serving others. How are you currently ministering to others? How could you be more involved? How has your involvement shed light on your areas of gifting? LOOK IT UP: If you Google “Spiritual Gifts Test,” you’ll find questionnaires online that may be helpful in determining your spiritual gifts. empowered to love. if i spe ak in the tonGues of men a nd of a Ngels, but h av e not the Gift of prophecy a nd c a n fathom all mysteries a nd all h av e not lov e, i a m nothinG. 1 corinthians 13:1-2 Of all virtues, love is preeminent in Scripture. Why do you think that is?
 
 In our culture, “love” can be a euphemism for a relationship, sex, infatuation, or a strong preference toward something (“I’d love a Whopper right now”). What would you say is a biblical definition of love? In emphasizing love alongside the gifts of the Spirit, there is obviously a concern that spiritual gifts might be used selfishly or pridefully or that certain gifts might be emphasized too much. How have you seen this? A lot of disturbing attitudes and issues emerge when we attempt to serve without love as our motivation. Such as? Loving by faith.
 

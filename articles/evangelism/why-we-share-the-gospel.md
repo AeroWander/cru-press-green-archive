@@ -10,7 +10,7 @@ summary: "A short discipleship article giving four biblical motivations for evan
 source: "Evangelism/traning/Why We Share the Gospel.pdf"
 ---
 
-## The Hope That Is Within US
+## The Hope That Is Within Us
 
 For many people, and probably your disciple, evangelism does not come naturally. We sense the social awkwardness of talking about spiritual things. That’s why it’s important to demonstrate, from Scripture, why we should engage in sharing our faith. This will bring about a conviction to do evangelism in the absence of feeling like it. What follows are four biblical reasons for doing evangelism and how you might share these biblical motivations with a small group or someone you disciple.
 
@@ -34,7 +34,7 @@ This is the tragic, but accurate, depiction of the state of people apart from Ch
 
 ## Ambassadors
 
-2 Corinthains 5:18-20 touches on the evangelistic motivation of stewardship. God has entrusted us with the responsibility of being His ambassadors: © 2010, CruPress, All Rights Reserved. CruPress.com All this is from God, who reconciled us to Himself through Christ and gave us the ministry of reconciliation: that God was reconciling the world to Himself in Christ, not counting men’s sins against them. And He has committed to us the message of reconciliation. We are therefore Christ’s ambassadors, as though God were making His appeal through us. We implore you on Christ’s behalf: Be reconciled to God.
+2 Corinthains 5:18-20 touches on the evangelistic motivation of stewardship. God has entrusted us with the responsibility of being His ambassadors: All this is from God, who reconciled us to Himself through Christ and gave us the ministry of reconciliation: that God was reconciling the world to Himself in Christ, not counting men’s sins against them. And He has committed to us the message of reconciliation. We are therefore Christ’s ambassadors, as though God were making His appeal through us. We implore you on Christ’s behalf: Be reconciled to God.
 
 This is an idea worthy of some exploration. You might ask your disciple what it means to be an ambassador. Or, “What difference would it make if he or she went out each day seeing themselves as God’s ambassador? Have they seen God use them in this way?” Or, “Why do you think God chooses to make His appeal through us?” You want to ask some questions to help this truth, and responsibility, penetrate their hearts.
 
@@ -44,4 +44,4 @@ The apostle John in the beginning of his first epistle states, “We write this 
 
 Why do we share Christ with others? It completes our joy. If we are enjoying our walk with Christ, our Christian experience is still incomplete until we can share it with another.
 
-Perhaps the greatest thing we can do to excel our own walk and joy in the Lord is to be engaged in sharing this joy with others. © 2010, CruPress, All Rights Reserved. CruPress.com
+Perhaps the greatest thing we can do to excel our own walk and joy in the Lord is to be engaged in sharing this joy with others.

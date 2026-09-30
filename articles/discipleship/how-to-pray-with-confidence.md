@@ -13,7 +13,7 @@ source: "Building Community/Prayer/9. How To Pray With Confidence.pdf"
 also_filed: ["Discipleship/Basic Growth Concepts/Transferable Concepts/How To Pray With Confidence.pdf"]
 ---
 
-## Dr. Bill Bright Transferable Concept Nine
+## Transferable Concept Nine
 
 Have you ever considered that you have immediate access to the most powerful Person in the universe? During the last 40 years, I have had the honor of meeting several presidents of the United States. compassion for the world, to go and share the good news of the gospel everywhere. But we huddle in unbelief in our little prayer meetings and talk of peripheral, superficial matters. We are content to see accomplished in the name of Christ only what we are capable of accomplishing through our own intellect, eloquence, and organizational skills.
 

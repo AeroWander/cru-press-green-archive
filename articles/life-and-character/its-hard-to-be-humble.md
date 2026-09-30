@@ -12,7 +12,7 @@ summary: "An article by Neil Downey, part of the Cru.comm Bible study curriculum
 source: "Discipleship/Mature Teaching/It_s Hard to be Humble.pdf"
 ---
 
-## Cru.comm • Bible Study Curriculum
+Cru.comm · Bible Study Curriculum
 
 Cru.Comm is the Campus Ministry’s core Bible study content. Over 110 Bible studies, written to ensure that everyone involved in our ministry is grounded in our classic, biblical teaching and training.
 
@@ -22,11 +22,11 @@ Each of the studies presents classic, transferable Campus Crusade teaching throu
 
 Content includes book studies on Luke, Ephesians, Thessalonians, James, 1 Samuel, John, and Acts. In addition, there are topical studies on issues such as spiritual leadership, God’s redemptive plan, and Old Testament character studies.
 
-## Order Online at Crupress.com Article
+Order Online at Crupress.com Article
 
-### It’s hard to be humble • Neil Downey
+It’s hard to be humble · Neil Downey
 
-I have an infatuation with country music. Not modern, Kenny Chesney-style country: that stuff is essentially pop music with cowboy hats. No, I’m referring to old-school twangy country: singers like Conway Twitty, George Jones, and Charlie Pride.
+I have an infatuation with country music. Not modern, Kenny Chesney-style country: that stuffis essentially pop music with cowboy hats. No, I’m referring to old-school twangy country: singers like Conway Twitty, George Jones, and Charlie Pride.
 
 Don’t get me wrong – I don’t prefer this style of music. I just admire it for its creativity. If you were to read a list of popular country tunes from a couple of generations ago, you’d find some clever song titles, including If the Devil Danced in Empty Pockets, He’d Have a Ball in Mine; She Got the Goldmine, I Got the Shaft; and my personal favorite I Gave Her the Ring, She Gave Me the Finger.
 
@@ -56,6 +56,6 @@ Scripture clearly and repeatedly tells us that the purpose for which we were cre
 
 Continued on page 3 IT’s HARD TO BE huMBLE ARTICLE 3 I love God. I want to obey him and serve him. I want other people to know him and worship him because I want him to be glorified. And I don’t want anything about myself to keep that from happening. So I want my attitude to echo that of John the Baptist in John 3:30: “He must become greater; I must become less.” As I continue to walk with Jesus - becoming more aware of his holiness and my own sinfulness, yielding my will to his, and allowing the fruit of the Spirit to grow and ripen in my life – I continue to become more like him. And it’s slowly becoming not as hard to be humble.
 
-Endnote 1 It’s Hard To Be Humble, Mac Davis. 1980 End The Compass is the discipleship curriculum for Campus Crusade for Christ’s Campus Ministry. It was created by Centerfield Productions, the field based division of CruPress. We’d love to hear your feedback on this lesson. Please write us at centerfield@uscm.org ©2007 Cru Press, Campus Crusade for Christ, Inc. All rights reserved.
+Endnote 1 It’s Hard To Be Humble, Mac Davis. 1980 End The Compass is the discipleship curriculum for Campus Crusade for Christ’s Campus Ministry. It was created by Centerfield Productions, the field based division of CruPress. We’d love to hear your feedback on this lesson. Please write us at centerfield@uscm.org All rights reserved.
 
 No part of this publication may be digitally reproduced, stored in a retrieval system, or transmitted, without the prior permission of Cru Press.

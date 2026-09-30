@@ -17,33 +17,33 @@ source: "Evangelism/outreach/Seasonal Outreaches.pdf"
 
 The 250 is organized by the following topics: Modes of Evangelism: prayer evangelism, ministry evangelism, natural evangelism, and body evangelism. Student Groups: athletes, ethnic students, freshmen, fringe groups, greek students, international students, and men/women. A Miscellany: church partnerships, holidays & seasons, focus groups, questionnaires, service, speakers, and ideas for the future.
 
-### ORDER ONLINE AT CRUPRESS.COM The men and women both love it and the comment cards were incredibly positive!
+ORDER ONLINE AT CRUPRESS.COM The men and women both love it and the comment cards were incredibly positive!
 
-### Having plans on Valentines Day is a
+Having plans on Valentines Day is a
 
 Continuing with the program, a song is performed, and a guest speaker talks about the true love found in Jesus Christ. Twelve girls accepted Christ! Meanwhile,
 
-### must. So every year, the move-
+must. So every year, the move-
 
 in another room, the men listened to
 
-### ment at the University of Wis-
+ment at the University of Wis-
 
 a message on caring for their sisters in
 
-### consin-Oshkosh hosts an el-
+consin-Oshkosh hosts an el-
 
 Christ.
 
-### egant Valentines Day dessert to
+egant Valentines Day dessert to
 
 “It is good for everyone and incredibly
 
-### talk about true love from God’s
+talk about true love from God’s
 
 successful,” says Sara Thompson. “The men and women both love it and the com-
 
-### perspective. ment cards were incredibly positive!” *
+perspective. ment cards were incredibly positive!” *
 
 The women receive formal invitations and then are given flowers when the guys
 
@@ -53,75 +53,75 @@ pick them up. Later, the catered evening has the men taking orders and doing all
 
 Tables are decorated with candles and rose petals, lights are dimmed and Frank Sinatra plays in the background. On the screen, Bible verses on love fade in and out. Later, a student tells how God changed her heart toward dating and how her significance is now with God, and not with men.
 
-## 187›› Pumpkin Outreach
+## Pumpkin Outreach
 
 At South Dakota State, hundreds of pumpkins were donated to Campus Crusade. In exchange for completing a spiritual interest survey, students received a free pumpkin, and in one morning, every pumpkin was given away. Students also received a quarter page evangelistic article that compared people to the jack-o-lantern.
 
-### © 2010, CruPress, All Rights Reserved. CruPress.comMORE HOLIDAY & SEASONAL EVANGELISM IDEAS ››
+### More Holiday & Seasonal Evangelism Ideas
 
 ( the250 )
 
-## 188›› Reverse Trick or Treating
+## Reverse Trick or Treating
 
 At Charlotte Metro, Campus Crusade students did a Reverse Trick or Treating as a way to talk with students. Stopping by different rooms, they gave away candy and FSKs.
 
-## 189›› Satanism and the Occult
+## Satanism and the Occult
 
 Around Halloween, students in Chicago did a talk on Satanism and the occult. They also handed out candy and had students fill out a Halloween survey.
 
-## 190›› Thanksgiving Postcards
+*Thanksgiving Postcards*
 
 At Rutgers University, Campus Crusade delivered free Thanksgiving postcards through campus mail. With turkeys on the front side, students wrote notes to friends on the back-side. As students would fill out the postcard, Campus Crusade staff members or students asked questions like “What are you thankful for?” Other times, they just wanted to expose people to the ministry’s presence on campus, explaining, “We’re not asking you for anything. We just want to deliver these cards for you.”
 
 ### Winter
 
-## 191››  A Candy Cane for
+ A Candy Cane for
 
 Every Student The students at the University of South Dakota bought candy canes from Sam’s Club and put them in student’s mailboxes along with an evangelistic article.
 
-## 192›› Apartment Visits
+## Apartment Visits
 
 For Christmas, Campus Crusade at Mississippi State went to apartments where they knew students lived. Going door-to-door they gave away candy canes, Christmas cards, and selected material from FSKs. During Easter, they distributed Easter baskets, including in each one a copy of “More than a Carpenter.”
 
-## 193››  Christmas party
+ Christmas party
 
 in my dorm At Eastern Kentucky, a student hosted a Christmas party in her dorm. Appetizers were served and holiday music played in the background. DVD players were given away and one girl explained what Christmas means to her. Approximately 125 students visited the party, and every student received a copy of Max Lucado’s book, “He Chose the Nails.” Other students on campus raised money to give out “More than a Carpenter” as Christ-mas presents to those living in their dormitory.
 
-## 194›› Love Survey
+## Love Survey
 
 For a Valentine’s Day outreach, the students in Jacksonville downloaded a love survey off of the GodSquad.com Website. They also displayed a huge board on campus that read, “Does Love Truly Satisfy?”
 
-## 195›› Table For Two
+## Table For Two
 
 At Southern Oregon University, Campus Crusade developed an ESC Valentine’s strategy (see p. 98). To enter a drawing for a free dinner-for-two, students filled out a card listing their name and address. In exchange, each one received the ESC article, “Sex and the Search for Intimacy.”
 
-## 196›› Bright Monkey
+## Bright Monkey
 
 During Valentine’s week, West Virginia students filled out Valentine’s Questionnaires to win a huge stuffed monkey. Campus Crusade raffled off a stuffed animal for each dorm. The bright monkey was sure to draw attention to the table. Staff members said the stuffed animals were actually cheaper than buying candy.
 
-## 197›› A Rose For Every Girl
+## A Rose For Every Girl
 
 For Valentine’s Day, Campus Crusade at Appalachian State placed a rose on every girl’s dorm room door and followed-up with focus groups. Approximately 2,600 roses were distributed. UT Knoxville also gave away 1500 flowers on Valentine’s Day. Cards were given with 12 sentences on the worth of a woman as well as a web address for an article about dating.
 
-## 198››  Valentine’s Day
+ Valentine’s Day
 
 of Outreach At East Tennessee State University, Campus Crusade gave away several hundred cups of hot chocolate for Valentines Day and set up a booth where students could make Valentine’s cards for loved ones. Students were also invited to a coffeehouse concert later that evening. Following the concert, a student explained the gospel to the audience.
 
-## 199›› Five Love Languages
+## Five Love Languages
 
 The ministry in Minnesota State, Mankato, spent two weeks doing surveys aimed at Valentines Day. Based on those results, they hosted an evangelistic meeting on the topic of the Five Love Languages and served “Better Than Sex” cake.
 
-## 200›› Car Smash Outreach
+## Car Smash Outreach
 
 At the University of Northern Colorado, a student organized a car smash outreach. The men had to fill out a Valentine’s survey in order to get the chance to smash on the car with a sledgehammer a few times. One of the questions on the survey read: “What does love mean to you?”
 
 ### Spring
 
-## 201›› St. Patrick’s Day Dance
+## St. Patrick’s Day Dance
 
 At Boise State, Campus Crusade hosted a dance on St. Patrick’s Day. At the dance, a speaker dressed up as a monk shared the message of St. Patrick who lived in A.D. 342.
 
-## 202››  Campus wide
+ Campus wide
 
 Easter Egg Hunt At Lawrence Tech University, Campus Crusade hid 1,000 plastic Easter eggs all over campus. Inside each plastic egg were pieces of candy and a piece of paper that pointed to EveryStudent.com (an evangelistic website). Instructions were also given inside the eggs for the students to bring their piece of paper to the weekly meeting where they could win a grand prize. The meaning of Easter was shared during the weekly meeting. Also around campus were ESC Easter posters. (see p. 98)
 
@@ -133,11 +133,11 @@ Michigan State partnered with other Christian groups on campus and handed out 16
 
 For Easter, students at Indiana University carried a cross through the campus and erected it in a central location. One of the guys was up on the cross and they had someone begin to mock him and spit on him. A crowd gathered and people reacted to it saying, “Hey, don’t spit on that guy!” Flyers announced, “Jesus Christ died for you. What does that mean to you?” The flyers advertised the weekly meeting and an upcoming Easter service at a local church.
 
-## 204››  Easter Bunny, Bear,
+ Easter Bunny, Bear,
 
 and Pig At Michigan State, students dress up as the Easter Bunny, a bear, and a pig. Students could get their pictures taken with the characters. Then students passed out cards directing people to the local Website where they could download their digital photos and also learn more about Campus Crusade. The characters also handed out Easter ads that ran simultaneously in the campus newspaper.
 
-## 205››  A “Passion Walk”
+ A “Passion Walk”
 
 around campus Ohio University is on the quarter system, so each quarter the ministry leaders plan an evangelistic outreach. For the spring quarter, they have “Faith Week,” completely student-run. The “Passion Walk” kicks off the first night. Students reenact the Passion of Christ, beginning with the Lord’s Supper and going through the Resurrection. This event takes place on different sites around campus and generates a lot of publicity.
 
@@ -145,22 +145,22 @@ around campus Ohio University is on the quarter system, so each quarter the mini
 
 Campaign At the University of Idaho, Christian groups partnered together for “Where’s the Body?” campaign (similar to I Agree with). Students wore T-shirts emblazoned on the back with the question, “Where’s the Body?” On the front of the shirt students printed the inviting words, “Ask me, I know.” Additionally, ESC ads were placed in the newspaper daily. The answer to the question, “Where’s the Body?” (referring, of course, to Christ’s body) came on Friday’s paper in an article written by Campus Crusade staff member and author Josh McDowell.
 
-## 207›› Easter Outreach Banquet
+## Easter Outreach Banquet
 
 Campus Crusade at the University of Buffalo hosts a formal Easter banquet every year. Tickets were sold to the other groups on campus. Each year, 50 percent of those who attend are non-believers.
 
-## 208›› Easter Week at UTEP
+Easter Week at UTEP
 
 Students involved in Destino at the University of El Paso used the ESC Easter campaign. They created T-shirts. They hosted bands, dramas and break-dancers, and they invited different speakers to discuss relevant topics. Each semi-nar was intended to reach a different major and some were delivered in Spanish.
 
-## 209›› International Week
+## International Week
 
 At George Mason, Campus Crusade partnered with a local church to reach international students. They sent “Egg-vitations”-plastic eggs with cards inside inviting internationals to dinner.
 
-## 210››  Come Watch the
+ Come Watch the
 
 Trial of Jesus The students at Cal State, Fresno, acted out the trial of Jesus during the day on campus (free speech area). They invited students to attend the Passion play by handing out plastic Easter eggs containing invitations to the trial of Jesus. Close to 150 students watched the drama.
 
-## 211››  Recliners In the
+ Recliners In the
 
 Middle of Campus Students at the University of Kansas set up recliners and chairs in the middle of campus (free speech area) to invite their peers to watch the JESUS film.

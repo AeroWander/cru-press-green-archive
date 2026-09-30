@@ -105,6 +105,6 @@ Try to spend 15 minutes or so each day alone with God in Bible reading and praye
 
 Next meeting:
 
-Heres Lils Crusade rook rom © 1984 by Campus Crusade for Christ, Inc.
+Heres Lils Crusade rook rom
 
 All rights reserved.

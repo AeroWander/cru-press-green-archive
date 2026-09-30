@@ -30,15 +30,15 @@ The history of ethnic minorities in North America is filled with pain, from both
 
 DUTY AND PLEASING POSTURE 5: UNITY AS ASSIMILATION
 
-## Towards Majority Culture ////////////////////////
+## Towards Majority Culture
 
 By Adrian & Jennifer Pei, Destino Kristy, Donnie & Renee Begay with personal stories by Destino, Epic, Impact, and Nations staff
 
-### When You Hear the Term “Majority Culture,” What Is the First Thing That Comes to Mind?
+When You Hear the Term “Majority Culture,” What Is the First Thing That Comes to Mind?
 
 approach involving not only the mind, but also the heart and attitude. Five postures were outlined: (1) Unfamiliar and Unaware, (2) Duty or Obligation, (3) Charity, (4) Unity as Togetherness, and (5) Advocacy in Partnership.
 
-### "In waiting for others to change, or initiate with us, we have sometimes missed what God wants to do in our hearts and lives."
+"In waiting for others to change, or initiate with us, we have sometimes missed what God wants to do in our hearts and lives."
 
 Whether we know it or not, each member of an ethnic minority culture also has a posture towards the majority culture. Likewise, this influences what we value, how we make decisions, and how we treat others. As we have served in our ethnic minority contexts for the past few years, we have noticed a lack of awareness and dialogue about this. Much attention and energy has been focused on how we have been treated. But in this process, we have often failed to recognize the power and responsibility that God has entrusted to us, as His children. In waiting for others to change, or initiate with us, we have sometimes missed what God wants to do in our hearts and lives. Whether we live on the margins or in positions of power, we all play a part in God’s story. He calls us all to examine our postures, as we act and lead.
 
@@ -56,7 +56,7 @@ For others, perhaps they engage in multicultural contexts and relationships, but
 
 By God’s grace, we are all in different places on our journey of awareness, and none of us has “fully arrived.” Maybe you wonder why it’s even important for a person to explore their culture and ask questions, when they seem to be “fitting in” without any problems. Or maybe you are just beginning to understand the various family and cultural factors that have shaped you. Regardless of where you are in your journey, consider what opportunities for growth and leadership lie ahead for you and others, that have been previously overlooked!
 
-### “...though we live and breathe our own culture, we may actually be quite unaware of the distinctiveness of our own ethnic background.”
+“...though we live and breathe our own culture, we may actually be quite unaware of the distinctiveness of our own ethnic background.”
 
 DISCLAIMERS
 
@@ -80,7 +80,7 @@ This can manifest itself in many different situations, and to various degrees of
 
 Some choose to separate themselves or retaliate, seeing the majority culture itself as the enemy. Others maintain a high level of mistrust, finding it difficult to listen to (or share with) Caucasians without some suspicion of motives.
 
-### “Ministering out of anger can shut off dialogue and relationships, and discourage those who sincerely want or need to learn.”
+“Ministering out of anger can shut off dialogue and relationships, and discourage those who sincerely want or need to learn.”
 
 Anger can be overt and direct, but it can also manifest itself in more subtle ways, especially in cultures where expressing anger is difficult or even considered sinful. Maybe you feel a surge of emotion when you see cultural stereotypes in the media, or you respond with sarcasm when your coworker remarks about your skill at speaking English. Maybe you find yourself acting defensively, or even with arrogance, when there’s a display of cultural ignorance or insensitivity.
 
@@ -116,7 +116,7 @@ This perception of never having a place or voice in society, often rooted in pai
 
 Sometimes we may assume this posture in subtle ways, without fully realizing it. Maybe we find ourselves constantly questioning or second-guessing the thoughts in our heads, while we sit in meetings. Maybe we tend to retreat or withdraw when faced with conflict or opposition. Maybe we find it difficult to receive praise or recognition because our self-doubt runs so deep.
 
-### “...we have worth and dignity because of who He created us to be, not because of the way society may perceive us.”
+“...we have worth and dignity because of who He created us to be, not because of the way society may perceive us.”
 
 But we serve a God who sees the invisible, hears the voiceless, and remembers those who have been forgotten. He teaches us to voice our pain to Him. He reminds us that we have worth and dignity because of who He created us to be, not because of the way society may perceive us. And as we lead out of this truth, God empowers us to lead even in contexts where we feel we have no voice!
 
@@ -140,7 +140,7 @@ Another reason ethnic minorities may take a “pleasing” posture is that many 
 
 This posture can be very subtle. We can’t imagine many would claim that it’s what they desire, or are trying for. However, it is one of the most common and consistent relational patterns we have seen in ministry.
 
-### “Do you seek permission or approval from the majority culture for what you are doing, or need them to tell you what to do?”
+“Do you seek permission or approval from the majority culture for what you are doing, or need them to tell you what to do?”
 
 Do you ever find yourself seeking permission or approval from the majority culture for what you are doing, or needing them to tell you what to do, even if you don’t really need them to? Maybe you place your primary hope in decisions or statements made by your leaders. Or when they don’t get what they prefer or want, maybe you change your stance or approach to appease them. When they disagree with your ideas, maybe you are quick to give in.
 
@@ -155,7 +155,7 @@ Now that I’m older, I still see ethnic minorities who unknowingly try to imita
 
 The fifth posture is best described as Unity as Assimilation. As representatives of various ethnic minority groups, we desire as much as anyone to see true unity expressed and lived out. However, WHAT IS A MINORITY? BEYOND STATISTICS, TO POWER AND STATUS... In recent years, many reports have come out about the fast rate at which ethnic minority populations are growing in the United States. The Census Bureau estimates that within a generation, over 50% of the population will no longer be Caucasian. CNN and the New York Times state that by then, “minorities may be the U.S. majority.” But it is crucial to understand that a numerical minority is not the same as a sociological minority. For years, women have comprised at least 50% of the United States’ total population, and yet have struggled for equality. Even if ethnic minorities outnumber Caucasians in this country, they may very well be sociological minorities in regards to their social status, power, and privilege. Both minorities and the majority culture must deepen their understanding beyond statistics, if they are to minister in ways that model true equality. as the “Five Postures” article pointed out, efforts toward unity can often lead to uniformity, which devalues uniqueness and differences. While the temptation for the majority culture is to keep things the same, so they don’t have to face discomfort or adapt, the temptation for minority cultures is to conform (or assimilate) to the existing culture.
 
-### “... we can respond to these pressures by thinking we must leave behind our culture, and embrace a ‘new’ and ‘superior’ one in Christ.”
+“... we can respond to these pressures by thinking we must leave behind our culture, and embrace a ‘new’ and ‘superior’ one in Christ.”
 
 When many minorities enter a multi-ethnic church setting, they often encounter pressure to not discuss differences, due to fear that this may lead to division in the body of Christ. Or sometimes, cultural conversation is discouraged because people feel it “waters down” the gospel. Silence about an issue does not necessarily mean neutrality, as some people may assume. This kind of silence is not due to unawareness, but due to underlying beliefs about the meaning and value of culture and context.
 
@@ -182,7 +182,7 @@ The majority culture has status and privilege that we may never possess in this 
 
 We have the power to bring stories to the light of truth, or suppress them in the darkness of secrecy and shame. We have the power to embrace our cultural identity and lead others along the way, and to advocate for those who cannot do so for themselves. We must not fail to recognize and steward this power!
 
-### “In an equal partnership, both sides give and receive from one another, because they see their need for each other.”
+“In an equal partnership, both sides give and receive from one another, because they see their need for each other.”
 
 We also have the power to wound or heal others by our words and actions. As minorities, we must remember that many in the majority culture are also on a journey filled with confusion and insecurity. They need our compassion and leadership as they grow in greater awareness of themselves, others, and God. As we lead as equals, we must treat them with grace and dignity, even if we feel we have not received that ourselves.
 
@@ -200,7 +200,7 @@ Can you picture this in your ministry or context? Can you imagine mutually uplif
 
 As ethnic minorities, we cannot wait for the majority culture, before we choose to live out a posture of equal and empowered partnership. We lead because of who God created us to be, not out of reaction to how others may define us.
 
-### "Moving forward is rooted in an unrelenting hope and belief in the dignity of all people, and how they should be treated."
+"Moving forward is rooted in an unrelenting hope and belief in the dignity of all people, and how they should be treated."
 
 However, many barriers stand in the way of this vision, whether it’s unawareness, anger, resignation, deference, feelings of inferiority, or fear of differences and change. Some of these are deep-seated, and have roots in unprocessed wounds of past generations. Engaging our pain can be costly. Sometimes we feel it’s easier to not think or talk about it, or to stay emotionally or relationally separate from the majority culture. This is our challenge: how do we move forward, when so much inside and outside of us is telling us to pull away? Moving forward does not mean forgetting or trivializing our past. It does not mean leaving the dreams and hopes of our families behind. It is not denying who we are, or self-sacrificially putting ourselves into unhealthy or abusive relationships.
 
@@ -210,7 +210,7 @@ We move forward with the integrity to stand firm in our God-given identity, and 
 
 Extending forgiveness is not easy, but with it comes the power to free both the minority and majority cultures from the bondage of their dark past. Many Caucasians have inherited feelings of guilt and shame, due to transgressions of their collective history, that can cause them to withdraw. Yet as we ethnic minority leaders persist in engaging the majority culture and initiating healthy partnerships, we play a redemptive and prophetic role in encouraging Caucasians to live out who they truly are. This is the beauty of an empowered partnership: neither side is devalued at the others’ expense, but both sides are lifted up.
 
-### "God in His wisdom did not allow any one human culture to possess the entire spectrum of His truth..."
+"God in His wisdom did not allow any one human culture to possess the entire spectrum of His truth..."
 
 Indeed, there is a beautiful picture of the image of God in Caucasian culture, shrouded by a tainted history, and forgotten in the conforming pressures of the “melting pot” of North America. What have we yet to see of the richness of this culture, and what it can bring to the diverse mosaic of cultures that God has designed?
 
@@ -226,7 +226,7 @@ You can find the first of this two-part article series at: http://resources. epi
 
 Donnie and Renee Begay have been serving with Nations since 2008. Donnie is from the Navajo Nation, Renee is from the Zuni Nation. Donnie graduated from NMSU, and you can find him on Twitter at @k4pu1yt.
 
-### For Reflection or Discussion:
+### For Reflection or Discussion
 
 1. 2. 3. 4. How important is your culture to you? Describe where you are in your journey of cultural awareness. What stories or memories from your cultural history have resonated with you? How do you think those memories have impacted you or your family today, and the way you relate to the majority culture?
 

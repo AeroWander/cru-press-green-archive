@@ -22,4 +22,4 @@ And 12 years later, that simple idea continues to grow. This year alone, over 27
 
 ## Kits Provide Connections to Freshmen
 
-These kits give staff members or student leaders a friendly and low-pressure opportunity to talk to students about God. When combined with spiritually-themed questionnaires, the foundation for future conversations is set, and many recipients later attend © 2010, CruPress, All Rights Reserved. CruPress.com
+These kits give staff members or student leaders a friendly and low-pressure opportunity to talk to students about God. When combined with spiritually-themed questionnaires, the foundation for future conversations is set, and many recipients later attend

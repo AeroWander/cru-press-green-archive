@@ -11,8 +11,6 @@ summary: "A guide by Laura Viau on writing a fundraising proposal and executive 
 source: "MTL/Line Up Resources/Developing a Proposal.pdf"
 ---
 
-## Laura Viau
-
 In order to resource your ministry, you must be able to provide current and potential ministry partners with two things:
 
 - A strategic plan with quantifiable goals

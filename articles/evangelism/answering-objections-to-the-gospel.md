@@ -11,8 +11,6 @@ summary: "An article by Andy McCullough on responding to objections raised again
 source: "Evangelism/traning/Answering Common Objections.pdf"
 ---
 
-## Andy Mccullough
-
 How can you be so narrow-minded and intolerant to insist that Jesus is the only way to God? How do you know there is a God? How can you believe in “miracles” in a world in which science has explained everything? How can you believe in a “good” God when there is so much evil and suffering in the world? What about people who never hear about Jesus? Will God judge them? Why should I accept what the Bible has to say? What about other religions? must never forget that God can and will use us regardless of what we know. This is not an excuse for not doing our homework but it is a theological perspective we need to keep in view. Second, there is nothing wrong with saying, “You know, that is a great question. I’ve never thought about that before. Can I think about that and get back to you?”
 
 As we communicate the gospel we frequently encounter questions that challenge the validity of our message. Some arise in sincerity from people who are honestly grappling with the implications of our message. A Hindu student wrestles with our message for his deceased grandparents who never heard about Christ. A student still grieving the loss of her mother to cancer has a hard time believing that God is good and that he cares about her.

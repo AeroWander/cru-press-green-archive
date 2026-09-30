@@ -12,8 +12,6 @@ source: "Building Community/Community and Relationships/Transformational Communi
 also_filed: ["Launching a New Ministry/Launching a Ministry/Students Launching A Ministry–Starter Kit/6. Portrait of a Healthy Ministry.pdf", "Launching a New Ministry/Launching a Ministry/Students Launching A Ministry–Starter Kit/Students_Launching_A_Ministry_Starter_Kit-1/10. Transformational Community.pdf"]
 ---
 
-## Mike Tilley
-
 Kennesaw State now held leadership positions. As part of the Atlanta Metro movement, these students were not only transforming their campus, they were influencing the city, with a view towards the world. And they had the opportunity to go to the world, through Atlanta’s Worldwide Student Network (WSN) partnership.
 
 God is raising up a network of student-led ministries at colleges across the U.S. and around the world. Our desire is to develop a ministry, on every campus, that is not merely a club but rather a transformational community. We envision a community where lost students are being transformed by the gospel.
@@ -40,7 +38,7 @@ A third question that must be answered is, “Who will lead the effort on campus
 
 So, how do you know if you have critical mass on a campus?
 
-One Campus Crusade metro director believes you have achieved critical mass on your campus when four things are in place: aligned leaders the mustard seed of community, prevailing prayer and students engaging the lost In some cases, the best way to assemble critical mass is to partner with a church or lay volunteer. Whether you start with a key student (like yourself ) or partnering church, you do not have critical mass unless a core group of students is poised to reach the campus. • • • You might try are morning prayer meetings Prayer in cell groups You might want to contact local churches to ask them to pray for your campus.
+One Campus Crusade metro director believes you have achieved critical mass on your campus when four things are in place: aligned leaders the mustard seed of community, prevailing prayer and students engaging the lost In some cases, the best way to assemble critical mass is to partner with a church or lay volunteer. Whether you start with a key student (like yourself ) or partnering church, you do not have critical mass unless a core group of students is poised to reach the campus. You might try are morning prayer meetings Prayer in cell groups You might want to contact local churches to ask them to pray for your campus.
 
 ## Evangelism
 
@@ -88,7 +86,7 @@ At a recent Christmas Conference in Indianapolis, more than 700 students signed 
 
 With the increased opportunities available through one-year internships students now have more options to serve Christ and investigate using their skills in full-time ministry after college.
 
-## It’s Happening Now!
+It’s Happening Now!
 
 Our dream is a student-led ministry team, not only for every campus, but also for every group on every campus. As we trust God to raise up leaders such as you, and as we help you develop transformational community, we can imagine a day when every student will have the chance to be transformed by Jesus Christ.
 

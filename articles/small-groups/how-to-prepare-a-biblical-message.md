@@ -11,14 +11,14 @@ toc: false
 source: "godsquad/weekly meeting/Preparing a Talk.pdf"
 ---
 
-## institute of biblical studies i. select a PAssage
+institute of biblical studies i. select a PAssage
 
 (usually 1-10 verses dealing with the same topic). Why do you want to study this passage or topic?
 
 - Are there any cause and effect connections?
 - Are there any contrasts given?
 
-## ii. obsERve THE PAssage asking questions
+ii. obsERve THE PAssage asking questions
 
 Who are all the people in the text, and what is said about them?
 
@@ -41,7 +41,7 @@ When does this take place (in relation to other biblical/historical events or ep
 
 Write out any additional observations, questions of insights from the passage. These may include connective words, comparisons and contrasts, lists, verb tenses, illustrations and quotes, etc.
 
-## iii. PREPARE your TAlk fROm THE PAssage by ansWERing
+iii. PREPARE your TAlk fROm THE PAssage by ansWERing
 
 1. What is the Fallen Condition Focus of this passage? While there may actually be several, on which will you focus on from this passage? The needs of your hearer will most often determine this question. The Fallen Condition Focus is the mutual human condition shared by the original recipients with contemporary believers that requires the grace of the passage. What do we share in common with those to whom/about whom the text was written? Every passage of Scripture has a Fallen Condition Focus - examples of areas of the Fallen Condition Focus could include different categories of sin such as attitudes (about God, self, others, etc.), beliefs or actions. An appropriate Fallen Condition Focus, however, does not always cover an area of sin but also other realities “true to life” of our fallen human condition such as grief over loss of loved ones, legitimate fears, or being victims of others’ sins.
 2. What is going to be your Proposition from the passage? The Proposition consists of the two-part statement of the passage’s main theme that applies directly to your Fallen Condition Focus: a timeless, universal principle wedded to an application statement hitting your Fallen Condition focus. Your theme must be sufficiently covered throughout the entire passage, not just a few verses - it needs to be what the passage is about. That can most readily be identified from the commands and repeated/ key words and ideas. To write your Proposition you need two elements: (1) a timeless principle from the passage, and (2) an appropriate hortatory statement (application-focused statement) that hits upon the Fallen Condition Focus. Your principle clause will probably begin with “Because,” or “Since,” and your application clause will probably begin with “we must,” or “we can,” or “we should.”
@@ -61,7 +61,7 @@ What is your second Main Point? What verses will it cover?
 
 What is your third Main Point? What verses will it cover?
 
-## iv. ask THE nATuRAl questions THAT ARise fROm EAch of your main POints
+iv. ask THE nATuRAl questions THAT ARise fROm EAch of your main POints
 
 This will usually be “How,” “Why,” or “What.” You may experiment with many questions before finding the right one.
 
@@ -71,13 +71,13 @@ Main Point #2:
 
 Main Point #3:
 
-## v. AnsWER THE quESTIOns YOU HAVE RAisED unDER EACH MAin POinT FROM THE PAssAGE BEing STUDIED
+v. AnsWER THE quESTIOns YOU HAVE RAisED unDER EACH MAin POinT FROM THE PAssAGE BEing STUDIED
 
 Put your answers in the form of an outline (probably best on another piece of paper) to form the Sub-points under each of your Main Points. To develop each Main Point, use your Sub-points to do these three things: Explain It (state the point, place the point by citing the verses supporting it in the passage and prove how the verses are making that point)
 
 Illustrate It (from either Biblical examples, personal experience or human interest accounts of how this principle worked out positively and/or negatively) Apply It (This is where you address the questions “So what?” and “What do you want me to do?” Tell your hearers what they should or can do to apply these points to their lives and where they can or should do it. Applications should always be relevant to your hearers’ lives, realistic and achievable. Always find and apply the grace of God in the passage. Never guide your hearers toward legalism, perfectionism or judgmentalism in your applications.)
 
-## ROLES AND RESPOnsibiliTIES OF WEEkly MEETing TEAM LEADER
+## Roles and Responsibilities of Weekly Meeting Team Leader
 
 Responsibilities of Weekly Meeting Team Leader:
 
@@ -92,19 +92,38 @@ Responsibilities of Weekly Meeting Team Leader:
 9. Have a Weekly Meeting Team Appreciation/Vision dessert night once a quarter.
 10. Attend Servant Team Meetings once a quarter and Vision Planning times once a quarter.
 
-## HELPful POinTS TO COnsiDER
+## Helpful Points to Consider
 
-Here are some helpful points to consider: Planning Meetings • vision of Crusade • • • • Debrief the last weekly meeting, Evaluate how well the meeting is staying on track with the mission and Plan the next meeting and address any upcoming issues Prepare announcements Brainstorm and think outside the box Pray for the weekly meeting Components of the Weekly Meeting • Show up early (6:45) on Tuesdays to finalize details and prep • Pray as a group at 7:00 for the meeting. • Choose speakers • Coach emcees: align for each meeting and relay announcements • Coach different people participating in the meeting—testimonies, anyone getting on stage, greeters, info booth, etc. • Communicate with other teams to see how they use weekly meeting as a platform for announcing an event they are coordinating. • Make sure technical aspects are all in place • • Get different students on stage throughout the • • • year.
+Here are some helpful points to consider: Planning Meetings
+
+- vision of Crusade Debrief the last weekly meeting, Evaluate how well the meeting is staying on track with the mission and Plan the next meeting and address any upcoming issues Prepare announcements Brainstorm and think outside the box Pray for the weekly meeting Components of the Weekly Meeting
+- Show up early (6:45) on Tuesdays to finalize details and prep
+- Pray as a group at 7:00 for the meeting.
+- Choose speakers
+- Coach emcees: align for each meeting and relay announcements
+- Coach different people participating in the meeting—testimonies, anyone getting on stage, greeters, info booth, etc.
+- Communicate with other teams to see how they use weekly meeting as a platform for announcing an event they are coordinating.
+- Make sure technical aspects are all in place Get different students on stage throughout the year.
 
 Emphasize that the weekly meeting is NOT Campus Crusade in its entirety, simply a component of the movement Observe needs of the movement and add elements in the meeting to address these needs. For example, speaker selection, topics, worship tone, and added elements. We must first know where the movement as a whole desires to go (i.e. Renewal and Revival) and then set an agenda that can help accomplish this mission.
 
 Seek to bring about change. Think about involving the audience more, meet outside, and add different creative components from time to time.
 
-It is important to have a detail-oriented person but the team needs dreamers too Talk Content for Weekly Meeting • The Big 11: The Gospel Message; Assurance of Salavation; Having a daily Quiet Time; Confessing our Sin; Being Empowered by God’s Spirit; How to Pray; Sharing Christ with others; The Great Commission; Biblical Community, Lordship of Christ; Eternal Perspective • Take content from Cru.Comm and turn into a talk • Talk series from Gospel of John or Ephesians • Talk series on Attributes of God • Biblical view of Sex and Relationships • Intamacy (with God) series:
+It is important to have a detail-oriented person but the team needs dreamers too Talk Content for Weekly Meeting
 
-Roles of the Leaders • • • • • • • • • • Type up a schedule for emcees, speaker, anyone on stage, band, tech people during the meetings Manage the meeting, including feel and flow Gather announcements by Friday Night Contact Visual Arts Team if needed for posters/ fliers Coach the emcees – takes time and effort; make sure they understand the “why” behind every announcement Communicate with other teams who are involved in a particular Weekly Meeting Buy supplies that may be needed such as markers or batteries Deal with people wanting a “piece” of the Weekly Meeting and be able to say “NO” to many requests Delegate tasks that can be done by someone else team member Delegate Greeter Coordinator to a team member Things to Remember • Use “in-house” staff speakers as much as possible. • Recruit teams or people to carry out elements of the meeting.
+- The Big 11: The Gospel Message; Assurance of Salavation; Having a daily Quiet Time; Confessing our Sin; Being Empowered by God’s Spirit; How to Pray; Sharing Christ with others; The Great Commission; Biblical Community, Lordship of Christ; Eternal Perspective
+- Take content from Cru.Comm and turn into a talk
+- Talk series from Gospel of John or Ephesians
+- Talk series on Attributes of God
+- Biblical view of Sex and Relationships
+- Intamacy (with God) series:
 
-## WEEkly MEETing PLAnning SHEET
+Roles of the Leaders Type up a schedule for emcees, speaker, anyone on stage, band, tech people during the meetings Manage the meeting, including feel and flow Gather announcements by Friday Night Contact Visual Arts Team if needed for posters/ fliers Coach the emcees – takes time and effort; make sure they understand the “why” behind every announcement Communicate with other teams who are involved in a particular Weekly Meeting Buy supplies that may be needed such as markers or batteries Deal with people wanting a “piece” of the Weekly Meeting and be able to say “NO” to many requests Delegate tasks that can be done by someone else team member Delegate Greeter Coordinator to a team member Things to Remember
+
+- Use “in-house” staff speakers as much as possible.
+- Recruit teams or people to carry out elements of the meeting.
+
+## Weekly Meeting Planning Sheet
 
 Team Vision - To lead our movement to greater growth in the areas of win/build send on a weekly basis.
 
@@ -122,7 +141,7 @@ How will we advertise for this week? Who, what, when, where?
 
 How will we pray for this week?
 
-## SAMPLE WEEkly MEETing (CRU) EVAluATION—END OF YEAR
+## Sample Weekly Meeting (Cru) Evaluation—end of Year
 
 What is the vision and purpose of Cru? When has it best achieved that vision?
 
@@ -144,43 +163,68 @@ Good band to start the year – one of the most important things to be “sticky
 
 Student leadership own meeting and be intentional while at Cru Have prof share at first meeting Shorter meetings with social attached afterwards – especially early in the year Platform student leaders (and emerging leaders) at Cru more hat follows is a list of ideas that you can use in a weekly meeting on your campus. Not everything would be appropriate for every campus situation but some of these elements might work for your meeting. Of course this list is not exhaustive but it will help get you started.
 
-## CELEMENTS OF A WEEkly MEETing
+## Celements of a Weekly Meeting
 
-Prayer Have people share recent answers to prayer. One campus has students come to the front and place a marble in a glass bowl representing their answer to prayer and then shares it with the group. • • • • Concert of prayer meeting.
+Prayer Have people share recent answers to prayer. One campus has students come to the front and place a marble in a glass bowl representing their answer to prayer and then shares it with the group. Concert of prayer meeting.
 
 Prayer walking time during the meeting.
 
 Have students break up into small groups and share prayer requests and pray for each other. Have a prayer time before the meeting to pray for your movement and the meeting to follow. Gather Names of New People Pass around a clipboard each meeting to gather the names and info of new people. Have someone give them a call that week and add their name to your campus email list.
 
-Connection Time (Meet & Greet) • Ice breaker question • Game • Artistic expression thing – For example, draw a picture that represents your last week and share it in small groups. • Have people pair up during the meeting to have lunch or coffee sometime during the week. • Go out to lunch or some other activity together right after the meeting.
+Connection Time (Meet & Greet)
+
+- Ice breaker question
+- Game
+- Artistic expression thing – For example, draw a picture that represents your last week and share it in small groups.
+- Have people pair up during the meeting to have lunch or coffee sometime during the week.
+- Go out to lunch or some other activity together right after the meeting.
 
 Worship Time Word Time Speaker, Bible study discussion, small groups, speaker facilitated discussion, group talks.
 
-Spotlights A short segment (about 3-6 minutes) highlighting a recent story, aspect of the ministry, ministry idea, etc. • Evangelism stories • Highlighting subcultures on campus as people to reach out to - video and interview people from that group. For example athletes, artists, international students, Hispanics, etc. • Short training on some ministry aspect. For example, “how to connect with someone in class.” Announcements / Opportunities Pass out calendar. Pass out phone/email list. • Seek to make announcements more interesting • Highlight some announcements by writing them on the chalkboard or hanging up a poster in the room. • Call them, “things you need to know.”
+Spotlights A short segment (about 3-6 minutes) highlighting a recent story, aspect of the ministry, ministry idea, etc.
 
-Testimonies • Summer projects/Missions trips • Salvation • Christmas conference • What God is teaching me • Answered prayer • What God is leading me to do, applications. • Changed lives • A story about a recent outreach Have a Sharing Time For example, “what has God been teaching you?” “What have you seen God do this semester?” etc. Skits Multi-Media • Video of recent events, etc • Video of students on campus answering spiritual questions. Gives vision for doing evangelism. • Video slideshow Share the Gospel at the meeting Mini Outreach Do mini-outreach for the meeting. For example meet, pray, pair up and go sharing, come back for sharing/ debrief. redemption, and a glorious end? What if your life is actually a part of this bigger story? What if your life is meant for something, meant for helping bring about the glorious end?
+- Evangelism stories
+- Highlighting subcultures on campus as people to reach out to - video and interview people from that group. For example athletes, artists, international students, Hispanics, etc.
+- Short training on some ministry aspect. For example, “how to connect with someone in class.” Announcements / Opportunities Pass out calendar. Pass out phone/email list.
+- Seek to make announcements more interesting
+- Highlight some announcements by writing them on the chalkboard or hanging up a poster in the room.
+- Call them, “things you need to know.”
+
+Testimonies
+
+- Summer projects/Missions trips
+- Salvation
+- Christmas conference
+- What God is teaching me
+- Answered prayer
+- What God is leading me to do, applications.
+- Changed lives
+- A story about a recent outreach Have a Sharing Time For example, “what has God been teaching you?” “What have you seen God do this semester?” etc. Skits Multi-Media
+- Video of recent events, etc
+- Video of students on campus answering spiritual questions. Gives vision for doing evangelism.
+- Video slideshow Share the Gospel at the meeting Mini Outreach Do mini-outreach for the meeting. For example meet, pray, pair up and go sharing, come back for sharing/ debrief. redemption, and a glorious end? What if your life is actually a part of this bigger story? What if your life is meant for something, meant for helping bring about the glorious end?
 
 At Cru, we believe it is. We want to help you step into becoming the person and living the life that is part of this great story. And we want your story to be one of change: you helping to change the world and you being significantly changed along the way.
 
-## CHAngE HAPPEns
+## Change Happens
 
 As a student movement, we want to live in light of the bigger story and help change the world - individually and corporately. We believe that change happens through the power of Christ’s Gospel, for the glory 0f God and the good of people. Therefore, Cru is committed to three main priorities:
 
-## yEAR afTER yEAR.
+## Year After Year.
 
 History has shown that students are way more likely
 
-## EmbRAcing THE GOSPEL PERSONAlly
+## Embracing the Gospel Personally
 
 Honestly recognizing personal sin and genuinely celebrating Christ’s grace to us in the midst of it. We never move beyond the Gospel, only into a more profound understanding of it.
 
 I know of no other way to grow a movement in size apart from systematically and strategically reaching out to freshmen.
 
-## EXPERIEncing THE GOSPEL TOGETHER
+## Experiencing the Gospel Together
 
 Seeking to engage in authentic community without masks by moving forward together. Real, lasting change can only occur in the context of community. Bob Fuhs and his wife Jill are the Los Angeles City Focus Directors for Campus Crusade for Christ. The have been on staff for 16 and 18 years respectively and have led movements in Wisconsin, Minnesota, and California. Contact the author at Bob.Fuhs’at’uscm.org Methods: Methods will vary according to the context.
 
-## EXTENDing THE GOSPEL TO OTHERS
+## Extending the Gospel to Others
 
 Looking for opportunities to be used by God to impact lives. The three means of extending the Gospel are distinguishable but inseparable.
 
@@ -190,12 +234,12 @@ Therefore, the leader employs effective methods that bring it all together.
 - Demonstrating it by doing what God has called us to do—entering into the needs of others: physically, emotionally, relationally, etc.
 - Declaring it by saying what God has called us to say—sharing the good news of Christ’s cross and empty tomb and the wonderful implications of both.
 
-## gOsPEl cOnvERsATions
+## Gospel Conversations
 
 To explore the topic of discipleship fully is beyond the These three core priorities begin with you, the individual: each one is designed to help you become who God created you to be by seeking to understand and live out The Great Commandment - Love God & Love Others (Matthew 22:37-40) - as well as The Great Commission - Go & Make Disciples (Matthew 28:18-20).
 
-## YOU AND CHAngE
+## You and Change
 
 One popular author writes that people are like Lego pieces—designed to connect to others but each with a limited number of connection points. So, as a Lego piece, you have a couple of decisions that you need to make: How will you pursue significant connection? And with whom will you choose to connect? How you answer these two questions can significantly shape how you are changed and how you help to change the world.
 
-## Principle 1: REAch THE fREshman clAss
+## Principle 1: Reach the Freshman Class

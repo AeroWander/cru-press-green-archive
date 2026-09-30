@@ -11,8 +11,6 @@ summary: "A lengthy article by Rick James unpacking Jesus's 'carry the cross' di
 source: "Discipleship/Mature Teaching/What it Means to Carry the Cross.pdf"
 ---
 
-## Rick James
-
 us by spending it] continuing to stay the course (please keep us in office for the next four years). And may God bless America (I’m desperate for the evangelical vote).
 
 This, of course, is grossly exaggerated which I do have a penchant for. By-and-large inaugural speeches are exceedingly forthright as well as exceedingly condensed. They provide a vision for the future; lay out the way forward; declare the administration’s values, priorities and objectives; and for those familiar with the issues and terminology, they clearly define the path that will be taken to get there. But for those without “ears to hear” the subtext, the speech is nothing more than flowery prose.
@@ -79,7 +77,7 @@ In context, Mark is saying that the new exodus that Jesus leads us on, the path 
 
 ## Cross-bearing Discipleship
 
-As Jesus calls us to bear a cross like his, his cross becomes the template for our discipleship; his cup our cup. From our understanding of his cross, we can derive five irreducible principles of what it means for each of us to “carry his cross.” • • • • • We live though we die: paradox and tensions We die that others may live We are tempted to live when we need to die We die when we ought to live We die to reveal the life of Christ But before we look at each we need to put ourselves in the right mood. And oddly enough that mood is joy. As it says in Hebrew’s “who for the joy set before him endured the cross.” Our Cross, is also our joy, because the Cross is not a means by which we die, but live. As John Piper would say, we avoid the death of discipleship not because we value our life too much, but because we value it too little. Life is Christ. We die to our self in order to experience more of Jesus. We pour out ourselves in order to be filled with him, empowered by him, worship him, commune with him, and overflow with him. More of Jesus is the reward, the benefit, and the motivation of “bearing our cross.” We are the beneficiaries of our dying and we die for our own benefit, for the sake of our own joy.
+As Jesus calls us to bear a cross like his, his cross becomes the template for our discipleship; his cup our cup. From our understanding of his cross, we can derive five irreducible principles of what it means for each of us to “carry his cross.” We live though we die: paradox and tensions We die that others may live We are tempted to live when we need to die We die when we ought to live We die to reveal the life of Christ But before we look at each we need to put ourselves in the right mood. And oddly enough that mood is joy. As it says in Hebrew’s “who for the joy set before him endured the cross.” Our Cross, is also our joy, because the Cross is not a means by which we die, but live. As John Piper would say, we avoid the death of discipleship not because we value our life too much, but because we value it too little. Life is Christ. We die to our self in order to experience more of Jesus. We pour out ourselves in order to be filled with him, empowered by him, worship him, commune with him, and overflow with him. More of Jesus is the reward, the benefit, and the motivation of “bearing our cross.” We are the beneficiaries of our dying and we die for our own benefit, for the sake of our own joy.
 
 Now we can get on with dying.
 

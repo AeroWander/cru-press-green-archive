@@ -23,10 +23,10 @@ The People Gatherer - This person draws the masses—your extrovert with natural
 
 The Builder - This is your true discipler. He or she is the one who shepherds others, models the Christian life, and trains them to live out the Christian life in a dynamic way.
 
-Moses needed leaders who possessed wisdom and others who excelled at administration. Jesus also carefully selected men and women with various gifts and abilities to accomplish His mission. They were the teachers, inspirational leaders, and visionaries of The Administrator - This person is good at details and can get the job done. You need someone who can plan and work out the myriad of details of a conference, retreat, meeting, etc. Without the administrator, your vision will not be accomplished. © 2010, CruPress, All Rights Reserved. CruPress.com The Men’s Leader and Women’s Leader - These two people will lead the men’s ministry and the women’s ministry.
+Moses needed leaders who possessed wisdom and others who excelled at administration. Jesus also carefully selected men and women with various gifts and abilities to accomplish His mission. They were the teachers, inspirational leaders, and visionaries of The Administrator - This person is good at details and can get the job done. You need someone who can plan and work out the myriad of details of a conference, retreat, meeting, etc. Without the administrator, your vision will not be accomplished. The Men’s Leader and Women’s Leader - These two people will lead the men’s ministry and the women’s ministry.
 
 To understand the validity of the above roles, study any growing church or Christian organization. You will discover that some form of the above six roles are filled by qualified and gifted individuals in those specific areas. When people are working in areas of their giftedness, the whole team or organization will be maximized to its fullest potential.
 
 ## Application
 
-Once a key leader has been chosen, pray and seek out people to surround that leader who can faithfully execute the roles above. This model of teamwork may not happen right away, but with prayer and hard work, it can become a reality for your ministry. © 2010, CruPress, All Rights Reserved. CruPress.com
+Once a key leader has been chosen, pray and seek out people to surround that leader who can faithfully execute the roles above. This model of teamwork may not happen right away, but with prayer and hard work, it can become a reality for your ministry.

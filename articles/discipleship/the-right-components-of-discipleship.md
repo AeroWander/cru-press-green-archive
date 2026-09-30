@@ -11,15 +11,13 @@ summary: "An article by Tim Henderson outlining components of quality disciplesh
 source: "Discipleship/How to Disciple Others/The Right Components of Discipleship.pdf"
 ---
 
-## Tim Henderson
-
 Jesus selected these twelve to spend the next two and a half years with Him, to go wherever He went, and to eventually be sent out into the ministry. Jesus’ example is the very nature of discipleship we hope to model.
 
 Here are three components of quality discipleship. What makes for quality discipleship? What are the things within a discipleship relationship that produce real growth and make for an enjoyable, satisfying discipleship experience?
 
 The four Gospels offer fascinating answers when you consider two things: What did Jesus impart to His disciples, and how did He do it? He imparted to them His compassion for the lost and the necessity of servanthood. He demonstrated the importance of His relationship with the Father, and even how to pray. Now consider how He did that – how He imparted these things while teaching in a large group setting; how He told stories to illustrate the kingdom of God; and how He modeled ministry at the very feet of His disciples.
 
-## 1St Component: Relationship-building
+## 1st Component: Relationship-building
 
 The number one thing that Jesus did was get involved in people’s lives. When you disciple someone, you’re not taking on a project, you’re investing in a person. Look at 1 Thessalonians 2:7-12, a classic passage where Paul talks vividly about his heart for the people in whom he invested in the city of Thessalonica. “Having thus a fond affection for you, we were well-pleased to impart to you not only the Gospel of God but also our own lives, because you had become very dear to us” (v. 8). These believers at Thessalonica weren’t just a crowd of people; they weren’t just objects or a project. These were people who Paul deeply loved. No matter how spiritually gifted you may be or how much theology you may know, “People won’t care what you know, until they know that you care.”
 
@@ -37,7 +35,7 @@ Mark 3:13-14 describes Jesus’ method of discipleship: “…He went up to the 
 
 Race, age, background - it doesn’t make a difference. When you move into someone’s life, when you love them and they know it, they will respond.
 
-## 2Nd Component: the Word of God
+## 2nd Component: The Word of God
 
 Quality discipleship involves getting the Word of God into someone’s life. We know what Romans 12:2 says – “And do not be conformed to this world, but be transformed by the renewing of your mind…” Don’t be conformed to this world - be changed, be transformed. But how? By getting the Word of God in your life, by the renewing your mind with the Word of God. Here are three reasons why the Word of God is key to discipleship:
 
@@ -47,7 +45,7 @@ Quality discipleship involves getting the Word of God into someone’s life. We 
 
 How do we get the word of God in their life? There are a lot of ways – during your one-on-one appointments with them and during Bible study. But here’s the good news: you impart God’s perspective on life more often than you think. You impart God’s perspective when you’re hanging out late at night over pizza after Cru. You’re sitting around just talking about life, and biblical truth just starts to come out. You start talking about God’s perspective on dating relationships, God’s perspective on money, and what makes you happy. As you involve your disciples in the larger body, they’ll get the Word of God in their lives when they sit in Cru meetings and hear a good talk. On the fall retreat, they’ll get the Word of God taught to them all weekend long. The responsibility isn’t just yours. As you involve them in the larger body, the Word of God comes into their lives.
 
-## 3Rd Component: Doing Ministry Together
+## 3rd Component: Doing Ministry Together
 
 Training your disciple in how to have a ministry involves more than simply talking about how great it would be to reach out to people who don’t know Christ. Doing ministry together means planning outreaches together and actively sharing your faith with others. Look what Jesus did. He took His disciples and went throughout Galilee and Israel, ministering to people. He spoke to the masses; He healed; He cast out demons; He taught. For two and a half years, Jesus went about ministering, and He took the disciples with Him.
 

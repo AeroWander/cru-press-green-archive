@@ -15,7 +15,7 @@ The InTransition Workbook/Magazine equips and prepares graduating seniors to tra
 
 Single life, finances, life-transitions, the will of God, a theology of work, evangelism in the real world: InTransition addresses all the critical issues of a successful transition from campus-a resource for the last and most neglected phase of campus discipleship.
 
-### Order Online at Crupress.com Overview
+Order Online at Crupress.com Overview
 
 A PERSONAL DEVELOPMENT WORKSHOP
 
@@ -31,9 +31,9 @@ Make a few commitments. Seek out the counsel of a mentor. Do these two things an
 
 But we don’t want you to embark on a development plan with-out a context. So in the first workshop we’ll discuss the areas of life that will change in the upcoming transition, and in the second workshop you’ll construct a personal mission statement. This will be your compass, establishing your priorities and shap-ing your commitments.
 
-The Personal Development Work Sheet, where you’ll be record-ing your commitments, is on the last page of this workshop section. (page 31) You can’t miss it—it says PERSONAL DEVEL- OPMENT WORKSHEET on the top. Whatever you choose, have fun with this and try to take someone with you on your journey through InTransition . You may also want to purchase a note-book to record your thoughts and journal to and with Christ through the process.
+The Personal Development Work Sheet, where you’ll be record-ing your commitments, is on the last page of this workshop section. (page 31) You can’t miss it—it says PERSONAL DEVELOPMENT WORKSHEET on the top. Whatever you choose, have fun with this and try to take someone with you on your journey through InTransition . You may also want to purchase a note-book to record your thoughts and journal to and with Christ through the process.
 
-###  © 2010, CruPress, All Rights Reserved. CruPress.com WORKSHOP ONEASSESSING THE TRANSITION
+ WORKSHOP ONEASSESSING THE TRANSITION
 
 Before we get to the specifics of the personal development plan, we want to first get our minds around the transition we are about to encounter. What exactly are we looking at here? Well, let’s start with a reality check. Not someone else’s reality. Your reality. Let’s get all the issues out on the table.
 
@@ -45,7 +45,7 @@ In the right-hand column, write how this state-ment might read after you graduat
 
 After completing this list, add at least five more items that come to your mind as changes that will occur in your life.
 
-### WHAT’S TRUE ABOUT MY LIFE IN COLLEGE My parents are paying my rent and/or bills. WHAT WILL BE TRUE AFTER I GRADUATE AND START A NEW JOB
+WHAT’S TRUE ABOUT MY LIFE IN COLLEGE My parents are paying my rent and/or bills. WHAT WILL BE TRUE AFTER I GRADUATE AND START A NEW JOB
 
 I am on my parent’s health and/or car insurance.
 
@@ -65,11 +65,11 @@ I have an older person who meets with me on a regular basis to help me grow spir
 
 I usually go to class, but sometimes I just don’t feel like going and skip out.
 
-### ASSESSING THE TRANSITION CONT WHAT’S TRUE ABOUT MY LIFE IN COLLEGE I schedule my classes so that I do not have to get up
+ASSESSING THE TRANSITION CONT WHAT’S TRUE ABOUT MY LIFE IN COLLEGE I schedule my classes so that I do not have to get up
 
 before 9:00 A.M.
 
-### What Will Be True After I Graduate and Start a New Job
+What Will Be True After I Graduate and Start a New Job
 
 I have dropped several classes because I did not like the professor.
 
@@ -99,7 +99,7 @@ What do you hope to gain from going through these workshops?
 
 In the Briefcase section, read “Commuting” by Mat Weiss.
 
-###  © 2010, CruPress, All Rights Reserved. CruPress.com ASSESSING THE TRANSITION HOMEWORK CONT CONDUCT INTERVIEW
+ ASSESSING THE TRANSITION HOMEWORK CONT CONDUCT INTERVIEW
 
 Ask one or two people who have been out of school less than three years to have lunch, coffee, or a phone appointment with you. These questions are intended to be a starting point. You can make up some of your own or ask follow-up questions as appropriate. In order to be considerate of the other person’s time, try to keep this to about an hour.
 
@@ -115,7 +115,7 @@ Are you serving in ministry somewhere? If so, what are you doing and how did you
 
 I have heard people say that you will be much busier after college than during college. Did you find that to be true? If so, what has helped you to manage your time well? If you could give me and my friends any piece of advice, what would it be?
 
-###  Workshop Twowriting a Mission Statement
+ Workshop Twowriting a Mission Statement
 
 “What’s your greatest fear?” Bob Reccord and Randy Singer report in their book Made to Count that the initial responses to that question cover a broad range of concerns and common fears (encountering snakes, being alone, speaking in front of an audience, and the like). They go on to say, however, that “by far the most voiced response strikes deep at the heart of all of us: to come to life’s end without having made a significant difference. Atychiphobia. The fear of failure.”
 
@@ -145,7 +145,7 @@ To help you get started, answer several questions from the list on the next page
 
 “My mission is to .”
 
-###  © 2010, CruPress, All Rights Reserved. CruPress.com YOUR MISSION STATEMENT WHAT AM I PASSIONATE ABOUT?
+ YOUR MISSION STATEMENT WHAT AM I PASSIONATE ABOUT?
 
 If you were asked to create a TV special about something that moves you, what would it be about? What magazines intrigue you most at a newsstand? What sections or articles catch your attention? If you started a business or organization to solve a need, what would it be? What issue would you like to see someone write a best-selling book about? What biblical passages has God used powerfully in your life? How have the passages shaped your view of life and the world?
 
@@ -169,7 +169,7 @@ If you choose to enter into the hard work of crafting a personal mission stateme
 
 For help writing your personal mission statement, go to WorkPlaceRevolutions.com and follow links to the Life Purpose Tool. Just for fun, do a search on the Internet for obituaries. In what ways do you want what people say about you to be the same or different?
 
-###  Workshop Threea Personal Plan for Spiritual Growth
+ Workshop Threea Personal Plan for Spiritual Growth
 
 God has changed your life and given you a new identity. Isn’t that true? You made a 180-degree turn around (or at least 170 degrees). You understood biblical truths for the first time. You gained God’s perspective on your purpose in life. You experienced ways that God could use you in another person’s life. You stepped out in faith and trusted God to see you through challenging situations. Your faith became your own, not just something passed down from your parents or friends.
 
@@ -197,13 +197,13 @@ This new reality may have become clearer after conducting the inter-view assignm
 
 Let’s consider some things that will keep us on the path to growing closer to the Lord and growing in our faith. While there are many ways to grow spiritually, I’d like to highlight three for consideration: practic-ing personal disciplines, learning from others, and taking steps of faith.
 
-### PRACTICING PERSONAL DISCIPLINES (or habits)
+### Practicing Personal Disciplines (or Habits)
 
 Our best relationships require an investment of our time. If a relationship is robbed of time, the people in it will eventually drift apart. It’s an obvious fact in human relationships, and the same principles hold true of our intimacy with Christ. Relationships take an invest-ment of our time—which, by the way, will be a precious commodity once you start a full-time job!
 
 Think for a moment about how you have (or haven’t) practiced the following disciplines in college. What effect, over time, have they had on your relationship with God? Which have had the greatest impact? Reading and meditating on the Word Prayer Memorizing Scripture Journaling/reflection time What have you found to be the greatest enemy to spending time with God (lack of time, lack of desire, feeling as if you get nothing out of it, unconfessed sin)? What have you done to overcome that hindrance?
 
-###  © 2010, CruPress, All Rights Reserved. CruPress.com A PERSONAL PLAN FOR SPIRITUAL GROWTH LEARNING FROM OTHERS
+ A PERSONAL PLAN FOR SPIRITUAL GROWTH LEARNING FROM OTHERS
 
 Hebrews 10:24 encourages us to “consider how we may spur one another on toward love and good deeds.” I once heard someone say that if you are going to be spurred on, you have to be around people with spurs on. Where else—besides Texas—can you find that except around others committed to following Christ?
 
@@ -213,7 +213,7 @@ Make a quick list of everyone you can think of who has “spurred you on” over
 
 What will it take to continue having people like these in your life?
 
-### THE POWER OF a COMMITMENT
+### The Power of a Commitment
 
 Go back to the beginning of this section, to the “Personal Development Plan: Overview.” Reread “The Power of a Commitment” about growth flowing out of an up-front commitment. What commitment will you make to grow spiritually during the first 12 to 24 months of being out of college? “Reading my Bible daily” or “Reading through the Psalms” are examples.
 
@@ -239,7 +239,7 @@ What one commitment are you going to make?
 
 Take the spiritual assessment at WorkPlaceRevolutions.com.
 
-###  Workshop Foura Personal Plan for Finances
+ Workshop Foura Personal Plan for Finances
 
 Let’s talk about your money—what little there may be of it. For most college students, this area of life will undergo a huge transition. Regardless of your starting salary, it might seem like a lot of money compared to what you have been making as a college student. But then there’s the flip side of the coin as well: your expenses are about to change. Students today fall across a wide spectrum of financial experiences, from not having any financial responsibility in college to having full financial responsibility for college debt and living expenses. Most will fall some-where in between these two extremes. Whatever your experiences have been, let me assure you that change is on the horizon. Let’s see what it will take to make a Christ-centered transition in this area of your life.
 
@@ -253,7 +253,7 @@ When it comes to managing our money, we all have been shaped by the people or en
 
 You will have an opportunity in the pages that follow to take inventory of some of your own financial practices and beliefs.
 
-### LEARN HOW TO DEVELOP AND LIVE BY a BUDGET
+### Learn How to Develop and Live by a Budget
 
 Budgeting might initially seem a restraint upon your freedom. But ask people who have spent years digging their way out of debt how much freedom really came from spending whatever they wanted, whenever they wanted. Make a few poor decisions within the first two years out of college, and you could be paying the price for years to come.
 
@@ -265,7 +265,7 @@ Should I buy or rent? Should I pay off my college loan early? Should I save for 
 
 These (and more) are common questions. Proverbs 21:5 says, “The plans of the diligent lead to profit as surely as haste leads to poverty.” It has been said that most people don’t plan to fail; they simply fail to plan. Even if you agree that making a plan is profitable and wise, you might think, Give me a couple of years to get myself established, and then I’ll start thinking about a financial plan. But believe me, develop-ing biblical financial habits during your first year or two out of college will pay huge dividends for many years to come. Don’t put this off! At the end of this lesson you will find a list of recommended resources. Take the time to learn from at least one source of financial wisdom. Okay. Enough advice. Let’s get personal.
 
-###  © 2010, CruPress, All Rights Reserved. CruPress.com A PERSONAL PLAN FOR FINANCES SELF-ASSESSMENT QUESTIONNAIRE
+ A PERSONAL PLAN FOR FINANCES SELF-ASSESSMENT QUESTIONNAIRE
 
 Are you graduating from college with debt? Yes / No If so, how much in the following categories? credit card debt: school loans: car loan: other:
 
@@ -279,7 +279,7 @@ Who do you know whom you would consider wise in managing money? What habits have
 
 What family habits would you like to make your own? What habits would you like to change? List from three to five benefits you can think of for living according to a budget. Five years from now, what do you hope can be said about your view of money and your patterns of spending, saving, and giving?
 
-### DEVELOPING a BUDGET
+### Developing a Budget
 
 Far from an Excel spreadsheet, this will be a simple first step in developing a budget. But we have to start somewhere, right?
 
@@ -307,13 +307,13 @@ Crown.org DaveRamsey.com
 
  A PERSONAL PLAN FOR FINANCESCONT CATEGORY ANNUAL MONTHLY PERCENTAGE SALARY ,0002, UTILITIES (PHONE, ELECTRIC, CABLE, TAXES5,0 10% TITHE ON GROSS3,500  % HEALTH INSURANCE1,800 0 NET SPENDABLE INCOME ,02,0 HOUSING6,509 % INTERNEt, ETC.) FOOD3,30610-%
 
-## [Sample]
+[Sample]
 
 2,2045-10% CAR PAYMENT2,20410-% CAR EXPENSES1,1025% SCHOOL LOANS2,20410% OTHER DEBT PAYMENT1,1025% ENTERTAINMENT1,1022-5% CLOTHES1,1025-7% SAVINGS / INVESTING1,1025-10% MISCELLANEOUS (GIFTS, VACATION, COMPUTER, ETC.)
 
 *Sample budget for a young professional
 
-### 1,1023-6%  © 2010, CruPress, All Rights Reserved. CruPress.com A PERSONAL PLAN FOR FINANCESCONT To THINK ABOUT
+1,1023-6%  A PERSONAL PLAN FOR FINANCESCONT To THINK ABOUT
 
 What surprised you in putting together a budget?
 
@@ -331,13 +331,13 @@ What do you think about creating and living by a budget? Five years from now, wh
 
 Read “W-4” by Steve Pogue, found in the Briefcase section.
 
-### THE POWER OF a COMMITMENT
+### The Power of a Commitment
 
 Go back to the beginning of this section, to the “Personal Development Plan: Overview.” Reread “The Power of a Commit-ment” about growth flowing out of an up-front commitment. What financial commitment will you make and begin carrying out during the first 12 to 24 months out of college?
 
 Record this commitment on the “Financial Planning” line of your Personal Development Worksheet at the end of this workshop section (page 31).
 
- © 2010, CruPress, All Rights Reserved. CruPress.com A PERSONAL PLAN FOR FINANCESCONT CATEGORY ANNUAL MONTHLY PERCENTAGE SALARY TAXES TITHE ON GROSS HEALTH INSURANCE NET SPENDABLE INCOME HOUSING UTILITIES (PHONE, ELECTRIC, CABLE, INTERNEt, ETC.) FOOD CAR PAYMENT CAR EXPENSES SCHOOL LOANS OTHER DEBT PAYMENT ENTERTAINMENT CLOTHES SAVINGS / INVESTING MISCELLANEOUS (GIFTS, VACATION, COMPUTER, ETC.)
+ A PERSONAL PLAN FOR FINANCESCONT CATEGORY ANNUAL MONTHLY PERCENTAGE SALARY TAXES TITHE ON GROSS HEALTH INSURANCE NET SPENDABLE INCOME HOUSING UTILITIES (PHONE, ELECTRIC, CABLE, INTERNEt, ETC.) FOOD CAR PAYMENT CAR EXPENSES SCHOOL LOANS OTHER DEBT PAYMENT ENTERTAINMENT CLOTHES SAVINGS / INVESTING MISCELLANEOUS (GIFTS, VACATION, COMPUTER, ETC.)
 
 *Proposed budget for myself
 
@@ -373,11 +373,11 @@ Of all the relational changes you are about to face, the changes in your spiritu
 
 In a few months, however, rather than spending the majority of your waking hours within the borders of a college campus, you will be logging those hours at a place of business. And do I even need to state the obvious? It’s not likely that you will find your spiritual community within those boundaries.
 
-### WHAT WILL YOU DO? Is COMMUNITY IMPOR- TANT ENOUGH FOR YOU TO SEEK IT OUT?
+WHAT WILL YOU DO? Is COMMUNITY IMPORTANT ENOUGH FOR YOU TO SEEK IT OUT?
 
 Who do you want to be influenced by when it comes to things like: The person you choose to date The ways you spend or invest your money The activities you participate in Temptations to gossip, cheat, or lie while on the job Navigating a variety of relationships at work, socially and professionally Responding to career opportunities or advancements Using a portion of your income to give back to God Determining the priorities of your schedule Being the same person on the inside who you are on the outside You know yourself. You know where you are weak. You know where you have struggled in the past. You know what has come close to derailing you, spiritually. Don’t fool yourself into think-ing that you are immune to these temptations as you leave college. Being connected to a community of believers will influence you toward wise decisions when so many options and opinions are scrambling for your attention.
 
-###  A PERSONAL PLAN FOR RELATIONSHIPS AND NOW a WORD ABOUT DATING … THE POWER OF a COMMITMENT
+ A PERSONAL PLAN FOR RELATIONSHIPS AND NOW a WORD ABOUT DATING … THE POWER OF a COMMITMENT
 
 I’ll only say one thing about this. Make a decision now about what Go back to the beginning of this section, to the “Personal Develop-traits in a mate you consider nonnegotiable. Put it in writing. Share ment Work Sheet: Overview.” Reread “The Power of a Commit-it with one other person. Date, have fun, and keep praying for God ment” about growth flowing out of an up-front commitment. What to meet your needs. commitment will you make to ensure that you become a part of a spiritual community after college?
 
@@ -391,11 +391,11 @@ Maybe your relationships in college haven’t been great. What are you hoping wi
 
 ### Optional Personal Study
 
-Read “iPod” by Sarah Gale in the Briefcase section.
+Read “Ipod” by Sarah Gale in the Briefcase section.
 
 Read “Cellular” by Will Walker in the Briefcase section.
 
-###  © 2010, CruPress, All Rights Reserved. CruPress.com WORKSHOP SIXA PERSONAL PLAN FOR MINISTRY
+ WORKSHOP SIXA PERSONAL PLAN FOR MINISTRY
 
 Do you remember the first time God used you to minister to another person? You may have shared the gospel, met a physical or financial need, taught a biblical truth, pointed someone to Christ through your encouraging words, served behind the scenes, or given leadership to a project. It is amazing and humbling to realize that God can use us—with all our shortcomings—to offer His love and grace to another person. The book of Ephesians contains many references to our relationship with God and, in turn, our relationships with others. “We are God’s workmanship, created in Christ Jesus to do good works, which God prepared in advance for us to do.” (Ephesians 2:10)
 
@@ -433,7 +433,7 @@ How has God used you in the past? This is probably some-thing that you enjoyed d
 
 What have you experienced that you would say probably does not fit within your giftings? What made you come to that conclusion?
 
-###  a Personal Plan for Ministry Looking Ahead
+ a Personal Plan for Ministry Looking Ahead
 
 What will it be like to serve in ministry and hold down a full-time job? Because of the demands of a busy life, you must get honest about this question: Is serving in ministry something you are commit-ted to making a priority in your schedule?
 
@@ -445,7 +445,7 @@ This people group interests me the most:
 
 This area of activity interests me the most:
 
-### THE POWER OF a COMMITMENT
+### The Power of a Commitment
 
 Go back to the beginning of this section, to the “Personal Develop-ment Plan: Overview.” Reread “The Power of a Commitment” about growth flowing out of an up-front commitment. What commitment will you make now as you consider serving in ministry after college? Record your commitment on the “Serving in Ministry” line of your Personal Development Worksheet at the end of this workshop section (page 31).
 
@@ -471,7 +471,7 @@ In some cases, people may want to continue on with the ministry they began as a 
 
 Study the following passages of Scripture about spiritual gifts: Exodus 31:3-11 Romans 12:6-8 1 Corinthians 12 Ephesians 4:1-16 1 Peter 4:10-11 Read “Life Stewardship Model” found at WorkPlaceRevolutions.com.
 
-###  © 2010, CruPress, All Rights Reserved. CruPress.com WORKSHOP SEVENSo MANY DECISIONS... HOW DO I DECIDE?
+ WORKSHOP SEVENSo MANY DECISIONS... HOW DO I DECIDE?
 
 You have probably heard it said that the biggest decisions you will ever make concern your Master, your mate, and your mission. (If you haven’t heard it, then I’ll take full credit for the concept.) It is true that these decisions will have a huge impact on your life for the rest of your life. But just because you make those decisions—and even if you make three very good decisions—that doesn’t mean the decision-making chore is complete.
 
@@ -505,7 +505,7 @@ When you have made good decisions, what practices did you follow?
 
 Review the highlights of your life map. What life experiences have you had so far that might influence the way you make decisions?
 
-###  So MANY DECISIONS... HOW DO I DECIDE? WEEKLY SCHEDULE
+ So MANY DECISIONS... HOW DO I DECIDE? WEEKLY SCHEDULE
 
 Let’s look at the blank weekly schedule below to get a snapshot of a potential week of your life six months from now. You will probably be making merely an educated guess on many of these things, but this is still a helpful exercise. You can do this again later for a more accurate picture.
 
@@ -520,7 +520,7 @@ What did you discover from this exercise?
 
 Learning how to make good decisions is often an exercise of trial and error. The important thing is that you are willing to learn from your mistakes. After all, it’s the multitude of small decisions, over time, that will determine whether you really are that person you described in the obituary written in workshop two.
 
- © 2010, CruPress, All Rights Reserved. CruPress.com So MANY DECISIONS... HOW DO I DECIDE?CONT THE POWER OF a COMMITMENT OPTIONAL QUESTIONS FOR SMALL-GROUP
+ So MANY DECISIONS... HOW DO I DECIDE?CONT THE POWER OF a COMMITMENT OPTIONAL QUESTIONS FOR SMALL-GROUP
 
 Go back to the beginning of this section, to the “Personal Develop-
 
@@ -534,13 +534,13 @@ How well does your mock schedule reflect your personal mission statement?
 
 Read “W-4” by Steve Pogue, found in the Briefcase section.
 
-###  Workshop Eightgoing to Work
+ Workshop Eightgoing to Work
 
 The time has come. You have spent the last 17-plus years of your short life studying for tests or preparing for assignments and projects. Now it is time to close the books and start applying all the knowledge you have acquired in new ways. The familiar routine of showing up in a new professor’s classroom is about to be replaced with the unfamiliar routine of showing up in your new boss’s office (unless, of course you go to Grad school).
 
-Before we get into more serious stuff, let’s have a little fun. We’ve all had odd jobs—those jobs that helped us buy the iPod we really wanted or that new video game. And we’ve had jobs out of necessity—those that have paid the rent or bought the books. Make a list of all the jobs you’ve ever had. Legitimate jobs—not the ones like Mom and Dad paying you to clean your room or to not beat up a sibling.
+Before we get into more serious stuff, let’s have a little fun. We’ve all had odd jobs—those jobs that helped us buy the Ipod we really wanted or that new video game. And we’ve had jobs out of necessity—those that have paid the rent or bought the books. Make a list of all the jobs you’ve ever had. Legitimate jobs—not the ones like Mom and Dad paying you to clean your room or to not beat up a sibling.
 
-### GOD’s CALLING
+### GOD’s Calling
 
 God has called you to your job. Do you believe that? For many years I have watched students wrestle with career and vocational decisions. Granted, there is a lot of pressure to make some decision at this juncture of your life. Don’t you wish you had a dime for every time you have been asked, “So, what are you going to do after you graduate?”
 
@@ -554,7 +554,7 @@ The passages of Scripture listed in the personal study section below will help c
 
 How will you show up at your new job? No, I don’t mean what’s the quickest driving route or the most appropriate clothing for the first day of a new job. But how will you show up mentally? Emotionally? Spiritually? What are your attitude and mindset toward the environment you are about to become a part of? Up until this point, I would say that most of your jobs have been means to an end. You worked because the job would provide you with something else that you really wanted or needed. As we come to a close in our time together, I’d like to ask you to consider one last thing. Will you do your work, whatever it is, according to the instruction given in 1 Corinthians 10:31? “Whether you eat or drink or whatever you do, do it all for the glory of God.” Will you do your job for the glory of God?
 
-###  © 2010, CruPress, All Rights Reserved. CruPress.com GOING TO WORK CHARACTER TESTS
+ GOING TO WORK CHARACTER TESTS
 
 The day could come when you would give anything to go back to the good old days of preparing for a physics test instead of preparing for the “test” you will face at your future place of work. The stakes are no longer a letter grade posted at the top of your paper. You are no longer teetering between passing and failing a class. This test is about who you will become over time. It’s about character, integrity, honesty.
 
@@ -586,7 +586,7 @@ You are now about to make your sixth and final commitment that will be reflected
 
 Well, it’s time to go to work. And what better way to start than with a goal and a prayer lifted straight from the pages of Scripture: “Whatever you do, work at it with all your heart, as working for the Lord, not for men” (Colossians 3:23).
 
-### THE POWER OF a COMMITMENT
+### The Power of a Commitment
 
 Go back to the beginning of this section, to the “Personal Develop-ment Plan: Overview.” Reread “The Power of a Commitment” about growth flowing out of an up-front commitment. What commitment will you make in regard to your work?
 
@@ -616,6 +616,6 @@ Are they measurable?
 
 Are they on my calendar?
 
-ONE COMMITMENT SPECIFIC FAITH STEPS I MAY NEED TO TAKE ALONG THE WAY SPIRITUAL GROWTH FINANCIAL PLANNING RELATIONSHIPS SERVING IN MINISTRY DECISION MAKING WORK  © 2010, CruPress, All Rights Reserved. CruPress.com Personality Type Relational Style Personal Mission Statement sPiritual Gift Test TeMPerament Profile LOGIN AT CRU2.ORG FOR YOUR OWN FREE
+ONE COMMITMENT SPECIFIC FAITH STEPS I MAY NEED TO TAKE ALONG THE WAY SPIRITUAL GROWTH FINANCIAL PLANNING RELATIONSHIPS SERVING IN MINISTRY DECISION MAKING WORK  Personality Type Relational Style Personal Mission Statement Spiritual Gift Test TeMPerament Profile LOGIN AT CRU2.ORG FOR YOUR OWN FREE
 
 ## Personal Profile

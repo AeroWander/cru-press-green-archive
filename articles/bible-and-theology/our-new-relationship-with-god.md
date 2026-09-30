@@ -12,8 +12,6 @@ source: "Discipleship/Basic Growth Concepts/New Relstionship With God.pdf"
 also_filed: ["Discipleship/How to Disciple Others/New_Relstionship_With_God.pdf"]
 ---
 
-## Steve Pogue
-
 the issue. He went to great lengths to bring us into relationship with Him. Jesus took our sins on Himself and covered us with His righteousness, making us fully forgiven and fully accepted by Him. We don’t have to first live good lives, or perform religious rituals, or spend years begging Him. God is the one who made it possible for us to have a relationship with Him. And we come to Him based on what He did for us, rather than what we can do. He paid for our sins, in order to forgive us and come into our lives. First Peter 3:18 says, “For Christ died for sins once for all, the righteous for the unrighteous, to bring you to God.” When you made that decision and invited Jesus into your life, it is important to know, did God hear you? Yes. Jesus promised that He would enter our lives, if we ask Him.
 
 When a person asks Jesus into their life, it is exciting to know what God says is now true about your relationship with God:

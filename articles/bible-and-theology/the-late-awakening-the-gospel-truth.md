@@ -10,7 +10,7 @@ summary: "An excerpt from Neil Downey's CruPress eBook The Late Awakening, offer
 source: "added/The Late Awakening - The Gospel Truth.pdf"
 ---
 
-## Neil Downey
+*Neil Downey*
 
 To become “all things to all people . . . for the sake of the gospel”(1 Corinthians 9:22-23).
 
@@ -22,7 +22,7 @@ To declare himself “a servant of the gospel” (Ephesians 3:7).
 
 ## The Good News in 1 Thessalonians
 
-The following is an excerpt from The Late Awakening, a CruPress eBook by Neil Downey. What follows is an examination of the Apostle Paul’s use of the word “gospel” in the book of 1 Thessalonians. Useful for a five-part gospel-centered small group discussion or personal bible study, this look at Paul’s life and ministry helps uncover our own daily need for the gospel.
+The following is an excerpt from The Late Awakening, a CruPress Ebook by Neil Downey. What follows is an examination of the Apostle Paul’s use of the word “gospel” in the book of 1 Thessalonians. Useful for a five-part gospel-centered small group discussion or personal bible study, this look at Paul’s life and ministry helps uncover our own daily need for the gospel.
 
 To have the optimistic perspective that his imprisonment “resulted in the advancement of the gospel” (Philippians 1:12).
 
@@ -32,7 +32,7 @@ Buy the book.
 
 In order to gain some insight into Paul’s zeal, it’s time for a little Bible Study. Let’s examine the five times Paul uses the word “gospel” in his first letter to the church in Thessalonica (aka 1 Thessalonians). These passages reveal much about Paul’s heart, his purpose, his reason for existence.
 
-## Introduction: the Gospel Guru
+## Introduction: The Gospel Guru
 
 When it came to the gospel, the Apostle Paul was a guy who “got it” (understatement of the day). His writings, his ministry, and his entire post-conversion life seem to be saturated with the gospel. So what makes him so different from us? What caused Paul to be so passionate about the good news? What caused him . . . But first, a little background: the book of Acts records that Paul’s stay in Thessalonica during his second missionary journey was relatively short (possibly only three weeks, maybe a few months) and dangerous (hunted by a mob, escaped in the night). But it was also relatively fruitful.
 
@@ -140,7 +140,7 @@ At a regional Cru staff meeting a few years ago, Pastor Brian Loritts implored u
 
 For discussion/reflection: What motivates you to work hard? What prevents you from working hard? How hard to you work for the cause of the gospel?
 
-## Conclusion: the Big Picture
+## Conclusion: The Big Picture
 
 The broader biblical meaning of the Christian gospel . . . (includes) the existence of the living God and his coming into history with imperial authority over all things as the long-awaited King of Israel and Lord of the universe. This King was Jesus Christ, the Messiah, the Savior. He fulfilled the Old Testament expectations of the Son of David, died for our sins, was buried, and rose again triumphant over Satan, death, and hell. He promised his own Spirit to be with us and help us. On the basis of his death and resurrection, the gospel promises a great salvation – eventual healing from disease and liberation from oppression, peace with God and others who believe, justification by faith apart from works of the law, forgiveness of sins, transformation into the image of Christ, eternal life, and the global inclusion of all people from all nations in this salvation. (But) the best and final gift of the gospel is that we gain Christ . . . Focusing on facets of a diamond without seeing the beauty of the whole is demeaning to the diamond . . . If you embrace everything . . . about the facets of the gospel, but do it in a way that does not make the glory of God in Christ your supreme treasure, then you have not embraced the gospel . . . If we do not see him and savor him as our greatest fortune, we have not obeyed or believed the gospel.7 As Jesus carried out his three-year ministry in Palestine, he proclaimed different aspects of the gospel in different places and with different people because the appeal and emphasis of the gospel was (and still is) dependent on the audience. “Come to me . . . and I will give you rest,” which was a facet of the good news that appealed to people who were “weary and burdened,” was a much different message than “repent,” which is what the self-righteous Pharisees needed to hear.
 

@@ -11,7 +11,7 @@ source: "Small Groups and Meetings/Posters and Publicity copy/Bible Study Flyers
 also_filed: ["Small Groups and Meetings/Posters and Publicity copy/Bible Study Flyers —Beatitudes/Beatitudes 6 b_w.pdf"]
 ---
 
-## —Jesus cru.
+—Jesus cru.
 
 ### Bible Study/discussion
 

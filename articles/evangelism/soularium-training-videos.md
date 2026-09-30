@@ -13,7 +13,7 @@ source: "Evangelism/traning/Soularium Training Videos.pdf"
 
 SOULARIUM TRAINING VIDEOS 1
 
-## Soularium Training Videos
+*Soularium Training Videos*
 
 ## How to Best Use the Videos
 

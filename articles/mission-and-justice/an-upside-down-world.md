@@ -11,8 +11,6 @@ summary: "An article by Christopher J. H. Wright on the shift of global Christia
 source: "Sending/Missions/An Upside-Down World.pdf"
 ---
 
-## Christopher J. H. Wright
-
 “You say, ‘I am rich; I have acquired wealth and do not need a thing.’ But you do not realize that you are wretched, pitiful, poor, blind and naked” (Rev. 3:17). “The language of home and mission field is still used by many churches and agencies, but it fundamentally misrepresents reality.” The map of global christianity that our grandparents knew has been turned upside down. At the start of the 20th century, only ten percent of the world’s Christians lived in the continents of the south and east. Ninety percent lived in North America and Europe, along with Australia and New Zealand. But at the start of the 21st century, at least 70 percent of the world’s Christians live in the non-Western world— more appropriately called the majority world.
 
 ## Normal Christianity
@@ -29,7 +27,7 @@ With the growth of the multinational church, mission is becoming multidirectiona
 
 ## Normal Mission
 
-In this, too, we will be relearning the multidirectional nature of mission in the Book of Acts. Our preoccupation with concentric circles has obscured the more complex pattern of mission and movement that Luke shows us in Acts. For example: • • • • • • • Philip goes from Jerusalem to Samaria, to Gaza, to Azotus, and to Caesarea (Acts 8).
+In this, too, we will be relearning the multidirectional nature of mission in the Book of Acts. Our preoccupation with concentric circles has obscured the more complex pattern of mission and movement that Luke shows us in Acts. For example: Philip goes from Jerusalem to Samaria, to Gaza, to Azotus, and to Caesarea (Acts 8).
 
 Peter goes to Lydda and Joppa (Acts 9:32-43). People from Cyprus go to Antioch and initiate a multiethnic church there (Acts 11:19-21).
 

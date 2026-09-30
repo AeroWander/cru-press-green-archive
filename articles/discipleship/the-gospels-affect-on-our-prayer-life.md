@@ -12,7 +12,7 @@ summary: "An article by Tim Keller on how understanding the gospel transforms pr
 source: "MTL/MTL/MTL2/How the Gospel Affects Our Prayer Life.pdf"
 ---
 
-## Tim Keller
+Tim Keller
 
 Without the gospel, this is impossible. We can only come and ask for things - petition. Without the gospel, we may conceive of a holy God who is intimidating and who can be approached with petitions if we are very good. Or we may conceive of a God who is mainly loving and regards all positively. To approach the first “God” is fearsome; to approach the second is no big deal. Thus without the gospel, there is no possibility of passion and delight to praise and approach God.
 
@@ -28,7 +28,7 @@ The Spirit leads us to call out passionately to God as our tender and loving Fat
 
 We do not just know and believe that God is holy and loving, but we actually experience contact with his holiness and his love in personal communion with him.
 
-## 1. on the One Hand, Our Prayer Can Have “Light Without Heat.”
+1. on the One Hand, Our Prayer Can Have “Light Without Heat.”
 
 There can be long lists of things that we pray for, and long lists of Bible verses we read, and long lists of things we thank him for. Yet there is no fire. Why? If we lose focus on the glory of God in the gospel as the solution to all our problems, then we devolve into a set of “grocery list” prayers, made rather prayer: prayer and the gospel desperately. When we are done, we only feel more anxious than before. The presence of God is not sensed because God is really just being used – he is not being worshipped.
 
@@ -40,7 +40,7 @@ Instead, we should always remember that the first thing we need is a new perspec
 
 This is gospel-centered prayer, rather than anxious petitioning. Our desires are always idolatrous to some degree, and when we pray without dealing with that first, we find our prayers only make us more anxious. Instead, we should always say, in effect, “Lord, let me see your glory as I haven’t before, let me be so ravished with your grace that worry and selfpity and anger and indifference melt away!” Then, when we turn to ask God for admission to grad school or healing of an illness, those issues will be put in proper perspective. We will say, “Lord, I ask for this because I think it will glorify you – so help me get it, or support me without it.” If the overall focus of the prayer is on God’s glory and the gospel, our individual petitions will be made with great peace and confidence.
 
-## 2. on the Other Hand, Our Prayer Can Have “Heat Without Light.”
+2. on the Other Hand, Our Prayer Can Have “Heat Without Light.”
 
 Unlike the “light without heat” prayer, focused on anxious personal petitions, there is a kind of prayer which is its direct opposite – “heat without light.” This is prayer with lots of “fire” and emotion. It focuses on boldly claiming things in Jesus’ name. A lot of military and conflict imagery is usually used. Often the prayers themselves are said (either in your head or out loud) in a very unnatural, dramatic kind of voice and language.
 

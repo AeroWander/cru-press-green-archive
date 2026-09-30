@@ -78,4 +78,4 @@ TAKING STEPS There are three appropriate responses to this study, three things y
 2. Confess specific sins.
 3. Choose to avoid sin.
 
-NEXT CONCEPT As believers, we genuinely desire to do what is right. But it seems no matter how hard we try, we lack the power to do so. The next concept is critical because we will learn how to experience the power we need to live the Christian life. ©2008, CruPress, Campus Crusade for Christ, Inc. All rights reserved. Scripture references taken from the Holy Bible, New International Version. Copyright© 1973, 1978, 1984 International Bible Society. Used by permission of Zondervan Bible Publishers.
+NEXT CONCEPT As believers, we genuinely desire to do what is right. But it seems no matter how hard we try, we lack the power to do so. The next concept is critical because we will learn how to experience the power we need to live the Christian life. All rights reserved. Scripture references taken from the Holy Bible, New International Version. Copyright© 1973, 1978, 1984 International Bible Society. Used by permission of Zondervan Bible Publishers.

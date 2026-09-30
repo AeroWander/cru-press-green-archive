@@ -19,13 +19,11 @@ The Ultimate Roadtrip was written to communicate all of the subtle, and not so s
 
 Chapter Topics: Lesson Preparation, Lesson Content, Creating Community, Groups With a Purpose, The Right Questions, Facilitating Life Change, Common Roadblocks and Problems, Incorporating Outreach, and Qualities of a Successful Group Leader.
 
-### Order Online at Crupress.com
-
-## so, where ya’ headed?
+so, where ya’ headed?
 
 4.1 Assessing Their Needs 4.2 Determining Your Destination 4.3 Choosing Your Content
 
-## People like Amanda take wrong turns all the time, but most people don’t
+People like Amanda take wrong turns all the time, but most people don’t
 
 start out on a trip without having a destination in mind. Good road trips take planning. You need to know your destination, why you want to get there, and the best route to take you there. If you don’t plan, there is little likelihood that you’ll make it.
 
@@ -33,7 +31,7 @@ Leading a small group also takes planning. Before you begin your group ask yours
 
 4.1 Assessing Their Needs
 
-## It’s critical to get to know the needs of those in your group. If you offer con‑
+It’s critical to get to know the needs of those in your group. If you offer con‑
 
 tent that misses the needs of your group, they’ll have little desire to return. For example, if most in your group aren’t sure they are Christians, it’s doubtful they’ll enjoy a group lesson on reaching the world for Christ. They probably won’t come back.
 
@@ -87,14 +85,14 @@ Cultural Trends for College Students Several studies reveal various trends in ou
 - Most students are skeptical of absolutes. “There is one thing a professor can be absolutely certain of: almost every student entering the university believes, or says he believes, that truth is relative” (Allan Bloom, The Closing of the American Mind). Maybe your group needs to learn about the character of God and the authority of His Word.
 - Many students are sexually experienced and may presently be sexually active. “And among [college students], more than three-quarters claim that they have engaged in sexual intercourse with other single adults. Today, only 23 percent of the single [college students] profess to being virgins” (Barna, Invisible Generation, p145). It’s probably safe to assume most groups need to address the issues of sex, sexual immorality, purity and forgiveness.
 - Because Eastern religions (such as Hinduism and Buddhism), New Age and cults are gaining influence, students may combine various elements from different faiths. George Barna notes, “It is likely that from Christianity they will borrow Jesus’ philosophy of love and acceptance. From Eastern religions they will borrow ideas related to each person being his or her own god, the center of the universe, capable of creating and resolving issues through his or her own power and intelligence” (Barna, The Frog in the Kettle, p141). So, maybe your group needs to examine the uniqueness of Jesus or the deity of Christ.
-- • How to Kill Your Group  Don’t make an effort to find out the needs of your group. Trust your feelings.  Choose content that seems most fun to you, like whale hunting. Never mind they all happen to be members of Greenpeace.
+- How to Kill Your Group  Don’t make an effort to find out the needs of your group. Trust your feelings.  Choose content that seems most fun to you, like whale hunting. Never mind they all happen to be members of Greenpeace.
 -  Just assume whatever you do in the Bible will be just fine for your group...like studying the book of Revelation.
 - Write up a purpose statement, forget what it says, and never refer to it again.
 -  Don’t worry about how many weeks you run your group. You’ll be able to tell when it has run long enough by the empty spaces on the couch. chapter 4 so, where ya’ headed?
 
 4.2 Determining Your Destination
 
-## Once you get a grip on the needs of your group mem bers, it’s time to work
+Once you get a grip on the needs of your group mem bers, it’s time to work
 
 on the purpose for your group. How, specifically, can God use you to help meet the needs of those in your group? What content will be most helpful? How many weeks should the group run? These decisions are best prayerfully made with a veteran group leader if possible. Their experience will help you choose content and structure your group.
 
@@ -134,7 +132,7 @@ You may be thinking, This is such a hassle. I just wanted to lead a small group.
 
 Many group leaders get discouraged when people just don’t show up. Often this is caused by offering solutions to problems no one seems to have. Take time to plan for your group. Give them biblical solutions that make a difference—give them something they are hungry for. Brownies help, but that’s another chapter. 4.3 Choosing Your Content
 
-## Like any trip you take, not only do you need to know where you’re going,
+Like any trip you take, not only do you need to know where you’re going,
 
 but also how to get there. Once you’ve determined your desti nation (the purpose of your group) you’re ready to choose your route, the content of your small group. You’ll also need to determine how long the group should meet to accomplish your purpose.
 

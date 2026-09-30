@@ -11,8 +11,6 @@ summary: "An article by Mark Driscoll explaining the biblical doctrine of spirit
 source: "Building Community/Community and Relationships/Understanding Spiritual Gifts.pdf"
 ---
 
-## Mark Driscoll
-
 reveal the lordship of Jesus Christ as God over all people and things. Therefore, if someone says they are a Christian or want to do ministry but they do not affirm the lordship of Jesus Christ, they do not have the Holy Spirit. The primary evidence of a person having the Holy Spirit is their love and submission to Jesus.
 
 During his life on earth, Jesus was empowered by the Holy Spirit to do ministry. Jesus said that one day Christians would do even greater ministry than he did (John 14:12). While this does not mean that Christians are greater than Jesus, it does mean that Christians who are also gifted and empowered by the Holy Spirit can minister to more people than Jesus did because there are billions of Christians today spread across the earth. Therefore, as we begin our study of spiritual gifts it is paramount that we first see that our personal ministry is the continuation of Jesus’ ministry. Or, to summarize, the gifts of God are dispensed through the Spirit of God so that the church of God can minister like the Son of God.
@@ -199,7 +197,7 @@ The gift of evangelism is the ability and desire to boldly and clearly communica
 
 Do you enjoy being with non-Christians and sharing the gospel?
 
-Are you able to effectively communicate to non- Christians in a language they can understand? Does a person’s conversion bring you profound joy?
+Are you able to effectively communicate to non-Christians in a language they can understand? Does a person’s conversion bring you profound joy?
 
 Do you feel frustrated when you haven’t shared your faith for a while?
 

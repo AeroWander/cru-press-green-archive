@@ -10,7 +10,7 @@ summary: "A comprehensive leader's manual for starting and running a campus smal
 source: "Small Groups and Meetings/Leading Small Group/Beginning and Leading a Small Group.pdf"
 ---
 
-## Mapping Out Your Strategy Lead a Small Group? . . . Me?
+Mapping Out Your Strategy Lead a Small Group? . . . Me?
 
 Think about how you came to know Christ, or how you have grown in your faith. You are who you are today because someone knew you by name and invested in you personally. Whether it was your parents, friends, or perhaps a pastor or small group leader, more than likely God has used one or more people to make a tremendous difference in your life. of people to accomplish His goals. We often think it takes a great teacher or dynamic leader to lead a small group. While this sort of person may indeed be a good leader, the old adage that God is more interested in availability than ability remains true. And as you trust Him to work through you, (focusing on His power as opposed to your weaknesses) you will see fruit. Leading a small group gives you the opportunity to invest—and perhaps make the same sort of impact—in someone else’s life!
 
@@ -28,7 +28,7 @@ All types of people can be effective small group leaders. God has an amazing way
 
 Remember, the goal is not to the small group in and of itself. The ultimate objective is to trust God to change peoples’ lives. In Colossians 1:28-29 Paul emphatically stated: “And we proclaim Him, admonishing every man and teaching every man with all wisdom, that we may present every man complete in Christ. And for this purpose also I labor, striving according to His power, which mightily works within me. powerful enemy: Satan, our unseen foe.”
 
-## Prayer: the Core of Leadership
+## Prayer: The Core of Leadership
 
 It is foolishness to lead a small group apart from divine assistance. God is the One who changes lives, so obviously He must lead in the process. Only God can bring the people to your small group, develop character, and knit hearts together.
 
@@ -73,7 +73,7 @@ Everyone is able to participate Teaching is usually done through a dialogue Peop
 3. What are their crucial needs? Do they comprehend the foundations of their faith (e.g., salvation, forgiveness, the Spirit-filled life, and how to study God’s Word). Are they sharing Christ with others?
 4. How many weeks should the group run?
 
-You will want to make it long enough for the relationships to gel and yet short enough so non- Christians, coming to investigate the study, won’t feel overwhelmed. Try six weeks and evaluate, making any needed adjustments after three weeks.
+You will want to make it long enough for the relationships to gel and yet short enough so non-Christians, coming to investigate the study, won’t feel overwhelmed. Try six weeks and evaluate, making any needed adjustments after three weeks.
 
 ## Multiplication, Apprentices, and Co-leaders
 
@@ -117,7 +117,7 @@ Call them back within the next 48 hours giving them a specific time and location
 
 2. Plan a good ice breaker. Don’t just assume relationships will be built. Plan for it with good ice breakers. An ice breaker is something that gets each group member talking and sharing early on. Snacks are a nice addition to a study. Don’t let them prevent you from thoroughly preparing your content. If they become a hindrance, buy them or skip them or better yet involve others in the group in the responsibility!
 
-## Countdown to Kickoff
+Countdown to Kickoff
 
 Here is the scenario: The small group meeting time is set for 7 p.m., Wednesday nights. Seven people are on their way to meet you. Some of them you have met face to face, others you have talked to on the phone, and at least one you have never met and is coming with his roommate.
 
@@ -183,7 +183,7 @@ You will want your content to have continuity and yet you will want each lesson 
 
 Remember that the goal of leading a small group is changed lives. How does God usually do this? Memorize this verse: “Having thus a fond affection for you, we were well-pleased to impart to you not only the gospel of God but also our own lives, because you had become very dear to us.” I Thessalonians 2:8. It is easy to meet simply to discuss information with others, but this is not the goal. You must impart yourself. This means getting your hands dirty in peoples’ lives. For some practical ideas on loving your oikos, check out Appendix E. May God bless your labor. May it be to His glory and His glory alone.
 
-## Appendix Appendix C: Creative Ice Breakers
+## Appendix C: Creative Ice Breakers
 
 1. What room was the center of warmth in your home? Describe your relationship with your parents. How would they show their love to you?
 2. What is your favorite way of spending your spare time?

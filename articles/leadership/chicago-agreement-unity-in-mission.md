@@ -21,6 +21,6 @@ source: "Evangelism/outreach/Chicago.pdf"
 4. We will speak well of and refrain from criticism of each other’s ministries and members.
 5. We commit to addressing problems on a local, regional or national level by humbly communicating with our counterparts, seeking the Lord together to resolve the issues. i Our work was built on the Trail West Agreement of 1971, in which leaders from several campus ministries met to develop a practical means of settling conflicts between local leaders on a number of campuses across the country.
 
-## FounDing ministries
+## Founding Ministries
 
 Asian American Christian Fellowship Melanie Mar Chow Evelyn Fan Baptist Collegiate Ministry John Moore Ken Owens Campus Ambassadors Valorie Nordbye Ryan Miller Campus Crusade for Christ Mark Gauthier Keith Davy Campus Outreach Kent Bailey Mike Hearon Chi Alpha Dennis Gaylor Curtis Cole Christian Union Matt Bennett Coalition for Christian Outreach Vince Burens Dan Dupee Fellowship of Christian Athletes Jeff Martin Great Commission Ministry Greg Van Nada Steve Hayes The Impact Movement Charles Gilmer InterVarsity Christian Fellowship Jim Lundgren Janet Luhrs Balajthy The Navigators Jim Luebe Mike Kozlarek North American Mission Board Mark Lydecker Chad Childress Reformed University Fellowship Rod Mays Student Mobilization Dave Riner Ted Shimer Young Life College Mike Gaffney Steve Blacksmith

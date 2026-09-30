@@ -11,7 +11,7 @@ summary: "An article by Rick James (also titled 'The Powerful Percent') tracing 
 source: "Sending/Missions/The Role of Young People.pdf"
 ---
 
-## Rick James the Historic Role of College Students in Fulfilling the Great Commission
+Rick James the Historic Role of College Students in Fulfilling the Great Commission
 
 To fully understand what God has been doing in His global plan of redemption we need to take a trip to the local university and attempt to grasp the import of missiologist David Bryant’s statement: university seems quite another. Bested only by the brothel, casino and communist party, the college campus is notorious for being one of the most godless and atheistic institutions on the planet. As such we would assume that God’s redemptive plans would have bypassed the worldly city, but instead it became the capital of the missionary enterprise, a commuting hub, transporting the gospel and shuffling kingdom workers to their points of origin all over the planet. As we’ve noted, young people have always been the concentrated focus of God’s redemptive activity, but with the rise of the university, starting in the middle ages, that focus shows up in his work on campuses and in the lives of students.
 

@@ -30,7 +30,7 @@ We explicitly affirm our belief in basic Bible teaching as follows:
 3. He lived a sinless life and voluntarily atoned for our sins by dying on the cross as our substitute, thus satisfying divine justice and accomplishing salvation for all who trust in Him alone.
 10. The Holy Spirit has come into the world to reveal and glorify Christ and to apply the saving work of Christ to all men and women. He convicts and draws sinners to Christ, imparts new life to them, continually indwells them from the moment of spiritual birth and seals them until the day of redemption. His fullness, power and control are appropriated in the believer’s life by faith.
 4. He rose from the dead in the same body, though glorified, in which He had lived and died.
-11. We, as believers, are called to live in the power of © 2010, CruPress, All Rights Reserved. CruPress.com the indwelling Spirit so that we will not fulfill the lust of the flesh but will bear fruit to the glory of God.
+11. We, as believers, are called to live in the power of the indwelling Spirit so that we will not fulfill the lust of the flesh but will bear fruit to the glory of God.
 12. Jesus Christ is the Head of the Church, His Body, which is composed of all men and women, living and dead, who have been joined to Him through saving faith.
 13. God admonishes His people to assemble together regularly for worship, for participation in ordinances, for edification through the Scriptures and for mutual encouragement.
 14. At physical death believers enter immediately into eternal conscious fellowship with the Lord, and await the resurrection of their body to everlasting glory and blessing.
@@ -40,4 +40,4 @@ We explicitly affirm our belief in basic Bible teaching as follows:
 
 Without mental reservation, I hereby subscribe to the above statements and pledge myself to help fulfill the Great Commission in our generation, depending upon the Holy Spirit to guide and empower me.
 
-Date__________ Name (printed)_____________________________________ Campus Name and Location ________________________ © 2010, CruPress, All Rights Reserved. CruPress.com
+Date__________ Name (printed)_____________________________________ Campus Name and Location ________________________

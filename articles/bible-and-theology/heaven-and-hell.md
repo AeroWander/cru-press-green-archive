@@ -16,8 +16,6 @@ The reason for the Critical Concept series is that there are important topics no
 
 Volume 1 contains five booklets addressing the following topics: Heaven and Hell: Alternative Endings Worldviews: War of the Worlds God’s Will: The Art of Discerning the Will of God Missions/ Great Commission: Mission Impossible Christ-centered Bible Study: Hearing the Music of the Gospel
 
-### Order Online at Crupress.com
-
 Critical Concept Series
 
 ## White
@@ -344,7 +342,7 @@ Notes 1. Randy Alcorn, “Intermediate Heaven vs. Eternal Heaven.” Found on th
 6. Lewis, Problem of Pain, 130.
 7. Concept found in John Gerstner, Jonathan Edwards on Heaven and Hell (Grand Rapids, MI: Baker, 1980). Critical Concept Series Vol. 1 Published by CruPress Design: Devon Sayers Series Editor: Rick James CruPress is the publishing division of the Campus Ministry.
 
-To Order go to: www.CruPress.com Or call 1.800.827–2788 ©2008, CruPress All rights reserved.
+To Order go to: www.CruPress.com Or call 1.800.827–2788
 
 Scriptures taken from the Holy Bible, New International Version ®NIV ®©1973, 1978, 1984 by International Bible Society. Used by permission.
 

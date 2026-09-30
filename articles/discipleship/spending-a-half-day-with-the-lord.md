@@ -11,8 +11,6 @@ summary: "Practical article by Tom Virtue on the discipline of setting aside a h
 source: "Building Community/Prayer/Spending a Half Day With The Lord.pdf"
 ---
 
-## Tom Virtue
-
 That’s a great way to start a time with God:
 
 1. Be reminded and refreshed in the greatness and transcendence of God.
@@ -27,7 +25,7 @@ After having a planned “start” the rest of my times are unplanned and unstru
 
 Maybe I’ll...
 
-In a short amount of space I will seek to give a few of my thoughts on how to go about spending a 1/2 day, or, what the heck, maybe you would want to make it a full day to spend with God. • First, we start with God. Psalm 139 talks about the greatness of God - that He knows and is aware of everything, that He is everywhere we could go, and that God will always be there to guide us. The writer of Psalms, after considering God’s greatness and care toward us, then asks God: • • • • “Search me, O God, and know my heart; test me and know my anxious thoughts.
+In a short amount of space I will seek to give a few of my thoughts on how to go about spending a 1/2 day, or, what the heck, maybe you would want to make it a full day to spend with God. · First, we start with God. Psalm 139 talks about the greatness of God - that He knows and is aware of everything, that He is everywhere we could go, and that God will always be there to guide us. The writer of Psalms, after considering God’s greatness and care toward us, then asks God: “Search me, O God, and know my heart; test me and know my anxious thoughts.
 
 See if there is any offensive way in me, and lead me in the way everlasting.” (Psalms 139:23,24)
 
@@ -39,7 +37,7 @@ Take a walk and pray for some of what is on my heart currently.
 
 Review my schedule for the past month and see how God has worked in ways that I haven’t noticed in the rush of doing things.
 
-Ask God to give me some specific action points in terms of focus and direction for the coming couple of weeks. © 2010, CruPress, All Rights Reserved. CruPress.com
+Ask God to give me some specific action points in terms of focus and direction for the coming couple of weeks.
 
 ## Common Questions
 
@@ -65,4 +63,4 @@ I think God won’t mind moving with you to another place where you can concentr
 
 Praise works anytime, so simply turn to a place in Scripture and thank God for what Scripture tells us is true of God, example: Psalms 138 “I will bow down toward your holy temple and will praise your name for your love and your faithfulness... When I called, you answered me...though the Lord is on high, he looks upon the lowly...the Lord will fulfill his purpose for me.” (verses 2, 3, 6) Or, just listen to a favorite CD and allow it to stimulate praise. What if it takes me the whole time to quiet my heart?
 
-Don’t assume you need Ridalin. Maybe all God wanted to do in this time with Him was to get you to a place where you could be quiet before Him. Occasionally we just get overly distracted so it will be © 2010, CruPress, All Rights Reserved. CruPress.com
+Don’t assume you need Ridalin. Maybe all God wanted to do in this time with Him was to get you to a place where you could be quiet before Him. Occasionally we just get overly distracted so it will be

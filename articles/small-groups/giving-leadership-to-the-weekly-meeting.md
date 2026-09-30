@@ -10,7 +10,7 @@ summary: "A leader's guide (Student LINC) on organizing and leading a campus min
 source: "godsquad/weekly meeting/Leading the Weekly Meeting.pdf"
 ---
 
-## student linc
+student linc
 
 How the Weekly Meeting Team Fits into the Big Picture: The weekly meeting is the movement’s opportunity to present itself to the campus. It must demonstrate the Mission, Vision and Values of Campus Crusade for Christ. It needs to balance between being inviting to the non-Christian and encouraging to the Christian. Although it is not the movement, it is the face of the movement. It is an opportunity to teach, align and encourage the movement and present the gospel to the campus. Vision Statement, encouraging their team for their faithfulness and hard work. The weekly meeting should clearly reflect who we are.
 
@@ -35,8 +35,7 @@ Here are some helpful points to consider:
 3. The leaders need to meet together to plan the weekly meeting every week.
 4. Leaders must keep the team aligned with the ministry’s Mission and Vision and the team’s Planning Meetings
 - Debrief the last weekly meeting, Evaluate how well the meeting is staying on track with the mission and vision of Crusade
-- •
-- • Plan the next meeting and address any upcoming issues Prepare announcements Brainstorm and think outside the box Pray for the weekly meeting Components of the Weekly Meeting
+- Plan the next meeting and address any upcoming issues Prepare announcements Brainstorm and think outside the box Pray for the weekly meeting Components of the Weekly Meeting
 - Show up early (6:45) on Tuesdays to finalize details and prep
 - Pray as a group at 7:00 for the meeting.
 - Choose speakers
@@ -47,16 +46,22 @@ Here are some helpful points to consider:
 - Use “in-house” staff speakers as much as possible.
 - Recruit teams or people to carry out elements of the meeting.
 - Get different students on stage throughout the
-- •
-- • year.
+- year.
 
 Emphasize that the weekly meeting is NOT Campus Crusade in its entirety, simply a component of the movement Observe needs of the movement and add elements in the meeting to address these needs. For example, speaker selection, topics, worship tone, and added elements. We must first know where the movement as a whole desires to go (i.e. Renewal and Revival) and then set an agenda that can help accomplish this mission.
 
 Seek to bring about change. Think about involving the audience more, meet outside, and add different creative components from time to time.
 
-It is important to have a detail-oriented person but the team needs dreamers too Talk Content for Weekly Meeting • The Big 11: The Gospel Message; Assurance of Salavation; Having a daily Quiet Time; Confessing our Sin; Being Empowered by God’s Spirit; How to Pray; Sharing Christ with others; The Great Commission; Biblical Community, Lordship of Christ; Eternal Perspective • Take content from Cru.Comm and turn into a talk • Talk series from Gospel of John or Ephesians • Talk series on Attributes of God • Biblical view of Sex and Relationships • Intamacy (with God) series:
+It is important to have a detail-oriented person but the team needs dreamers too Talk Content for Weekly Meeting
 
-Roles of the Leaders • • • • • • • • • • Type up a schedule for emcees, speaker, anyone on stage, band, tech people during the meetings Manage the meeting, including feel and flow Gather announcements by Friday Night Contact Visual Arts Team if needed for posters/ fliers Coach the emcees – takes time and effort; make sure they understand the “why” behind every announcement Communicate with other teams who are involved in a particular Weekly Meeting Buy supplies that may be needed such as markers or batteries Deal with people wanting a “piece” of the Weekly Meeting and be able to say “NO” to many requests Delegate tasks that can be done by someone else team member Delegate Greeter Coordinator to a team member
+- The Big 11: The Gospel Message; Assurance of Salavation; Having a daily Quiet Time; Confessing our Sin; Being Empowered by God’s Spirit; How to Pray; Sharing Christ with others; The Great Commission; Biblical Community, Lordship of Christ; Eternal Perspective
+- Take content from Cru.Comm and turn into a talk
+- Talk series from Gospel of John or Ephesians
+- Talk series on Attributes of God
+- Biblical view of Sex and Relationships
+- Intamacy (with God) series:
+
+Roles of the Leaders Type up a schedule for emcees, speaker, anyone on stage, band, tech people during the meetings Manage the meeting, including feel and flow Gather announcements by Friday Night Contact Visual Arts Team if needed for posters/ fliers Coach the emcees – takes time and effort; make sure they understand the “why” behind every announcement Communicate with other teams who are involved in a particular Weekly Meeting Buy supplies that may be needed such as markers or batteries Deal with people wanting a “piece” of the Weekly Meeting and be able to say “NO” to many requests Delegate tasks that can be done by someone else team member Delegate Greeter Coordinator to a team member
 
 ## Weekly Meeting Planning Sheet
 
@@ -70,7 +75,7 @@ Details regarding the content, who’s responsible, and times for… (these migh
 
 Announcements Conferences/Projects Speaker Life story/Vision spot Worship What is the order of the meeting and how will we transition smoothly through its parts? How will we advertise for this week? Who, what, when, where? How will we pray for this week?
 
-## Sample Weekly Meeting (CRU) Evaluation—end of Year
+## Sample Weekly Meeting (cru) Evaluation—end of Year
 
 What is the vision and purpose of Cru? When has it best achieved that vision? Good point of initial connection, Body Evangelism, unity of movement (ponds), alignment and vision, exposure to distinctives, spiritual refreshment and nourishment for students, momentum campus wide, place to hear the gospel, development of laborers and leaders, place for people to connect and “stick”, this fall was strong – distinctives were high, momentum was high. What have been strong points at Cru this year? Weak points? What keeps more students from coming? Variety of talks, hitting different distinctives, students sharing up front, good balance of fun and seriousness, increased student ownership, tried new things and venues, clipboards were mostly good, Jr. Ballroom worked out well Too much moving around, auditorium, community building and connection, band – especially since Ho Sung, communication by the band during the meeting, need more humor. Band, moving around, length of Cru could be too long – keep it to 1:15 long, environment not aesthetically strong, student leaders don’t own Cru and don’t think about how they could help make it a good meeting, humor and crowd interaction is relatively low still How has the band helped/hindered towards the vision? How have the mc’s done? What is the overall feel from talks at Cru?
 

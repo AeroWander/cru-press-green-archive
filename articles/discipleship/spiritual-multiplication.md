@@ -15,8 +15,6 @@ Postcards is the Users Guide for personal discipleship. While The Compass provid
 
 Here, for example, is a partial list of the topics covered: Habitual Sin, Authority Issues, Christian Counseling, Fasting, Theological Conflicts, Coaching Through Trials, Challenging to Conferences, Confronting Sin, Ministering Cross-Culturally, The Role of Faith, Difficulties in Sharing the Ministry of the Spirit, Selection, Conflict Resolution, Why Does Leadership Matter, Conducting Basic Follow-up... Postcards contains 47 articles on all critical issues of discipleship.
 
-## Order Online at Crupress.com
-
 SPIRITUAL ADDITION VS. SPIRITUAL MULTIPLICATION Spiritual addition in ministry is when someone wins other people to Christ, but does not disciple, train, and deepen those converts to go out and do likewise. While we will review the biblical basis for spiritual multiplication, for now let it suffice to state that in Matthew 28:18-20, we are commanded to go and make disciples, not simply converts.
 
 “Then Jesus came to them and said, ‘All authority in heaven and on earth has been given to me. Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, and teaching them to obey everything I have commanded you. And surely I am with you always, to the very end of the age’” (Matthew 28:18-20).

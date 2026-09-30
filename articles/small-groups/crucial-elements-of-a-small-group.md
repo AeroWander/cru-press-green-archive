@@ -32,7 +32,7 @@ You want each person in your group to taste, see, and personally encounter Chris
 
 ## Progressive Life-change
 
-© 2010, CruPress, All Rights Reserved. CruPress.com Successful small groups are about life-change. On the road trip of life, we all hit potholes, dead ends, construction zones, and pileups – sometimes twenty cars or more. As a result of the wear-and-tear brought on by life’s challenges, each week the members of your group show up in less than showroom condition, sometimes in need of some serious bodywork. Their condition may be obvious, or not so obvious. As a leader (in need of your own bodywork, of course) you want to allow the Scriptures to expose our brokenness and then follow the passage as it points toward a solution and ultimately to a person, Jesus Christ. This is how life-change happens. If a group stops short of being a catalyst for life-change, it has fallen short of all God intends for the group. • • • Discipleship Compassion for the Lost Spiritual Battle
+Successful small groups are about life-change. On the road trip of life, we all hit potholes, dead ends, construction zones, and pileups – sometimes twenty cars or more. As a result of the wear-and-tear brought on by life’s challenges, each week the members of your group show up in less than showroom condition, sometimes in need of some serious bodywork. Their condition may be obvious, or not so obvious. As a leader (in need of your own bodywork, of course) you want to allow the Scriptures to expose our brokenness and then follow the passage as it points toward a solution and ultimately to a person, Jesus Christ. This is how life-change happens. If a group stops short of being a catalyst for life-change, it has fallen short of all God intends for the group. Discipleship Compassion for the Lost Spiritual Battle
 
 ## Training
 
@@ -42,7 +42,7 @@ Another element for your small group is training. Share practical, helpful, spec
 
 One thing that’s often neglected in small groups is communicating an increasing sense of God’s purpose for the world and how we fit in the picture. Content is not the only ingredient needed for our growth. Knowing how God can use us in His plan is a critical ingredient. Catching His heart for people around the world is motivating.
 
-His love moves us to action. We’re not here merely for theory, debate or platitudes. We exist to glorify God and be used by Him. Sometimes when we share our faith there’s an overwhelming sense that “God can use me!” How do you build vision in your group? Here are some suggestions: Highlight sections from a visionary book or magazine like: • • • • • • • • • Master Plan of Evangelism Tell It Often Tell It Well Disciple Are Made Not Born Hudson Taylor’s Spiritual Secrets In the Gap Spiritual Leadership Discipleship Journal articles Becoming a Contagious Christian Use the Operation World prayer book and a map to show what God’s doing around the world. Or you can discuss a passage related to one of these topics: • • Evangelism Faith • • Prayer Worship • • • • • • • • • • Using the Four Spiritual Laws.
+His love moves us to action. We’re not here merely for theory, debate or platitudes. We exist to glorify God and be used by Him. Sometimes when we share our faith there’s an overwhelming sense that “God can use me!” How do you build vision in your group? Here are some suggestions: Highlight sections from a visionary book or magazine like: Master Plan of Evangelism Tell It Often Tell It Well Disciple Are Made Not Born Hudson Taylor’s Spiritual Secrets In the Gap Spiritual Leadership Discipleship Journal articles Becoming a Contagious Christian Use the Operation World prayer book and a map to show what God’s doing around the world. Or you can discuss a passage related to one of these topics: Evangelism Faith Prayer Worship Using the Four Spiritual Laws.
 
 Communicating the role of the Holy Spirit. Following up new believers.
 
@@ -60,7 +60,7 @@ Explaining how to know God’s will for your life.
 
 Prayer is an expression of our dependence upon God. You’ll help people see their need to depend upon Him. Most small groups have time set aside for prayer, but often it’s a quick sharing of requests for the week. Creativity is the element most needed in prayer. Sometimes you need to ask, “How has God answered prayer this week? What are you trusting Him for?” when students in your group see God’s answers to prayer they get pumped. When you pray together a powerful bond in the group forms.
 
-It’s also important to pray for other people, issues and events outside your small group. Here are some other things to consider for prayer: • • • • • • • Application of the vision time.
+It’s also important to pray for other people, issues and events outside your small group. Here are some other things to consider for prayer: Application of the vision time.
 
 Application of the Bible study topic.
 
@@ -72,4 +72,4 @@ Personal ministry development.
 
 Laborers for the harvest.
 
-Ministry leaders. © 2010, CruPress, All Rights Reserved. CruPress.com
+Ministry leaders.

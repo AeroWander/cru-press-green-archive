@@ -12,7 +12,7 @@ summary: "An article by Robert McQuilkin, part of the Cru.comm Bible study curri
 source: "Evangelism/traning/Lost Apart From Christ.pdf"
 ---
 
-## Cru.comm Bible Study Curriculum
+Cru.comm Bible Study Curriculum
 
 Cru.Comm is the Campus Ministry’s core Bible study content. Over 110 Bible studies, written to ensure that everyone involved in our ministry is grounded in our classic, biblical teaching and training.
 
@@ -22,9 +22,9 @@ Each of the studies presents classic, transferable Campus Crusade teaching throu
 
 Content includes book studies on Luke, Ephesians, Thessalonians, James, 1 Samuel, John, and Acts. In addition, there are topical studies on issues such as spiritual leadership, God’s redemptive plan, and Old Testament character studies.
 
-## Order Online at Crupress.com Article
+Order Online at Crupress.com Article
 
-### lost • Robert Mcquilkin
+lost · Robert Mcquilkin
 
 “Salvation is found in no one else, for there is no other name under heaven given to men, by which we must be saved” (Acts 4:12).
 
@@ -92,6 +92,6 @@ There on the map, by the bridge, I saw quotation from the first undershepherd, P
 
 From The Great Omission, © Robertson Mcquilkin 1984, Baker Book House, Grand Rapids, MI. Used by permission. The Great Omission is now published by OMLiterature, Waynesboro GA. .
 
-End The Compass is the discipleship curriculum for Campus Crusade for Christ’s Campus Ministry. It was created by Centerfield Productions, the field based division of CruPress. We’d love to hear your feedback on this lesson. Please write us at centerfield@uscm.org ©2007 Cru Press, Campus Crusade for Christ, Inc. All rights reserved.
+End The Compass is the discipleship curriculum for Campus Crusade for Christ’s Campus Ministry. It was created by Centerfield Productions, the field based division of CruPress. We’d love to hear your feedback on this lesson. Please write us at centerfield@uscm.org All rights reserved.
 
 No part of this publication may be digitally reproduced, stored in a retrieval system, or transmitted, without the prior permission of Cru Press.

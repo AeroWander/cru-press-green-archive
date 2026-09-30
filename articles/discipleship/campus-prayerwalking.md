@@ -11,8 +11,6 @@ summary: "Article by Ty Silva on prayerwalking, the practice of praying on-site 
 source: "Building Community/Prayer/Prayer Walking.pdf"
 ---
 
-## Ty Silva
-
 Prayerwalking involves taking our prayers to the very places where we desire to see God’s presence manifested and our prayers answered. Prayerwalking is the powerful dynamic of praying on-site with God's sight.
 
 Prayerwalking uses the sights, sounds, even smells to engage both body and mind in the ministry of prayer. Worship fosters faith inside us because worship focuses on the character of God. Three elements that should be a part of our prayerwalking worship experience are, (1) thanksgiving, (2) praise and worship, and (3) repentance. Thanksgiving is how the psalmist says we are to enter God’s presence (Psalm 100:1). When we exalt in our Lord and lift Him up, Jesus is lifted up (John 12:32). Demons tremble at His name! (James 2:19)
@@ -23,7 +21,7 @@ Joshua and Caleb walked throughout the Promised Land with a desire to see it as 
 
 Second, we prayerwalk amidst the evil powers with prayers of warfare. All people belong to the kingdom of Satan until God sets them free. We need to understand that the enemy has blinded the minds of people, so they are not able to see the light of the gospel (2 Corinthians 4:4). Jesus is the light of the world and has defeated Satan. (I John 3:8) In Nehemiah we see a person with a God-given burden and a sensitive heart. Before Nehemiah ever set foot in Jerusalem, the Scripture tells us he wept, mourned, fasted and prayed for the city (Nehemiah 1:4). When he finally arrived, his eyes saw the rubble, the burned city gates, as had others before him. However, when a person with a God-given burden and a God-sensitive heart saw them, things changed!
 
-## Attitudes of Prayerwalking
+Attitudes of Prayerwalking
 
 First of all, realize that we prayerwalk before the throne in an attitude of worship. Exalting Jesus, magnifying God from the very place(s) where we stand.
 
@@ -35,7 +33,7 @@ Third, focus on Jesus and the power of the Holy Spirit. It is most strategic to 
 
 We can get insights for prayerwalking through impressions that come by way of our natural senses. The Holy Spirit will use sights, sounds, and smells to flood your awareness and prayers with significance. As you prayerwalk look for signs, posters, graffiti, carvings, statues, buildings, etc. that give you ideas of things for which to pray.
 
-## Preparation for Prayerwalking
+Preparation for Prayerwalking
 
 In your preparation to conduct a prayerwalk, there are four bases you need to cover. The first is to be sent by God. Ask God to open a door of opportunity for you to involve yourself in a prayerwalking adventure. We can receive further prayerwalking insights through investigation and research. Use a spiritual mapping guide that lists thought-provoking questions about your city’s secular history, its religious and Christian history, and also your city’s demographic layout.
 
@@ -51,7 +49,7 @@ First, pray scripture. Carry a copy of God’s Word with you as you prayerwalk. 
 
 Second, pray in obedience to the Spirit’s leading. Learn to recognize and respond to His voice as you prayer walk. God’s Spirit may even direct you with ideas of prayer gestures, i.e. kneeling down, joining
 
-## Benefits of Prayerwalking
+Benefits of Prayerwalking
 
 One of the awesome things that happens in the hearts of those who consistently prayerwalk their campus or community is that they find their heart becomes committed to the places for which they have prayed. Doesn’t it make perfect sense: A Spirit-tenderized heart, sensitized to a Spirit-directed need, results in Spirit-filled acts of compassion.
 

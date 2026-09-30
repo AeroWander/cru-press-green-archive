@@ -11,11 +11,11 @@ source: "Small Groups and Meetings/Posters and Publicity copy/Bible Study Flyers
 also_filed: ["Small Groups and Meetings/Posters and Publicity copy/Bible Study Flyers —Beatitudes/Beatitudes 3 b_w.pdf"]
 ---
 
-## —Jesus
+## Jesus
 
 A Sri Lankan man carries the body of his son out from a hospital at the town of Galle, 117 kilometers (70 miles) south of Colombo, Sri Lanka, Monday, Dec. 27, 2004. The death toll from massive tidal waves that struck Sri Lanka's coastline leapt to more than 12,000 as thousands of soldiers and families kept up the search for bodies. (AP Photo/Vincent Thian)
 
-## cru.
+cru.
 
 BIBLE STUDY/DISCUSSION Blessed (Oh, how lucky) are those without food? Without shelter? What did Jesus mean by this shocking statement? What was he telling us about the meaning of life and where true happiness can be found? Come and join the discussion.
 

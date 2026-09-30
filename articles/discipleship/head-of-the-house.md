@@ -46,7 +46,7 @@ Before long, He asked, “Do you have a workroom around here?” Out in the gara
 
 “All right, let Me have your hands. Now relax with Me and let my Spirit work through you. If He controls your hands and your heart, you can accomplish any assignment I give you.” Stepping around behind me and putting His strong hands under mine, He began to work with me. The more I relaxed and trusted Him, the more He was able to do through me.
 
-## The Rec Room
+*The Rec Room*
 
 He asked if I had a place where I got together with my friends. I was hoping He wouldn’t ask me about that. There were certain associations and activities that I wanted to keep to myself. One evening when I was on my way out with some buddies, He caught my eye and asked, “Are you going out?”
 

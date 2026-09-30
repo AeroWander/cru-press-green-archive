@@ -11,17 +11,15 @@ summary: "A long FAQ article addressing common questions and objections students
 source: "Sending/Summer Projects_Staff_Internships/Questions About Joining Staff.pdf"
 ---
 
-### Decisions Cd Excerpt
+*Decisions Cd Excerpt*
 
 A comprehensive resource to help guide the process of discerning one’s Call to ministry.
 
 The CD contains: vision and eternal perspective talks (MP3’s) from speakers like Roger Hershey and Tim Muehlhoff, a spiritual gift test, spiritual preparation for the marketplace, articles on Missions, the Great Commission and Calling (including 4 articles from Os Guinness’ book The Call), Bible studies for graduating seniors, resources on seminary, discerning God’s will, and the missionary significance of the college campus. Also included are the 3 Campus Crusade promotional videos.
 
-### Order Online at Crupress.com
+Campus Crusade for Christ A Cause. A Calling. A Community [Decide]
 
-## Campus Crusade for Christ A Cause. A Calling. A Community [Decide]
-
-## Commonly Asked Questions [About Staff]
+## Commonly Asked Questions [About Staff
 
 “I’m seriously thinking about vocational Christian work, but how can I be sure of God’s will?
 

@@ -13,9 +13,9 @@ source: "Launching a New Ministry/Building a Movement/Men_s and Women_s.pdf"
 
 ### Weeks Four, Five, and Six
 
-Between the beginning of the year and the Fall Retreat there isn’t necessarily an opportunity for those who want or need to get more involved to do so. However, when the Fall Retreat arrives, who wants to go away for an entire weekend with people you barely know? The strategy for having a Men’s or Women’s overnight some time between the start of the semester and the Fall Retreat is to provide a smaller step of involvement: an opportunity to get to know other men and women in the ministry before investing an entire weekend. Here’s a short article describing The Overnight. © 2010, CruPress, All Rights Reserved. CruPress.com
+Between the beginning of the year and the Fall Retreat there isn’t necessarily an opportunity for those who want or need to get more involved to do so. However, when the Fall Retreat arrives, who wants to go away for an entire weekend with people you barely know? The strategy for having a Men’s or Women’s overnight some time between the start of the semester and the Fall Retreat is to provide a smaller step of involvement: an opportunity to get to know other men and women in the ministry before investing an entire weekend. Here’s a short article describing The Overnight.
 
-## Men’s and Women’s Overnight
+Men’s and Women’s Overnight
 
 ## Stutter-steps of Involvement
 
@@ -27,4 +27,4 @@ In either case a simple overnight with the men or women of the ministry can make
 
 For the spiritual message(s) of the event you probably want to have a Campus Crusade staff member deliver that content. Planning out the rest of the time is rather simple: make it very fun, make it very male or female, make a lot of food.
 
-The second reason you may want to have a Men’s or Women’s overnight/retreat is to address some of those touchy topics not easily handled in a mixed setting. Sex and dating is obviously a huge topic—the hugest. And it has enormous ramifications on our walks with God: if a student goes ‘off the rails’ spiritually odds are good it will be because of problems in this area. This extended time will allow you to focus on such issues © 2010, CruPress, All Rights Reserved. CruPress.com © 2010, CruPress, All Rights Reserved. CruPress.com
+The second reason you may want to have a Men’s or Women’s overnight/retreat is to address some of those touchy topics not easily handled in a mixed setting. Sex and dating is obviously a huge topic—the hugest. And it has enormous ramifications on our walks with God: if a student goes ‘off the rails’ spiritually odds are good it will be because of problems in this area. This extended time will allow you to focus on such issues

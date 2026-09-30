@@ -10,7 +10,7 @@ summary: "An overview flyer/article introducing Destino, Cru's Hispanic/Latino m
 source: "Launching a New Ministry/Ethnic_ Contextualized Ministries/Destino.pdf"
 ---
 
-## The Latino Community
+*The Latino Community*
 
 The world is a pretty messed up place. You don’t need anybody to prove that. Wars. Disease. Poverty. Divorce. Addictions. Tragedies and injustice all around us. A lot of people want to change the world, but sometimes it’s hard enough to even change our own lives. dedicated to drawing people into a closer relationship with God.
 
@@ -38,4 +38,4 @@ For more information go to: destinomovement.com.
 
 DESTINO is the U.S. Hispanic ministry of Campus Crusade for Christ: An international, interdenominational Christian ministry that is
 
-## Destinomovement.com
+Destinomovement.com

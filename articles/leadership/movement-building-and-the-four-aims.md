@@ -15,8 +15,6 @@ MOVEMENT BUILDING AND THE FOUR AIMS 1
 
 ## Movement Building and the Four Aims
 
-## David Robbins
-
 The full-page diagram on the next page was developed by David Robbins and shows the Stages of Movement Building and the Four Aims: a simple picture of what it means to grow where we are and go where we are not.
 
 MOVEMENT BUILDING AND THE FOUR AIMS 2

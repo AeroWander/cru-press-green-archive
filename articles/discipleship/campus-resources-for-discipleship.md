@@ -73,7 +73,7 @@ But our experience of the Spirit’s empowerment requires our participation. The
 
 Section two describes the way in which we are empowered, but empowered to do what? That is the study of the final section: how the Spirit overflows from our lives in witness, holiness, love and service. Section One: Indwelt by The Spirit. Presence, Security, Empowerment Section Two: Influence of the Spirit. Walking, Reliance, Leading, Atmosphere, Expectancy, Humility Section Three: Overflow of the Spirit. Witness, Holiness, Service
 
-### Cru.comm
+Cru.comm
 
 Small Group Material.
 
@@ -83,17 +83,17 @@ Content includes book studies on Luke, Ephesians, Thessalonians, James, 1Samual,
 
 The studies are also accessible on line at CruPress Green.
 
-### The Ultimate Roadtrip
+*The Ultimate Roadtrip*
 
 A Complete Guide to Leading a Small Group. The health and success of a ministry is hinged directly to the health and success of our small groups. Our ministry is comprised of the building blocks of small groups. Considering the importance and complexity of the task it is disturbing to reflect on how little training small group leaders actually receive. And that is where this resource fits into the ministry. “The Ultimate Roadtrip” was written to communicate all of the subtle, and not so subtle, nuances of leading a small group. It covers content, group dynamics, atmosphere, vulnerability and questions that help create a life-changing community. It fully equips the small group leader for the task they’ve been entrusted with and fills out the teaching with dozens of relatable stories and examples—good and bad.
 
 Chapter Topics Include: Lesson Preparation, Lesson Content, Creating Community, Groups With a Purpose, The Right Questions, Facilitating Life Change, Common Roadblocks and Problems, Incorporating Outreach, Qualities of a Successful Group Leader.
 
-### Postcards from Corinth
+Postcards from Corinth
 
 A Comprehensive Journal on the Practice and Philosophy of Discipleship.
 
-Every ministry has a practice, process and philosophy of discipleship. Spiritual Multiplication, for example, is a distinctive of Campus Crusade discipleship. “Postcards From Corinth” contains 47 articles divided into six major sections. The first section deals with life transformation. The second deals with issues of sin. The third division looks at gender issues, and the forth section is marked off for topics concerning ministry (sharing the ministry of the Holy Spirit, Basic Follow-up, etc). After the ministry section there is a series of shorter, quick-read articles. Last is a section entitled “Foundations and History,” that brings us back to some fundamental principles of Crusade discipleship that have no expiration date. Partial List of Topics: Dating, Spiritual Multiplication, Selection, Conducting Basic-Follow-up, Quiet Time—Journaling, Prayer, An Overview of WSN, Conflict Resolution, Christian Counseling, Fasting, Scripture Memory, Biblical Challenges, Cross- Cultural Ministry, Habitual Sin, Trials, Male/Female Issues, Sharing the Spirit Filled Life, Evangelism, Faith, Sanctification—How We Grow, and The Role of Leadership.
+Every ministry has a practice, process and philosophy of discipleship. Spiritual Multiplication, for example, is a distinctive of Campus Crusade discipleship. “Postcards From Corinth” contains 47 articles divided into six major sections. The first section deals with life transformation. The second deals with issues of sin. The third division looks at gender issues, and the forth section is marked off for topics concerning ministry (sharing the ministry of the Holy Spirit, Basic Follow-up, etc). After the ministry section there is a series of shorter, quick-read articles. Last is a section entitled “Foundations and History,” that brings us back to some fundamental principles of Crusade discipleship that have no expiration date. Partial List of Topics: Dating, Spiritual Multiplication, Selection, Conducting Basic-Follow-up, Quiet Time—Journaling, Prayer, An Overview of WSN, Conflict Resolution, Christian Counseling, Fasting, Scripture Memory, Biblical Challenges, Cross-Cultural Ministry, Habitual Sin, Trials, Male/Female Issues, Sharing the Spirit Filled Life, Evangelism, Faith, Sanctification—How We Grow, and The Role of Leadership.
 
 To see all of the Campus Ministry’s discipleship resources at a glance see attached . . .
 
@@ -101,7 +101,7 @@ To see all of the Campus Ministry’s discipleship resources at a glance see att
 
 Introduction to a daily quiet time there is nothing more critical to spiritual growth than a daily quiet time with the Lord, and therefore this process needs to be introduced and explained to a new or young believer as soon as possible. That’s the goal of this four-week devotional. introductory content explains how and why to have a quiet time, how to study a passage, the acts model of prayer (adoration, confession, thanksgiving, and supplication), why Bible translations differ, and other content foundational to a daily time with the Lord. the twenty-eight days of the devotional are spent going through the Gospel Available 2.1.09 Actual cover may be different of Luke and focusing on the person of Jesus. At the same time the devotional is topically selective, touching on key teachings and topics fundamental to our discipleship.
 
-#### 16 16 Basic 1. Life Concepts
+#### 16 Basic 1. Life Concepts
 
 follow-up for grounding a new or young believer in foundational truths in the parable of the soils, Jesus made it clear that new believers are vulnerable to influences that can quickly undermine faith in Christ, which is why basic follow-up is so critical. Life Concepts provide one-on-one discussions on five critical topics for new and growing believers. Each topic is based on one key Bible passage: Assurance OF salvation 1 John 5:9-13 gOD’s love and FORgiveness 1 John 1:5—2:2 The filling OF the Spirit 1 Corinthians 2:9—3:4 Walking in the Spirit galatians 5:16-26 gROWth principles acts 2:40-47 The discussion guides make it possible for anyone to easily communicate these truths with someone else, examining each topic using the same easy-to-follow template: sharing your stories, sharing your struggles, studying the Scripture, discussing the sketch, and planning next steps.
 
@@ -119,9 +119,9 @@ Sharing the ministry of the Holy Spirit the Christian life has been described as
 
 The Satisfied? booklet communicates four foundational truths about being filled and empowered with the Spirit:
 
-The Divine Gift – the gift of the Spirit to each believer The pResent Danger – depending upon or gratifying self The Intimate Journey – walking in the Spirit The eMpOWering pResence – the P ub li sh e d b y W S N P r es s , te ca d . filling of the Spirit du be n o t li p ma y D C s hi T d . ve r se e r WalK BY Faith ts h ig r ll A c. n I t, is hr C r o f de a s ru C s u
+The Divine Gift – the gift of the Spirit to each believer The Present Danger – depending upon or gratifying self The Intimate Journey – walking in the Spirit The eMpOWering Presence – the P ub li sh e d b y W S N P r es s , te ca d . filling of the Spirit du be n o t li p ma y D C s hi T d . ve r se e r WalK BY Faith ts h ig r ll A c. n I t, is hr C r o f de a s ru C s u
 
-## the COMpass
+## The Compass
 
 #### 5. Thirsty
 
@@ -131,19 +131,19 @@ The first focuses on the spiritual implications of the Spirit’s indwelling. Bu
 
 La k e H a rt D r iv e P , O du te li ca p d . rl a nd o , be t o n TRaining F L 2. ma y D C s hi T . d ve r se e r CRUsaDE COMMunity
 
-## Cru.comm
+Cru.comm
 
 ts h ig r ll A c. n I t, is hr C r o f de a s ru C version 3.0 explORatiON s u p m a C t h ig yr p Co DiscOveRY actiON
 
-#### 6. Cru.comm
+6. Cru.comm
 
 Small-group material each of the more than one hundred Bible studies in Cru.Comm presents classic, transferable Campus Crusade teaching through a distinctively redemptive lens, in a way that is easy to use in a dynamic, interactive small-group community. Each study is designed to first teach the leaders the passage and then provide them with questions they can use to lead their group through a process of self-discovered learning. the process was to list all of the topics a student should learn through being involved in our ministry for four years. Then books of the Bible were selected that would best cover these topics. Finally, follow-up articles were attached to each study to reinforce the content. This is the Campus Ministry’s small-group curriculum. content includes book studies on Luke, Ephesians, Thessalonians, James, 1 Samuel, John, and Acts. In addition, there are topical studies on issues such as spiritual Available 2.1.09 Actual cover may be different leadership, God’s redemptive plan, and Old T estament character studies. the studies are also accessible on line at centerfieldproductions.com
 
-#### 8. Postcards from Corinth
+8. Postcards from Corinth
 
 A comprehensive journal on the practice and philosophy of discipleship every ministry has a practice, process, and philosophy of discipleship. Spiritual multiplication, for example, is a distinctive of Campus Crusade discipleship. postcards from Corinth contains forty-seven articles divided into six major sections. The first section deals with life transformation. The second deals with issues of sin. The third looks at gender issues. the Fourth section is marked off for topics concerning ministry (sharing the ministry of the Holy Spirit, basic follow-up, and so on). After the ministry section, there is a series of shorter, quick-read articles. Last is a section entitled “Foundations and History” that brings us back to some fundamental principles of Crusade discipleship that have no expiration date. partial list of topics: Dating, Spiritual Multiplication, Selection, Conducting Basic-Follow-up, Quiet Time—Journaling, Prayer, Campus Missions, Conflict Resolution, Christian Counseling, Fasting, Scripture Memory, Biblical Challenges, Cross-Cultural Ministry, Habitual Sin, Trials, Sharing the Spirit-Filled Life, Evangelism, Faith, Sanctification—How We Grow, and The Role of Leadership.
 
-#### 7. The Ultimate Roadtrip
+7. The Ultimate Roadtrip
 
 A complete guide to leading a successful small group the health and success of a ministry hinge on the health and success of our small groups. Our ministry is comprised of the building blocks of small groups.
 

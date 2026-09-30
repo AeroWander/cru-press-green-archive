@@ -14,7 +14,7 @@ source: "Launching a New Ministry/Ethnic_ Contextualized Ministries/Valor.pdf"
 
 Military Ministry headquarters is located in Newport News, VA amid the largest concentration of military bases and headquarters in the United States.
 
-## Www.valormovement.com Six Steps to Launch a Valor Movement
+Www.valormovement.com Six Steps to Launch a Valor Movement
 
 Pray. Invest time in prayer with like-minded friends, asking God to guide you each step of the way. Remember to talk to God about people before you talk to people about God.
 

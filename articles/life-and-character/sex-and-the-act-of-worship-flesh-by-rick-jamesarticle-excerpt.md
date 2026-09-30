@@ -18,8 +18,6 @@ Flesh (for men) deals fearlessly with lust, sex and pornography in a clear, comp
 
 FLESH
 
-## Order Online at Crupress.com
-
 ## ALLWORSHIp
 
 “Worship” is one of those words, like the word “holy,” that we kind of know but would be hard-pressed to define. The problem with words we can’t define is that their meaning can shift without us even noticing. Such is the case with “worship.” It has come to be synonymous with singing and praise music, which really only hints at its full meaning.
@@ -32,8 +30,6 @@ When we become Christians, it’s not that we begin to worship, but we restore w
 
 For lack of definition, the full meaning or definition of worship has been sadly lacking because it is far more than singing. In fact, worship has little to do with singing. When the Bible speaks of worship, it has the following three categories in mind. Repentance and Humbling I’m generally non hygienic. My toesnails are long. I shave once a week and seldom clean my hands after going to the bathroom unless there are sufficient people in the restroom to create shame. So, it will come as no surprise that a sponge is a sponge in my eyes. My wife, on the other hand, all worship f
 
-e
-
 h ... was horrified when she saw me using the same sponge to clean the floor and then, in turn, wash our dishes. To make her point, she asked me to wring out the sponge in the sink. As I did, out came the most vile, putrid flow of black, bubonic plague fluid I’ve ever seen. Point made.
 
 The first component of worship is this wringing out of our souls toward God. We drain the bile and create a vacuum to be filled with God’s Spirit. We pour out our sin in humility and repentance. God fills us with his grace, mercy and love.
@@ -41,8 +37,6 @@ The first component of worship is this wringing out of our souls toward God. We 
 I think that most people understand how the first part of this cycle works. We have all at times confessed, repented and humbled ourselves before God. What is often missed is the way we are resaturated. Look at this passage:
 
 Why does the wicked man revile God? Why does he say to himself, “He won’t call me to account”? But you, O God, do see trouble and grief; you consider it to take it in hand. The victim commits himself to you; you are the helper of the fatherless. Psalm 10:14 Do you see that glorious “But …”? That is the refill mechanism. “But you, O God, are good, are kind, act completely out of love …” “But” is the great refrain of the Psalms. We vomit out our sin, the lies 078 f h...
-
-### l e s
 
 all worship we have believed, our self-centeredness, and we pivot on the word “but” before flooding our minds and souls with the truth about God—who he is and what he has done. Watch the dynamic as David humbles himself:
 
@@ -67,7 +61,3 @@ We proclaim to you what we have seen and heard, so that you also may have fellow
 John is writing this epistle because he is so satiated with God that his joy is made complete by overflowing in service to others. This is the direction the cycle of worship goes in the realm of service. As we are filled with God, we overflow toward others, or we overflow toward others and God fills us.
 
 Summary Our greatest hope for a life of purity is learning to worship: to overflow to God and he into us. No one can remain an empty sponge, no matter how much discipline they have. If you do not learn to saturate yourself with God, your soul will always return to the dirty waters of lust and pornography. If you find yourself inexorably drawn back, it is a warning that your soul is dry and in need of worship. Don’t simply say “no” to those desires. Satisfy them in God. all worship f
-
-e
-
-h ...

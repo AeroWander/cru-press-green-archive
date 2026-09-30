@@ -36,7 +36,7 @@ God has called every believer to be a Christ-centered laborer. The calling that 
 
 ## Stewardship
 
-© 2010, CruPress, All Rights Reserved. CruPress.com As believers we understand that our lives are not our own. God has entrusted us with gifts and resources that we do not own or control independently. Thus, we are managers, not owners, seeking to glorify our Master with our lives. It is the students’ role to invest their lives as God leads while it is the leader’s role to teach and model a life of stewardship. (1 Corinthians 15:10; Ephesians 2:10; 1 Peter 4:10-11; 1 Corinthians 4:2,7; Matthew 25:14 30)
+As believers we understand that our lives are not our own. God has entrusted us with gifts and resources that we do not own or control independently. Thus, we are managers, not owners, seeking to glorify our Master with our lives. It is the students’ role to invest their lives as God leads while it is the leader’s role to teach and model a life of stewardship. (1 Corinthians 15:10; Ephesians 2:10; 1 Peter 4:10-11; 1 Corinthians 4:2,7; Matthew 25:14 30)
 
 ## Ministry
 
@@ -48,4 +48,4 @@ As Campus Crusade for Christ staff, we are in a unique position to be able to sh
 
 ## Guidance
 
-Once students have gathered the necessary information and examined their options, they are faced with a decision. A Christ-centered laborer will rely on God to guide them in this process. The leader’s role is to provide wise counsel to help students discern where God would have them invest their lives after graduation. (Psalm 25:12; Psalm 145:8, 10; James 4:13-15; Paul’s example: Romans 1:10; 15:32; David’s example: 1 Samuel 23:1-4; 30:8) © 2010, CruPress, All Rights Reserved. CruPress.com
+Once students have gathered the necessary information and examined their options, they are faced with a decision. A Christ-centered laborer will rely on God to guide them in this process. The leader’s role is to provide wise counsel to help students discern where God would have them invest their lives after graduation. (Psalm 25:12; Psalm 145:8, 10; James 4:13-15; Paul’s example: Romans 1:10; 15:32; David’s example: 1 Samuel 23:1-4; 30:8)

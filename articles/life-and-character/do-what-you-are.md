@@ -11,8 +11,6 @@ summary: "An article by Os Guinness on vocational calling, using stories of gift
 source: "Sending/Graduating Seniors/Do What You Are.pdf"
 ---
 
-## Os Guinness
-
 Menuhin said he realized he wanted nothing less than the real thing because “I did know instinctively that to play was to be.”
 
 Yehudi Menuhin, the renowned maestro and violinist, has held audiences all over the world spellbound with his conducting and virtuoso playing. Like many great musicians, his gifts were precocious. He made his violin debut in San Francisco at the age of seven and launched his worldwide career at the age of twelve with a historic concert at Carnegie Hall. In his memoirs, Unfinished Journey, Menuhin tells the story of how he began his long love affair with his violin. Stories like that are common in the lives of creative artists. Artie Shaw, a famous clarinetist in the old Big Band days, shared his heart with an interviewer. “Maybe twice in my life I reached what I wanted to. Once we were playing ‘These Foolish Things’ and at the end the band stops and I play a cadenza. The cadenza—no one can do it better. Let’s say it’s five bars. That’s a very good thing to have done in a lifetime. An artist should be judged by his best, just as an athlete. Pick out my one or two best things and say, “That’s what he did: all the rest was rehearsal.”

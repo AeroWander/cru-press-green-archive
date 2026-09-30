@@ -15,13 +15,13 @@ Postcards is the Users Guide for personal discipleship. While The Compass provid
 
 Here, for example, is a partial list of the topics covered: Habitual Sin, Authority Issues, Christian Counseling, Fasting, Theological Conflicts, Coaching Through Trials, Challenging to Conferences, Confronting Sin, Ministering Cross-Culturally, The Role of Faith, Difficulties in Sharing the Ministry of the Spirit, Selection, Conflict Resolution, Why Does Leadership Matter, Conducting Basic Follow-up... Postcards contains 47 articles on all critical issues of discipleship.
 
-### ORDER ONLINE AT CRUPRESS.COM Chapter Twenty One
+ORDER ONLINE AT CRUPRESS.COM Chapter Twenty One
 
 
 
 ## World Poverty
 
-### WSN, and a brief history of the world
+### Wsn, and a brief history of the world
 
 There is a starving world and yet every day I scrape mounds of food off my plate and into a bloated garbage bag. The problem isn’t a lack of compassion and certainly not a lack of food. It is an issue of feasibility: I have no simple way to ship my plate of food overseas and no clue of where I would send it—“Third World Poor Box 3700.” This has also been the struggle of world missions: the need for a feasible plan or strategy to bring the gospel to every nation. The campus ministry and its missions strategy really does provides a compelling solution, but that does us little good if we ourselves don’t fully understand it, and the majority of us don’t.
 
@@ -101,6 +101,6 @@ If you reach the epicenters of the campus and city, you have done much to reach 
 
 ### Over 50 Articles on Discipleship and Movement Building.
 
-## Cru.pre
+Cru.pre
 
-### Postcards from Corinth.
+Postcards from Corinth.

@@ -12,11 +12,11 @@ source: "Launching a New Ministry/Ethnic_ Contextualized Ministries/faculty.pdf"
 
 ## Professors and Faculty How Do We Accomplish This?
 
-Through our fulltime staff of nearly 100, and in partnership with many other USCM staff and volunteers, we help professors: • •
+Through our fulltime staff of nearly 100, and in partnership with many other USCM staff and volunteers, we help professors:
 
-## Facultycommons.com
+Facultycommons.com
 
-“If I could start Campus Crusade for Christ all over again, I would begin by including ministry with professors.” — Bill Bright • Grow in their faith journey in Christ and become leaders to emulate; Integrate their personal faith with their teaching, research, publishing and service as a holistic endeavor Include a Christian worldview in discussions throughout the campus community and the greater culture.
+“If I could start Campus Crusade for Christ all over again, I would begin by including ministry with professors.” — Bill Bright · Grow in their faith journey in Christ and become leaders to emulate; Integrate their personal faith with their teaching, research, publishing and service as a holistic endeavor Include a Christian worldview in discussions throughout the campus community and the greater culture.
 
 ## What Does Faculty Commons Do?
 

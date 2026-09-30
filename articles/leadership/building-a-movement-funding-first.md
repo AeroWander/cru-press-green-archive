@@ -19,7 +19,7 @@ Before the start of the school year is a good time to attend to raising money fo
 
 Whether a staff member or a volunteer, Campus Crusade allows you to raise money for your campus. And the most effective thing you can do is to put together an overview of your ministry as well as your financial need for the up-coming year. What you’ll find attached is an example of such an overview. This is what you would use to mail to or to meet with a Christian who may have a heart to contribute to what God is doing on campus. Of course, if you’ve been ministering on that campus for awhile the most likely candidates will be alumni. If you don’t know any alumni then the most logical place to go would be local churches in the area. Pray about it. God will give you some good ideas on who to approach. But take the time to create an overview of the ministry that you can use to share with those to whom God leads you.
 
-## To Think About:
+## To Think About
 
 1. Over 110,000,000 college students in the world…
 2. There are 70,000 college students on 25 campuses within the SC Lowcountry, and many of these campuses have no organized outreach or small group Bible studies.
@@ -30,7 +30,7 @@ If you would like to make a contribution to our ministry, you may send it to Cam
 
 Please make any checks payable to
 
-#### Campus Crusade for Christ and
+Campus Crusade for Christ and
 
 include our account number (#2791061) on the memo line of the check. This will ensure that your gift will be designated to our ministry in the SC Lowcountry.
 
@@ -82,13 +82,13 @@ Like many other mission organizations, Campus Crusade for Christ depends upon th
 
 #### If you would like to be a part of our
 
-#### ministry reaching students on college
+ministry reaching students on college
 
-#### campuses, will you consider making an
+campuses, will you consider making an
 
-#### annual commitment of $500, $1000, $2,500
+annual commitment of $500, $1000, $2,500
 
-#### or some other amount?
+or some other amount?
 
 -Those who commit to a monthly amount will be sent a receipt each month for your taxes along with an envelope for your next contribution. Electronic Funds Transfer from a bank account is also available.
 

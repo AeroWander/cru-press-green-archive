@@ -11,8 +11,6 @@ summary: "An article by Rick James examining 1 Thessalonians 2 as a model for di
 source: "Discipleship/How to Disciple Others/For The Love of a Disciple.pdf"
 ---
 
-## Rick James
-
 While it seems clear that the church in Thessalonica is healthy and growing, there seems to be evidence that some in the church had sought to undermine Paul’s authority by casting doubt about the sincerity of his love and commitment to the church he founded. This portion of Scripture presents Paul’s defense of the sincerity of his love, and at the same time provides one of the best outlines found in scripture of the heart, motivation and activities involved in discipleship. recovering when he arrived. Still aching from a severe beating for his faith, Paul risks his life or the possibility of another beating in order to proclaim the gospel in Thessalonica. Paul’s reasoning here seems to be “Would I have done this by accident, and would I have risked so much, if I really didn’t love you?” Personal sacrifice, then, is a hallmark of sincerity and is implicit in discipleship. While Christ’s sacrifice for our sin is all that is required for eternal life, it often requires sacrifice to bring the gospel message to others and ground them in the foundational truths of the faith.
 
 As the chapter progresses, we can begin to better construct what some of these allegations were against Paul. Apparently he was being accused of being nothing more than a religious charlatan who had won over the hearts of the Thessalonians in anattempt to financially profit from them.

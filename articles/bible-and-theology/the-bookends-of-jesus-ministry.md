@@ -11,8 +11,6 @@ summary: "A Bible study examining the 'bookends' of Jesus' ministry, Luke 4:14-2
 source: "Justice/Bookends.pdf"
 ---
 
-## Libby Swenson
-
 to the desert for forty days, where he was tempted by the devil. This passage picks up from there. We must use time wisely and forever realize that the time is always ripe to do right. —Nelson Mandela Jesus first returned to Galilee and then went to Nazareth (where He had been brought up) in order to go to the synagogue on the Sabbath to read. While there, He stood and read from the Old Testament passage, Isaiah 61:1-2. His purpose in reading this particular passage was to make clear who He was and why He had come. Jesus launched his ministry with this passage because He, standing before them, was the fulfillment of it.
 
 ## What's the Big Picture?
@@ -29,7 +27,7 @@ Matthew 28:18-20: Jesus had already been crucified, buried, and risen again. He 
 
 Jesus gave us very clear directions regarding how to live and follow Him. When we understand His overall purpose for us, we can better understand how our lives can help transform a hurting world.
 
-## Launch Questions:
+## Launch Questions
 
 Think of a political campaign. Why is it important for the candidates to begin and end their speech well? What do they typically want people to remember? Overall, what did Jesus want people to know about Himself ? How did He live that out?
 

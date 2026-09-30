@@ -22,9 +22,7 @@ Flesh (for men) deals fearlessly with lust, sex and pornography in a clear, comp
 
 FLESH
 
-### Order Online at Crupress.com
-
-## WHEnTEMpTED
+## Whentempted
 
 “Yo, yo, come here little man. You look pretty hip. How would you like to read a tasty little article on sex? Everyone’s read it, except you.”
 
@@ -40,8 +38,6 @@ Timing For those pursuing sexual purity (usually a small target audience), what 
 
 The child pornographer known as the “Porn Piper” (called such after the children’s fairy tale character, the Pied Piper) was recently caught and arrested. His ingenious method or strategy for exposing young children to pornography was to establish pornographic websites with names like “bobthebiulder.com” (The misspelled “i” before the “u” was intentional, as a child might misspell when tempted f
 
-e
-
 h ... it). This is the ingenuity of the enemy. Once people are hooked, his work is pretty much done and he’s moved on to the next victim.
 
 But for you, that’s all water under the bridge, or sewage, as the case may be. You are at a different juncture: a man now trying to live in sexual purity. This is another strategic point. As such, you can expect the return of a demonic component— temptation with a capital “T.” Once you break free and establish a track record of purity, you will not be likely to return. This would be unthinkable to the enemy.
@@ -51,8 +47,6 @@ The apostle Paul speaks of such capital “T” temptation in Ephesians 6:13-14:
 Therefore put on the full armor of God, so that when the day of evil comes, you may be able to stand your ground, and after you have done everything, to stand.
 
 In the Bible’s Old Testament, we find the book of Nehemiah. The subject of the book, Nehemiah, is charged with the task of rebuilding the destroyed wall of Jerusalem. If you read the story, you will notice that besides the general difficulty of the task, there is a spiritual attack waged through Satan’s puppet, Sanballet. Read the story and note when the attacks occur: at the onset of the 060 f h...
-
-### l e s
 
 when tempted project, halfway through, and right near the end. These are the natural times of stress, exertion and fatigue on any project, and Satan exploits that to his advantage.
 
@@ -64,7 +58,7 @@ A Means of eScAPe No temptation has seized you except what is common to man. And
 
 1 Corinthians. 10:13 The promise of a means of escape carries some logical implications. If the all-knowing ruler of the universe is providing us an exit strategy, he must know something that we don’t. He must know a temptation is coming that is beyond our capacity to resist. Armed with a superior I.Q., you generally don’t want to second-guess God. To decline the escape windows is really putting you—in the military vernacular—in harm’s way.
 
-These “days of evil” are dead-end streets. Through the day, God will provide exit ramps to get off the highway—a chance to get out of your room, a phone call, whatever. You will be tempted to avoid the exit. I don’t know why, but you just will. But, you must get off the highway (That reminds me of an AC/DC song that I will not sing for you.). You’ll sense when “the day” is upon you. By faith, you need to be looking for those exits. oPen the WindoWS. tAke the Door Off Its Hinges I got a call some years ago from a friend who was having one of those days. He was home alone, tired, and in one of those moods where he felt pre-disposed physically to lust. When I picked up the phone, he told me his situation and said, “I haven’t done anything wrong, I just have a bad feeling about where this day seems headed and I wanted to bring someone into it.” That’s a good call on his part. In Romans 13:14 it says, “Rather, clothe yourselves with the Lord Jesus Christ, and do not think about how to gratify the desires of the sinful nature.” These circumstances get our minds scheming. The best way to resist is to bring someone else into our thoughts.
+These “days of evil” are dead-end streets. Through the day, God will provide exit ramps to get off the highway—a chance to get out of your room, a phone call, whatever. You will be tempted to avoid the exit. I don’t know why, but you just will. But, you must get off the highway (That reminds me of an AC/DC song that I will not sing for you.). You’ll sense when “the day” is upon you. By faith, you need to be looking for those exits. Open the WindoWS. Take the Door Off Its Hinges I got a call some years ago from a friend who was having one of those days. He was home alone, tired, and in one of those moods where he felt pre-disposed physically to lust. When I picked up the phone, he told me his situation and said, “I haven’t done anything wrong, I just have a bad feeling about where this day seems headed and I wanted to bring someone into it.” That’s a good call on his part. In Romans 13:14 it says, “Rather, clothe yourselves with the Lord Jesus Christ, and do not think about how to gratify the desires of the sinful nature.” These circumstances get our minds scheming. The best way to resist is to bring someone else into our thoughts.
 
 In “Education of a Bodybuilder,” Arnold Schwarzenegger tells the story of his “puny, girly-man” calves which were apparently tiny in proportion to the rest of his lumpy frame. After trying to hide this deficiency, he took an opposite tack. He cut off all his workout clothes at the knees so everyone could see his sickly calve muscles. It forced him to do something about them.
 
@@ -76,11 +70,7 @@ So, receive God’s forgiveness. Acknowledge your opponent, “Hey, that was goo
 
 This is not easy. Having filled your mind with lustful thoughts, the next week will be difficult. But, don’t act out. After a week, you might think you have gotten far enough away, but don’t ease up. Satan will look to re-engage you after a period of time, not while you still loath what you did. You must re-establish your track record of purity and that will usually take about three weeks to a month. when tempted f
 
-e
-
-h ...
-
-## MISs MARch 1968
+## Miss March 1968
 
 “Charm is deceptive, and beauty is fleeting”
 

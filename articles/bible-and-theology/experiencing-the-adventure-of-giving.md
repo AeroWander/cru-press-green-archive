@@ -12,7 +12,7 @@ summary: "Transferable Concept Ten by Dr. Bill Bright, an article on Christian s
 source: "Discipleship/Basic Growth Concepts/Transferable Concepts/Experiencing the Adventure of Giving.pdf"
 ---
 
-## Dr. Bill Bright Transferable Concept Ten
+## Transferable Concept Ten
 
 Giving by faith is meant by God to be an exciting privilege. When you honor and praise God through your commitment and obedience to stewardship, He showers you with joy. He turns your giving into a thrilling adventure in Christian living.
 

@@ -12,7 +12,7 @@ summary: "Transferable Concept Two by Dr. Bill Bright, contrasting the natural, 
 source: "Discipleship/Basic Growth Concepts/Transferable Concepts/How To Experience God_s Love and Forgiveness.pdf"
 ---
 
-## Dr. Bill Bright Transferable Concept Two
+## Transferable Concept Two
 
 fleshly and worldly. Spiritually, he is dead to God— dead in trespasses and sin.
 

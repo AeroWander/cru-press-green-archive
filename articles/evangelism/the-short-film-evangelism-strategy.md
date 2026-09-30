@@ -26,7 +26,7 @@ The Global Short Film Network provides you with hand selected films and quality 
 
 The most powerful way to insert an idea into the world is through story. -- Robert McKee
 
-#### Intro to Short Films
+Intro to Short Films
 
 Everyone loves a good story, and today’s master storytellers share their narratives through film. Global Short Film Network provides 24 powerful stories you can share through film--short stories that allow you to enter and explore the lives of people around you. When you watch a film, you connect with the characters and you identify with their lives. You find yourself drawn in because you’ve had similar hopes and dreams, disappointments and hurts, relationships and experiences.
 
@@ -135,27 +135,27 @@ God’s Story (Introduce a story from the Bible or another spiritual illustratio
 
 4. Your Story (Share your personal story how you became a follower of Christ.)
 
-#### Themed Testimony: “I know that I struggled with a lot of guilt and
+Themed Testimony: “I know that I struggled with a lot of guilt and
 
 shame before I decided to get off the bus and start/renew my relationship with God. I thought I needed to be perfect before I got serious about God. Then I finally realized…”
 
-#### Verbal Explanation of the Gospel. “I found out that God loved me, and
+Verbal Explanation of the Gospel. “I found out that God loved me, and
 
 actually liked me too, but that I had a common human condition that prevented me from knowing Him: sin. I learned that sin isn’t just the bad things I do, but it’s an independent or rebellious attitude that says, ‘God you go your way and I’ll go mine.’ This independent streak causes a barrier between God and I that cannot be overcome by religion, morality, or kind deeds. Like a man convicted of a crime, I’ve been found guilty of rebellion, and the sentence is death or separation from the God who created me. I have two choices: face the sentence myself by being separated from my creator forever, or let someone else pay my debt. God Himself came to earth in the person of Jesus, lived a sinless life, and died as a ‘sacrificial lamb’ to cover my death sentence. I learned that I faced a simple choice: pay my own debt, or accept the gift of Jesus’ death on my behalf.”
 
-#### 5. Invitation:
+#### 5. Invitation
 
 “Is this decision to accept God’s gift of forgiveness (sort of getting off the bus to connect with God) a decision you’ve already made, or something you’re considering?”
 
 “Would you like to get off the bus now?”
 
-#### Sample Prayer:
+#### Sample Prayer
 
 “Lord Jesus, I want to know You personally. Thank You for dying on the cross for my sins. I open the door of my life and receive You as my Savior and Lord. Thank You for forgiving me of my sins and giving me eternal life. Take control of the throne of my life. Make me the kind of person You want me to be.”
 
 Sample Questions for Other Films
 
-#### Cntl-Z (4:01 length)
+Cntl-Z (4:01 length)
 
 What would you do over? Tell them what you’d do over.
 
@@ -176,7 +176,7 @@ Where does this film hit home the most for you? Tell them where it hits home for
 1. “For me, it’s my mom. It’s like I’m always 10 pounds too heavy in her eyes.”
 2. “For me, it was the transition from high school to college. In high school I thought I was pretty smart, athletic, etc. Then I got to college and realized I wasn’t all the great.”
 
-#### La Liberte (4:48 length)
+La Liberte (4:48 length)
 
 What is this film about?
 
@@ -186,7 +186,7 @@ What kinds of things keep people in a trapped state of mind? What lies keep peop
 
 What would you do if you were set free?
 
-#### Venia (4:14 length)
+Venia (4:14 length)
 
 How was the son able to forgive his father?
 
@@ -314,7 +314,7 @@ What must be done to keep our imaginations from fooling us? What caused the man 
 
 What do you think happened in the man’s life after he stopped running from his dark side?
 
-#### W[rec]k (5:13 length)
+W[rec]k (5:13 length)
 
 Why do occurrences in our past life trigger bad memories that affect our life in the present?
 

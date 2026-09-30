@@ -10,7 +10,7 @@ summary: "A short internal guide laying out five missional objectives for U.S. c
 source: "MTL/MTL/Missional Objectives.pdf"
 ---
 
-## U.S. Campus Ministry Changed Lives
+U.s. Campus Ministry Changed Lives
 
 What we seek: People experiencing a transforming relationship with Jesus Christ as Lord. How we measure: Changed-life Stories of People coming to Christ & Sent-Ones having a ministry. What we’re asking you to do: Chronicle changed lives so your team and others can read about what God is doing.
 

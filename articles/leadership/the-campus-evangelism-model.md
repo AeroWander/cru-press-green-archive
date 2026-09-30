@@ -11,43 +11,64 @@ summary: "An article by Keith Davy outlining Campus Crusade's Campus Evangelism 
 source: "Evangelism/traning/The Evangelism Model.pdf"
 ---
 
-### Keith Davy Overview
+### Overview
 
-On one level, evangelism is as simple as one person telling another how they can experience the forgiveness of sin through Jesus Christ. But, if we step back and look at the big picture, the ministry of evangelism can be as multi-faceted and complex as the societies in which we live and the people to whom minister. • The Lordship of Christ-Daily yield yourself to the Lordship of Christ that you might be usable to the Master for His purposes.
+On one level, evangelism is as simple as one person telling another how they can experience the forgiveness of sin through Jesus Christ. But, if we step back and look at the big picture, the ministry of evangelism can be as multi-faceted and complex as the societies in which we live and the people to whom minister. · The Lordship of Christ-Daily yield yourself to the Lordship of Christ that you might be usable to the Master for His purposes.
 
-### The World: the Masses
+### The World: The Masses
 
 Masses-Defined. Evangelism is always done in context and is influenced by its context. Each context is unique and influences both the message that is shared and the methods that are used.
 
 Using the Bible as our guide, we will explore the issues we face in evangelism through the lens of seven different components.
 
-### God: the Master
+### God: The Master
 
-Master-Defined. We must serve the Master absolutely. A focus on the Master enables us to keep our focus on evangelism as, fi rst and foremost, a work of God. Our evangelism must be built upon the purpose of God, the passion of God, the plan of God, and the power of God. God’s purpose is to bring Himself glory. God’s passion is revealed in His compassion for the those who are “like sheep without a shepherd.” God’s plan is summed up in the Great Commission. God’s power is provided in the person of the Holy Spirit. We must see the masses clearly—as Jesus saw them, like sheep without a Shepherd. Seeing the masses clearly involves recognizing cultural influences, social involvements, and spiritual powers. The spread of the Gospel almost always moves along relational lines. Understanding and utilizing these relationships will have a significant effect on the spread of the gospel. Master-Applied. • The Purpose of God-His own glory (the manifestation of His impressiveness)-1 Chron. 16:23-26; Psalm 29; 1 Cor. 10:31. • The Plan of God-The Great Commission-Gen. • • 12:1-3; Matt. 28:18-20; Rev. 5:9, 10. The Passion of God-His love for the lost-Mark 6:34; Matt. 9:35-38.
+Master-Defined. We must serve the Master absolutely. A focus on the Master enables us to keep our focus on evangelism as, first and foremost, a work of God. Our evangelism must be built upon the purpose of God, the passion of God, the plan of God, and the power of God. God’s purpose is to bring Himself glory. God’s passion is revealed in His compassion for the those who are “like sheep without a shepherd.” God’s plan is summed up in the Great Commission. God’s power is provided in the person of the Holy Spirit. We must see the masses clearly—as Jesus saw them, like sheep without a Shepherd. Seeing the masses clearly involves recognizing cultural influences, social involvements, and spiritual powers. The spread of the Gospel almost always moves along relational lines. Understanding and utilizing these relationships will have a significant effect on the spread of the gospel. Master-Applied.
 
-The Power of God-The Holy Spirit indwelling and fi lling the believer-Acts 1:8; Jn. 14:16, 17; 15:26, 27; 16:7-11; Eph. 5:15-21. Masses-Applied. • Rely on communication of the gospel itself to determine spiritual proximity and openness, not observation or experience. • Cultural Infl uences-Be aware of the potential influence of tolerance and pluralism on you as the messenger and upon the hearer as part of the • • • masses.
+- The Purpose of God-His own glory (the manifestation of His impressiveness)-1 Chron. 16:23-26; Psalm 29; 1 Cor. 10:31.
+- The Plan of God-The Great Commission-Gen. 12:1-3; Matt. 28:18-20; Rev. 5:9, 10. The Passion of God-His love for the lost-Mark 6:34; Matt. 9:35-38.
+
+The Power of God-The Holy Spirit indwelling and filling the believer-Acts 1:8; Jn. 14:16, 17; 15:26, 27; 16:7-11; Eph. 5:15-21. Masses-Applied.
+
+- Rely on communication of the gospel itself to determine spiritual proximity and openness, not observation or experience.
+- Cultural Influences-Be aware of the potential influence of tolerance and pluralism on you as the messenger and upon the hearer as part of the masses.
 
 Social Involvements-People relate in affinity groups-look for the “person of peace” within any particular affinity group to enhance the spread of the Gospel relationally (Luke 10:1-9). Personal Journeys-Be sensitive to where a person is in their pursuit of Christ and know that God can move them from one point to another. Spiritual Powers-There is a battle taking place-claim your spiritual armorthe gospel itself and prayer are your primary weapons.
 
-### Believers: the Messengers
+### Believers: The Messengers
 
-Messenger-Defined. God desires to use all believers as his messengers in sharing the gospel of Jesus Christ with the unbelieving world, but in different ways. God will use any and all, despite their maturity or training, if they are available and in contact with unbelievers. • • How do we know? Old Testament prophecy & eyewitness accounts for the resurrection How are we to respond? Repent & believe (Essence of Luke 24:45-49)
+Messenger-Defined. God desires to use all believers as his messengers in sharing the gospel of Jesus Christ with the unbelieving world, but in different ways. God will use any and all, despite their maturity or training, if they are available and in contact with unbelievers. How do we know? Old Testament prophecy & eyewitness accounts for the resurrection How are we to respond? Repent & believe (Essence of Luke 24:45-49)
 
 The messenger must be vitally connected to Christ, and ideally equipped to the point of confidence and competence. The messenger must be committed to communicating the gospel message while realizing that their personal involvement and the involvement of others may vary in methodology and strategy.
 
 ### The Means of Communication
 
-We have numerous means available to communicate the unchanging gospel message. Some means are personal and spontaneous. Others are reproduced and transferable. (See Means and Methods below) Messenger-Applied. • The Messenger must be engaged in personal witnessing. A witness is one who tells what they have seen, heard or experienced. The Messenger therefore must be able to communicate his own life story in a clear and compelling manner. • The Messenger must be involved in ongoing practical training to ever be better equipped to communicate a changeless message to an ever changing culture. • The Messenger must be involved in purposeful ministry-reaching out to others in a context of love, compassion and service.
+We have numerous means available to communicate the unchanging gospel message. Some means are personal and spontaneous. Others are reproduced and transferable. (See Means and Methods below) Messenger-Applied.
+
+- The Messenger must be engaged in personal witnessing. A witness is one who tells what they have seen, heard or experienced. The Messenger therefore must be able to communicate his own life story in a clear and compelling manner.
+- The Messenger must be involved in ongoing practical training to ever be better equipped to communicate a changeless message to an ever changing culture.
+- The Messenger must be involved in purposeful ministry-reaching out to others in a context of love, compassion and service.
 
 ### The Gospel Message
 
 Message-Defined. The life-changing message of Jesus never changes. In one sense, the gospel can be reduced to its essential message, a clear and simple statement about Jesus Christ and his work for the salvation of our sins. Yet as the gospel is explored, its depths unfold riches speaking clearly to the whole of the human dilemma.
 
-We must master the message thoroughly. We need to always emphasize clear communication of the essence of the gospel in evangelism. Understanding the essence of the gospel will involve answering the following questions: Who is Jesus? What has He done? Why did He do it? How do we know? How are we to respond? Luke 24:45-48; 1 Cor. 15:1-8 Message-Applied. • Personally learn at least one evangelistic tool really well-to be able to communicate freely. • Who is Jesus? The Christ • What has He done? Died & rose again • Why did He do it? For forgiveness of sin
+We must master the message thoroughly. We need to always emphasize clear communication of the essence of the gospel in evangelism. Understanding the essence of the gospel will involve answering the following questions: Who is Jesus? What has He done? Why did He do it? How do we know? How are we to respond? Luke 24:45-48; 1 Cor. 15:1-8 Message-Applied.
+
+- Personally learn at least one evangelistic tool really well-to be able to communicate freely.
+- Who is Jesus? The Christ
+- What has He done? Died & rose again
+- Why did He do it? For forgiveness of sin
 
 ### The Relational Modes
 
-Modes-Defined. Modes are a possible, preferred or customary way of doing something. The evangelism modes recognize that there are different contexts or approaches by which people come to know the Savior: through the influence of a body of believers, through the influence of a believer or believers with whom they have had a personal relationship, and through the influence of an individual who had contact with them primarily through a ministry outreach. We must expand the modes fully to be truly effective. Modes-Applied. • Expand the prayer base for evangelism through: Encouraging outreach prayer by the entire movement. • Body-Life Witness: (The most powerful, the most limited, and critical for the movement as a whole.) We must be intentional about increasing the visibility of the movement to outsiders and adapting the culture of the movement to incorporate outsiders. • Natural Witness: (Historically expansive and potentially the most extensive.) We must be aware of our personal spheres of influence, intentional about building relationships with unbelievers, and increasingly sensitive to the spiritual process. • Ministry Witness: (Biblically common and culturally challenging.) We must be intentional about penetrating new sub-cultures and affinity groups and multiplying the number of exposures to the Gospel and biblical truth within each people group. • We must be intentional about thinking through how all three modes can operate simultaneously so that we can truly be an evangelistic movement.
+Modes-Defined. Modes are a possible, preferred or customary way of doing something. The evangelism modes recognize that there are different contexts or approaches by which people come to know the Savior: through the influence of a body of believers, through the influence of a believer or believers with whom they have had a personal relationship, and through the influence of an individual who had contact with them primarily through a ministry outreach. We must expand the modes fully to be truly effective. Modes-Applied.
+
+- Expand the prayer base for evangelism through: Encouraging outreach prayer by the entire movement.
+- Body-Life Witness: (The most powerful, the most limited, and critical for the movement as a whole.) We must be intentional about increasing the visibility of the movement to outsiders and adapting the culture of the movement to incorporate outsiders.
+- Natural Witness: (Historically expansive and potentially the most extensive.) We must be aware of our personal spheres of influence, intentional about building relationships with unbelievers, and increasingly sensitive to the spiritual process.
+- Ministry Witness: (Biblically common and culturally challenging.) We must be intentional about penetrating new sub-cultures and affinity groups and multiplying the number of exposures to the Gospel and biblical truth within each people group.
+- We must be intentional about thinking through how all three modes can operate simultaneously so that we can truly be an evangelistic movement.
 
 ### Means and Methods of Communication
 
@@ -55,7 +76,14 @@ Methods-Defined. We have numerous means available to communicate the unchanging 
 
 We must choose the means of evangelism carefully and apply the methods skillfully. The means and methods represent the specific strategies within a mode to get the gospel out to the masses. There are several types of means used to communicate the gospel: theological presentations, testimonial presentations, historical presentations, narrative presentations, and conversational presentations. The means and the methods must be sensitive to the spiritual process by thinking according to comprehensive evangelism and whether someone is near or far from the cross.
 
-Methods-Applied. • Learn to use at least one evangelistic tool really well so that you may be able to communicate in a very personal way to anyone who is willing to hear. • Be able and ready to articulate your life story of how you came to faith in Christ-this will afford you the best possibility of being able to “gossip the Gospel” whenever the opportunity arises. • Learn how to facilitate a focus group or some other type of evangelistic group dialogue with unbelievers. • Form an evangelistic team that will commit to and plan for ministering to an affi nity group together-employing all the facets of the model for effectiveness. • Utilize the comprehensive evangelism concept to broaden the means and methods to those near to the cross and to those far from the cross. • Pray continuously for God The Evangelism Model was developed by Keith Davy, the National Director of Research and Development for the Campus Ministry of Campus Crusade for Christ. [Attached are the notes for teaching the Evangelism Model] Communication the MESSENGERS Believers the MASSES World the MASTER God
+Methods-Applied.
+
+- Learn to use at least one evangelistic tool really well so that you may be able to communicate in a very personal way to anyone who is willing to hear.
+- Be able and ready to articulate your life story of how you came to faith in Christ-this will afford you the best possibility of being able to “gossip the Gospel” whenever the opportunity arises.
+- Learn how to facilitate a focus group or some other type of evangelistic group dialogue with unbelievers.
+- Form an evangelistic team that will commit to and plan for ministering to an affinity group together-employing all the facets of the model for effectiveness.
+- Utilize the comprehensive evangelism concept to broaden the means and methods to those near to the cross and to those far from the cross.
+- Pray continuously for God The Evangelism Model was developed by Keith Davy, the National Director of Research and Development for the Campus Ministry of Campus Crusade for Christ. [Attached are the notes for teaching the Evangelism Model] Communication the MESSENGERS Believers the MASSES World the MASTER God
 
 ## The Evangelism Model
 
@@ -71,7 +99,7 @@ Lifestyle Witness: The Samaritan Woman (John 4:28-30) Laborers: The 72 Disciples
 
 Communication the MESSENGERS Believers the MASTER God the MASSES World The Gospel Message The Essence of the Gospel (Compare 1 Corinthians 15:1-8 with Luke 24:45-48) The Fullness of the Gospel (Matthew, Mark, Luke, John, Luke 24:44 [Old Testament writings]; Romans [and New Testament Epistles])
 
-For a full exposition see: “The Gospel of Jesus Christ: An Evangelical Celebration” (in Christianity Today, June 14, 1999, pp. 51-56 or on the Web at http://www.christianity.net/ct/9T7/9T7049.html) The Communication Means Theologically framed presentations (Acts 2:14-39; Book of Romans) Life-story or testimonial presentations (John 4:28-30, 39-42; Acts 26) Historical narratives (Matthew, Mark, Luke, John, Acts 7; Acts 13:16-44) Philosophical arguments (Acts 17:22-31) Non-historical stories (The Parables; Mark 4:33-34) Guided conversations (John 3:1-21 ; John 4:7-26) The Relational Modes The Body Witness (Acts 2:42ff; John 13:34-35; 17:22-23; 1 Corinthians 11:26) The Natural Witness (John 1:40-51; 4:28-42; Luke 8:38-39; Colossians 4:5,6; 1 Pet. 3:15) The Ministry Witness (Mark 1:38, 39; Luke 9:1-66; 10:1-17, Acts 5:41-42; 8:5ff, 26ff; 11:19-21; 11:22-24; 13 and on) The Effective Methods The use of the agricultural cycle as a witnessing analogy: Cultivating – Planting – Watering - Reaping Cultivating: While plowing is not used biblically in witnessing contexts, preparing the land for planting was an assumed agricultural practice (see Luke 9:62) Planting & watering: 1 Corinthians 3:5-9 Planting & reaping: John 4:35-38 Reaping: Matthew 9:37, 38 Developed by Keith A. Davy, Research & Development, Campus Crusade for Christ. CMT 2000014 © 2000 WSN Press, Campus Crusade for Christ, Inc. Permission granted to reproduce in full for ministry purposes only. 2.
+For a full exposition see: “The Gospel of Jesus Christ: An Evangelical Celebration” (in Christianity Today, June 14, 1999, pp. 51-56 or on the Web at http://www.christianity.net/ct/9T7/9T7049.html) The Communication Means Theologically framed presentations (Acts 2:14-39; Book of Romans) Life-story or testimonial presentations (John 4:28-30, 39-42; Acts 26) Historical narratives (Matthew, Mark, Luke, John, Acts 7; Acts 13:16-44) Philosophical arguments (Acts 17:22-31) Non-historical stories (The Parables; Mark 4:33-34) Guided conversations (John 3:1-21 ; John 4:7-26) The Relational Modes The Body Witness (Acts 2:42ff; John 13:34-35; 17:22-23; 1 Corinthians 11:26) The Natural Witness (John 1:40-51; 4:28-42; Luke 8:38-39; Colossians 4:5,6; 1 Pet. 3:15) The Ministry Witness (Mark 1:38, 39; Luke 9:1-66; 10:1-17, Acts 5:41-42; 8:5ff, 26ff; 11:19-21; 11:22-24; 13 and on) The Effective Methods The use of the agricultural cycle as a witnessing analogy: Cultivating – Planting – Watering - Reaping Cultivating: While plowing is not used biblically in witnessing contexts, preparing the land for planting was an assumed agricultural practice (see Luke 9:62) Planting & watering: 1 Corinthians 3:5-9 Planting & reaping: John 4:35-38 Reaping: Matthew 9:37, 38 Developed by Keith A. Davy, Research & Development, Campus Crusade for Christ. CMT 2000014 © 2000 WSN Press, Campus Crusade for Christ, Inc. Permission granted to reproduce in full for ministry purposes only.
 
 ### The Master: God-Centered Evangelism
 
@@ -118,12 +146,6 @@ Our staff would love to have in their toolboxes an evangelism resource that woul
 ### The Modes: Relationships of Evangelism
 
 Personal Reflection In which context did you come to Christ?  Through the influence of a body of believers (at a local church, CCC meeting, Bible study, a Christian conference, etc.)?  Through the influence of a believer with whom you had a natural relationship (such as, a family member, friend, or acquaintance)?  Through the influence of an individual who had contact with you because they were involved in an outreach ministry activity? Discussion Which of the above three evangelism contexts does your ministry emphasize? Place them in order of emphasis?
-
-1.
-
-2.
-
-3.
 
 Which of the three evangelism contexts appears to be the most effective? Why? Biblical Principles The Relational Modes of Evangelism Mode: 1. A customary, preferred way of doing something; a mode of operation. (What is God’s customary or preferred way of reaching people for Christ?) 2. The way things are or exist; a mode of existence, such as a solid or liquid. (What is always true in God’s work in evangelism?) God always works through three primary relational modes in evangelism: Witness Through Body Relationships It is biblically important.  Acts 2:42-47  John 13:33, 34  John 17:22-23.
 

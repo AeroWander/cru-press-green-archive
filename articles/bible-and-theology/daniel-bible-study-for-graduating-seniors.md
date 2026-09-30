@@ -12,19 +12,15 @@ summary: "A Bible study and leader's guide on the book of Daniel from the InTran
 source: "Sending/Graduating Seniors/Daniel Study.pdf"
 ---
 
-### Intransition Groupzine Chapter Excerpt
+*Intransition Groupzine Chapter Excerpt*
 
 The InTransition Workbook/Magazine equips and prepares graduating seniors to transition to post-graduation life and make an impact for Christ in the world.
 
 Single life, finances, life-transitions, the will of God, a theology of work, evangelism in the real world: InTransition addresses all the critical issues of a successful transition from campus-a resource for the last and most neglected phase of campus discipleship.
 
-### Order Online at Crupress.com
-
-© 2010, CruPress, All Rights Reserved. CruPress.com
-
 ## Section Four the Office
 
-## INTRodUCTIon
+## Introduction
 
 The prophetic book of Daniel is the record of four Hebrews who were taken into captivity in Babylon after Nebuchadnezzar attacked Israel in 598 B.C. No older than college students at the beginning of their captivity, they were trained to serve in the palace of the king. “Ten times better than all the rest,” (Daniel 1:20) these four set themselves apart as different from the other captives and palace officials. Because of their walks with the Lord, their relationships with others in the palace, and their excellent work, they were able to draw praise to God—so much so that the wicked king of a pagan nation exclaimed, “How great are his signs, how mighty his wonders! His kingdom is an eternal kingdom; his dominion endures from generation to generation” (Daniel 4:3, NIV).
 
@@ -34,7 +30,7 @@ Now, there are three ways you can make use of this material. The first is as a s
 
 You could also use it as a personal Bible study or devotional. Read the chapter in Daniel and answer the study questions yourself. When you’re done, read over the notes for that chapter in the Daniel article. Or, last, simply read the article and ignore the questions. But if you really want to get the most out of it, when the article asks you to read the chapter in Daniel, read the chapter in Daniel.
 
-It doesn’t matter how you choose to study about this amazing man from history, as long as you do, for his life and ministry provide a template for the spiritual impact we all desire in our place of work. © 2010, CruPress, All Rights Reserved. CruPress.com
+It doesn’t matter how you choose to study about this amazing man from history, as long as you do, for his life and ministry provide a template for the spiritual impact we all desire in our place of work.
 
 By Tim Henderson DaNIEl 1: QualIFIEd TO SERve The book opens with a brief account of the Babylonian captivity. If you’d like to get a slightly broader context, read 2 Chronicles 36. The important thing to understand is that God was judging Judah, and allowing a wicked nation to subdue them, in response to years of sin and idolatry. This was warned of by the prophets repeatedly. Jeremiah predicted this coming judgment, and he also foretold that it would last for 70 years, at which time God would restore His people. It would be helpful for you to read Jeremiah 25:1-14 and 29:1-14 to see this. Walk with God. It was the custom of Babylon to take the best young men from conquered nations and train them to serve in the palace. Daniel, Hananiah, Mishael, and Azariah were among those chosen. As part of the training process, the Babylonians attempted to give them each a new name, language, culture, and diet. All of this they submitted to except for one element— the diet.
 
@@ -194,7 +190,7 @@ Read vERSES 29-45 11. According to Daniel, the four parts of the statue represen
 13. What do you observe about his relationships with others in the palace?
 14. What can you glean about his attitude toward work?
 15. Which of these three areas did you focus on this week? How did it go?
-16. Finally, notice the effect that the four are beginning to have on Nebuchadnezzar. What do you think he means in verse 47? Is he a worshiper of God? © 2010, CruPress, All Rights Reserved. CruPress.com
+16. Finally, notice the effect that the four are beginning to have on Nebuchadnezzar. What do you think he means in verse 47? Is he a worshiper of God?
 
 BIBle STUdy DaNIEl 3: yOU’RE FIREd!
 
@@ -239,7 +235,7 @@ Read DaNIEl 3:28-30.
 13. When have you forgotten what you know God has said? Read DaNIEl 4:34-37.
 14. Do you think Nebuchadnezzar will be in heaven? RevIEW THE FIRST FOUR CHapTERS OF DaNIEl.
 15. This incredible result did not come quickly but was the culminating effect of years of patient ministry. What were some of the turning points that brought Nebuchadnezzar to this expression of faith?
-16. What can you emulate from the life of Daniel that can set you up to be an effective minister of the gospel? © 2010, CruPress, All Rights Reserved. CruPress.com
+16. What can you emulate from the life of Daniel that can set you up to be an effective minister of the gospel?
 
 BIBle STUdy DaNIEl 5: HANDWRITING THAT NO ONE COUld REad 1. Much has changed since chapter 4. Scan chapter 5, looking for clues about the new setting. What do you see?
 
@@ -288,7 +284,7 @@ Notice how Darius describes God when he addresses Daniel in verses 16 and 20. Ho
 12. What, for the second time, is the result of Daniel’s great faith?
 13. What do you dream God will do through your life?
 14. Despite all that’s been said about ministry, what are the primary reasons we walk with God? Develop relationships? Pursue excellence?
-15. What do you need to do now, before graduating, to set your life on the right course? © 2010, CruPress, All Rights Reserved. CruPress.com
+15. What do you need to do now, before graduating, to set your life on the right course?
 
 ## Daniel Study
 
@@ -337,9 +333,9 @@ Notice how Darius describes God when he addresses Daniel in verses 16 and 20. Ho
 11. Babylon, Medo-Persia, Greece, Rome.
 12. Discuss. In verses 17-23, notice his dependence upon and gratitude toward the Lord. In verse 28, he refuses to steal glory from God. In verse 45, he again gives credit to the great God.
 13. Discuss. As in chapter 1, he interacts with other officials with wisdom and tact (verse 14). Also, evidence is building that he has become a friend of the king himself.
-14. Discuss. Throughout the entire chapter, Daniel is © 2010, CruPress, All Rights Reserved. CruPress.com
+14. Discuss. Throughout the entire chapter, Daniel is
 
-###  Daniel 4
+ Daniel 4
 
 1. It is a letter written by Nebuchadnezzar to all the inhabitants of the world.
 2. He is writing to declare the praises of God after God restored him to sanity.

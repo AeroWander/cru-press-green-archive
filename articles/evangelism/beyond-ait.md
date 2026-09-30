@@ -11,8 +11,6 @@ summary: "An apologetics article by Paul E. Little on the identity of Jesus, arg
 source: "Evangelism/apologetic/Beyond Blind Faith.pdf"
 ---
 
-## Paul E. Little
-
 It is impossible for us to know conclusively whether God exists and what He is like unless He takes the initiative and reveals Himself. We must know what He is like and His attitude toward us. Suppose we knew He existed, but that He was like Adolf Hitler -- capricious, vicious, prejudiced, and cruel. What a horrible realization that would be! question He put to those who followed Him was, “Who do you say I am?” When Peter answered and said, “You are the Christ, the Son of the living God” (Matthew 16:15-16), Jesus was not shocked, nor did He rebuke Peter. On the contrary, He commended him!
 
 We must scan the horizon of history to see if there is any clue to God’s revelation. There is one clear clue. In an obscure village in Palestine, almost 2,000 years ago, a Child was born in a stable. Today the entire world is still celebrating the birth of Jesus.

@@ -11,7 +11,7 @@ summary: "A Transferable Concept booklet by Bill Bright ('How to Study the Bible
 source: "Discipleship/Basic Growth Concepts/How to Study the Bible Effectively (Transferable Concept 11).pdf"
 ---
 
-## Dr. Bill Bright
+Dr. Bill Bright
 
 darkness. He knew if he lost sight of the stake—his reference point—he would quickly succumb to the ice and snow. But the fourth time, he walked right into the hut’s tunnel.
 
@@ -31,7 +31,7 @@ The Bible has had a greater influence on this world than any other book. Eightee
 
 Men and women by the millions, famous and unknown, have changed history because God used the Bible to change them. St. Augustine, Martin Luther, John Calvin, John Wesley, and many others depended on the Scripture to guide their lives, which in turn gave them power to influence the world in which they lived. Daniel Webster, politician and diplomat and one of our country’s greatest orators, said of the Bible, “I have read the Bible through many times, and now make it a practice to read it through once every year... It fits man for life—it prepares him for death.” Without some biblical teaching, no one could become a child of God. James writes, “In His goodness [God] chose to make us His own children by giving us His true word” (James 1:18). Think back to the day that you first received the simple message of God’s love and forgiveness. Which passages did God use to reveal Himself to you? Now consider how God has used His Word to influence your life since then. Psalm 19:7,8 says, “The law of the Lord is perfect, reviving the soul. The decrees of the Lord are trustworthy, making wise the simple. The commandments of the Lord are right, bringing joy to the heart. The commands of the Lord are clear, giving insight to life.” I would like to share with you several other reasons why the Bible is the most important book ever written and why it is so urgently important for us to read, study, memorize, and meditate on its truths.
 
-## The Bible Gives US Moral Moorings for Our Lives.
+## The Bible Gives Us Moral Moorings for Our Lives.
 
 Many years ago while I was a student at Fuller Theological Seminary, two gifted young evangelists spoke at our chapel program. Both believed and preached that the Bible was inspired in every word. Some time later, one of those men rejected the authority and integrity of God’s Word. As a result, he lost his moral standard on which to base his life and ministry. He divorced his wife, left the ministry, and eventually became an outspoken antagonist of the Christian faith.
 
@@ -51,11 +51,11 @@ All throughout school, while on the faculty of a major university, and as a busi
 
 I encourage you to make it your number one priority to get to know God—and to love Him with all your heart, soul, and mind (Matthew 22:37,38). Get to know what He thinks and how He acts. Knowing God intimately will change your life. When we read His Word and learn how much God loves and cares for us, we can trust Him with everything— our families, our possessions, and even with our own lives.
 
-## The Bible Gives the Most Reasonable Explanation of Creation and the Origin of Mankind.
+The Bible Gives the Most Reasonable Explanation of Creation and the Origin of Mankind.
 
 The Bible has the perfect explanation for the beginnings of all creation—an intelligent, powerful God who created everything with order and purpose (Genesis 1:1). Only a Being with supernatural power and unlimited ability could have fashioned something as intricate as a DNA molecule and as colossal as the Milky Way Galaxy. In fact, astronomers now believe that there are 100 billion galaxies. The Bible assures us that our great God and Savior created it all.
 
-## The Bible Explains the Reason for Human Suffering and Evil Behavior.
+The Bible Explains the Reason for Human Suffering and Evil Behavior.
 
 Have you ever wondered: Why is there so much human suffering? Why is there war and poverty? Many people blame God for these evils. But man, because he is self-centered and seeks his own way, creates wars and inhumanities. Sickness, death, earthquakes, tornadoes, and floods are part of God’s judgment for mankind’s sin.
 
@@ -75,7 +75,7 @@ The Word of God is our fuel, our food for growth in the Christian faith. When we
 
 Unless the Bible becomes the basis of our faith, we will be swayed by our experiences, which can be dangerous. Do not misunderstand me. There is nothing wrong with experiences, emotions, and dreams—if they are validated by Scripture. But beware of depending only on experiences to build your faith. The Word of God is our one sure foundation. Obeying God’s Word gives us assurance that what we are doing is right in God’s eyes.
 
-## Obedience to the Teaching and Commands of the Bible Results in Joy and Victory.
+Obedience to the Teaching and Commands of the Bible Results in Joy and Victory.
 
 A believer cannot walk in the fullness and power of the Holy Spirit and radiate the love of Christ unless he is spending time in God’s Word. But if he faithfully studies the Bible daily, he will avoid the emotional and spiritual problems that many believers experience and consider inevitable.
 
@@ -107,13 +107,13 @@ Getting to know God’s Word involves a plan for digging into God’s message to
 
 Build a plan for reading, memorizing, and studying the Bible into your schedule. Be flexible. Listen for the Holy Spirit’s prompting about your pace and method. Do not become discouraged if you fail to make your appointment with God one day. Good habits take work to develop. Ask God to give you the motivation to stay on course. Let me give you a few guidelines on how to proceed in each area.
 
-## Set Aside at Least 15 Minutes a Day for a Quiet Time with Our Lord.
+Set Aside at Least 15 Minutes a Day for a Quiet Time with Our Lord.
 
 The purpose of a quiet time is to enjoy the Lord and communicate with Him about every detail of your day. As we read a portion of Scripture and pray each day, we allow Him to speak to us in a personal way. Some believers like to read through a small portion of Scripture and meditate on it. Others like to use daily devotional helps. These usually have a short Bible passage and a brief reading to go along with the passage. Your local Christian bookstore contains a wide variety of devotional books, including ones specifically written for men, women, youth, or couples.
 
 Use a notebook to record insights from God’s Word, your prayer requests, praises to God, and thanks for answered prayer. For the last few minutes, just listen to God. Ask Him to speak to you through His Word. Think about what you have read and thank Him for what He has done for you.
 
-## Plan for About 15 Minutes a Day to Read Through the Bible in a Year.
+Plan for About 15 Minutes a Day to Read Through the Bible in a Year.
 
 One of the most important things a Christian can do to grow in Christ, walk in the Spirit, and be a fruitful witness is to read the Bible through every year. I recommend reading it from cover to cover. For many years I have read the entire Bible during a 12-month period. This has been one of the richest blessings of my life.
 
@@ -336,7 +336,7 @@ Everyone needs a balanced diet for good spiritual nourishment. You will probably
 
 I encourage you to persevere in your Bible study even when it becomes difficult. In a road trip, some stretches of highway will be difficult to travel. You may have to climb mountains or navigate through rainstorms. Other times you will get weary. But those times will fade in the joy of discovering something you have never before seen or experienced from the eternal realm of our God. I assure you that the trip through God’s Word will be more thrilling than any challenge you have ever undertaken!
 
-## Our Richest Treasure
+*Our Richest Treasure*
 
 Truly, the Bible is our richest treasure. We must not take it for granted. A few years ago when the former Soviet Union opened up to the gospel as the communist government collapsed, I met with one of the most influential generals in the Russian military. I had the incredible joy of giving him a Bible. He took the book with a sense of awe. He said slowly, “I have never had a Bible before. This is the first Bible I have ever held in my hand.” Can you imagine this commanding general, in the prime of his career, staring in wonder as he actually held God’s Word in his hands?
 

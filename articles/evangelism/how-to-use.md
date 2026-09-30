@@ -12,11 +12,9 @@ summary: "A how-to guide by Tanya Walker for using Soularium, a 50-image card de
 source: "Evangelism/outreach/How_To_Use_Soularium.pdf"
 ---
 
-## Tanya Walker
-
 I want to introduce you to a card game . . . While there are any number of ways to spark a spiritual discussion using Soularium, here is perhaps the simplest:
 
-## How to Introduce Soularium
+How to Introduce Soularium
 
 With someone you don’t know you might say: “I’m exploring how people on campus describe their life and spiritual journey through images. If I asked you a few questions would you be willing to tell me which images resonate with you?” With a friend you might say:
 
@@ -32,7 +30,7 @@ If they ask: Why are you doing this?
 
 ## The Process
 
-© 2010, CruPress, All Rights Reserved. CruPress.com After your introduction, hand the set of images to the person and ask the questions that come printed on the “Questions” card. Those questions are: telling me about your journey.”
+After your introduction, hand the set of images to the person and ask the questions that come printed on the “Questions” card. Those questions are: telling me about your journey.”
 
 “I was really intrigued when you said _______. Would you tell me more about that?”
 
@@ -63,4 +61,4 @@ When you finish asking the questions, thank them. If the Lord opens a door to fu
 
 Since the “official” questions are finished, you’ll simply want to ask permission to continue the conversation.
 
-“Well, that’s the end of the questions. Thanks for © 2010, CruPress, All Rights Reserved. CruPress.com
+“Well, that’s the end of the questions. Thanks for

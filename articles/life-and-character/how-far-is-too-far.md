@@ -11,8 +11,6 @@ summary: "A chapter excerpt by Rick James from 'Flesh' addressing how far physic
 source: "Building Community/Men and Women/Men/How Far Is Too Far.pdf"
 ---
 
-## Rick James
-
 For testosterone-enriched men, besides the issue of masturbation, there’s no bigger question than where the line is drawn on physical contact in a dating relationship. It’s usually asked just that way: “Where do you draw the line?” with the inference that if I’m not thrilled with your answer, I’ll get a second opinion. provided your Bible doesn’t translate the word “holy” as “French.”
 
 As infants, as children and as adults, physical contact is the primary way we show care, protection, affirmation, encouragement and love for each another. Where, after all, would sports be in America without the ubiquitous slap on the rear? This is the love language of athletic coaches. But I better keep writing and make my point before you stop reading and think you just got the green light to pat your girlfriend on the tush.
@@ -27,7 +25,7 @@ When I was discouraged after a miserable athletic performance, my father would o
 
 ## The Holy Kiss
 
-We would suggest the “Holy Kiss” principle on the physical dimension of your dating relationships, When we think of a physical standard for dating, it might be helpful to consider how we related to a brother or sister within our family: expressing affection without it ever being sexual in nature (never aimed at causing sexual arousal). This, then, is the principle of the “Holy Kiss.” We should not avoid all physical contact, because it’s completely alien to our humanity. However, the goal of such contact should be to express affection without causing sexual arousal. © 2010, CruPress, All Rights Reserved. CruPress.com
+We would suggest the “Holy Kiss” principle on the physical dimension of your dating relationships, When we think of a physical standard for dating, it might be helpful to consider how we related to a brother or sister within our family: expressing affection without it ever being sexual in nature (never aimed at causing sexual arousal). This, then, is the principle of the “Holy Kiss.” We should not avoid all physical contact, because it’s completely alien to our humanity. However, the goal of such contact should be to express affection without causing sexual arousal.
 
 ## Principles of the Holy Kiss
 
@@ -41,4 +39,4 @@ The standard of the “Holy Kiss” is not a standard of “how far can I get,�
 
 Think about your partner and what will arouse her. I saw one dating couple interacting before going into a social event. The woman was tucking in the front of the guy’s shirt. Four options: first, she knows she’s turning him on and is, therefore, sinning; second, this doesn’t turn him on, and therefore, the man is a eunuch; third, this turns him on, but he’s never communicated that it does; fourth, it was dark and I couldn’t tell that the woman was actually his mother. If it is a Christian relationship, I’m betting on the third option.
 
-Both are responsible for setting standards, and the stricter of the standards becomes your standard. Judith and Jack Balswick, in their book Authentic Human Sexuality, add this principle and the one that © 2010, CruPress, All Rights Reserved. CruPress.com
+Both are responsible for setting standards, and the stricter of the standards becomes your standard. Judith and Jack Balswick, in their book Authentic Human Sexuality, add this principle and the one that

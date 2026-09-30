@@ -11,8 +11,6 @@ summary: "An article by Keith Bubalo arguing that gospel proclamation must be pa
 source: "Sending/Missions/Good Words Good Deeds.pdf"
 ---
 
-## Keith Bubalo
-
 When the communists took over Russia in 1917, they did not make Christianity illegal. Their constitution, in fact, did guarantee freedom of religion. But what they did make illegal was for the church to do any ‘good works.’ No longer could the church fulfill its historic role in feeding the hungry, welcoming the stranger, housing the orphan, educating children or caring for the sick. What was the result? Seventy years later, the church was totally irrelevant to the communities in which it dwelt. What Lenin did by diabolic design, most churches have done by default. But the result is identical. Church is irrelevant to most people. Take away service and you take away the church’s power, influence, and evangelistic effectiveness. The power of the gospel is combining the life-changing message with selfless service. of the truth of the gospel, in stadiums around the word, by campaigns on television, and literature distribution and film. The gospel itself is the power of God for salvation to everyone who believes. If it is not “spoken” clearly it is hard to know what it is and what decision I need to make.
 
 It is important to keep preaching the gospel to all who will hear, by all sorts of means and methods. Often times Christians get into silly arguments about the best and worst ways of presenting the gospel. Their arguments are usually supported by making a straw man of one side and then knocking it apart ruthlessly to prove that their way of presenting the gospel is better, more relevant, clearer, and for all I know, vitamin fortified.

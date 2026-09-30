@@ -213,7 +213,7 @@ To think about Jesus came to help the “poor,” the “captive, the “blind,�
 
 ### Investigative Bible Studies
 
-## II. The Healer
+II. The Healer
 
  2004 Campus Crusade for Christ, Inc. Permission granted to copy for personal or ministry uses, In the first study, we saw that Jesus was not just an unusual person; He was God’s Son. He came into the world in order to meet the deepest needs of men and women. In this study, we will look at how Jesus met the needs of two particular people. Everywhere Jesus went, He came across needy people. Often, the people He met had incurable diseases, but He was able to change their lives completely by healing them.
 
@@ -241,7 +241,7 @@ To think about Zacchaeus was “captive” to his own greed. Jesus gave him free
 
 ### Investigative Bible Studies
 
-## III. The Teacher
+III. The Teacher
 
  2004 Campus Crusade for Christ, Inc. Permission granted to copy for personal or ministry uses, In the last study, we looked at “Jesus the Healer.” But people didn’t come just to be healed by Him; they also wanted to listen to Him. Large crowds from all over the country would come to hear what He had to say. He talked about: God’s Kingdom, prayer, wise and foolish lifestyles, love and forgiveness, and also Himself. Not everyone liked Jesus’ teaching. He was outspoken against the religious leaders who were hypocrites. He had enemies who tried to trick Him with questions, but He always managed to give wise answers. Even when the religious leaders wanted to kill Jesus, they found it hard because the crowds wanted to listen to His teaching, “not wanting to miss a single word” (Luke 19:48).
 
@@ -283,7 +283,7 @@ The next study will explain what Jesus did to make our return to God possible. �
 
 ### Investigative Bible Studies
 
-## IV. The Redeemer
+IV. The Redeemer
 
  2004 Campus Crusade for Christ, Inc. Permission granted to copy for personal or ministry uses, At the trial of Jesus it seemed that both the weak-willed Roman governor, Pilate, and the shouts of the crowd sent Jesus to death. In fact, the Bible tells us that these events amazingly formed part of Gods purpose.
 

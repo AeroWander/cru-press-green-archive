@@ -10,6 +10,6 @@ summary: "A promotional poster (tagline \"follow.\") inviting students to a casu
 source: "added/flyers/Cru Group Promo Posters/follow.pdf"
 ---
 
-## follow.
+## Follow.
 
 We get together, look at a book or passage of the New Testament, then try to hash it out— make sense of what it all means. We discuss, debate, agree, disagree: but always find a way to apply it personally. No requirements, but no cynics: we’re serious about pursuing a stronger more authentic faith—and you’re invited.

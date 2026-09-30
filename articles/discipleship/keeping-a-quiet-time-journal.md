@@ -11,8 +11,6 @@ summary: "An article by Dayle Rogers on the practice of journaling as part of a 
 source: "Discipleship/Basic Growth Concepts/Keeping a QT Journal.pdf"
 ---
 
-## Dayle Rogers
-
 When I was little, I was fascinated with the concept of cooking. My mother didn’t enjoy it, but my father loved nothing better than to experiment in the kitchen with new recipes and flavor combinations. The mixing of things together with the addition of heat and stirring could result in the most marvelous tastes. He would often let me help him, pouring in some of this, stirring some of that. He was very cautious when it came to heat; he constantly reminded me that I needed to keep my eye on whatever I was stirring and to be especially mindful of covered pots that were supposed to boil. the heat more closely so that we can diffuse problems before they boil over uncontrollably and we begin to spew words that are more hurtful than hot spaghetti sauce.
 
 As I helped him make spaghetti sauce one day, I became distracted by a book I was reading and didn’t pay attention to the sauce as it sat covered on the stove. Suddenly, I was being pelted by blobs of red sauce as the lid danced around the pot, spewing its contents as the steam periodically lifted the lid. Not thinking, I took the lid off, and the spaghetti sauce began bubbling over everywhere, making a mess on the stove and burning me in the process. A painful, but well-remembered object lesson.

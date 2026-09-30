@@ -10,7 +10,7 @@ summary: "A practical guide for small-group leaders on how to lead a Cru.Comm Bi
 source: "Sending/Missions/Leading a Study.pdf"
 ---
 
-## Cru/justice Studies
+Cru/justice Studies
 
 community. Similarly, evangelism strategies would likely not fit in with the realities and plans already in place on your campus. It’s up to you, locally, to interact with your group, spending time together to build relationships, and to figure out how you can best make the gospel known.
 

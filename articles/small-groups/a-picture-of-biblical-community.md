@@ -24,7 +24,7 @@ Now, does this sound like your experience of Christian followship? Gladness, sin
 
 ## Fellowship and Breaking Bread Together
 
-A second commitment foundational to community is a commitment to fellowship. This commitment means a lot more than just showing up at Bible study once a week. A devotion to fellowship requires us to be a meaningful part of other Christian’s lives. While we certainly should have non- Christian friends, there’s something wrong if most of our closest friends aren’t other Christians. As we see in the example from Acts, fellowship doesn’t happen accidentally. Sharing meals together, giving generously of our possessions, visiting other Christians where they live, is the result of intentional planning. Without intentionally spending timetogether, and a conscious commitment to fellowship,community will never happen.
+A second commitment foundational to community is a commitment to fellowship. This commitment means a lot more than just showing up at Bible study once a week. A devotion to fellowship requires us to be a meaningful part of other Christian’s lives. While we certainly should have non-Christian friends, there’s something wrong if most of our closest friends aren’t other Christians. As we see in the example from Acts, fellowship doesn’t happen accidentally. Sharing meals together, giving generously of our possessions, visiting other Christians where they live, is the result of intentional planning. Without intentionally spending timetogether, and a conscious commitment to fellowship,community will never happen.
 
 ## Continuing in One Mind
 

@@ -13,4 +13,4 @@ source: "Launching a New Ministry/Building a Movement/Ending Well.pdf"
 
 ## Step Ten Ending Well Ending Sleepy
 
-Well, it’s been a long year. If your schedule permits you want to eat for the next week, store the calories in a nice warm layar of fat, and hibernate until July. Good Night. © 2010, CruPress, All Rights Reserved. CruPress.com
+Well, it’s been a long year. If your schedule permits you want to eat for the next week, store the calories in a nice warm layar of fat, and hibernate until July. Good Night.

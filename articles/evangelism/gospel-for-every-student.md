@@ -11,11 +11,11 @@ summary: "An overview article (Spring 2010) describing Cru's Gospel for Every St
 source: "added/Gospel For Every Student.pdf"
 ---
 
-## GFES 2010-11 THE EVANGELISm mODEL
+GFES 2010-11 THE EVANGELISm mODEL
 
 GETTING BIBLICAL ABOUT EVANGELISM Built around The Evangelism Model, this study guides the user through 14 key Bible passages, leading to the discovery of evangelism principles about: The Master; The Masses; The Messengers; The Message; and The Methods.
 
-The Campus Ministry has one strategic focus: Win- Build-Send in the power of the Holy Spirit in order to fulfill our Missional Objectives (i.e., Leaders; Teams; Mobilized Laborers; Gospel Experiences; Changed Lives). This strategy is employed with students and faculty, on campuses, among ethnics and in cities throughout the US and the world. The Gospel for Every Student (GFES) initiatives align our evangelistic resources (tools, tactics, training and money) to serve our Missional Teams as they lead evangelistic movements they lead. The vision is to help provide each person within a team’s scope multiple opportunities to hear, understand and respond to the gospel.
+The Campus Ministry has one strategic focus: Win-Build-Send in the power of the Holy Spirit in order to fulfill our Missional Objectives (i.e., Leaders; Teams; Mobilized Laborers; Gospel Experiences; Changed Lives). This strategy is employed with students and faculty, on campuses, among ethnics and in cities throughout the US and the world. The Gospel for Every Student (GFES) initiatives align our evangelistic resources (tools, tactics, training and money) to serve our Missional Teams as they lead evangelistic movements they lead. The vision is to help provide each person within a team’s scope multiple opportunities to hear, understand and respond to the gospel.
 
 God: Evangelism is first & foremost a work of God. Therefore, a leader must learn to discern and align to what God is doing in their context.
 
@@ -37,13 +37,13 @@ A student devotional with key passages on evangelism and filled with inspiration
 
 COJOURNERS TRAINING NOTES A one-time CoJourner overview and a five-session CoJourner training is available for download, along with powerpoint: www.CoJourners.com
 
-## 2. EQUIPPING FOR GOSPEL CONVERSATIONS CoJOURNERS
+## 2. Equipping for Gospel Conversations Cojourners
 
 Our bread and butter evangelism continues to be a gospel conversation between an equipped believer and an open student or faculty member. CoJourners is our equipping paradigm to teach believers to conversationally enter the spiritual journey of others, helping them come to Christ. CoJourners teaches evangelism through four primary roles:
 
 CONVERSATIONAL BARRIERS We are in the process of producing a three part video series to equip students in the three conversational barriers: moving from general conversation to spiritual conversation; moving from spiritual conversation to the gospel; moving from the gospel to a call for decision. For additional information contact neil.downey@uscm.org The Explorer: Initiating spiritual conversations, the believer discovers the spiritual journeys of others through active listening and asking questions. OVERFLOWTODAY Joseph Hanford has produced 5-minute podcasts extracting key insights from top books on evangelism. OverflowToday provides excellent resources for further training and development in evangelism. www.overflowtoday.com/ The Guide: The believer guides another to faith in Christ through their own life-story and the gospel.
 
-## 3. COmmUNICATING CONVERSATIONALLY
+## 3. Communicating Conversationally
 
 The Builder: There are many issues and obstacles that can hinder those yet to come to Christ that need addressed through prayer and gentle persuasion.
 
@@ -72,7 +72,7 @@ If the answer is yes, show them the Backstory booklet and say: “This is called
 Then turn two pages, and read aloud in its entirety the page that begins: “There are seven billion people in the world.”
 
 1. Read aloud the black pages, beginning with the white text (the summary statements), followed by the gold text (the Bible passages). To make things more interactive, you could ask them to read portions of the text.
-2. To facilitate discussion of the content on the black pages, use the questions (Q///) and other content on the opposing white pages. Besides listening well to their answers, feel free to share your answers as well. It is a conversation after all!
+2. To facilitate discussion of the content on the black pages, use the questions (Q ) and other content on the opposing white pages. Besides listening well to their answers, feel free to share your answers as well. It is a conversation after all!
 3. Use the gold strip background content sparingly. Encourage them to read this later.
 4. When you get to point “07 Reunion,” be sure to cover the “Your Thoughts?” section carefully. It is important for them to consider the questions: “Is it true?” and “Do you need Jesus?” If they believe it is true, and if they express that they need Jesus, then go on to the next page.
 5. Read the “End of Story, Or Beginning?” page (except the gold headings) and pause after asking: “Does this prayer express the desire of your heart?” If yes, ask if they’d like to pray the prayer right then (silently or out loud). If not, keep talking / explore why / give them the booklet.
@@ -87,7 +87,7 @@ Students email us personal, honest questions in their search for God, and each r
 
 The site is now in 25 languages, and still building. For more information: Marilyn.Adamson@uscm.org http://everystudentpromotion.com/ MEETTHEPROF.COM A faculty-oriented outreach is taking shape at: Local professors can create their own profile, tell their story and direct students to their page as a means of witness. Meettheprof.com is still in the development stage, as they need to populate the site with a growing number of professors (initial critical mass) before the public push. For more information contact: Steve.Pogue@facultycommons.org
 
-## GOSPEL-bEARING GIFTS
+## Gospel-bearing Gifts
 
 FSKS Combine the universal love of free stuff with our desire to tell others about Jesus. Last year, over 35,000 FSKs, containing evangelistic materials and novelty items, were shipped to campus ministry teams across the nation. More than 1 million Freshman Survival Kits (FSKs) containing Bibles, books, water bottles, highlighters, and a downloadable music card packaged in a laundry bag have been distributed on campuses since 1996. fsk.campuscrusadeforchrist.com For more information: Jane.Stump@uscm.org GREEK/STUDENT PLANNERS Planners are most effective when used in conjunction with a training meeting (team meeting) for a residence hall, fraternity meeting, athletic team or group of students from a university club. There are articles included in the planner covering areas of life such as financial (debt, credit cards), physical (eating disorders, nutrition, working out), intellectual (study skills, time management), spiritual (Gospel, John, personal stories), and relational (making friends, sex and love, dates, cheap dates). Time management seminars are a high need for freshmen and a great way to offer the planners in follow up for students that would like to meet to have a personal coaching appointment in scheduling their lives according to their priorities. cccplanners.com/
 

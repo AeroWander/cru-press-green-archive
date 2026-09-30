@@ -17,9 +17,7 @@ But it is more than a book on prayer. It is a book of stories; stories of great 
 
 This is not simply a reprint of an old classic. Fireseeds has been updated and expanded to include recent accounts of student revivals as well as stories from around the world and not simply the U.S. The new Fireseeds also recounts the contribution of women to these revivals as they are often overshadowed, and contains an additional chapter on the filling of the Spirit (including the Satisfied Prayer Experience). Last, the revised version opens with a foreword by Mark Gauthier, and a vision to trust God for movements everywhere. FIRESEEDS OF SPIRITUAL AWAKENING
 
-## Order Online at Crupress.com
-
-## the power of fervent prayer
+the power of fervent prayer
 
 “Through prayer, God has given us the privilege of being used by Him to help change the lives of men and nations. God has made available to us a vast reservoir of power, wisdom, and grace beyond words to define, if only we are willing to believe Him and claim His promises.”
 

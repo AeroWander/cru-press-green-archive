@@ -15,9 +15,7 @@ A comprehensive resource to help guide the process of discerning one’s Call to
 
 The CD contains: vision and eternal perspective talks (MP3’s) from speakers like Roger Hershey and Tim Muehlhoff, a spiritual gift test, spiritual preparation for the marketplace, articles on Missions, the Great Commission and Calling (including 4 articles from Os Guinness’ book The Call), Bible studies for graduating seniors, resources on seminary, discerning God’s will, and the missionary significance of the college campus. Also included are the 3 Campus Crusade promotional videos.
 
-## Order Online at Crupress.com
-
-## after Bethlehem this is arguabley the most significant location in the history of [the church]
+after Bethlehem this is arguabley the most significant location in the history of [the church]
 
 A Place of Destiny “There has been at times a deep and solemn thoughtfulness among the students at the State University …under the influence of the Holy Spirit…banishing the last remains of skepticism.”
 
@@ -33,7 +31,7 @@ Seeing God’s hand at work, Wilder spent the next year feverishly traveling to 
 
 But the history of God using college students and the University goes back much further, threading through the great spiritual revivals of the nineteenth and eighteenth century, and back to the Protestant Reformation which was launched at the University of Wittenberg and nurtured on the campuses of Paris, Toulouse, and Basel. The fact is, no one thought up the strategy of fulfilling the Great Commission by reaching the college campus. Campus ministry is the result of the observation that God has chosen to use the university and college students as His primary vehicle in accelerating the evangelism of the world. To be involved in campus ministry is to be involved in God’s primary missions strategy.
 
-## Old enough to vote [And not simply for the next President]
+Old enough to vote [And not simply for the next President]
 
 A Time of Decision It’s March 1991 and a Finnish student at the University of Helsinki, looks like he hasn’t slept in months. He hasn’t. Night and day for six months he’s been designing a new operating system that, unlike Windows, never crashes. He now has a major choice: who to sell his system to? Only he doesn’t make that choice at all, instead Linus Torvalds chooses to give his creation away, and in the same moment revolutionizes not only the field of technology, but economics as well. Between the years of enrollment and graduation, students will wrestle with most all of life’s major choices and, for bad or good, come to decisions. The choices they make will not only shape themselves, but contour the world we live in, as the decisions made during these critical 4 years, will set the trajectory for the next 60. Decisions about lifestyles: to drink, to have sex or abstain, to binge—purge, indulge, experiment. Decisions about career: selecting majors—changing majors, graduate schools, internships, choosing employers, locating in cities.
 
@@ -45,7 +43,7 @@ Well, here I sit having had not one but two abortions. And yes, after my first o
 
 This, then, is the time in which they must be reached with the gospel. Campus ministry strategically targets this age group because this is the time of spiritual decision-making. It is also a remarkable thing to consider that when a student decides to follow Christ it will effect the decisions they make for the rest of their life—no major decision will ever be the same.
 
-## As it turns out [College really is the answer to the world’s problems]
+As it turns out [College really is the answer to the world’s problems]
 
 The strategy of reaching the world If you were to ask any missionary what is the most needed resource to fulfill the great commission and take the gospel to the world their answer, almost unanimously, would be: people. The greatest need in the expansion of the gospel is for laborers.
 
@@ -57,7 +55,7 @@ Now add to this another open door provided by student ministries. There are coun
 
 So a group of students, free of commitments for several months, can go into a closed country with their student visas, they can share Christ without a language barrier, and when they leave some members of the team can remain behind continuing there studies on campus and nurturing the ministry that was planted over the summer. What you have is a seamless missionary strategy to reach the world, and an army of volunteers to help fulfill the Great Commission.
 
-## No one graduates more people each year [into lowwer paying, highly dangerous, under appreciated jobs)
+No one graduates more people each year [into lowwer paying, highly dangerous, under appreciated jobs)
 
 A Time of Calling Pastors serving Christ under communism, church planters in South America, evangelists in Asia, missionaries to the Muslim world: trace back the spiritual journey of today’s most influential Christian leaders and you’ll find that many of them, most of them, came from the campus ministry. They were involved in a campus movement just like the one you’re in (perhaps from your campus), which led them to a vocational choice of full-time ministry.
 
@@ -69,7 +67,7 @@ Consider for example Roger Hershey, former Campus Director of Miami of Ohio: on 
 
 The campus ministry has and continues to hold the answer to Jesus prayer that God would “send out workers into his harvest field.”
 
-## you say you want a [revolution]
+you say you want a [revolution]
 
 A Voice of Change In a recent book analyzing the way ideas and communications spread (The Tipping Point), Malcom Gladwell gives the following example:
 
@@ -83,7 +81,7 @@ Gladwell asks and answers the question “how did this happen?” The answer is 
 
 But it’s not just fashion, a simple survey of some of the most significant trends and shifts in the realm of ideas, art, music, politics (the 60’s for example), and religion, seem to point back to handful of college students who were able to take an idea and spread it globally, making the world stand up and take notice. Perhaps it’s the age, perhaps it’s the zeal or network of relationships, but whatever it is, college students are the ideal carriers of a message. Which is why the motto of Campus Crusade has always been “Reach the campus today, and you’ll reach the world tomorrow.” The belief has been, and still is, that if students take seriously the command of Christ to take the gospel to all nations, unlike any other group of people, they have the capacity to accomplish the task.
 
-## She ain’t Mother Teresa [wait, maybe she is]
+## She ain’t Mother Teresa [wait, maybe she is
 
 A People of Influence meaning of life:
 
@@ -103,7 +101,7 @@ In October of 1835 Karl Marx shows up at Bonn University, joins the “Young Heg
 
 This is our great hope in targeting the college campus with the gospel.
 
-## Each year millions volunteer their time to meet one critical need [their own]
+Each year millions volunteer their time to meet one critical need [their own]
 
 A Cause Worth Serving As legend has it, Apple Computers were started in the 1970’s by two guys, Steve Woz and Steve Jobs, working in a garage. (Though such grassroots beginnings seem to be a universal claim by all technology companies, in this case it was actually true.) Steve Woz was the technical genius, Jobs the visionary. Jobs had a vision of literally changing the world with what he considered “Insanely great” computers.
 

@@ -15,8 +15,6 @@ MISSIONAL MAP 1
 
 ## Missional Map "How-to" Guide
 
-### Demarick Patton
-
 same names.) Spend some time praying as a group for one another and that God would lead the team to the mission He has for them.
 
 Second: Use the questions on the left side to aid in identifying the people group that God is sending the missional team to engage. This process may take an hour or a few days dependent upon the group and how God leads you. Encourage everyone to take notes from the discussion.
@@ -33,19 +31,19 @@ It should be expected however, that God would lead people across a team’s path
 
 First: Have the missional team you are on and/ or coaching,;; write their names in the team slot. (Everyone fills out their own writing down all the Finally: Use the continuum to chart the progress of each person on the list as they journey towards Christ. As you observe a person take the next step, write in the date by their name, and praise God that they are a step closer to following Jesus! (Of course it is possible for a person to backtrack; keep praying for them.) The continuum of course does not end here, but on this map, there is no room to display ‘the continuum of maturity in Christ’.
 
-WHO? Trust Me/Us? Growing Curiosity? open to change? seeking God? Following Jesus? (DATE) (DATE) (DATE) (DATE) (DATE) MISSIONAL TEAM Launch DATE: 1. 5. 2. 6.
+WHO? Trust Me/Us? Growing Curiosity? open to change? seeking God? Following Jesus? (DATE) (DATE) (DATE) (DATE) (DATE) MISSIONAL TEAM Launch DATE: 1.
 
-## [ ] [ ]OuR TEAM [IF IN A SMALL GROUP, GO MISSIONAL TOGETHER]
+[ ] [ ]OuR TEAM [IF IN A SMALL GROUP, GO MISSIONAL TOGETHER]
 
 ### OUR TEAM’s
 
 ## MAP
 
-### 3. 7. Approx. Landing Date: 4. 8.
+3. 7. Approx. Landing Date: 4.
 
 Identifying the people He is sending us to...Pray and be filled with God’s Spirit and ask
 
-### THE POSTMODERN SOJOURNER’S CONTINUUM Created for the purpose of journeying others to the Kingdom.
+THE POSTMODERN SOJOURNER’S CONTINUUM Created for the purpose of journeying others to the Kingdom.
 
 Him to lead you to the people He has on your journey.
 
@@ -57,14 +55,14 @@ some other group?
 
 2. Who has God already placed in our path, in our care, or on our hearts?
 
-### ?’s to consider as we begin 3. 4. 5. 6.
+?’s to consider as we begin 3.
 
 1. When will we pray for these people?
 2. How will we bless these people?
 3. What do we need for our “missionary journey?”
 4. When will we meet to regularly discuss our mission?
 
-### ONGOING ?’s TO CONSIDER 7. 8. 9. 10. 11. 12.
+### Ongoing ?’s TO Consider 7. 8. 9. 10. 11. 12.
 
 1.What are the troubles we can come alongside them in?
 
@@ -76,11 +74,11 @@ some other group?
 
 community?
 
-### 19. “just as the father sent me, I am sending you.” -John 20:21 20. THE POSTMODERN SOJOURNER'S CONTINUUM DEFINITIONS
+19. “just as the father sent me, I am sending you.” -John 20:21 20. THE POSTMODERN SOJOURNER'S CONTINUUM DEFINITIONS
 
 Trust Me/Us” signifies that this person genuinely trusts one of us as a friend and is willing to engage and be engaged.
 
-“Growing Curiosity” indicates that this person is opening their eyes and mind to the possibility of some- thing beyond themselves and their worldview. They may ask a few spiritual questions here. Don’t pounce prematurely. Ask them questions in return. “Open to change” means this person is indicating that they would be willing to change their mind, habits, beliefs, attitudes, etc. They may not change anything, but you will see them ascent to the possibility of some changes.
+“Growing Curiosity” indicates that this person is opening their eyes and mind to the possibility of something beyond themselves and their worldview. They may ask a few spiritual questions here. Don’t pounce prematurely. Ask them questions in return. “Open to change” means this person is indicating that they would be willing to change their mind, habits, beliefs, attitudes, etc. They may not change anything, but you will see them ascent to the possibility of some changes.
 
 “Seeking God” indicates that this person is looking into what Christ and His message of the Kingdom offers. They will be engaging with you on biblical discussions. Key idea: The conversation is not one-sided.
 

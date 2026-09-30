@@ -38,7 +38,12 @@ In addition to the cost that is already listed for the project, students are abl
 
 Each student on summer project has the opportunity to grow their faith by trusting God to provide the financial resources needed to attend summer project. We will provide great resources to help your student learn how to invite others to partner with them this summer by giving financially and praying for them. Every one of our staff members in the world is responsible for building a team of ministry partners and God has provided for each of these as well as for the 50,000 plus students who have gone with us the past 41 summers.
 
-When calling please be ready to give the following info: • Your name and your student’s name • Area of world and location of the project • Ministry their project is with (Campus Ministry, AIA, Student Venture, Jesus Film, etc.) • How to contact you Are all donations tax deductible?
+When calling please be ready to give the following info:
+
+- Your name and your student’s name
+- Area of world and location of the project
+- Ministry their project is with (Campus Ministry, AIA, Student Venture, Jesus Film, etc.)
+- How to contact you Are all donations tax deductible?
 
 Campus Crusade for Christ is a charter member of the Evangelical Council for Financial Accountability and is registered with the IRS as a 501(c) (3) nonprofit organization, making all donations to the ministry tax-deductible. In order to receive a tax deduction, the IRS requires donors to release to Campus Crusade for Christ the control of how their donations are spent. This means all contributions raised for mission trips must be payable to Campus Crusade for Christ in order to receive a tax deduction.
 

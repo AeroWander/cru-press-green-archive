@@ -10,7 +10,7 @@ summary: "A brief promotional description of a free email Bible study on the Gos
 source: "Discipleship/How to Disciple Others/Gospel of John Over Email.pdf"
 ---
 
-## Startingwithgod.com
+Startingwithgod.com
 
 The Bible study e-mails can be discontinued at anytime. Just unsubscribe at the bottom of any email. Email addresses are never sold or shared with anyone. Ever.
 

@@ -11,8 +11,6 @@ summary: "An article by Rick James arguing that courage has disappeared from Chr
 source: "Discipleship/Mature Teaching/The Desperate Need For Courage.pdf"
 ---
 
-## Rick James
-
 “Mike and two teammates had taken position on the outcropping of a rooftop when an insurgent grenade bounced off Mike’s chest and landed on the roof. Mike had a clear chance to escape, but he realized that the other two SEALs did not. In that terrible moment, he had two options—to save himself, or to save his friends. For Mike, this was no choice at all. He threw himself onto the grenade, and absorbed the blast with his body,” President Bush said. “One of the survivors put it this way: ‘Mikey looked death in the face that day and said, You cannot take my brothers. I will go in their stead.’”
 
 In April of 2008, President Bush awarded the Medal of Honor posthumously to a Navy SEAL by the name of Michael Monsoor; Monsoor had been killed in Iraq in September of 2006. Beneath his shirt, George Bush wore a gold replica of Monsoor’s dog tags and as he brought Monsoor’s parents to stand beside him, Bush could hardly hold himself together as he struggled against tears to get out these words:

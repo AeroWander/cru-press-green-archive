@@ -17,8 +17,6 @@ Like its male counterpart, Flesh, Fantasy is divided into three sections: small 
 
 Partial List of Topics: Masturbation, How Far is Too Far, The Role of Fathers, Confession-Forgiveness, Community, Filling of the Spirit, Cosmetic Surgery, Worship, Singleness, Faith, Homosexuality, Why Wait?, Body/Self Image, and Pornography. Contributions by Henry Cloud and Shellie R. Warren
 
-## Order Online at Crupress.com
-
 ## Why Should You?
 
 Because it’s a natural part of being human. Because it’s part of who I am, and I need to explore and express my sexuality.
@@ -53,7 +51,7 @@ Between the ages of thirteen and twenty-three, the average person sees about a h
 
 For women, there is something in us that wants to be Paris Hilton (okay, maybe not her, exactly, but at least Jennifer Aniston, Lindsay Lohan, or the like), something that wants to be that sexy and desirable, to be that sought after, to be that ideal beauty. I think one of the best ways to explain the difference between men and women and our sexual desires is to say that when men look at a steamy sex scene in a movie they want the woman; when women see such a scene, it’s not so much that we want the guy as much as we want to be that woman. We want to be wanted and known, physically and emotionally. Not to mention the time-honored truth that girls do just want to have fun. And if that means we have to look like that or act like that to get what we want, then all right. That seems to be the ticket, according to the wisdom of the world.
 
-034 Why Should You? © 2010, CruPress, All Rights Reserved. CruPress.com The World Health Organization estimates that there are 100 million sex acts performed worldwide every day. That seems like a whole lot of somethin’ goin’ on. I know you’re thinking it, so let me do the math for you. There are 6.2 billion people in the world. Divide that by … that’s actually only about 2 percent of people having sex every day. So, really, not so much is goin’ on as one might think. (Though I’m sure a good part of that 2 percent is goin’ on on your college campus.)
+034 Why Should You? The World Health Organization estimates that there are 100 million sex acts performed worldwide every day. That seems like a whole lot of somethin’ goin’ on. I know you’re thinking it, so let me do the math for you. There are 6.2 billion people in the world. Divide that by … that’s actually only about 2 percent of people having sex every day. So, really, not so much is goin’ on as one might think. (Though I’m sure a good part of that 2 percent is goin’ on on your college campus.)
 
 Regardless of participation, sex seems to consume a lot of people’s brain energy—apparently guys think about sex every seven seconds or some preposterous statistic like that. (If that’s actually true, how does anything ever get done in this world? I mean, really … seven seconds?!) People are driven by it, pay for it, sacrifice for it, are controlled by it, even kill for it. Wars have even been started over it. (Granted, not your major world wars, more like tribal disputes and such—but wars nonetheless.)
 
@@ -93,7 +91,7 @@ All good thoughts and valid motivations. Hopefully, the desires and consequences
 
 Sailing—now, there’s an overused metaphor. But let’s go with it, for lack of anything else coming to mind at the moment. If motivation is the wind in your sails, the power to make you move, then conviction is the rudder. Conviction determines the direction you’re headed in. As long as you’re headed in the right direction, motivations will keep you moving forward. In this case your convictions need to be about the character and nature of God and who you are in relation to Him.
 
-036 Why Should You? © 2010, CruPress, All Rights Reserved. CruPress.com Could you say no … Because you love God?
+036 Why Should You? Could you say no … Because you love God?
 
 Because you know God loves you and that’s enough?
 
@@ -109,6 +107,6 @@ Because you value His glory above your own pleasure?
 
 Those are some hard questions. For most of you, I’m guessing some days you may be close to answering yes to a few of those questions, or at least admitting that’s where you want to be. I’m certainly not always there myself. It’s a process. Hopefully, this book is going to start you down the road to getting there.
 
-Peter writes that we have all we need to live a life of godliness.1 I take that to mean that there is suffi cient wisdom, encouragement, warning, and power in the Scriptures—if unearthed, if explained and applied—to accomplish the goal of motivation and conviction by the power of the Spirit that dwells within us. If that’s true, and yet people who claim to be Christ-followers continue to make poor choices, that implies one of three things—either they honestly couldn’t care less (which raises all sorts of other questions) or they do not have a clear understanding of God’s love for them or they’ve just never had a clear explanation of how these principles apply to their life. I’m going to assume one of the latter and move ahead with great anticipation and expectation of the scripture’s and the Spirit’s work in your life.
+Peter writes that we have all we need to live a life of godliness.1 I take that to mean that there is sufficient wisdom, encouragement, warning, and power in the Scriptures—if unearthed, if explained and applied—to accomplish the goal of motivation and conviction by the power of the Spirit that dwells within us. If that’s true, and yet people who claim to be Christ-followers continue to make poor choices, that implies one of three things—either they honestly couldn’t care less (which raises all sorts of other questions) or they do not have a clear understanding of God’s love for them or they’ve just never had a clear explanation of how these principles apply to their life. I’m going to assume one of the latter and move ahead with great anticipation and expectation of the scripture’s and the Spirit’s work in your life.
 
 1 2 Peter 1:3 Why Should You?

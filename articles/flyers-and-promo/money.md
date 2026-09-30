@@ -10,7 +10,7 @@ summary: "A weekly-meeting invitation poster contrasting money and wealth, quoti
 source: "Small Groups and Meetings/Posters and Publicity copy/Weekly Meeting Posters —Abundant Life/Abundant Life 3.pdf"
 ---
 
-## WEALTH Wealth
+## WEALTH
 
 ## CRU.
 

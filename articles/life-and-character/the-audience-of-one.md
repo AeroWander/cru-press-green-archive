@@ -10,7 +10,7 @@ summary: "An excerpt from Os Guinness's The Call arguing that Christians should 
 source: "Sending/Graduating Seniors/The Audience of One.pdf"
 ---
 
-## Os Guinness
+*Os Guinness*
 
 A The preceding story, which is told so well in Joseph Frazier Wall’s biography Andrew Carnegie, highlights a vital point for understanding calling. When we discuss our plans and endeavors, we automatically think of notions like “aims,” “ambition,” “achievements,” assessment,” and so on. But we often overlook the vital part of “audience.” he numbers the very hairs of his followers’ heads. Contrary to the universal human desire to parade virtue and to give in order to be recognized and honored, Jesus required that our good deeds be secret. “Then your Father, who sees what is done in secret, will reward you.”
 

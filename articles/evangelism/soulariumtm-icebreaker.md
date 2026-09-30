@@ -32,7 +32,7 @@ INTRODUCE THE QUESTIONS “In a moment, you will be reflecting on four questions
 
 Ideally, one Soularium™ deck for every two or three participants, but at minimum provide one. “Consider the following way of thinking about your story. Imagine your life right now as the final scene of a movie. If you were to choose three frames from this movie (known as your life) to summarize what has brought you to where you are spiritually, which three frames would you choose?”
 
-Find more Soularium™ resources here: http://crupressgreen.com/soularium ©2013 CruPress. All rights reserved.
+Find more Soularium™ resources here: http://crupressgreen.com/soularium All rights reserved.
 
 ASK THE THREE SOULARIUM™ QUESTIONS:
 
@@ -42,7 +42,7 @@ ASK THE THREE SOULARIUM™ QUESTIONS:
 
 Quite simply, how you train others matters. Consider this: The purpose of Soularium is not “to get to the gospel”.
 
-## The Heart of Soularium
+The Heart of Soularium
 
 Soularium is designed to help us genuinely and sincerely explore and understand another person’s story.
 
@@ -122,7 +122,7 @@ SPEAKER’S FORUM US Campus Ministry “Speaker Events” help accelerate the mi
 
 E2 FORUMS: EXECUTIVE AND ENTREPRENEURIAL LEADERSHIP TEAM MEETINGS For Greeks, check out Greekmovement.com.
 
-## Sharing the Gospel Online
+Sharing the Gospel Online
 
 EVERYSTUDENT.COM Everystudent.com gives the opportunity to make the gospel “findable” to many who are searching for God. Steve.Pogue@facultycommons.org
 

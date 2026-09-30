@@ -35,7 +35,7 @@ Personal Discipleship...........................................................
 
 Todd Pastor .................................................................................................. 125-‐134
 
-### Introduction LORD, WORD WORLD
+### Introduction Lord, Word World
 
 sixty-‐five sat huddled together poorly lit, cold room affectionately called “Lighthouse”. called “Lighthouse” small bungalow Tirana light gospel going forth great strength throughout Albania. listening Don Mansfield, Country Director Albania, share had opened Albania. like reading book Acts. conditions most difficult special land. least twice night power went out.
 
@@ -45,7 +45,7 @@ Slowly over four-‐hour period young men Jesus drawing Himself filtered forward
 
 Don responded always does, “ best job world. get tell sure going heaven personal friendship Jesus Christ. men turned another exclaimed, “ five minutes ago saying each other like someone tell Jesus?” had recently found, washed beach, plastic bag Bible it.
 
-Being such closed country, Operation Mobilization bring boat edge Albanian waters, miles off shore. take sealable ziplock bag, drop small New Testament bag, blow air bag, close it, toss sea, trusting current take land get Word Albanian. three men trusted Christ. became very valuable contact introduce Don key individuals made possible share Jesus film capital city Tirana. believe same man later joined staff OM. night Jesus film more than 5,000 showed Palace Congress, pyramid shaped center communist rulings middle city. place many believers sentenced many damaging laws passed now became theater film “Jesus”. Master Ceremonies introduced film expressed, “ Tonight very symbolic place hear Jesus speak own dear sweet language, “Shqip”. spoke words cheered, gasped wept.
+Being such closed country, Operation Mobilization bring boat edge Albanian waters, miles offshore. take sealable ziplock bag, drop small New Testament bag, blow air bag, close it, toss sea, trusting current take land get Word Albanian. three men trusted Christ. became very valuable contact introduce Don key individuals made possible share Jesus film capital city Tirana. believe same man later joined staff OM. night Jesus film more than 5,000 showed Palace Congress, pyramid shaped center communist rulings middle city. place many believers sentenced many damaging laws passed now became theater film “Jesus”. Master Ceremonies introduced film expressed, “ Tonight very symbolic place hear Jesus speak own dear sweet language, “Shqip”. spoke words cheered, gasped wept.
 
 Better than thousand came Christ night doors opened wide. spring sent team sixteen Americans over spring break University Tirana, most strategic place best minds across land come study prepare leadership society. Hundreds came Christ. led Albanian summer project new believers followed trained. short-‐term team eight made recent graduates two staff members came fall begin movement campus. Albania wonderfully beautiful picture God’s power presence. place stepped faith. Today surrounded many political problems, yet believers cutting edge faith. Being such fresh, untouched ground did bad doctrine overcome. New believers raised “justification faith”. live security salvation. atmosphere rich love grace. Albanians did distractions like TV clutter materialism. new believers became extraordinary Word. worked mightily there. Presently fulltime Albanian staff leading movements campuses. Missionaries bring Jesus film gospel villages and, writing, almost whole country, 80%, been reached Christ. fascinating know raised faithful prepared serve Him hundreds thousands Kosovo refuges fled Serb Army Albania? Albanian believers everywhere ministering needs sharing message hope refuges. Knowing desires work like used college around world seen Him move causes me long Him move again again bring glory Himself. honors Himself Word.
 
@@ -55,7 +55,7 @@ The Soul of My Formative Years never forget formative years student Bowling Gree
 
 It's healthy. It's right. body believers seeing vitality life new being regularly added faith blessed indeed. Witnessing birth family awe-‐inspiring. individual brought freshness life everlasting. enthusiasm precious new truths learning add vitality joy community believers. reflected upon growth first movement Bowling Green, come believe blessed held most important some things honors. since seen ever observed work principles mark difference between healthy work not. also used things life ministry why want write them. transferable principles work most situations. context which take place, heart foundation. want begin explaining three foundational ideas. groundwork must laid build solid movement honors. context ministry. three very vital platforms are:
 
-1. center. 2.
+1. center.
 
 Word foundation. 3. world scope. THE LORD AS OUR CENTER wife Jan first joined staff Crusade Christ lived parents developed support team. afternoon some young Jehovah's Witnesses came house. father sat living room tried reason Scriptures. ended going back forth various passages God’s word. strongly disagreed understanding Bible. mishandled translation Greek. rejected doctrine justification faith. works oriented understanding salvation. But, know, most grieving part whole conversation low view Savior. misunderstood person Son. sad. demeaning view Jesus concerned me, most polite person it. father far more polite gracious than was. fact, leave father said, "God bless you". course, trying very Biblical situation said, "Well, don't want bless addition that, trust won't bless them!" most Christ-‐like statement could made!
 
@@ -127,7 +127,7 @@ Other students' eyes opened seeing longing heart peer heard person talk Country 
 
 Christian life balance many areas. share gospel, idea step reaching world. healthy context which raise movement. Luke 12:48 Jesus said, "To whom much given, much required". USA been given much; therefore very appropriate ourselves only equipped also responsible take gospel world. health movements flows three principles: must center, Word must foundation, world must scope. established groundwork, ready move some principles movement building, starting motives principles operation honors.
 
-### Section Chapter 1 THE FIVE TRUTHS THAT GOD HONORS
+### Section Chapter 1 the Five Truths That God Honors
 
 find perfect church don’t join you’ll ruin it. true statement heard, just suppose sake illustration, Jesus Pastor! know Church. dwells midst Chief Shepherd. indwells those pastor doing representatives. sake illustration imagine me first century Jesus literally pastor local church. interested joining? Consider like believing community Jesus Himself Pastor/Shepherd? Imagine wonderful experience health vitality body believers growing under direct ministry Lord.
 
@@ -184,11 +184,7 @@ Worship very critical very important healthy body believers. Howard Hendricks, n
 
 Evaluate your movement light Galatians 1:6-‐12. your life indicates seeking favor God? anything your life point seeking favor men?
 
-2.
-
 Let’s stick toothpick cake. things emphasize your movement those which lead glorifying opposed men?
-
-3.
 
 Think leaders ministries excelled area glorifying above men.
 
@@ -246,17 +242,13 @@ He’d look dad. dad came unglued kid grounded out. could hardly wait he'd actua
 
 Ministry Under Grace So, does translate principles which lead ministry? four guidelines try remember area.
 
-1.
-
 Live Principles, Rules application lift principles opposed law rule.
 
 Don't panic! am saying should never any rules. am saying rules should focus ministry. beginning Summer Mission Project, tell staff members Scriptures standard rather call live than some rules made up. prefer lead environment which staff team model rather than dictate living eternity. example, student wearing clothes inappropriate, might take aside discuss clothes affect others. suggest dress modestly love others (to prevent stumbling) concern witness. wouldn't want simply say, "You broke rule.” Instead hold Biblical truth. also don't "bedtime" students. pretty easy rule "everybody needs bed certain hour. understand thinking behind that, want live own convictions choices. something like bedtime, then consequences breaking standard. case, noticed again again penalties become focus. want.
 
-2.
+Focus Character want focus things reflect inward growth rather than outward performance. want Biblical convictions develop inward character grace encourages. Therefore, evening comes Summer Project, want keep quiet consider others might need sleep more important than themselves. also want consider needs neighbors testimony Savior. just make follow rules, hinder thinking process. project over, want men women character, bunch know project rules why live Godly lives.
 
-Focus Character want focus things reflect inward growth rather than outward performance. want Biblical convictions develop inward character grace encourages. Therefore, evening comes Summer Project, want keep quiet consider others might need sleep more important than themselves. also want consider needs neighbors testimony Savior. just make follow rules, hinder thinking process. project over, want men women character, bunch know project rules why live Godly lives. 3.
-
-Create Atmosphere Acceptance don't want create atmosphere feel being scrutinized. leader Crusade, am free make certain assumptions Crusade Christ staff members committed students. ministry often paid quite price involved. make sacrifices, put others disappointment them, raise support, may even put personal dreams altar. go that, think good practice assume committed. take granted believe look over shoulders wondering going make right choices. need demonstrate need greater supervision. course, want help develop, accepting attitude should assume leader lives. thoroughly expect believe staff heart right things. want lead under any other atmosphere than Himself set? atmosphere should say staff students, "You favor. quality eyes. cannot lose approval. love you. accept you. under grace. may fail, hold biblical standards, want know accepted. So, relax. just enjoy being made you. yourself." 4.
+Create Atmosphere Acceptance don't want create atmosphere feel being scrutinized. leader Crusade, am free make certain assumptions Crusade Christ staff members committed students. ministry often paid quite price involved. make sacrifices, put others disappointment them, raise support, may even put personal dreams altar. go that, think good practice assume committed. take granted believe look over shoulders wondering going make right choices. need demonstrate need greater supervision. course, want help develop, accepting attitude should assume leader lives. thoroughly expect believe staff heart right things. want lead under any other atmosphere than Himself set? atmosphere should say staff students, "You favor. quality eyes. cannot lose approval. love you. accept you. under grace. may fail, hold biblical standards, want know accepted. So, relax. just enjoy being made you. yourself."
 
 Accept Things Messy Over time, watch mature make wise decisions. grow just following rules developing Biblical convictions, seeing lives changed. It's great watch. only drawback takes time. worked who, things go wrong ministry, want punish wrong doers. comes false belief that, "since charge, things need go right. control situations best way control involved punish." end looking past instead future. believe horrible practice. reputation stake every situation. things go bad, what? world won't fall apart fails. constantly remind staff working college messy committed living messes. messy too.
 
@@ -271,7 +263,7 @@ Again, let’s stick toothpick in. look life movement leading, atmosphere? 2. th
 3. ways need give yourself grace? 4. felt under law performance? inappropriate? self-‐induced?
 5. When hardest extend grace? 6. most appreciated grace? 7. leaders excelled area? done establish atmosphere grace? implement practices?
 
-### CHAPTER 3 God Honors Faith, Not Human Effort
+### Chapter 3 God Honors Faith, Not Human Effort
 
 without faith impossible please Him those come must believe rewarder diligently seek Him. -‐Hebrews 11:6 Jan moved California very traumatic step faith. leaving friends loved ones history ministries Midwest. leaving family, special church, doctors, rich relationships whom had had privilege watching work miraculously midst. moving place felt like stranger. going terribly expensive live here, adding emotional strain. stepped faith meet us? like share letter sent team friends supporters. NEWSFLASH: MIRACLE IN CALIFORNIA HOUSING MARKET REPORTED We’re just back California housing market crazier than ever.
 
@@ -373,7 +365,7 @@ I’m sure wants that. maybe problem; don’t know wants. need know heart. need 
 
 Faith trusting act like Himself. always acts like Himself. always brings whole person bear each every situation trust Him for. step faith, am trusting God. consistent is? need continually ask myself, “What consistent attributes?” conquer your giants? can't know without faith. many areas Christian life, key continues faith. walk spirit faith. been saved grace faith. step faith. claim promises faith. live position Christ faith. live eternity faith opposed sight. obedient word faith. Faith key. honors faith, human effort. honors those trust him, those try harder. must constantly ask ourselves whether want consistent is, must trust bring himself every situation. So, commands jump wall, jump provides hole. called Jan Pacific Southwest role accept, put house sale, alter schedule, trust develop funds make move. provided buyer home, provided financial support, secured place live, provide need accomplish here continue step faith. Someday reach world gospel. setbacks process getting there, promised fail.
 
-Action Points: Below some ideas use honor faith works your ministry. Take time look over action points your staff/student leaders. Evaluate your doing each area, improve. 1.
+Action Points: Below some ideas use honor faith works your ministry. Take time look over action points your staff/student leaders. Evaluate your doing each area, improve.
 
 Focus God, Him is.
 
@@ -381,11 +373,9 @@ Then ask "What possible God?"
 
 "Is worthy trust?" -‐What movement trusting together. 2. feel understand position Christ, destiny royalty. does effect believing your believing campus? 3. fosters attitude expectation. expect work midst. Why?
 
-4.
-
 Review times been faithful past.
 
-Establish sense heritage recording things done your campus. been faithful past expect Him faithful present. 5.
+Establish sense heritage recording things done your campus. been faithful past expect Him faithful present.
 
 Articulate again again trusting do.
 
@@ -574,7 +564,7 @@ And, even goals particular semester been met, need celebrate progress made. don'
 
 Any progress should celebrated. Jesus directing movement, vision worthy God, capturing hearts imagination people. light that, gave hope, energy perspective why worth lives. brings vision pass honors Him, brings fulfillment Great Commission much closer reality. Summary Jesus Shepherd ministry, operating atmosphere ensure greatest opportunity Holy Spirit work individual’s life move mightily across entire campus. believe five truths communicated Word honor corresponding five ensure fail. bring honor Himself honoring Word, promises name. honor atmosphere grace. honor faith step expectation moving powerfully move forward plan. honor service proceeds heart love. honor vision worthy Him. been asked take leadership five different locations far life. first concern each new locations communicate those leading heart principles. then sought together create atmosphere five principles desired context minister from.
 
-### Section 3 Principles of Movement Building Dreams Do Come True Chapter 6
+Section 3 Principles of Movement Building Dreams Do Come True Chapter 6
 
 dream worthy God. dream worthy lives; taking gospel college world. Lord’s desire every group locality own possession. seems reasonable me every college world qualify place desire raise sold Him much done them. much share proclaim excellencies rescued until whole world knows. A People -‐ A Movement Mandi had fl0wn Indiana her friends had come over United States spend weekend together California. Squeals joy first sight illustrative sincere deep affection held each other. her difficulties well worth it.
 
@@ -718,7 +708,7 @@ Now ball rolling down hill chasing it, going after it. goal freshmen Discovery G
 
 Principles, Not Methodology I've highlighted points think read rest more outline form year year process going through. Again want remind something uniquely written Ohio State University. Every going it's own flavor it's own differences. trust give idea format thinking behind it. going principles, specific methodology each step is. want understand well enough think well enough adapt your own individual situation. need intellectually flexible. letter law, "Do successful", designed help person think though processes growing movement. It's obviously grows movement. want position good instruments hands, know concentrate time effort priority events. process raising movement size, health maturity reach entire campus, abundant laborers go harvest field, reach entire world gospel.
 
-### Chapter 8 GETTING OFF THE GROUND
+### Chapter 8 Getting Off the Ground
 
 I.
 
@@ -742,7 +732,7 @@ Health movement enjoys being together Evangelism faith, exciting fun good atmosp
 
 merely model Ohio State. adapted each unique campus. Greeks most dominant social group, target Freshman Greeks very heavily. found dorms RAs dominant social group, started there. Components of a Successful Movement while raising up a foundational Freshmen class and beyond Step One: 1.
 
-Staff Team -‐ Make sure staff team board areas ministry philosophy commitment level. 2.
+Staff Team -‐ Make sure staff team board areas ministry philosophy commitment level.
 
 Ministry Philosophy -‐ -‐
 
@@ -752,15 +742,15 @@ honors grace, law. c. honors faith completely trust Him. d. honors vision, activ
 
 "hot hours") 3.
 
-Reality friend. 4.
+Reality friend.
 
-Time friend. 5.
+Time friend.
 
 Working messy. Since committed working students, willing live messy. Step Two: Image -‐ Create socially sharp atmosphere. Seek bring leaders other socially sharp individuals movement. Socially sharp individuals visible meetings; make atmosphere attractive comfortable quality activities.There atmosphere men feel comfortable -‐ AIA emphasis etc.
 
 Step Three: Foundational Freshmen Class -‐ leaders movement 2-‐3 years. entire movement focused Freshman class. Size -‐ Staff recognize penetration 1. want more men women class returning fall.
 
-2. takes Freshmen entering Freshmen Discovery Groups. 3. gospel shared individually 1,500 Freshmen. 4.
+2. takes Freshmen entering Freshmen Discovery Groups. 3. gospel shared individually 1,500 Freshmen.
 
 Each staff member having evangelistic contacts year.
 
@@ -784,7 +774,7 @@ Identify key 1.
 
 Potential future leaders 2.
 
-Some whom desire burden reach ethnic group, Greek system, athletes. 3. target freshmen 4-‐5 years work them, good parallel college football coach develops ball player starts last years after red shirting learning system first two years. 4.
+Some whom desire burden reach ethnic group, Greek system, athletes. 3. target freshmen 4-‐5 years work them, good parallel college football coach develops ball player starts last years after red shirting learning system first two years.
 
 Feed Shepherd Team leader feels used leader fed Word.
 
@@ -792,23 +782,23 @@ Shepherd Team fed, then feed others? (This best done 10-‐15 minute "nugget" be
 
 First generation philosophically board. 7. write plan.
 
-Step Four: Movement Maker Class -‐ Biggest challenge your time attention -‐ Pivotal step success Size-1. second class freshmen return strong sophomores. 2. more attending weekly meeting. 3.
+Step Four: Movement Maker Class -‐ Biggest challenge your time attention -‐ Pivotal step success Size-1. second class freshmen return strong sophomores. 2. more attending weekly meeting.
 
-Attendance becomes important vision relationships. 4.
+Attendance becomes important vision relationships.
 
 Send summer projects. (High percent foundational class.) Health-‐ 1.
 
-Highly relational, friendly, inclusive student. 2.
+Highly relational, friendly, inclusive student.
 
 Fed God's Word, does feel used 3.
 
 Good plans summers, good communication over summer Maturity -‐ 1.
 
-Shepherd Team goes same project together. 2.
+Shepherd Team goes same project together.
 
 own movement planned it.
 
-3. understand ministry philosophy. 4.
+3. understand ministry philosophy.
 
 Staff team still doing penetration, recognizing willing accept second year hardest year all.
 
@@ -816,50 +806,42 @@ Staff team still doing penetration, recognizing willing accept second year harde
 
 Next year's leadership challenged place. your foundational freshman class, ownership enthusiasm high.
 
-6.
-
 Train Sophomores leaders-‐ give important roles them.
 
 Step Five: Over-‐the-‐Hill class freshman group third year plan. class starts ball rolling down hill. no longer pushing ball hill, now chasing it.
 
 Size 1. freshmen discovery groups end year.
 
-2.
-
 Next year class returns sophomores 3.
 
 Prime Time over 200.
 
-4.
+Presence dorms.
 
-Presence dorms. 5.
+Must solidly dorms. Saturating points campus. Need step back evaluate target areas: dorms, various affinity groups off housing, order.
 
-Must solidly dorms. Saturating points campus. Need step back evaluate target areas: dorms, various affinity groups off housing, order. 6.
+Penetration starting Geek system, athletes, band, international students.
 
-Penetration starting Geek system, athletes, band, international students. 7.
-
-Target strongly various ethnic backgrounds. Move areas various backgrounds those expressed heart people. 8.
+Target strongly various ethnic backgrounds. Move areas various backgrounds those expressed heart people.
 
 Ministry graduate running; living off first step penetration. 9. going summer projects. 10. + leading successful small groups. Health -1.
 
-Expansion campuses major focus; feel absolutely part whole. 2.
+Expansion campuses major focus; feel absolutely part whole.
 
 Hearts pray -‐ prayer movement place.
 
 3. Ownership love partnership country. been chosen. begun go.
-4. extremely valuable staff team ideal number, relative size number laborer producing satellite campuses. 5.
+4. extremely valuable staff team ideal number, relative size number laborer producing satellite campuses.
 
 Momentum extremely high.
 
-6.
-
 Movement understands doctrine 'justification faith". Maturity -‐ 1.
 
-Becoming Christ-‐centered laborers -‐ heart world, understands need laborers critical event fulfilling Great Commission. 2. seasoned Shepherd Team. a. captured vision. b. equipped lead heart. c. know takes Biblical resources. 3.
+Becoming Christ-‐centered laborers -‐ heart world, understands need laborers critical event fulfilling Great Commission. 2. seasoned Shepherd Team. a. captured vision. b. equipped lead heart. c. know takes Biblical resources.
 
 Movement takes flavor 'Concentration" 4. capable doing better job "penetration" than staff team.
 
-5. want value training. 60-‐80 come training. 6.
+5. want value training. 60-‐80 come training.
 
 Student ownership runs deep.
 
@@ -867,25 +849,21 @@ Step Six -‐ Freshman Class makes model movement Size 1.
 
 Win Freshman class return involved sophomores 2.
 
-Prime Time meeting. 3. involved small group Bible studies. 4.
+Prime Time meeting. 3. involved small group Bible studies.
 
-Daily Prayer drawing students; large Praise Its Friday. 5. going summer projects. 6.
+Daily Prayer drawing students; large Praise Its Friday. 5. going summer projects.
 
-Penetrating every segment campus. 7.
+Penetrating every segment campus.
 
 Expansion campuses now flourishing, now every two staff. Health 1. rich love Jesus permeates movement. 2. sacrificial cause. 3. solid leadership, love Scriptures, teach Word lead Word.
 
-4.
+Movement heart laborers.
 
-Movement heart laborers. 5.
-
-Praying awakening God's hand movement. 6.
+Praying awakening God's hand movement.
 
 Burdened lost needs world. Maturity 1.
 
 Model student leaders spokesmen. 2. captured vision) potential impacting world. 3. shepherding multiplication chains. 4. plans involve saturating target areas. 5. making sacrifices evangelism receive training. 6. tremendous value placed stateside international summer projects, also spring break world, inner-‐city Panama City.
-
-7.
 
 Graduation sends number equal half size C.A.G. full-‐time Christian work.
 
@@ -893,25 +871,25 @@ Step Seven -‐ World-‐Wide Impact Model Class Size 1.
 
 Staff' team ideal size meet needs satellite campuses. 2. + Prime Time.
 
-3. small groups. 4.
+3. small groups.
 
 Win freshmen class return involved sophomores (i.e. freshmen groups April) 5.
 
 60+ going summer projects stateside worldwide. 6. expansion campuses movements over feel part whole. 7. seniors graduate come staff go stint, other go full-‐time ministry seminary. Health 1.
 
-Continue previously mentioned health characteristics. 2.
+Continue previously mentioned health characteristics.
 
-Leaders developing character good discipleship qualities multiplication chains. 3. fun together, good close friendships. 4.
+Leaders developing character good discipleship qualities multiplication chains. 3. fun together, good close friendships.
 
 Model leaders know looking for.
 
 Maturity 1.
 
-Leaders mature Word, experienced ministry. 2.
+Leaders mature Word, experienced ministry.
 
-Passes skills multiplication. 3.
+Passes skills multiplication.
 
-Modeling saturation dorms. 4.
+Modeling saturation dorms.
 
 Major presence Greek system, athletes, African Americans, Internationals. Step Eight -‐ Saturation Freshmen Class Win Freshmen Class return sophomores; unless greater than 40,000 students, class reach saturation before graduate. Size-1. Prime Time 2.
 
@@ -923,15 +901,15 @@ Strong flourishing expansion campuses per ministry sight. 4. send ministry sight
 
 Maturity -‐ 1.
 
-Solidly built equipped Christian World-‐View. 2.
+Solidly built equipped Christian World-‐View.
 
 Understand living position Christ. Step Nine -‐ Win Control Freshman Class Size 1. return sophomores 2.
 
 Penetrated every segment university (ie.,Grad ministry running, off-‐campus strength.) 3.
 
-Totally visible throughout university community. 4.
+Totally visible throughout university community.
 
-Present areas influence university. 5.
+Present areas influence university.
 
 Action Group Leaders 6.
 
@@ -941,11 +919,9 @@ Thrilled God's presence 3.
 
 Loving Body 4. Solid Biblical Resources Maturity 1.
 
-Captured Lord, vision, eternal. 2.
+Captured Lord, vision, eternal.
 
 Student leaders seasoned, committed, sacrificial time.
-
-3.
 
 Leaders know takes 4.
 
@@ -955,7 +931,7 @@ Each classes growing evangelism extensive t/o University. Health 1. movement tru
 
 Men women Word 3. meeting daily prayer Maturity 1.
 
-Multiplication thoroughly monitored high quality discipleship. 2.
+Multiplication thoroughly monitored high quality discipleship.
 
 Proven dynamic spokesmen movement 3.
 
@@ -1145,17 +1121,13 @@ Now arrange Classic quarter, then got back ask, "When schedule Classic? choose c
 
 Some actions execution, some preparation, some planning oriented, some simply errands things need emphasized weekly meeting. listed ten items anticipated need occur during week affect cycle week future. leave staff meeting wonderful closure anticipation what's come we're top it. already thought backwards light execution. staff know what's expected end week. example, set execution goal evangelistic contacts first week. leave staff meeting, say something like, "This successful week we:
 
-1.
-
 Get evangelistic contacts 2. 2 those evangelistic contacts your hot questionnaire contacts your "yes, yes, yes" contacts 3. You get back student expressed interest earlier week.
 
 4. We advertised well weekly meeting did power rally dorms come.
 
-5.
+Start your Action Group week 6. Invite Freshmen you've met Freshmen party, Barn dance.
 
-Start your Action Group week 6. Invite Freshmen you've met Freshmen party, Barn dance. 7.
-
-Follow hot contacts. 8.
+Follow hot contacts.
 
 Get back came first meeting. clarity direction staff, know successful week accomplished things bottom list week.
 
@@ -1223,7 +1195,7 @@ Agenda Items: (Directors) agenda. Items staff team feel need talked about. Closi
 
 Pray week.
 
-### Needs to be formated LABORERS
+### Needs to be formated Laborers
 
 Shepherds Jesus: Willing spent, movement leaders, lifetime laborers
 
@@ -1255,7 +1227,7 @@ LABORERS critical event MOVEMENT elements movement entry points STRATEGY CURRICU
 
 discipleship
 
-### DISCIPLESHIP Chapter 13
+### Discipleship Chapter 13
 
 learned concept chapter discipleship wife.
 
@@ -1307,9 +1279,34 @@ Notice balance. no sense rush being overworked pressured. Jan add this, “What 
 
 Belinda share vision she literally woman take paper her hand read over over. say things like, “Yes just praying me. means much seen. become person?” motivating each time gets together more step toward becoming person want following personal vision plan.
 
-## Strengths Needs Developed Vision Long Range Goals Short Range Goals
+Strengths Needs Developed Vision Long Range Goals Short Range Goals
 
-EXAMPLE VISION PLAN MARY STRENGTHS NEEDS TO BE DEVELOPED • Good skills • Loves • Strong socially • Attractive personality • want her • Warm caring • Gift mercy • Good communication speaking skills • Positive spirit • Enthusiastic • Desires multiply her life • Influences others Christ • Loves • consistent walk • Shares Christ effectively • Woman growing conviction • Stronger self image • pleaser • trouble saying “no” • Fear failure • Procrastinates • undisciplined • trouble confronting others • Lacks training discipleship VISION loving, caring woman natural leader influencer women. Her positive spirit sees best draws them. women drawn her attractive personality heart God, use her ability communicate (through speaking, teaching, discipling) build faith convictions them, express warmth, love, personal care them.
+EXAMPLE VISION PLAN MARY STRENGTHS NEEDS TO BE DEVELOPED
+
+- Good skills
+- Loves
+- Strong socially
+- Attractive personality
+- want her
+- Warm caring
+- Gift mercy
+- Good communication speaking skills
+- Positive spirit
+- Enthusiastic
+- Desires multiply her life
+- Influences others Christ
+- Loves
+- consistent walk
+- Shares Christ effectively
+- Woman growing conviction
+- Stronger self image
+- pleaser
+- trouble saying “no”
+- Fear failure
+- Procrastinates
+- undisciplined
+- trouble confronting others
+- Lacks training discipleship VISION loving, caring woman natural leader influencer women. Her positive spirit sees best draws them. women drawn her attractive personality heart God, use her ability communicate (through speaking, teaching, discipling) build faith convictions them, express warmth, love, personal care them.
 
 LONG RANGE GOALS 1.
 
@@ -1319,7 +1316,7 @@ Learn express her love others without being pleaser. b.
 
 Learn confront love. c.
 
-Find her significance Christ — success failure. 2.
+Find her significance Christ — success failure.
 
 Develop her natural leadership skills she might reach her potential Christ. a.
 
@@ -1328,8 +1325,6 @@ Develop discipleship skills. b.
 Develop speaking skills. c.
 
 Give opportunities lead.
-
-3.
 
 Build strong Biblical base which minister. MARY SHORT RANGE GOALS 1. a. her read Search Significance, discuss she learning. b.
 
@@ -1347,53 +1342,76 @@ Help her pull together group. c.
 
 Discuss basic “whys” “hows” discipleship. d.
 
-Help her think her women — learn think like discipler. 3.
+Help her think her women — learn think like discipler.
 
 Think some basic doctrinal topics study personally — take semester. -‐ 3:
 
 Go summer project summer. EXAMPLE APPOINTMENTS FOR THE QUARTER BASED ON VISION PLAN MARY Week Go sharing Get know her better Ask questions her Week Lunch house Share vision goals her Encourage her she Give her Search Significance Week Go sharing Talk her quiet times personal Bible study Help her come topic study Week Meet two women being her group Week Go lunch Challenge summer project Discuss discipleship start her group Week Go sharing Discuss her progress her book (Search…) Bible study Week Work testimony Follow new believer go sharing Come over dinner week Week Set team meeting together her dorm Discuss her women — her group going? Week Go sharing Polish her testimony Discuss her progress her book (Search…) Bible study Team meeting week Week Come house special lunch Review progress her goals Rejoice together done us!
 
-EXAMPLE VISION PLAN CORRIE STRENGTHS NEEDS TO BE DEVELOPED • Enthusiastic • Fun-‐loving • Good up-‐front skills • Enjoys • Gets excited right things • Sees big picture • Throws himself task • Hunger Word • Strong personal convictions • Living eternal • Good motivator • Leads heart • Shows signs ability teach • Others follow him • Carries himself well • Non-‐Christians feel comfortable him • Good being “one guys” • Motivated really himself count • Leads evangelism • Learn vulnerable • Lacks patience others • Grow one-‐on-‐one discipleship skills • Too black white • Doesn’t understand emotional needs • Lacks perception discerning disciples’
+EXAMPLE VISION PLAN CORRIE STRENGTHS NEEDS TO BE DEVELOPED
 
-needs • distracted relationships
+- Enthusiastic
+- Fun-‐loving
+- Good up-‐front skills
+- Enjoys
+- Gets excited right things
+- Sees big picture
+- Throws himself task
+- Hunger Word
+- Strong personal convictions
+- Living eternal
+- Good motivator
+- Leads heart
+- Shows signs ability teach
+- Others follow him
+- Carries himself well
+- Non-‐Christians feel comfortable him
+- Good being “one guys”
+- Motivated really himself count
+- Leads evangelism
+- Learn vulnerable
+- Lacks patience others
+- Grow one-‐on-‐one discipleship skills
+- Too black white
+- Doesn’t understand emotional needs
+- Lacks perception discerning disciples’
 
-women • Needs listen more • Trouble picturing details needed
+needs · distracted relationships
+
+women
+
+- Needs listen more
+- Trouble picturing details needed
 
 accomplish task VISION shepherd build movement, able penetrate areas male leaders found. leads Word. feeds healthy equipped ministry. able used raise enthusiastic ministry believers reach significant segment world — movement send healthy, motivated, Biblically-‐solid laborers. LONG RANGE GOALS 1.
 
 Develop lifetime plan become man Word.
 
-2.
+Develop well-‐thought-‐through ministry philosophy.
 
-Develop well-‐thought-‐through ministry philosophy. 3.
+Understand basic skills being leader.
 
-Understand basic skills being leader. 4.
+Develop ability lead heart.
 
-Develop ability lead heart. 5.
-
-Learn share himself, needs, weaknesses, fears, hopes, victories. Become real people. 6. greater understanding himself. 7.
+Learn share himself, needs, weaknesses, fears, hopes, victories. Become real people. 6. greater understanding himself.
 
 Learn discipleship planning skills. CORRIE SHORT RANGE GOALS 1.
 
 Begin process lifetime plan studying Word.
 
-2.
+Teach him study methods.
 
-Teach him study methods. 3.
-
-Talk ministry philosophy atmosphere skills leader. 4. battle together model leadership. 5. team meeting together stretch him faith experience success ministry. 6.
+Talk ministry philosophy atmosphere skills leader. 4. battle together model leadership. 5. team meeting together stretch him faith experience success ministry.
 
 Learn family, heart, motivates him.
 
-7.
+Ask him questions help him understand himself.
 
-Ask him questions help him understand himself. 8.
-
-Teach him disciple. 9.
+Teach him disciple.
 
 Help him raise group. EXAMPLE APPOINTMENTS FOR THE SEMESTER BASED ON VISION PLAN CORRIE Week follow freshmen surveys Take time talk over Coke testimony, ask family Help him choose targeted area ministry (He chooses Greek system — target most strategic houses) Week Appointment Greek presidents interview, share Christ, set team meeting Pray together fraternity system Get group guys together play some ball weekend Week Meet favorite lunch spot Work testimony Talk team meeting Ask him desires student Word Teach him study methods, share own personal lifetime plan becoming man Word Week fraternity team meeting Follow those men him Help him get house Discovery Group, teach use Greek Bible Study weekly interaction exercises Week Meet fraternity house Continue helping him follow getting house Bible study doing personal Bible study second team meeting — him Laws talk Double date weekend Week Follow contacts team meeting fraternity Talk learning men over milkshakes — treat Ask him questions himself Show him discipleship plan designed him explain develop men after Christmas Conference Teach him invite men Fall Retreat Week Appointment pizza restaurant Plan dinner him group place night sharp weekly meeting leadership interview Greek officer Talk leadership afterwards Week Meet house — make lunch Help prepare him emcee Fall Retreat weekend Talk philosophy building movement Week Interview another fraternity officer — set team meeting new staff Talk personal convictions dating Go him home football game Week Meet pizza restaurant Meet him disciples talk Christmas Conference Interview officer 6th targeted house Week Meet place Plan end-‐of-‐term Prime Time College Life Interview him show him well knows disciples — preparation making discipleship plans Week Help follow team meeting done new staff Talk thoughts leadership share heart leader Week him date men group over dinner Talk encourage men come Christmas Conference Meet key freshmen movement talk Christmas Conference Week Follow appointment Prime Time Talk summer project Week Talk get maximum benefit time guys Christmas Conference Talk time home family
 
-### JOE DISCIPLE Strengths: Needs To Be Developed:
+### JOE Disciple Strengths: Needs To Be Developed
 
 Great skills Confidence Wise, Appropriate Opportunities spread wings. Sharp, Masculine Having personal sense fulfillment Fun, Pleasure around
 
@@ -1403,13 +1421,13 @@ pilgrimage Good quality content awareness
 
 storyteller. Poised, Fun front Wonderful sense humor Loyal committed friend Quick mind Extremely faithful Works Hard Committed Husband Father Excellent Athlete Man’s Man Leads sincere heart Thorough -‐ Handles details Thinks things well Well spoken student Word -‐ purposed man word Man Integrity Genuine, Humble Relaxed Administratively gifted problem solver excellent steward God’s resources Disciplined Knows value things Negotiator Shepherds people, Loves
 
-### Vision:
+### Vision
 
 Joe gifted servant Savior. man seen move very powerful personal ways.
 
 Whether fraternity, foreign country, campus, Ocean City, been involved supernatural. knows looking settle anything less than which obviously God. brings ministry many strengths maximize fruitfulness. excellent motivator. quality speaker. leads encouraged serve proper motives hearts faith. believes those rise potential. allows body Christ go further maximizes its resources. excellent steward things entrusts people. influence lead gathering men men. also greatly contribute enjoying life ministry. Joe partners close friends breaks leads new turf flavor impact quality, personal, supernatural.
 
-### Long Term Plans:
+### Long Term Plans
 
 1. Think seen life ministry. Catalogue good detail way could use.
 2. Get further input grows confidence expertise.
@@ -1423,7 +1441,7 @@ Utilize your gifts humor. Try different settings give in.
 7. A lifetime plan Word.
 8. A long term plan develop repertoire talks Bible studies.
 
-### Short Term Plans:
+### Short Term Plans
 
 1. Take full day map your pilgrimage.
 2. Put yourself different situations learn people.
@@ -1558,7 +1576,17 @@ Certainly, desire this, concerning some ministries seeing only person join every
 
 ### Level Two
 
-person added sending base level two feels advantage being “we” . encourage another trust God. help each other tough spots. come together. some theory behind internships. might say proper. disagree. taking away level reasons; adding team concept. peers seen part joining. 1. been part successful movement. • saw God’s hand, felt supernatural occurred. • part movement growing healthy. • integral parts. had ministry. part planning. had ownership. 2. well bonded CAG ( student leadership core ). • saw dreams come true. • watched work us. • friends. enjoyed each other. had fun together. 3. peers friends coming staff. • New staff training fun go together. • make history together. • cumulative impact significant.
+person added sending base level two feels advantage being “we” . encourage another trust God. help each other tough spots. come together. some theory behind internships. might say proper. disagree. taking away level reasons; adding team concept. peers seen part joining. 1. been part successful movement.
+
+- saw God’s hand, felt supernatural occurred.
+- part movement growing healthy.
+- integral parts. had ministry. part planning. had ownership. 2. well bonded CAG ( student leadership core ).
+- saw dreams come true.
+- watched work us.
+- friends. enjoyed each other. had fun together. 3. peers friends coming staff.
+- New staff training fun go together.
+- make history together.
+- cumulative impact significant.
 
 ### Level Three
 
@@ -1569,7 +1597,14 @@ sent additional motivation thy been tied greater vision trusting for. extends be
 - heart imagination been captured going.
 - am already apart want continue. i.e.
 
-Region Partnership • am burdened Partnership expand. • dream region includes things long happen Expansion campuses, expansion 2. I broad base friends throughout region US. • already large network friends going world. • summer project friends going staff. • friends, been partnership country with, going Stint. • been Stint, natural stepping stone coming staff.
+Region Partnership
+
+- am burdened Partnership expand.
+- dream region includes things long happen Expansion campuses, expansion 2. I broad base friends throughout region US.
+- already large network friends going world.
+- summer project friends going staff.
+- friends, been partnership country with, going Stint.
+- been Stint, natural stepping stone coming staff.
 
 3. I am already tied regional dream. love region. linked arms way world. Staff great vehicle continue that. know many people, can’t imagine being alone. fact, team talking going ____________. met through:
 - CORE LEADER”S Retreat, rubbing shoulders fellow Leaders.
@@ -1633,7 +1668,7 @@ Many more go full-‐time Christian work other avenues well. hope some day join 
 
 choosing join core leaders wise select those who, should attract full-‐time Christian service, emotional social strength qualify. found far less heartbreak discerning first place. student crushed turned down staff some other full-‐time ministry. After investing many hours student, personally devastated well, someone missions personnel department, after evaluating student, discovers posses abilities work team social skills constantly initiating. addition, want increase likelihood more laborers raised sent campus. Staff-‐capable help raise future movement future laborers campuses able step right should capture heart joining staff.
 
-### Connecting our students to other students throughout their region
+Connecting our students to other students throughout their region
 
 end week. hundred Spring break Albania. crowded room sharing mighty ways had worked bring better than Albanian faith Himself. Some had seen many trust Christ go follow-‐up appointments them.
 
@@ -1669,8 +1704,6 @@ Ideas, Creativity, Servanthood, risk takers, team Player, get everybody involved
 Give direction, Communicate to’s, Help others take ownership, Bring clarity situation, Utilize each individuals strengths, Communicate vision, Act spokesman, Help step step process end, heart? head? agenda?
 
 2. Qualities Leadership Courage, Challenges, Boldness, Courteous, Polite, Competition, Pragmatic, Visionary, Passion, Zeal, Motivator, Devoted, Committed, Persevering, Overcomer, Planner, Full Faith, Fighter, focused, Personal strength, Sharp, Articulate, Secure, Self Motivator, Lives beliefs, Talented, Gives clear direction, Encourages Coaches others, front abilities, Decisive. D. Character 1. others admire? Christ like?
-
-2.
 
 Qualities character Honesty, Integrity, Purity, Morally uplifting, Kindness, Graciousness, Self-‐control, Patience, Discretion speech actions. Convictions, Depth, Humility, Consistency, Patience, Teachableness, Quiet spirit, Loving,, Genuine, Transparent. E. Mental 1. How gifted thinking qualities mind given them?
 
@@ -1750,17 +1783,13 @@ Why spend way?
 
 Nine steps for success: 1.
 
-Understand role its responsibilities. 2.
+Understand role its responsibilities.
 
 Dream could use role. potential God's eyes? could make impact role people, world? process bring sense ownership role.
 
-3.
-
 Articulate dream -‐ Put writing. Vision Statement Write your objectives: trusting for?
 
-4.
-
-Definitively state look like job done. should measurable. Here going. Specifically describe look like get there. 5.
+Definitively state look like job done. should measurable. Here going. Specifically describe look like get there.
 
 PrEFACE 6.
 
@@ -1768,37 +1797,33 @@ Come Plan Action. accomplish dream? your step step process. should long term ste
 
 (note: "to do" list first.) Come time deadlines steps plan.
 
-7.
+Make key decisions. i.e. use personnel? team members' roles responsibilities be. resources needed?
 
-Make key decisions. i.e. use personnel? team members' roles responsibilities be. resources needed? 8.
+Lead team plan action using five skills.
 
-Lead team plan action using five skills. 1.
+Giving direction.
 
-Giving direction. 2.
+Passing ownership.
 
-Passing ownership. 3.
+Delegation.
 
-Delegation. 4.
-
-Training. 5.
+Training.
 
 Monitoring 9.
 
 Make evaluations adjustments (Debrief time). Learn your mistakes correct them.
 
-10.
-
 Capitalize does, Milk it's worth -‐ never let forget God's moving midst. Five questions about qualities: 1.
 
-Pioneering? 2. kind Heritage leaving? 3.
+Pioneering? 2. kind Heritage leaving?
 
 Demonstrating Excellence? 4. taking Steps Faith? 5. kicked notch (Creativity)? Roles and responsibilities of a leader: 1.
 
-Vision caster. 2.
+Vision caster.
 
-Direction setter. 3.
+Direction setter.
 
-Spokesman. 4.
+Spokesman.
 
 Coach 5.
 
@@ -1814,7 +1839,7 @@ Ps.
 
 63:3 Ultimately, spiritual multiplication ministry strategy, consistent prescribes Word best way go building Body Christ, which hope prove chapter. Yet, must stated onset like principles put forth book, unless anything culminates joyous enjoyment Himself, misses mark terms fulfilling highest order which called fulfill. is, Jonathon Edwards put it, end which created world, namely enjoyment Glory. May chapter used Almighty foster large, healthy movements reverberate Glory such end more more men women drawn enjoyment whereby receives much more glory!
 
-### Spiritual Multiplication Biblical Precedence and Helpful Suggestions Explored More Than a Harvester Needed
+Spiritual Multiplication Biblical Precedence and Helpful Suggestions Explored More Than a Harvester Needed
 
 John Dugan really enjoyed life staff Crusade Christ. Having always been hard worker since days helping family’s farm, John seemed take evangelism naturally. enjoyed while becoming leader movement college. And, now loved doing evangelism staff. Quite quickly, John Dugan earning nickname “John Deere” “he always harvesting large number unto Lord” . irony came John’s second year staff. rest team four reassigned God’s call other ventures, some overseas some stateside. John, many hours prayer many, allowed stay only team member pursue next fall.
 

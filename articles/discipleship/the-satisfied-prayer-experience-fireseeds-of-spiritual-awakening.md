@@ -18,8 +18,6 @@ But it is more than a book on prayer. It is a book of stories; stories of great 
 
 This is not simply a reprint of an old classic. Fireseeds has been updated and expanded to include recent accounts of student revivals as well as stories from around the world and not simply the U.S. The new Fireseeds also recounts the contribution of women to these revivals as they are often overshadowed, and contains an additional chapter on the filling of the Spirit (including the Satisfied Prayer Experience). Last, the revised version opens with a foreword by Mark Gauthier, and a vision to trust God for movements everywhere.
 
-## Order Online at Crupress.com
-
 ## Satisfied?
 
 A Prayer Experience of the Holy Spirit By Keith Davy NOTE: This prayer experience is intended to be adaptable to your prayer group. It can be as short as 40 minutes or extended to two hours, depending on how you use the optional sections. Don’t feel constrained to follow this format. Adapt it to your group and environment. May God give you and your group a rich time celebrating and experiencing the powerful presence of his Spirit! Divide into groups of three or four. We don’t want groups to be too large. We want everyone to actively participate and experience all God has for you during this time of prayer.

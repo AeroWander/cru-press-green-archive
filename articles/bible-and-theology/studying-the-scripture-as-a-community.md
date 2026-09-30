@@ -18,11 +18,7 @@ Community is not simply another ministry activity; it is the context for all min
 
 Will Walker’s book is probably the best apologetic written for why community is the matrix for spiritual growth. But the content goes well beyond theological reasoning, providing extremely practical how’s and why’s for living out our faith in community. Through excellent writing and reasoning, personal examples and stories, the book creates a hunger and desire for communal living. Content of Book: Why We Pursue Independence; Why We Need Community; Repentance; Community and the Word-Communal Quiet Times, Community and Confession; Group Prayer; Godly Speech and Conversation, and A Commitment to Live Communally.
 
-## Order Online at Crupress.com
-
-v
-
-## communal quiet times
+## Communal quiet times
 
 When my friend John was in college he was invited by a high school ministry to interview for a leadership position in their ministry. John is a sharp guy and had no doubt shown some potential. The meeting went well and it looked as if John was ready to take the next step. Then the interviewer asked him, almost in passing, “By the way, what version of the Bible do you read?” John replied, “I think it’s the Martin Luther King James Bible.” “Huh,” the man said, “John, what do you say we do one more semester of training.” The means by which we learn how to follow Jesus are varied: circumstances, prayer, contemplation, conversations, and so on. But central to our understanding of relationship with Christ and missional community is what we learn from the Bible. This seems obvious, but for some reason we are prone to get bored with the obvious. And usually boredom leads to neglect.
 

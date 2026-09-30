@@ -55,9 +55,9 @@ Evangelism is, first and foremost, a work of God. He is the Master of evangelism
 
 But what happens when we lose our God-centeredness in evangelism? What symptoms appear when we shift our focus from the Master and his work? The list is long. We begin to feel pressure to witness. Legalism sets in—evangelism becomes a thing that we have to do to. It can become stressful. We often lose our desire to witness. People can become projects, objects that we are doing something to rather than people that we love. We may manipulate to get results. We feel like a failure when we don’t see results and proud when we do. We judge others who are not involved in witness. We grow frustrated with ourselves or with others. We lose effectiveness and spiritual power. Competition, comparison, and performance set it. And the list goes on. But if these are symptoms of a lack of God-centeredness in evangelism, then the cure follows. Re-center on God! If the root of the problem is a loss of focus on God, than the solution has to begin with re-focusing on his role. Like the hub of a wheel, all evangelism should revolve around God and draw its power from him. It is the task of the leader to ensure that it does. But how?
 
-There are four biblical truths that Jesus modeled and taught that connect our efforts to his work. They can be summarized as: • • • • Christ’s Purpose: The Glory of God Christ’s Passion: His Love for the Lost Christ’s Plan: The Great Commission Christ’s Power: The Holy Spirit To ensure that our witness is truly Christ-centered, we must weave these truths into the fabric of our lives and those that we lead.
+There are four biblical truths that Jesus modeled and taught that connect our efforts to his work. They can be summarized as: Christ’s Purpose: The Glory of God Christ’s Passion: His Love for the Lost Christ’s Plan: The Great Commission Christ’s Power: The Holy Spirit To ensure that our witness is truly Christ-centered, we must weave these truths into the fabric of our lives and those that we lead.
 
-### Christ’s Purpose: the Glory of God
+### Christ’s Purpose: The Glory of God
 
 What is the ultimate aim of evangelism? It is the same as God’s purpose in all of his works. It is his glory. On his last night with his disciples, just hours before his arrest and death on the cross, Jesus prayed. The prayer, recorded for us in John 17, unveils a window into our Lord’s soul. In it, he expresses to the Father the desire for what was most important to him—glory. God’s glory is laced throughout the prayer (17:1, 4, 5, 10, 22, 24). As he prays about his own life and ministry, as he prays for the disciples and their witness, and as he prays for us who would believe through it, it is all about the glory of God. The ultimate aim of evangelism is the glory of God. But what is the glory of God? In theological terms, the glory of God is the manifestation of the divine excellencies. Or, in more common terms, it is God in all of his greatness on display. Of course, God is great in all that he is, all that he has, and all that he does. When that is on display, we see the glory of God. So to glorify God is to reveal him or make Him known. That is exactly what true evangelism does. Every time you share the gospel you reveal the glory of God. The gospel reveals his great and excellent attributes—his love, his righteousness, his holiness, his justice, his wrath, his mercy, his grace, his power, his wisdom. The gospel reveals his glorious act of salvation in the person and work of the Lord Jesus Christ. So every time you share the gospel you glorify God, whether anyone responds or not, because you are revealing the greatness of God through the person and work of Jesus Christ.
 
@@ -73,7 +73,7 @@ When Jesus saw the multitudes, he saw their need— “they were harassed and he
 
 Thus it is love that compels witness—a love for God and a love for others. Those who love God want to make him known and glorify him. Those who love people want to help them to know God, who meets their greatest need. The greatest thing we can do for another is to help them come to know Jesus Christ as Savior and Lord. It is also the most loving thing.
 
-### Christ’s Plan: the Great Commission
+### Christ’s Plan: The Great Commission
 
 The Great Commission begins with the words of Jesus, “All authority in heaven and on earth has been given to me. Therefore go and make disciples of all nations…” (Matthew 28:18-19). Understanding “all authority” has a transforming influence on the messengers—it makes the witness unstoppable. It was true for the early believers and it will be true for us, as well.
 
@@ -81,7 +81,7 @@ In the book of Acts, when the authorities in Jerusalem were alarmed by the sprea
 
 There was one way the authorities could stop their witness. They could kill them, and they did. First it was Stephen (Acts 7:57-60); then it was James (Acts 12:2). They were followed by countless unnamed believers who gave their life in witness to Christ. It became so common for witnesses to lose their life for their faith that over time the Greek word for witness (martus) would take on meaning of martyr. That, of course, is how we use the word in English. If we, and those we lead, truly understood and aligned ourselves to the authority and command of our Lord Jesus Christ, we too would become unstoppable in our witness, except by death.
 
-### Christ’s Power: the Holy Spirit
+### Christ’s Power: The Holy Spirit
 
 An unstoppable witness requires more than human strength or fortitude to be faithful and effective. Fruitful witness requires power, the inner power of the Holy Spirit. In Acts 4:29, the disciples prayed in the face of persecution for the Lord to “enable your servants to speak your word with great boldness.” Their prayer was answered when “they were all filled with the Holy Spirit and spoke the word of God boldly” (4:31). It was as Jesus promised, “But you will receive power when the Holy Spirit comes on you; and you will be my witnesses in Jerusalem, and in all Judea and Samaria, and to the ends of the earth” (Acts 1:8). Like any of us, the Apostle Paul knew what it was like to witness in “weakness and fear, and with much trembling” (1 Corinthians 2:3). But he also knew that it wasn’t his words that would make the difference. It was the “demonstration of the Spirit’s power, so that your faith might not rest on men’s wisdom, but on God’s power” (2:5). God-centered evangelism draws its power from God’s Spirit.
 
@@ -105,7 +105,7 @@ Our ability to see and understand our audience, both the masses and the individu
 
 First, recognize the complexity of the challenge. It is easy for us to project on others a shallow, simplistic perception of who they are and what they need. How often have we made assumptions about people based solely on their outward appearance? Those assumptions are rarely accurate, nor helpful. Empathetic engagement, or what has been termed in scholarship as “perspective taking,” enables us to better understand our audience by seeing the world through their eyes. We come to understand them as people, not projects, and their lives as stories— stories worth hearing. Through this deepening understanding, we discover how the gospel speaks to them individually and as a group. (For a practical guide to empathetic listening, see the “Explorer” role in CoJourners: A Transferable Concept, CruPress, 2007.)
 
-When you peel back the layers of reality and examine what is beneath each, they yield insights that will make a significant difference in evangelism. Those insights include: • • • • The spiritual realities The cultural influences The social connections The personal pilgrimages Together these dimensions will influence people’s attitude and responsiveness to the gospel.
+When you peel back the layers of reality and examine what is beneath each, they yield insights that will make a significant difference in evangelism. Those insights include: The spiritual realities The cultural influences The social connections The personal pilgrimages Together these dimensions will influence people’s attitude and responsiveness to the gospel.
 
 ### Spiritual Realities
 
@@ -143,9 +143,17 @@ Diagram 1 It is important to recognize that we cannot make assumptions about a p
 
 Also, people can, and at times do, change rapidly when God is at work. Consider Saul. In Jerusalem, he is breathing threats against the Lord’s disciples (Acts 9:1). Three days later, he is sitting blind in Damascus, seeking the Lord and waiting for a man named Ananias to come and complete his conversion (9:10- 19). That is rapid change! We cannot assume that those who have been spiritually distant in the past are still the same in the present. They may have been drawn closer by the grace and power of God. Leading evangelism is complex because people are complex. But that complexity need not create inaction. When believers are guided by God’s Spirit and filled with his love, the power of the gospel can break through even in the most challenging contexts. Love compels us to understand our audience. Wisdom causes us to adapt to them. The context of the masses influences our evangelism. Leaders of missional teams and ministries plan and coach accordingly. Reflection or Discussion Questions:
 
-Identify the different groups of people (sub-cultures, micro-cultures, affinity groups, kinds of people, etc.) within your ministry context. • Which groups are being effectively reached in your ministry context? Why? • Which groups are not being effectively reached? Why? • Which groups would be most strategic to reach at this time?
+Identify the different groups of people (sub-cultures, micro-cultures, affinity groups, kinds of people, etc.) within your ministry context.
 
-How would you profile the audience(s) in your evangelism context? What do you know about it spiritually, culturally, socially and personally? How could the insights contained in your profile influence… • You as messengers—how you relate to your audience? • Your message—how you shape and communicate your message? • Your methods—how you apply and adjust your methodology?
+- Which groups are being effectively reached in your ministry context? Why?
+- Which groups are not being effectively reached? Why?
+- Which groups would be most strategic to reach at this time?
+
+How would you profile the audience(s) in your evangelism context? What do you know about it spiritually, culturally, socially and personally? How could the insights contained in your profile influence…
+
+- You as messengers—how you relate to your audience?
+- Your message—how you shape and communicate your message?
+- Your methods—how you apply and adjust your methodology?
 
 ## The Messengers
 
@@ -153,7 +161,7 @@ Evangelism is, first and foremost, a work of God. But it is God’s intent to wo
 
 In the 1950’s, Dr. Kenneth Strachan, along with other mission leaders, studied three rapidly growing movements in Latin America: Communism, Jehovah’s Witnesses and Pentecostalism. Their findings were intriguing.
 
-So as we examined groups like these: one anti- Christian, the other pseudo- Christian, and the third Christian but not in the conventional pattern, we wondered just what was the secret of the success of each one. Was it their doctrine? That could not be, because each was preaching a different message. Was it their emphasis? Was it their method? Was it their organization? The answer did not seem to lie with any of these. Finally we came to recognize that in spite of their many differences in doctrine, organization, emphasis and practice, they were alike in only one thing—they had one thing in common and that was the secret of their success. What they had in common was this: their success in mobilizing their total constituency in continuous evangelistic action. (Emphasis added.) And so we came to the conviction that the secret of expansion was to be found in this thesis: that the successful expansion of any movement is in direct proportion to its success in mobilizing and occupying its total membership in constant propagation of its beliefs. (Emphasis added.) (George W. Peters, Saturation Evangelism, Zondervan, Grand Rapids, Michigan, 1970. pp. 52-53.)
+So as we examined groups like these: one anti-Christian, the other pseudo-Christian, and the third Christian but not in the conventional pattern, we wondered just what was the secret of the success of each one. Was it their doctrine? That could not be, because each was preaching a different message. Was it their emphasis? Was it their method? Was it their organization? The answer did not seem to lie with any of these. Finally we came to recognize that in spite of their many differences in doctrine, organization, emphasis and practice, they were alike in only one thing—they had one thing in common and that was the secret of their success. What they had in common was this: their success in mobilizing their total constituency in continuous evangelistic action. (Emphasis added.) And so we came to the conviction that the secret of expansion was to be found in this thesis: that the successful expansion of any movement is in direct proportion to its success in mobilizing and occupying its total membership in constant propagation of its beliefs. (Emphasis added.) (George W. Peters, Saturation Evangelism, Zondervan, Grand Rapids, Michigan, 1970. pp. 52-53.)
 
 That is the power of mobilization in any movement. But it is important that the leader in an evangelistic movement ground the effort in sound biblical thinking and true Spirit-empowered action. The mobilization of the whole community of faith in Spirit-empowered witness is a leader’s challenge.
 
@@ -179,11 +187,18 @@ Second, evaluate if there is a body-wide culture of outreach. Like the Samaritan
 
 Reflection or Discussion Questions:
 
-What was your experience in growing as a witness? • When did you begin to share your faith? How did you learn? • Who has been most influential in helping you share your faith? Why? • What has been most effective for you in helping others learn to share their faith?
+What was your experience in growing as a witness?
+
+- When did you begin to share your faith? How did you learn?
+- Who has been most influential in helping you share your faith? Why?
+- What has been most effective for you in helping others learn to share their faith?
 
 What percentage of believers in your ministry are involved in fruitful witness? Why?
 
-Analyze the involvement of believers in your ministry regarding lifestyle witnesses, laborers in the harvest and leaders in evangelism. • Of the three, which appears to be the strongest? Why? • Which of the three appears to be the weakest? Why?
+Analyze the involvement of believers in your ministry regarding lifestyle witnesses, laborers in the harvest and leaders in evangelism.
+
+- Of the three, which appears to be the strongest? Why?
+- Which of the three appears to be the weakest? Why?
 
 What strategic steps can you take to increase the level of involvement of believers in fruitful witness?
 
@@ -191,7 +206,7 @@ What strategic steps can you take to increase the level of involvement of believ
 
 There is only one gospel and it is very important to get it right (Galatians 1:6-9.) But what is the gospel? In order to answer that question, it can be helpful to think in terms of the gospel essence and the gospel in its fullness.
 
-On one hand, the gospel can be distilled down to its essence. We may not say it exactly the same every time, but the critical elements would always be there. What is that essence? Compare Jesus’ summary statement in Luke 24:45-49 with Paul’s in 1 Corinthians 15:1-8. There are common elements in both: • • • • • Who is Jesus? The Christ What has he done? Died and rose again.
+On one hand, the gospel can be distilled down to its essence. We may not say it exactly the same every time, but the critical elements would always be there. What is that essence? Compare Jesus’ summary statement in Luke 24:45-49 with Paul’s in 1 Corinthians 15:1-8. There are common elements in both: Who is Jesus? The Christ What has he done? Died and rose again.
 
 Why? For the forgiveness of sins How do we know? OT Scriptures and resurrection appearances How are we to respond? Repentance (in Luke) and faith/belief (in 1 Corinthians)
 
@@ -267,18 +282,34 @@ What does a movement of evangelism look like? The two-year old church in Ephesus
 - Which of the three relational modes of witness does your ministry emphasize? Which appears to be the most effective? Why?
 - How can you more fully expand each relational mode of witness?
 
-## Evangelism Model: the Biblical Framework
+## Evangelism Model: The Biblical Framework
 
 The Evangelism Model is built upon a theology of evangelism. The following passages are illustrative of its principles.
 
-God: The Master • Christ’s Purpose: God’s Glory (John 17) • Christ’s Passion: Love for the Lost (Matthew 9:35-38) • Christ’s Plan: The Great Commission (Matthew 28:18-20) • Christ’s Power: The Holy Spirit (Acts, the whole book, particularly 1:8; 4) • Our Prayers: Our Dependence (Ephesians 6:19-20; 2 Thessalonians 3:1; Colossians 4:2-4; Matthew 9:37-38)
+God: The Master
 
-The World: The Masses • The Spiritual Context (Ephesians 2:2; 2 Corinthians 4:4; 2 Corinthians 10:3-4) • The Cultural Context (1 Corinthians 9:19-23; Compare the cultural context and messages of Acts 10:34-43 with 17:16-34) • The Social Context (John 1:40-51; Mark 1:16-20; 2:13-17; John 4:39-42; Acts 10:24) • The Personal Context » Spiritual Proximity » The Pharisees (contrast Mark 12:34 with Matthew 23, particularly 15, 27)
+- Christ’s Purpose: God’s Glory (John 17)
+- Christ’s Passion: Love for the Lost (Matthew 9:35-38)
+- Christ’s Plan: The Great Commission (Matthew 28:18-20)
+- Christ’s Power: The Holy Spirit (Acts, the whole book, particularly 1:8; 4)
+- Our Prayers: Our Dependence (Ephesians 6:19-20; 2 Thessalonians 3:1; Colossians 4:2-4; Matthew 9:37-38)
+
+The World: The Masses
+
+- The Spiritual Context (Ephesians 2:2; 2 Corinthians 4:4; 2 Corinthians 10:3-4)
+- The Cultural Context (1 Corinthians 9:19-23; Compare the cultural context and messages of Acts 10:34-43 with 17:16-34)
+- The Social Context (John 1:40-51; Mark 1:16-20; 2:13-17; John 4:39-42; Acts 10:24)
+- The Personal Context » Spiritual Proximity » The Pharisees (contrast Mark 12:34 with Matthew 23, particularly 15, 27)
 
 The Crowds (compare Acts 2:40-41 with Acts 17:16-34) » Spiritual Process » Consider Paul’s life-story —His upbringing and education (Phil. 3:5) —His life as a Pharisee (Phil. 3:6; Acts9:1,2) —His encounter on the road (Acts 9:37) —His three days in Damascus (Acts 9:8) —His visit by Ananias (Acts 9:10-19)
 
-Or consider Timothy’s life-story (or others) Believers: The Messengers • Compare and contrast each of these witnesses (consider their maturity, impact, motivation, message, relationship to audience, etc.) » Lifestyle Witness: The Samaritan Woman » (John 4:28-30) » Laborers: The Twelve & the 72 Disciples » (Luke 9:1-6; 10:1-20) » Leaders: The Apostles (Acts 5:41-42) » The Gospel: The Message • The Essence of the Gospel » Compare 1 Corinthians 15:1-8 with Luke » 24:45-48 • The Essence of the Gospel » Matthew, Mark, Luke, John, » » Luke 24:44 [Old Testament writings] » » Romans [and New Testament Epistles] » • Various Gospel Messages » Theologically framed presentations (Acts » 2:14-39; Book of Romans) » Life-story or testimonial presentations » (John 4:28-30, 39-42; Acts 26) » Historical narratives (Matthew, Mark, Luke, » John, Acts 7; Acts 13:16-44) » Philosophical arguments (Acts 17:22-31) » » Non-historical stories (The Parables; Mark » 4:33-34) » Guided conversations (John 3:1-21 ; John » 4:7-26)
+Or consider Timothy’s life-story (or others) Believers: The Messengers
 
-Effective Communication: The Methods • The use of the agricultural cycle as a witnessing analogy: Cultivating – Planting – Watering - Reaping Cultivating » While plowing is not used biblically in » witnessing contexts, preparing the land for planting was an assumed agricultural practice (see Luke 9:62 » Planting & watering (1 Corinthians 3:5-9 » » Planting & reaping (John 4:35-38) » » Reaping (Matthew 9:37, 38) »
+- Compare and contrast each of these witnesses (consider their maturity, impact, motivation, message, relationship to audience, etc.) » Lifestyle Witness: The Samaritan Woman » (John 4:28-30) » Laborers: The Twelve & the 72 Disciples » (Luke 9:1-6; 10:1-20) » Leaders: The Apostles (Acts 5:41-42) » The Gospel: The Message
+- The Essence of the Gospel » Compare 1 Corinthians 15:1-8 with Luke » 24:45-48
+- The Essence of the Gospel » Matthew, Mark, Luke, John, » » Luke 24:44 [Old Testament writings] » » Romans [and New Testament Epistles] »
+- Various Gospel Messages » Theologically framed presentations (Acts » 2:14-39; Book of Romans) » Life-story or testimonial presentations » (John 4:28-30, 39-42; Acts 26) » Historical narratives (Matthew, Mark, Luke, » John, Acts 7; Acts 13:16-44) » Philosophical arguments (Acts 17:22-31) » » Non-historical stories (The Parables; Mark » 4:33-34) » Guided conversations (John 3:1-21 ; John » 4:7-26)
+
+Effective Communication: The Methods · The use of the agricultural cycle as a witnessing analogy: Cultivating – Planting – Watering - Reaping Cultivating » While plowing is not used biblically in » witnessing contexts, preparing the land for planting was an assumed agricultural practice (see Luke 9:62 » Planting & watering (1 Corinthians 3:5-9 » » Planting & reaping (John 4:35-38) » » Reaping (Matthew 9:37, 38) »
 
 - The Relational Modes of Witness » The Body Witness (Acts 2:42ff; John 13:34- » 35; 17:22-23; 1 Corinthians 11:26) » The Natural Witness (John 1:40-51; 4:28-42; » Luke 8:38-39; Colossians 4:5,6; 1 Pet. 3:15) » The Ministry Witness (Mark 1:38, 39; Luke » 9:1-66; 10:1-17, Acts 5:41-42; 8:5ff, 26ff; 11:19- 21; 11:22-24; ch. 13 to the end) » The synergy of all three working together » (Acts 19:1-20)

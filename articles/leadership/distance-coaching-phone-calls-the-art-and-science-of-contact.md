@@ -19,7 +19,7 @@ INVESTIGATIVE BIBLE STUDY 1 THE ART AND SCIENCE OF CONTACT1
 
 Jill Young Jill Young works with the Student LINC ministry in Orlando, Florida. She coaches students in the Southeast region. Jill loves taking her 13-foot Sunfish sailboat out on the lakes of Central Florida.
 
-## The first time I gained an under-
+## The first time I gained an under
 
 standing of distance ministry was talking with a Southeast LINC staff woman at a regional staff gathering.
 
@@ -53,47 +53,47 @@ How does the person sound? Excited, down, encouraged or discouraged? Why is ther
 
 One time, I was talking with a student and heard the clicking of a keyboard in the background. I asked, “What’s that noise I hear?” He said, “Oh, I’m typing.” Wanting to believe the best, I said, “Are you taking notes on our conversation?” He said, “No, I’m doing my e-mail. I can listen and do e-mail at the same time.” I told him that I’m sure he could but that I’d appreciate him giving me his full attention because it was like him talking to two people at the same time. One of us would feel left out because his attention was else-where. He understood and has never done that since. Another time, I was talking with a student and she was telling me about a difficult situation and then she stopped mid-sentence. I wasn’t sure what happened, so I asked, “Are you crying?” There was a muffled, “Mm-hmm,” on the other end of the line. I wanted to jump into the phone and put an arm around her shoulder and give her a big hug. Since I couldn’t do that, I told her my intentions and sent an e-mail later with some encouragement. The Science The appointment itself is similar to appointments I had on campus. I think through ahead of time what items to cover. It seems this is more crucial on the phone since I get one shot with not just a student, but the student leader. Another benefit is that the student or volunteer is usually excited to hear from me because they need direction, encouragement and training. Generally, the first 10-15 minutes is devoted to seeing how they are doing and listening for clues for what could be beneath. Many times I find people are much more open on the phone than in person because of the safety of distance. This helps since I don’t have the “down time” to just hang out with them. The next 30-45 minutes I use to coach them in the next step of train-ing for them personally and/or just talking about the next step for the move-ment on their campus.
 
-Recently, the ministry at Flagler Orlando and most of the campuses I work with are in Florida, the assump- College seemed to going well and I tion is that I’m on the road a great deal. If I could narrow down the two noticed that the student leader weighty benefits I’ve experienced from doing distance ministry over the talked frequently about giving his phone, they would be time effectiveness and student ownership. testimony. So, I asked him to e-mail me his testimony. With Bart on his Using the phone cuts down on travel time. Jacksonville is only a three-hour cell phone (I can hear the bell tower drive from Orlando. I travel there only once a year. Every time I travel there on his campus) it kills me to think about how many campuses I could be and me correct-
+Recently, the ministry at Flagler Orlando and most of the campuses I work with are in Florida, the assump-College seemed to going well and I tion is that I’m on the road a great deal. If I could narrow down the two noticed that the student leader weighty benefits I’ve experienced from doing distance ministry over the talked frequently about giving his phone, they would be time effectiveness and student ownership. testimony. So, I asked him to e-mail me his testimony. With Bart on his Using the phone cuts down on travel time. Jacksonville is only a three-hour cell phone (I can hear the bell tower drive from Orlando. I travel there only once a year. Every time I travel there on his campus) it kills me to think about how many campuses I could be and me correct-
 
-### I wasn’t sure what
+I wasn’t sure what
 
 talking with on the phone as the hours pass. I travel to ing on the com-lead a leadership workshop seminar. It lasts about eight puter, we reviewed his tes-
 
-### happened, so I
+### Happened, so I
 
 hours from start to finish. I cover leadership principles from the Word, our leadership model and give the leaders timony. It was a great appoint-
 
-### asked, "Are you
+### Asked, "Are you
 
 from the campuses which are represented time to plan the first six weeks of the following fall. ment. I sent him the updated ver-
 
-### crying?" There
+### Crying?" There
 
 I also get sick when I think about how many hours I spent sion for him to complete.
 
-### was a muffled,
+was a muffled,
 
 doing “expansion work” as a new staff member. I drove with another staff guy for a total of four hours once a My frequent out-
 
-### "Mm-hmm," on
+"Mm-hmm," on
 
 week. Every single one of those appointments I could have done on the phone. None of our evangelistic con-line for an appointment is
 
-### the other end of
+the other end of
 
 tacts ever showed and doing “randoms” really didn’t bear much fruit. using the critical path elements
 
-### the line. I wanted
+the line. I wanted
 
 as a springboard for questions.
 
 How is prayer going? What’s happening with people sharing
 
-### to jump into the phone and put an arm around her
+to jump into the phone and put an arm around her
 
 The phone also helps with the “no shows.” Usually the student or volunteer is there for me when I call, but on occasion, an appointment is missed. No time is lost on trying to figure out the next thing to do. I can call other contacts to find out their interest, mail some items, work on other ministry projects. their faith? What material are the leaders using in cell groups? Who is the point-per-
 
-### shoulder and give her a big hug.
+shoulder and give her a big hug.
 
 son for recruiting people to Christmas conference?
 

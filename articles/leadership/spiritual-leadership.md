@@ -11,8 +11,6 @@ summary: "An article by Eric Swanson defining spiritual leadership through Jesus
 source: "Launching a New Ministry/Ministry Leadership/Spiritual Leadership.pdf"
 ---
 
-## Eric Swanson
-
 Wherever the work of God has gone forward, it has always had a leader at the helm. It has been a singular person called by God to lead people to accomplish his objectives.
 
 ## What Is Spiritual Leadership?

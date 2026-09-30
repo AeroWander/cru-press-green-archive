@@ -12,7 +12,7 @@ summary: "An article by Eric Swanson on the rationale and criteria for evangelis
 source: "Evangelism/traning/Evangelistic Strategies.pdf"
 ---
 
-## Cru.comm Bible Study Curriculum
+Cru.comm Bible Study Curriculum
 
 Cru.Comm is the Campus Ministry’s core Bible study content. Over 110 Bible studies, written to ensure that everyone involved in our ministry is grounded in our classic, biblical teaching and training.
 
@@ -22,9 +22,7 @@ Each of the studies presents classic, transferable Campus Crusade teaching throu
 
 Content includes book studies on Luke, Ephesians, Thessalonians, James, 1 Samuel, John, and Acts. In addition, there are topical studies on issues such as spiritual leadership, God’s redemptive plan, and Old Testament character studies.
 
-## Order Online at Crupress.com Article
-
-### • Eric swanson
+Order Online at Crupress.com Article
 
 Peter Drucker, in his book Managing the Non-Profit Organization, has noted that, “Good intentions don’t move mountains, bulldozers do.” Our good intentions are our vision and mission statements...our dreams. Our strategies are our bulldozers. Strategies convert intention into action. Strategies tell us the what, when, and by whom of our purpose. Strategies are a means to an end, not an end in themselves. They are the answer to the question, “How can we reach our campus.”
 
@@ -93,6 +91,6 @@ Whenever a method is successful, the temptation arises to think it will work any
 
 4. The Right People. God brings the harvest to ripeness, but He does not harvest it. He uses Christian people to accomplish that task, and He is glorified when His people “bear much fruit” (John 15:8). The right person is the person entirely filled with the Holy spirit. He abides in Jesus. He is fully committed. He takes up his cross daily and follows his Master. Without “Strategy 4,” the first three are dead letters.
 
-End The Compass is the discipleship curriculum for Campus Crusade for Christ’s Campus Ministry. It was created by Centerfield Productions, the field based division of CruPress. We’d love to hear your feedback on this lesson. Please write us at centerfield@uscm.org ©2007 Cru Press, Campus Crusade for Christ, Inc. All rights reserved.
+End The Compass is the discipleship curriculum for Campus Crusade for Christ’s Campus Ministry. It was created by Centerfield Productions, the field based division of CruPress. We’d love to hear your feedback on this lesson. Please write us at centerfield@uscm.org All rights reserved.
 
 No part of this publication may be digitally reproduced, stored in a retrieval system, or transmitted, without the prior permission of Cru Press.

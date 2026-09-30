@@ -11,8 +11,6 @@ summary: "Article by Rick James on the role faith plays alongside prayer, commun
 source: "Building Community/Men and Women/Men/The Role of Faith in Spiritual Growth.pdf"
 ---
 
-## Rick James
-
 deaf-ear to the promises made by lust and the lies and rationalizations of our own heart. In the book of James, the author makes a strong argument that faith and works go together. His point is that faith is not simply a state of mind, but is expressed by our choices. To believe God is to act out on his promises. To act out on the lies of lust is unbelief. To believe God is to obey what he said.
 
 In his book “Not Even a Hint,” author Joshua Harris states, “I’ve come to believe that lust may be the defining struggle for this generation.” Purity is perhaps the hardest battle we will ever fight in our quest for holiness. That being the case, it requires the employment of all of our spiritual weapons, not simply one or two.

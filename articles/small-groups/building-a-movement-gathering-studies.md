@@ -21,4 +21,4 @@ The answer to this dilemma for many campuses has been to hold several open, co-e
 
 Another advantage of these open, gathering studies is that you can broadly publicize them and even invite out non-Christians, especially if you make the topic of the study something even a new or non-believer could get something out of like a study of The Beatitudes, or the Parables of Jesus.
 
-Attached is the content and publicity for a gathering study from Cru.comm © 2010, CruPress, All Rights Reserved. CruPress.com
+Attached is the content and publicity for a gathering study from Cru.comm

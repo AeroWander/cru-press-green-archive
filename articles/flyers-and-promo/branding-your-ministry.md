@@ -11,8 +11,6 @@ summary: "An article by Tim Henderson describing how the Cru ministry at Penn St
 source: "Small Groups and Meetings/Posters and Publicity copy/Branding Your Ministry.pdf"
 ---
 
-## Tim Henderson
-
 to branding the ministry on your campus(es), we have found several benefits at Penn State. The whole process has helped us think through what we value, and has given us a way to champion and showcase it to the students in our movement and those we are trying to reach. We think it also helps us to have a clear, repeated, and recognizable visual image as we try to help 42,000 students know we are here. The bulletin boards crowd up quickly and I think a consistent image sticks better in student’s minds.
 
 A couple of years ago we decided to hire a design firm to help us brand Campus Crusade for Christ at Penn State. Essentially that means we wanted them to help us think through a visual way to consistently represent the essence of Cru to the students here. In particular we wanted a recognizable, cost-effective way to repeat over and over that Cru is a place on campus where you can find authentic relationships, and thoughtful answers to life’s questions.

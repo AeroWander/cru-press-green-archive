@@ -13,8 +13,6 @@ toc: false
 source: "added/A theology of Cities.pdf"
 ---
 
-## Timothy Keller
-
 As more and more people become city-dwellers it is imperative that the church understands how to reach out to the expanding cities of the 21st century. Here Tim Keller shares some biblical insights.
 
 ## The Meaning of the City
@@ -89,7 +87,7 @@ Since the human heart is made in the image of God and is totally depraved, there
 - In the city you will find that the poor and the broken are often much, much more open to the idea of gospel grace and much more dedicated to its practical outworkings than you are.
 - You should eventually come to see that you need the city more than the city needs you.
 
-## How to Live in the City A. Models of Life in the City
+How to Live in the City A. Models of Life in the City
 
 In every earthly city, there are two ‘kingdoms’ present, two ‘cities’ vying for control. They are the City of Baal (or Satan or the god of this world) and the City of God.
 
@@ -98,7 +96,7 @@ In every earthly city, there are two ‘kingdoms’ present, two ‘cities’ vy
 - Christians are to see the earthly city as something to love and win. They are to win it by seeking its shalom (Jeremiah 29) and seeking to spread the city of God within it, and to battle the city of Satan within it.
 - We are to see that, though the fight between these two kingdoms happens everywhere in the world, earthly cities are the flashpoints on the battlelines, the places where the fighting is most intense, where the war can be won.
 
-Models of urban ministry are then: • • • • We despise the city. Church as fortress.
+Models of urban ministry are then: We despise the city. Church as fortress.
 
 (Forgetting the city as Jerusalem).
 

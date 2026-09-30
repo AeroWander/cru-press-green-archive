@@ -14,7 +14,7 @@ source: "Launching a New Ministry/Ethnic_ Contextualized Ministries/Impact.pdf"
 
 African descent gather. talk with black students about the campus, learn about existing black student groups and expose yourself to cultural events sponsored by communities of African descent.
 
-## Impactmovement.com
+Impactmovement.com
 
 Find an Impact person of peace. Explore possibilities with local black churches, meet with the president of the gospel choir or other existing black organizations, share the Impact vision with students already involved with Campus Crusade. You can also distribute Impact Kits at key times to meet more students.
 

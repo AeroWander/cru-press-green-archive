@@ -11,13 +11,11 @@ summary: "An article by Eric Swanson applying Stephen Covey's Seven Habits of Hi
 source: "MTL/Lead Your Team/Seven Habits.pdf"
 ---
 
-## Eric Swanson
-
 with the golden eggs, we may, like the man in the fable, end up killing the goose. Viewed through the eyes of a team leader, many of the Seven Habits may be instrumental in helping you be a more effective leader. Let’s take a look at them.
 
 In 1989 Stephen Covey wrote the best-selling book The Seven Habits of Highly Effective People. Covey begins this book by reviewing the “success literature” in the United States written since 1776. Covey concludes that success for the first 150 years was based on the “character ethic”--that the foundations for success were deeply rooted in our character. “The character ethic is based on the fundamental idea that there are principles that govern human effectiveness...” Principles would include fairness, integrity, honesty, service, dignity, excellence, the Golden Rule, etc. Shortly after World War I, the character ethic was slowly replaced with the “personality ethic”--public relations techniques or developing a positive mental attitude. In short-lived human interactions we can get by with the personality ethic but “eventually if there isn’t deep integrity and fundamental character strength, the challenges of life will cause true motives to surface.... In the end, what we are communicates far more eloquently than anything we say or do.”
 
-## Habit #1--Be Proactive
+Habit #1--Be Proactive
 
 Being proactive means more than taking the initiative. It means that we, by and large, are responsible for our own lives and the choices that we make. Although genetic, parental and environmental factors certainly influence our behavior and our lives, they do not have to determine who we are or what we choose. Unless we believe that we are who we are today because of the choices we have made we can never choose to be any different. We can’t choose what happens to us but we can choose how we will respond. This is consistent with Biblical anthropology. Being proactive means that we are responsible--we have the ability to respond. We don’t have to react. In this regard Joseph, in Genesis 37-50 was a proactive person. Being proactive involves at least three areas:
 

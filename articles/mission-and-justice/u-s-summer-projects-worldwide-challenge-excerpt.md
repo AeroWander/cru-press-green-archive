@@ -15,15 +15,13 @@ Worldwide Challenge is the award-winning, bi-monthly publication of Campus Crusa
 
 The mission of Worldwide Challenge is to show how God is directing the hearts and hands of Campus Crusade for Christ staff and volunteers around the world and to challenge readers to join with us in making Christ known
 
-### Online at Worldwidechallenge.org
-
 From artists in New York to a rugby player in Thailand, students travel to talk about Jesus. in Conflict? Dig for the Truth | page 38 the Secret of Contentment | page 43
 
-### Jeanmarie Berg leaves North Dakota for a life-changing beachside summer project.
+Jeanmarie Berg leaves North Dakota for a life-changing beachside summer project.
 
 eanmarie Berg spent her previous summer doing what she had determined she would never do : drinking alcohol.
 
-Her home state of North Dakota is No. 1 in the Unit-ed States for underage binge drinking. Jeanmarie, the fourth of five children, knew that and wanted more for her life, so she never touched the stuff in high school. But her first summer home from college, she caved under peer pressure. She began joining her friends in the wheat fields for the drinking parties.
+Her home state of North Dakota is No. 1 in the Unit-ed States for underage binge drinking. Jeanmarie, the fourth of five children, knew that and wanted more for her life, so she never touched the stuffin high school. But her first summer home from college, she caved under peer pressure. She began joining her friends in the wheat fields for the drinking parties.
 
 Since her parents had imparted a love for Jesus to her at an early age, she knew that she wasn’t living the abundant life in Christ, and she also felt tremendous guilt. Yet she felt almost like she couldn’t stop.
 
@@ -89,9 +87,9 @@ With each new experience and step of faith, Jeanmarie’s life was changing. “
 
 She doesn’t worry about wasting any more of her summers being influenced by others for bad. Instead, Jeanmarie is influencing people for the Lord. It was a completely different way to spend her summer, and it is a summer she will never forget. n Jeanmarie sprawls across the laps of a few of her new friends on the project—they have quickly become close. At left, project members prepare for an outreach in the San Diego sunshine.
 
-### sum me r
+### Sum me r
 
-## Sp Sp
+*Sp Sp*
 
 WWC: How did you begin to incorporate your faith and your art? Leigh Ann: I always wanted to be an artist and studied it in college. In my second year, God got hold of my heart and I began to understand the Spirit-filled life. Looking back many years later, I realized that I never fully grasped how to integrate my art and my faith. I started going to Spain in the summer to engage college students with the gospel. I liked it so much that I moved there. We began to use art to engage students in the dialog. All my years of investing in college students were now growing into a desire to help emerging artists understand their calling as artists and believers. WWC: What does it mean to help them make that connection? Leigh Ann: Many Christian artists think that they can only create something that leads people directly to Jesus or uses Jesus as the subject matter. We don’t ask accountants to crunch numbers that are salvific, so why do we ask it of artists? Instead, we ask the Leigh Ann Dull (far left) co-directs the Tribeca Arts Project, incorporating her faith with her interest in art. Brian Dang and Desireé Rindall work on a mural depicting the devastation and rebuilding of New Orleans (left).
 
@@ -99,15 +97,15 @@ Leigh Ann, like the other project’s staff members and participants, talks with
 
 WWC: I imagine the students feel a real camaraderie and a new view of how to live out their faith.
 
-Leigh Ann: Definitely. Many feel for the first time an understanding of how their art can instantly open a door for dialogue and opportu-nities to tell others about their faith journey. They see that by pursuing their art with excellence, honesty and hope, it can allow them to connect with people in a real and vulnerable way. But this is not easy, it is hard work and takes incredible discipline and time. Artists cre- Student Josh Nix listens during a seminar by project director Kirk Irwin (top).
+Leigh Ann: Definitely. Many feel for the first time an understanding of how their art can instantly open a door for dialogue and opportu-nities to tell others about their faith journey. They see that by pursuing their art with excellence, honesty and hope, it can allow them to connect with people in a real and vulnerable way. But this is not easy, it is hard work and takes incredible discipline and time. Artists cre-Student Josh Nix listens during a seminar by project director Kirk Irwin (top).
 
-Kaitlin Niewoehner took part in the artistry-in-dance part of the project (above). ate with a desire for their work to elicit a response and have an impact on a person. They’re like prophets in our culture and through their work can draw people to a greater desire and understanding of our Creator. Their art is a guidepost, but they are the gospel. WWC: What was the highlight of the summer for you? Leigh Ann: We do a showing of the students’ art at the end of the project at a gallery. We publicize it all over the city. It’s amazing for a college student to show in New York, so it builds great confidence for them. About 150 came to the event, and it reinforced the idea that artists can glorify God with their work and engage people in dialog toward a greater understanding of the gospel. n
+Kaitlin Niewoehner took part in the artistry-in-dance part of the project (above). ate with a desire for their work to elicit a response and have an impact on a person. They’re like prophets in our culture and through their work can draw people to a greater desire and understanding of our Creator. Their art is a guidepost, but they are the gospel. WWC: What was the highlight of the summer for you? Leigh Ann: We do a showing of the students’ art at the end of the project at a gallery. We publicize it all over the city. It’s amazing for a college student to show in New York, so it builds great confidence for them. About 150 came to the event, and it reinforced the idea that artists can glorify God with their work and engage people in dialog toward a greater understanding of the gospel.
 
 ### Detroit’s inner city becomes a greenhouse for spiritual growth.
 
 Surfing through the Campus Crusade for Christ summer projects Web site last spring, Leah Munley accidentally clicked on the wrong link. The 21-year-old college student from Pleasanton, Calif., thought she was check-ing into a project for teachers, but instead she clicked on the one from Here’s Life Inner City in Detroit—a five-week experience in one of the country’s most crime-ridden cities. Leah (opposite page) believed this was no coincidence. That year, she had been studying Scripture about God’s concern for the poor, and she discussed inner-city ministry with friends. She sensed that God wanted her to go to Detroit, and on this whim, she signed up. ¶ The following are several excerpts from Leah’s journal detailing her summer experience—the highs and lows of a self-proclaimed “suburbanite” learning to do ministry in the heart of the city.
 
-## mission motown
+mission motown
 
 ### June 15
 
@@ -141,7 +139,7 @@ Lord, remind me that You’re at the center of all of these struggles.
 
 ### June 25
 
-Sitting at Starbucks… I wonder what my “quiet time” would look like without this iPod—if I were soaked, outside in the pouring rain with an old tattered Bible and maybe only a napkin to write on, with no coffee (that cost $4.30) and no home to return to afterwards? God, what does my relationship with You look like detached from all of these things? Untie me from the illusion of the safety and comfort of my things.
+Sitting at Starbucks… I wonder what my “quiet time” would look like without this Ipod—if I were soaked, outside in the pouring rain with an old tattered Bible and maybe only a napkin to write on, with no coffee (that cost $4.30) and no home to return to afterwards? God, what does my relationship with You look like detached from all of these things? Untie me from the illusion of the safety and comfort of my things.
 
 I just saw a man walk by carrying a sleeping bag, soaked by the rain. Why doesn’t he have a safe, warm place to lay his head?
 
@@ -161,7 +159,7 @@ Throughout the five weeks, Leah says she grew more accustomed to the environment
 
 Other members of the project, helping at a different church, say goodbye to a group of children (bottom, left).
 
-## involved in their lives.” —Leah Munley to love peoPLe and become “God is just giving me a heart
+involved in their lives.” —Leah Munley to love peoPLe and become “God is just giving me a heart
 
 tepping onto the practice field, Justin Allison couldn’t help but feel out of place. This was still rugby, with all its familiar elements: same ball, same athletic demand, same near- brawls during the matches. Yet there was one distinct difference this time: Justin was almost a head taller than most of the players, and no one was speaking English.
 
@@ -169,13 +167,13 @@ Justin liked to stretch limits in his life, but this was further than anyone tho
 
 Thailand.
 
-### sum me r
+### Sum me r
 
 t seemed like a random place to go,” Justin remembers. He didn’t know much about the country formerly known as Siam, and other countries made more sense for him to visit, like Scotland, where he’ll be spending a semester abroad studying philosophy. Thailand, on the other hand, a land of elephants and Buddhas, had almost nothing in common with the razorbacks and country music of Arkansas. But through his involvement with Campus Crusade for Christ, Justin heard about international summer mission trips, and learned that several other students from his school were going to Thailand. He knew a mission trip would be a productive and challenging way to spend his summer, and before long, he was on board with eight other students and one Campus Crusade staff member. They spent five weeks in Thailand, the majority of it in Chiang Mai, Thailand’s “Rose of the North,” meeting students at two uni-versities and teaming up with Thai Campus Crusade staff members like Wanchai “Pai” Kakho. For the last four years, Pai has helped build ministries on the college campuses, connecting Christian students and explaining the gospel to others. The Americans helped to jump-start the school year for the Thailand ministry by meeting hundreds of students throughout the summer and helping them get connected with the ministry.
 
 “Thai students like to be friends with Americans,” says 26-year-old Pai, “and they create an exciting atmosphere for the Thai students to follow and serve Christ.”
 
-Early on, Justin learned that there were several rugby teams on campus. As he talked with students, he secretly hoped he would be able to meet a rugby player, a link to make friends on the team and open more doors for Pai and the Thai staff members. With only a short amount of time in Thailand, building relation- It took four flights for Justin and his teammates to get to Chiang Mai, Thailand (above). In a university cafeteria, Justin and Pai, a Thai Campus Crusade staff member, pray with Arm (center), a Thai student who rededicates his life to following Christ (below).
+Early on, Justin learned that there were several rugby teams on campus. As he talked with students, he secretly hoped he would be able to meet a rugby player, a link to make friends on the team and open more doors for Pai and the Thai staff members. With only a short amount of time in Thailand, building relation-It took four flights for Justin and his teammates to get to Chiang Mai, Thailand (above). In a university cafeteria, Justin and Pai, a Thai Campus Crusade staff member, pray with Arm (center), a Thai student who rededicates his life to following Christ (below).
 
 ships quickly was key, but not always easy.
 

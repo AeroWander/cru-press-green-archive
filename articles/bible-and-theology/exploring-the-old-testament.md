@@ -11,7 +11,7 @@ summary: "Step Nine of Dr. Bill Bright's 'Ten Basic Steps to Christian Maturity'
 source: "Discipleship/Mature Teaching/Exploring the Old Testament.pdf"
 ---
 
-## The 1O Basic Steps—bill Bright Ten Basic Steps to Christian Maturity
+The 1O Basic Steps—bill Bright Ten Basic Steps to Christian Maturity
 
 What follows is Step Nine of Dr. Bill Bright’s classic Christian growth series, “Ten Basic Steps to Christian Maturity.” All ten Steps can be viewed online at: It is this first act in the drama of mankind that sets the stage for all that is to follow. If there had been no sin, there would have been no need for redemption, and no need for a Bible to tell us the way of redemption. www.tenbasicsteps.org This lesson focuses on the origins of man and sin and the results of the fall. As you study, relate the events of our earliest history to the condition of our present world and how it affects you today.
 
@@ -115,7 +115,7 @@ While Jesus presents the ultimate portrait of God’s grace, one cannot fail to 
 
 ## Law and Grace
 
-Read: Galatians 3 THE LAW When the “Law” is mentioned, the thing that most commonly comes to mind is the Ten Commandments. The Ten Commandments are listed in Exodus 20 and are repeated in Deuteronomy 5. They are as follows: • • • • • • • • • • You shall have no other gods before me.
+Read: Galatians 3 THE LAW When the “Law” is mentioned, the thing that most commonly comes to mind is the Ten Commandments. The Ten Commandments are listed in Exodus 20 and are repeated in Deuteronomy 5. They are as follows: You shall have no other gods before me.
 
 You shall not make for yourself an idol in the form of anything.
 
@@ -219,13 +219,13 @@ The same Holy Spirit who empowered the prophet indwells every child of God today
 
 Although we may wish to perform amazing miracles for our Lord, our first priority is to focus on our relationship with Him. He can use us only when we are totally and unconditionally surrendered to His plan and purpose for our lives.
 
-ELIJAH Read I Kings 17:1-7. Indicate whether the following statements are true or false. • • • The cessation of rain is dependent on all these factors: God lives; Elijah lived in His presence; and Elijah’s word controlled the rain.
+ELIJAH Read I Kings 17:1-7. Indicate whether the following statements are true or false. The cessation of rain is dependent on all these factors: God lives; Elijah lived in His presence; and Elijah’s word controlled the rain.
 
 The Bible says that Elijah searched eagerly for the will of God.
 
-The prophet obeyed orders for the immediate future, though he did not know how it would turn • • out.
+The prophet obeyed orders for the immediate future, though he did not know how it would turn out.
 
-Elijah thought the plan was absurd, and hesitated. The brook dried up, proving he was right. THE WIDOW Read I Kings 17:8-24. Indicate whether the following statements are true or false. • • • Strict, implicit obedience characterized Elijah. When her boy died, guilt turned the widow’s eyes upon herself.
+Elijah thought the plan was absurd, and hesitated. The brook dried up, proving he was right. THE WIDOW Read I Kings 17:8-24. Indicate whether the following statements are true or false. Strict, implicit obedience characterized Elijah. When her boy died, guilt turned the widow’s eyes upon herself.
 
 God desires to remove from our lives the guilt that can cripple our faith in time of crisis.
 
@@ -233,7 +233,7 @@ Do you think it was humiliating to take a step of faith that made him dependent 
 
 Ahab refused to acknowlege the real reason for the problem. Nevertheless, Elijah recognized the real reason. Describe a time when you were the cause of a problem for others that you did not acknowledge. What was the result?
 
-How can you avoid sin? Proverbs 3:5-6 PROPHETS OF BAAL Read I Kings 18-40. Write the verse number(s) in which Elijah did the following: • • • • • • • Rebuked the people for compromise.
+How can you avoid sin? Proverbs 3:5-6 PROPHETS OF BAAL Read I Kings 18-40. Write the verse number(s) in which Elijah did the following: Rebuked the people for compromise.
 
 Challenged the enemies of God to a contest. Blasted them with withering sarcasm.
 

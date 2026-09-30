@@ -12,8 +12,6 @@ source: "Discipleship/Basic Growth Concepts/Walking in the Spirit.pdf"
 also_filed: ["Launching a New Ministry/Launching a Ministry/Students Launching A Ministry–Starter Kit/Students_Launching_A_Ministry_Starter_Kit-1/17. Walking in the Spirit.pdf"]
 ---
 
-## Rick James
-
 When you became a Christian, Christ indwelled you through the person of the Holy Spirit. I know neither the how nor the where, but I do know that the Holy Spirit’s indwelling presence carries with it the assurance of our salvation. “Having believed, you were marked in him with a seal, the promised Holy Spirit, who is a deposit guaranteeing our inheritance until the redemption of those who are God’s possession” (Ephesians 1:13-14).
 
 “When he, the Spirit of truth, comes, he will guide you into all truth. He will not speak on his own; he will speak only what he hears, and he will tell you what is yet to come. He will bring glory to me by taking from what is mine and making it known to you” (John 16:13-14).

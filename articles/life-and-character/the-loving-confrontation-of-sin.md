@@ -12,7 +12,7 @@ source: "Discipleship/How to Disciple Others/The Loving Confrontation of Sin.pdf
 also_filed: ["Building Community/Community and Relationships/The Loving Confrontation of Sin.pdf"]
 ---
 
-## Jana Holley Let’stalk About Sin—yours
+Jana Holley Let’stalk About Sin—yours
 
 I have a friend who has a problem. She’s struggling with a particular sin. Unfortunately she doesn’t know she’s struggling. She’s living unaware of her sin. But I’ve witnessed the struggle. I’ve watched her and seen the ill effects it’s having in her life. And I know others who’ve witnessed her struggle. It’s been subtle and slowly built over time, but it’s there. The Holy Spirit has confirmed in my spirit that she has a problem. The hard part is not knowing what to do about it. was being driven by her emotions, not seeking truth in a particular situation. She was in a mode of what I later nicknamed “emotions in motion.” So I put my arms around her and lovingly and gently listened to her pain and when the time was right, I spoke some gentle truth to her. Not quite. Remember, this was long before “WWJD” so I was left to my own walk with the Lord and spiritual maturity from which to draw. Though it’s been several years, I’m pretty sure the conversation went something like this:
 

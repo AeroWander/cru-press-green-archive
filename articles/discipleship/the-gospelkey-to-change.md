@@ -12,9 +12,9 @@ summary: "An article by Timothy Keller explaining the gospel as the driving dyna
 source: "added/Gospel_KeytoChange_TimKeller.pdf"
 ---
 
-## Tim Keller the Gospel Dynamic
+## The Gospel Dynamic
 
-The Greek term “gospel” (ev-angelion) distinguished the Christian message from that of other religions. An ‘ev-an- gel’ was news of a great historical event, such as a victory in war or the ascension of a new king, that changed the listeners’ condition and required a response from the listener. What is this news? God has entered the world in Jesus Christ to achieve a salvation that we could not achieve for ourselves.
+The Greek term “gospel” (ev-angelion) distinguished the Christian message from that of other religions. An ‘ev-angel’ was news of a great historical event, such as a victory in war or the ascension of a new king, that changed the listeners’ condition and required a response from the listener. What is this news? God has entered the world in Jesus Christ to achieve a salvation that we could not achieve for ourselves.
 
 In this article Tim Keller explains how the gospel is the dynamic for all heart-change, life-change, and social-change, examining three principles:
 

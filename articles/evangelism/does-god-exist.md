@@ -11,7 +11,7 @@ summary: "An article by Marilyn Adamson (a Cru/CruPress evangelistic resource) p
 source: "Evangelism/apologetic/Six Reasons.pdf"
 ---
 
-## Marilyn Adamson Six Straight-forward Reasons
+## Six Straight-forward Reasons
 
 Just once wouldn’t you love for someone to simply show you the evidence for God’s existence? No arm-twisting. No statements of, “You just have to believe.” Well, here is an attempt to candidly offer some of the reasons which suggest that God exists.
 
@@ -73,7 +73,7 @@ We know God exists because he pursues us. He is constantly initiating and seekin
 
 I was an atheist at one time. And like many atheists, the issue of people believing in God bothered me greatly. What is it about atheists that we would spend so much time, attention, and energy refuting something that we don’t believe even exists?! What causes us to do that? When I was an atheist, I attributed my intentions as caring for those poor, delusional people...to help them realize their hope was completely ill-founded. To be honest, I also had another motive. As I challenged those who believed in God, I was deeply curious to see if they could convince me otherwise. Part of my quest was to become free from the question of God. If I could conclusively prove to believers that they were wrong, then the issue is off the table, and I would be free to go about my life.
 
-## The Dna Code
+*The Dna Code*
 
 The DNA code informs, programs a cell’s behavior. All instruction, all teaching, all training comes with intent. Someone who writes an instruction manual does so with purpose. Did you know that in every cell of our bodies there exists a very detailed instruction code, much like a miniature computer program? As you may know, a computer program is made up of ones and zeros, like this: 110010101011000. The way they are arranged tell the computer program what to do. The DNA code in each of our cells is very similar. It’s made up of four chemicals that scientists abbreviate as A, T, G, and C. These are arranged in the human cell like this: CGTGTGACTCGCTCCTGAT and so on. There are three billion of these letters in every human cell!!
 

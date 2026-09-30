@@ -11,7 +11,7 @@ summary: "Excerpt from a spiritual warfare book by Mark Bubeck presenting doctri
 source: "Building Community/Prayer/Spiritual Warfare Prayer copy.pdf"
 ---
 
-## Mark Bubeck I
+## I
 
 In previous chapters, importance of doctrinal truth and doctrinal praying was intended to be lifted high. Doctrine, God’s unchanging truth, is mighty in defeating our enemies. This truth must get deep into our souls. This can only come about as we gain understanding of the Holy Word of God and then use that Word aggressively in our lives. With the permission and approval of Dr. Victor Matthews, professor of theology at the Grand Rapids Baptist Bible College and Seminary, I include here some very fine helps in keeping doctrinal truth in the forefront of your warfare.
 

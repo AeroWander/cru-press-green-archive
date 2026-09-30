@@ -122,6 +122,6 @@ Do not Depend on Feelings The promise of God’s Word, the Bible - not our feeli
 
 To be transported by a jet, we must place our faith in the trustworthiness of the aircraft and the pilot who flies it. Our feelings of confidence or fear do not affect the ability of the jet to transport us, they do affect how much we enjoy the trip. In the same way, we as Christians do not depend on feelings or emotions, but we place our faith (trust) in the trustworthiness of God and the promises of His Word.
 
-Now That You are Filled With the Holy Spirit Thank God that the Spirit will enable you: • • • To glorify Christ with your life (John 16:14). To grow in your understanding of God and His Word (1 Corinthians 2:14,15).
+Now That You are Filled With the Holy Spirit Thank God that the Spirit will enable you: To glorify Christ with your life (John 16:14). To grow in your understanding of God and His Word (1 Corinthians 2:14,15).
 
 To live a life pleasing to God (Galatians 5:16-23 Remember the promise of Jesus: “But you will receive power when the Holy Spirit comes on you; and you will be my witnesses in Jerusalem, and in all Judea and Samaria, and to the ends of the earth: (Acts 1:8). © Copyright 1993, 1998 by Campus Crusade for Christ, NewLife Publications. All rights reserved. Used by permission.

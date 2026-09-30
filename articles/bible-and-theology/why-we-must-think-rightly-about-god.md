@@ -14,13 +14,13 @@ source: "MTL/MTL/MTL2/Last MTL/We Must Think Rightly About God2.pdf"
 
 we able to know exactly what our most influential religious leaders think of God today, we might be able with some precision to foretell where the Church will stand tomorrow.
 
-## What Comes into Our Minds When We Think About God Is the Most Important Thing About US.
+What Comes into Our Minds When We Think About God Is the Most Important Thing About US.
 
 The history of mankind will probably show that no people has ever risen above its religion, and man’s spiritual history will positively demonstrate that no religion has ever been greater than its idea of God. Worship is pure or base as the worshiper entertains high or low thoughts of God.
 
 For this reason the gravest question before the Church is always God Himself, and the most portentous fact about any man is not what he at a given time may say or do, but what he in his deep heart conceives God to be like. We tend by a secret law of the soul to move toward our mental image of God. This is true not only of the individual Christian, but of the company of Christians that composes the Church. Always the most revealing thing about the Church is her idea of God, just as her most significant message is what she says about Him or leaves unsaid, for her silence is often more eloquent than her speech. She can never escape the self-disclosure of her witness concerning God.
 
-## The Mightiest Thought
+*The Mightiest Thought*
 
 Without doubt, the mightiest thought the mind can entertain is the thought of God, and the weightiest word in any language is its word for God. Thought and speech are God’s gifts to creatures made in His image; these are intimately knowing god: why we must think rightly About God prayer for enlightenment “0 Lord God Almighty, not the God of the philosophers and the wise but the God of the prophets and apostles; and better than all, the God and Father of our Lord Jesus Christ, may I express Thee unblamed? They that know Thee not may call upon Thee as other than Thou art, and so worship not Thee but a creature of their own fancy; therefore enlighten our minds that we may know Thee as Thou art, so that we may perfectly love Thee and worthily praise Thee. In the name of Jesus Christ our lord. Amen.” MissionalTeamLeaders. com associated with Him and impossible apart from Him. It is highly significant that the first word was the Word: “And the Word was with God, and the Word was God.” We may speak because God spoke. In Him word and idea are indivisible.
 
@@ -54,4 +54,4 @@ The heaviest obligation lying upon the Christian Church today is to purify and e
 
 Philip Doddridge
 
-## Excerpt from the Knowledge of the Holy, A. W. Tozer Reprinted by Permission Harper & Row Publishers
+Excerpt from the Knowledge of the Holy, A. W. Tozer Reprinted by Permission Harper & Row Publishers

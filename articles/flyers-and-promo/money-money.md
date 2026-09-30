@@ -10,10 +10,10 @@ summary: "A weekly-meeting invitation poster contrasting money and wealth, quoti
 source: "Small Groups and Meetings/Posters and Publicity copy/Weekly Meeting Posters —Abundant Life/Abundant Life 3 b_w.pdf"
 ---
 
-## WEALTH Wealth
+## WEALTH
 
 JESus CAME, HE TOLD us, nOT TO DESTROy LIfe but THAT WE MAy HAVE IT MORE ABunDAnTLy, “LIfe TO THE fuLL”. JOIn us AS WE TRy TO DISCOVER WHAT HE MEAnt and WHAT IT MEAns TO REALLy LIVE.
 
-### real faith. real relationships. real life.
+real faith. real relationships. real life.
 
 WEEKLY DATE/TIME/PLACE

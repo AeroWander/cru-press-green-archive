@@ -44,7 +44,7 @@ Do students express that they are growing and enjoy being a part of the ministry
 
 How many students are going on Summer Projects? Are you seeing a steady flow of students going into the ministry?
 
-Are students spontaneously initiating outreach? Is there an expressed desire to know God better? © 2010, CruPress, All Rights Reserved. CruPress.com EVALUATE TEAM RELATIONS It is possible to have accomplished all of your goals, but if your team had a miserable year, then what have you really accomplished. etc.? Are you reaching the freshman class? Does your team enjoy being together?
+Are students spontaneously initiating outreach? Is there an expressed desire to know God better? EVALUATE TEAM RELATIONS It is possible to have accomplished all of your goals, but if your team had a miserable year, then what have you really accomplished. etc.? Are you reaching the freshman class? Does your team enjoy being together?
 
 Can you list five fun things you did together as a team? Did you, as a team leader, accomplish your goals? EVALUATE CHANGED LIVES After all is said and done, the question is not how busy we were but whose lives were changed because of your ministry on campus?” Who has come to Christ this quarter/year? Who is living by faith? Who is learning to live in God’s grace? Evaluating who’s been taught or trained is not meaningful unless students are living differently.
 
@@ -58,9 +58,9 @@ EVALUATE STRATEGIES AND PROGRAMS Do your plan, schedule, and programs have a str
 
 Who are the students who will be going on projects this summer?
 
-FOUR QUESTIONS OF EVALUATION In evaluating the components of your ministry, ask: • “What did we do well?” • • “What did we do that needs improvement?”
+FOUR QUESTIONS OF EVALUATION In evaluating the components of your ministry, ask: · “What did we do well?” “What did we do that needs improvement?”
 
-“What did we not do that we should have done?” • “What will we do next year?”
+“What did we not do that we should have done?” · “What will we do next year?”
 
 Be honest. Everything doesn’t have to be “a great success,” or “awesome,” or “unbelievable.” If you can’t name a few failures (and laugh at them), you probably haven’t been exercising faith, because faith involves risk of failure. The ministry belongs to the Lord. Evaluate not only how the event turned out but whether you should have had the event at all. If it was lame, say so! Learn from your mistakes.
 
@@ -68,4 +68,4 @@ WHO SHOULD EVALUATE?
 
 Leaders who have had responsibilities for the preceding year should do the evaluation. You may also want to include future leadership so they will have a better idea of the “hows” and “whys” of your movement. A good rule of thumb to follow is this: Only those who will be implementing the plans should have the responsibility for making the plans. As a team, you don’t want those who won’t be around next year to plan the schedule.
 
-PREPARATION As a team leader, you are responsible for thinking through the evaluation beforehand but it’s also wise to have your team exercising some forethought. You may find it beneficial to have people fill out a preliminary evaluation so that they have given some prayerful attention to the evaluation before they show up. EVALUATE THE SCOPE OF YOUR IMPACT How widely did you throw out the net? If God were working in a person’s life on campus, what contact points would he or she have with your ministry— publicity, surveys, outreaches, Christian students, © 2010, CruPress, All Rights Reserved. CruPress.com
+PREPARATION As a team leader, you are responsible for thinking through the evaluation beforehand but it’s also wise to have your team exercising some forethought. You may find it beneficial to have people fill out a preliminary evaluation so that they have given some prayerful attention to the evaluation before they show up. EVALUATE THE SCOPE OF YOUR IMPACT How widely did you throw out the net? If God were working in a person’s life on campus, what contact points would he or she have with your ministry— publicity, surveys, outreaches, Christian students,

@@ -75,7 +75,7 @@ HOW DO I MATURE IN MY CHRISTIAN LIFE?
 
 A. The two primary ingredients that God uses to cause growth in our lives are grace and truth. Truth gives us the understanding we need to live the Christian life. Grace provides the acceptance and encouragement we need to keep on going. But growth doesn’t happen all at once. It occurs as process over time. Thus, the formula for an ideal growth environment is:
 
-## Grace + Truth + Time = Growth
+Grace + Truth + Time = Growth
 
 Like the new believers in Acts, we experience “Grace + Truth + Time” in the context of relationships.
 
@@ -89,4 +89,4 @@ INWARD – Fellowship Example: Go to church or to a Christian gathering. Your pl
 
 OUTWARD – Witness Example: Identify one or two people you care about and begin praying for them. Look for appropriate opportunities to tell them about the difference Christ is making in your life. Your plan:
 
-LIFE CONCEPTS FROM UNCERTAINTY TO CONFIDENCE FROM FEELINGS OF UNWORTHINESS TO FORGIVENESS FROM BEING UNABLE TO EMPOWERED FROM BEING UNPREPARED TO EQUIPPED FROM BEING UNDEVELOPED TO MATURITY To order more Life Concepts go to Crupress.com ©2008, CruPress, Campus Crusade for Christ, Inc. All rights reserved. Scripture references taken from the Holy Bible, New International Version. Copyright© 1973, 1978, 1984 International Bible Society. Used by permission of Zondervan Bible Publishers.
+LIFE CONCEPTS FROM UNCERTAINTY TO CONFIDENCE FROM FEELINGS OF UNWORTHINESS TO FORGIVENESS FROM BEING UNABLE TO EMPOWERED FROM BEING UNPREPARED TO EQUIPPED FROM BEING UNDEVELOPED TO MATURITY To order more Life Concepts go to Crupress.com All rights reserved. Scripture references taken from the Holy Bible, New International Version. Copyright© 1973, 1978, 1984 International Bible Society. Used by permission of Zondervan Bible Publishers.

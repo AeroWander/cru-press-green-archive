@@ -15,19 +15,13 @@ There are many great apologetic books that you could leave with students if only
 
 Y-Jesus presents the classic evidence for Christ including “Lord, Liar, Lunatic,” Evidence for the Resurrection, Claims to Deity, New Testament Reliability and Fulfillment of Prophecy. Y-ORIGINS
 
-### Order Online at Crupress.com
-
-© 2010, CruPress, All Rights Reserved. CruPress.com
-
 ## The Language of Our Cells
 
-© 2010, CruPress, All Rights Reserved. CruPress.com
-
-## The Complexity of Dna Makes It Hard to Believe That It Was Produced by Natural
+The Complexity of Dna Makes It Hard to Believe That It Was Produced by Natural
 
 While I grant you that the crystalline forms
 
-## PROCESSESConsider for a moment the cathedral-like
+## Processesconsider for a Moment the Cathedral-like
 
 ### Clothes
 
@@ -53,7 +47,7 @@ grand Designer in the universe. tion: what constitutes legitimate evidence
 
 for intelligent design found in nature? If we Well, no, actually it’s not—no more so want to know whether we have a purpose than the burned enchilada of a woman in or are just here by accident, it’s a question Mexico that apparently revealed the image we’d better be asking. of Jesus (though in the photo it did kind of look like him).
 
-The folks at SETI (Search for Extraterrestrial Intelligence) have done some thinking along the lines of what constitutes signs of intelligence. They are searching for extra-terrestrial life, as opposed to God, but they have to deal with the same problem set. How would they recognize communication from outer space if they saw or heard it? 50 • ARTICLE FIVE • THE LANGUAGE OF OUR CELLS © 2010, CruPress, All Rights Reserved. CruPress.com Some of their thinking is brought out in the movie Contact. In one scene, the character played by Jodie Foster spends the evening listening to her dryer (presumably Block-buster was closed). But there is a method to her apparent madness. She is trying to train her ears so that she will be able to recognize intelligent radio signals from outer space, filtering out the zillion random signals produced by all manner of objects in the cosmos.
+The folks at SETI (Search for Extraterrestrial Intelligence) have done some thinking along the lines of what constitutes signs of intelligence. They are searching for extra-terrestrial life, as opposed to God, but they have to deal with the same problem set. How would they recognize communication from outer space if they saw or heard it? 50 · ARTICLE FIVE · THE LANGUAGE OF OUR CELLS Some of their thinking is brought out in the movie Contact. In one scene, the character played by Jodie Foster spends the evening listening to her dryer (presumably Block-buster was closed). But there is a method to her apparent madness. She is trying to train her ears so that she will be able to recognize intelligent radio signals from outer space, filtering out the zillion random signals produced by all manner of objects in the cosmos.
 
 Teddy Roosevelt is, but also because it is obvious by the way the stone is cut and the extraordinary degree of design that this is the product of intelligent craftsmen—ones who apparently have no fear of heights. But there must be a more scientific way to differentiate between these two levels of design: one that can be produced by nature and one that can’t.
 
@@ -63,37 +57,37 @@ A clothes dryer produces a certain level of mechanical rhythm; its noise actuall
 
 Now let’s switch it around. Let’s say I ask you to program the computer to type the word “the.” This is going to require specificity. You must specify, “Computer, type the letter ‘t,’ then ‘h,’ and then ‘e,’ and do this over and over again until your printer runs out of ink or your hard drive crashes.” This is specific, but it is not complex. You can program the computer in this case, like the previous one, with just a few lines of instructions.
 
-### Csi: the Universe
+Csi: the Universe
 
 Typing random letters or typing a simple word over and over is like the kind of design that natural processes can handle on their own.
 
-Now, as we drive farther, we come to Mount Rushmore. Seeing it for the first time, I am amazed. I say, “Wow, look at the erosion on those rocks. It looks just like three presidents I recognize and some guy wearing glasses.” You rightly call me an idiot, not only because you know who Here is what you need to remember about CSI, or complex, specified information. Nature can generate information that is complex, and it can produce information that is specified, but it cannot do both. © 2010, CruPress, All Rights Reserved. CruPress.comTHE LANGUAGE OF OUR CELLS • ARTICLE FIVE • 51 Now let’s look at specifi ed complexity. Let’s say I ask you to program the computer to
+Now, as we drive farther, we come to Mount Rushmore. Seeing it for the first time, I am amazed. I say, “Wow, look at the erosion on those rocks. It looks just like three presidents I recognize and some guy wearing glasses.” You rightly call me an idiot, not only because you know who Here is what you need to remember about CSI, or complex, specified information. Nature can generate information that is complex, and it can produce information that is specified, but it cannot do both. Now let’s look at specified complexity. Let’s say I ask you to program the computer to
 
 ### So, having cleared
 
 write out a Harlequin romance novel and make the girl decide to dump the guy in
 
-### all that up, we come all that up, we come all that up, we come
+all that up, we come all that up, we come all that up, we come
 
 the end. You would have to write a list of instructions for the computer larger than
 
-### to the real question. to the real question.
+to the real question. to the real question.
 
 the book itself. You would have to specify, in the form of a command, every letter of every word.
 
-### Forgetting all the
+Forgetting all the
 
 Few people would have thought of Harle-
 
-### erosion and snowfl ake erosion and snowfl ake erosion and snowfl ake erosion and snowfl ake
+erosion and snowflake erosion and snowflake erosion and snowflake erosion and snowflake
 
-quin romances as specifi ed complexity, but as you can see, they are. The commands to
+quin romances as specified complexity, but as you can see, they are. The commands to
 
-### patterns, are there any patterns, are there any patterns, are there any
+patterns, are there any patterns, are there any patterns, are there any
 
-the computer are extremely complex and extremely specifi c. That’s the kind of detail we must demand if we are going to believe
+the computer are extremely complex and extremely specific. That’s the kind of detail we must demand if we are going to believe
 
-### examples of specifi ed examples of specifi ed examples of specifi ed
+examples of specified examples of specified examples of specified
 
 that there is intelligent design exhibited in the world.
 
@@ -101,51 +95,43 @@ complexity found in complexity found in nature pointing toward nature pointing t
 
 Seems simple enough, but at what point
 
-### the longer answer. It the longer answer. It the longer answer. It the longer answer. It
+the longer answer. It the longer answer. It the longer answer. It the longer answer. It
 
 does something cross the threshold from the simple design found in nature to sec-
 
-### uses the example of uses the example of uses the example of uses the example of
+uses the example of uses the example of uses the example of uses the example of
 
 ond-order design produced only by intelligence? Dr. William Dembski tries to explain it by making an analogy with a rat trying to go through a maze.
 
-### something each of us
+something each of us
 
-If the maze is one-dimensional (a fl oor with
+If the maze is one-dimensional (a floor with
 
-### has heard something
+has heard something
 
 no walls), the rat can take one turn and escape from the maze. Does the escape
 
-### about: deoxyribonucleic about: deoxyribonucleic
+about: deoxyribonucleic about: deoxyribonucleic
 
 prove that the rat has intelligence? No. The maze is too simple to draw a conclusion on the question.
 
-### acid, or DNA.
+acid, or DNA.
 
-52 • ARTICLE FIVE • THE LANGUAGE OF OUR CELLS © 2010, CruPress, All Rights Reserved. CruPress.com But now imagine that the maze is extreme-ly complex, possessing walls and requiring 100 precise turns to reach the point of escape. If the rat, after several chances to learn the maze, manages to make all of the turns correctly and quickly so that it can escape, that proves its intelligence. The odds against such a performance being the result of mere chance are just too great.
+52 · ARTICLE FIVE · THE LANGUAGE OF OUR CELLS But now imagine that the maze is extreme-ly complex, possessing walls and requiring 100 precise turns to reach the point of escape. If the rat, after several chances to learn the maze, manages to make all of the turns correctly and quickly so that it can escape, that proves its intelligence. The odds against such a performance being the result of mere chance are just too great.
 
 ### What a Little Strand Can Do
 
-equivalent to that of a stack of paperback books—say, Harlequin romance novels— that would encircle the earth 5,000 times!5 DNA. That one complex molecule contains the complete blueprint for every cell in every living thing. It is the basis for all life on earth.6 Not until 1953, when Francis Crick and James Watson codiscovered the mystery of DNA’s double helix did scientists grasp the secret of biological life. The discovery of DNA has revolutionized biology.3 The laws of probability tell us when there would be too many dead ends to create highly complex systems. We cannot expect any event to occur within our universe that has a probability of less than 1 in 10150, a limit called a universal probability bound.1 In his book Intelligent Design, Dembski concludes, “Natural causes such as chance and law are incapable of generating CSI.”2 Our complete blueprint is present in each of our thousand million million cells. Think of an enormous building with thousands upon thousands of rooms, where each room houses a complete set of blueprints for the entire structure. (If these analogies are getting a little sterile for you, then you might want to imagine a large beach house—and imagine yourself sitting there.) However, instead of merely thousands of rooms, our bodies contain trillions of cells, each with a complete package of DNA instructions.7 So, having cleared all that up, we come to the real question. Forgetting all the erosion and snowfl ake patterns, are there any examples of specifi ed complexity found in nature pointing toward intelligent design? The short answer is yes. What follows is the longer answer. It uses the example of something each of us has heard something about: deoxyribonucleic acid, or DNA. Although Crick and Watson would later receive the Nobel Prize for their success in defi ning the architecture of the double helix, Rosalind Franklin, a physical chemist working in the biophysics unit of King’s College in London, had already worked out that the molecule had its phosphate groups on the outside and that DNA existed in two forms.4 In spite of her brilliant break-through, it was the boys in the lab who received the credit. (While all human DNA is the same, apparently there’s still a glass ceiling for the female version.) Not long after after her discovery, Crick and Watson made their stunning announcement: “We have discovered the secret of life.” Each strand of DNA in our bodies consists of three billion base pairs of genetic information. These base pairs form a chain, which constitutes the entire human genetic code. Today the entire human genome has been mapped out, spelling out in DNA code how we differ from chimps, dogs, and slugs. The genius of DNA lies not only in its complex coded instructions for life but also in its incredibly well-designed architecture, which allows it to contain billions of detailed instructions within a microscopic molecule. The amount of DNA that would fi t on a pinhead contains information © 2010, CruPress, All Rights Reserved. CruPress.comTHE LANGUAGE OF OUR CELLS • ARTICLE FIVE • 53
-
-## Gatc Gcgt Tacg Cag- Tagc Gcat Gac Tacg Gcat Agctcgat
+equivalent to that of a stack of paperback books—say, Harlequin romance novels— that would encircle the earth 5,000 times!5 DNA. That one complex molecule contains the complete blueprint for every cell in every living thing. It is the basis for all life on earth.6 Not until 1953, when Francis Crick and James Watson codiscovered the mystery of DNA’s double helix did scientists grasp the secret of biological life. The discovery of DNA has revolutionized biology.3 The laws of probability tell us when there would be too many dead ends to create highly complex systems. We cannot expect any event to occur within our universe that has a probability of less than 1 in 10150, a limit called a universal probability bound.1 In his book Intelligent Design, Dembski concludes, “Natural causes such as chance and law are incapable of generating CSI.”2 Our complete blueprint is present in each of our thousand million million cells. Think of an enormous building with thousands upon thousands of rooms, where each room houses a complete set of blueprints for the entire structure. (If these analogies are getting a little sterile for you, then you might want to imagine a large beach house—and imagine yourself sitting there.) However, instead of merely thousands of rooms, our bodies contain trillions of cells, each with a complete package of DNA instructions.7 So, having cleared all that up, we come to the real question. Forgetting all the erosion and snowflake patterns, are there any examples of specified complexity found in nature pointing toward intelligent design? The short answer is yes. What follows is the longer answer. It uses the example of something each of us has heard something about: deoxyribonucleic acid, or DNA. Although Crick and Watson would later receive the Nobel Prize for their success in defining the architecture of the double helix, Rosalind Franklin, a physical chemist working in the biophysics unit of King’s College in London, had already worked out that the molecule had its phosphate groups on the outside and that DNA existed in two forms.4 In spite of her brilliant break-through, it was the boys in the lab who received the credit. (While all human DNA is the same, apparently there’s still a glass ceiling for the female version.) Not long after after her discovery, Crick and Watson made their stunning announcement: “We have discovered the secret of life.” Each strand of DNA in our bodies consists of three billion base pairs of genetic information. These base pairs form a chain, which constitutes the entire human genetic code. Today the entire human genome has been mapped out, spelling out in DNA code how we differ from chimps, dogs, and slugs. The genius of DNA lies not only in its complex coded instructions for life but also in its incredibly well-designed architecture, which allows it to contain billions of detailed instructions within a microscopic molecule. The amount of DNA that would fit on a pinhead contains information
 
 coded languages: “Our experience with information-intensive systems (especially codes and languages) indicates that such systems always come from an intelligent source.”9
 
-## Agct Agcg Ac Tg Ct Gactga Tcg Ga T
+In other words, like a code or language, DNA operates with specifically organized instructions. This is the CSI (complex, specified information) discussed earlier as the watermark of intelligent design.
 
-In other words, like a code or language, DNA operates with specifi cally organized instructions. This is the CSI (complex, specifi ed information) discussed earlier as the watermark of intelligent design.
-
-## Gcatgc Tc Agc Tagc Tagctcgc C Gat Cg Tagc Tag Cagt G C
-
-When DNA directs the cell to make proteins, it fi rst gives instructions to make amino acids. Then twenty different amino acids must precisely link up into a chain, folding into an exacting, irregular three-dimensional protein. The amino acids are like letters; their arrangement spells out the specifi c protein being made.
-
-## Cgat Gca Gctacg Gc
+When DNA directs the cell to make proteins, it first gives instructions to make amino acids. Then twenty different amino acids must precisely link up into a chain, folding into an exacting, irregular three-dimensional protein. The amino acids are like letters; their arrangement spells out the specific protein being made.
 
 Proteins are truly amazing. MIT-trained scientist Dr. Gerald Schroeder explains,
 
-## Tag Ctag at Cgta
+Tag Ctag at Cgta
 
 When we think of sophisticated computer programs, we immediately realize that
 
@@ -153,7 +139,10 @@ When we think of sophisticated computer programs, we immediately realize that
 
 their coded software was intentionally designed. Naturalists believe that DNA originated without any such intentional process. But is it possible that natural causes alone engineered DNA? Up till now that has been the subject of debate between naturalists and theists (those who believe in God). However, design theorists have now applied the mathematical discipline of CSI to the question of whether DNA is the result of intelligent design or was accidental in its origin.
 
-But just what is DNA, and how does it work? Although scientists are only begin-ning to unravel its mysteries, they know that DNA works much like a coded language. Microsoft chairman Bill Gates (apparently sizing up the potential to patent it and make it a part of Windows) discloses, “DNA is like a computer program, but far, far more advanced than any software we’ve ever created.”8 Science historian Stephen C. Meyer comments on the intelligence required for Other than sex and blood cells, every cell in your body is making approximately two thousand proteins every second. A protein is a combination of three hundred to over a thousand amino acids. An adult human body is made of approximately seventy-fi ve trillion cells. Every second of every minute of every day, your body and every body is organizing on the order of 150 thousand thousand thousand thou-sand thousand thousand amino acids into carefully constructed chains of proteins. Every second; every minute; every day. The fabric from which we and all life are built is being continually rewoven at a most astoundingly rapid rate.10 54 • ARTICLE FIVE • THE LANGUAGE OF OUR CELLS © 2010, CruPress, All Rights Reserved. CruPress.com Meyer points out that the chemical codes directing the process attach themselves to the structure of the DNA molecule like letters on a chalkboard, but they do so without becoming organically involved with the board or the other letters. Therefore, he distinguishes the information content from the chemical bonding.
+But just what is DNA, and how does it work? Although scientists are only begin-ning to unravel its mysteries, they know that DNA works much like a coded language. Microsoft chairman Bill Gates (apparently sizing up the potential to patent it and make it a part of Windows) discloses, “DNA is like a computer program, but far, far more advanced than any software we’ve ever created.”8 Science historian Stephen C. Meyer comments on the intelligence required for Other than sex and blood cells, every cell in your body is making approximately two thousand proteins every second. A protein is a combination of three hundred to over a thousand amino acids. An adult human body is made of approximately seventy-five trillion cells. Every second of every minute of every day, your body and every body is organizing on the order of 150 thousand thousand thousand thou-sand thousand thousand amino acids into carefully constructed chains of proteins. Every second; every minute; every day. The fabric from which we and all life are built is being continually rewoven at a most astoundingly rapid rate.10 54
+
+- ARTICLE FIVE
+- THE LANGUAGE OF OUR CELLS Meyer points out that the chemical codes directing the process attach themselves to the structure of the DNA molecule like letters on a chalkboard, but they do so without becoming organically involved with the board or the other letters. Therefore, he distinguishes the information content from the chemical bonding.
 
 I have come to the conclusion that no familiar law of nature could produce such a structure from incoherent chemicals with the inevitability that some scientists assert.14 Furthermore, Meyer compares the sequencing of the amino acids to a language: “Amino acids alone do not make proteins, any more than letters alone make words, sentences or poetry.”11 The fact that the arrangement of the letters is not the result of chemical bonding has driven Meyer to conclude that, without intelligence, DNA would never be able to turn amino acids into proteins. He writes, “The chance of each amino acid finding the correct bond is one in twenty; the chance of one hundred amino acids hooking up to successfully make a functional protein is one in 1030.”12 Even a greater mystery for biologists is how DNA appeared in the first place. What natural process triggered a smattering of organic chemicals to come together and form the incredibly sophisticated double helix? Schroeder remarks, “And here’s that enigma. … It shows its head in a dozen different ways, the problem of how the entire process originally got started.”13 Molecular biologist Michael Behe comments on the dilemma facing scientists, “In the face of the enormous complexity that modern biochemistry has uncovered in the cell, the scientific community is paralyzed.”15 That means that the odds of a protein being manufactured randomly is one chance in a million trillion trillion. But that is not the only improbable event that must take place for DNA to exist.
 
@@ -165,7 +154,7 @@ An increasing number of scientists in other fields are also admitting that DNA�
 
 Such odds are so improbable that Meyer believes the DNA code cannot be the product of undirected natural processes. Meyer reasons that DNA coding exhibits creative intelligence beyond random chemical bonds.
 
-Amir Aczel questions his own naturalistic The peculiarity of biological complexity belief by admitting that DNA is too com-makes genes seem almost like impos-plex to have arisen from natural processes. sible objects. … In a reflective mode he asks, “Are we witnessing here something so wondrous, © 2010, CruPress, All Rights Reserved. CruPress.comTHE LANGUAGE OF OUR CELLS • ARTICLE FIVE • 55 so fantastically complex, that it could not be chemistry or random interactions of elements, but something far beyond our understanding?”16 DNA’s codiscoverer Francis Crick also considers DNA to be too complex to have arisen in a warm pond on early Earth. This highly regarded Nobel Prize–winning biologist concludes, “An honest man, armed with all the knowledge available to us now, could only state that in some sense, the origin of life appears at the moment to almost be a miracle, so many are the conditions which would have had to have been satisfied to get it going.”
+Amir Aczel questions his own naturalistic The peculiarity of biological complexity belief by admitting that DNA is too com-makes genes seem almost like impos-plex to have arisen from natural processes. sible objects. … In a reflective mode he asks, “Are we witnessing here something so wondrous, so fantastically complex, that it could not be chemistry or random interactions of elements, but something far beyond our understanding?”16 DNA’s codiscoverer Francis Crick also considers DNA to be too complex to have arisen in a warm pond on early Earth. This highly regarded Nobel Prize–winning biologist concludes, “An honest man, armed with all the knowledge available to us now, could only state that in some sense, the origin of life appears at the moment to almost be a miracle, so many are the conditions which would have had to have been satisfied to get it going.”
 
 ### Notes
 
@@ -192,4 +181,5 @@ Aczel concludes that the complexity of DNA could not have arisen naturally on Ea
 17. Nell Boyce, “Triumph of the Helix,” U. S. News & World Report, February 24/March 3, 2003, 41.
 18. Aczel, 88.
 
-56 • ARTICLE FIVE • THE LANGUAGE OF OUR CELLS © 2010, CruPress, All Rights Reserved. CruPress.com
+- ARTICLE FIVE
+- THE LANGUAGE OF OUR CELLS

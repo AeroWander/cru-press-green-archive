@@ -11,7 +11,7 @@ summary: "A theological article by Scott Crocker aiming to reduce division among
 source: "MTL/MTL/MTL2/Theological perspective on Holy Spirit.pdf"
 ---
 
-## Scott Crocker Music Together
+## Music Together
 
 There’s a story told of the famous tenors Luciano Pavarotti, Placido Domingo, and Jose Carreras performing together in Los Angeles. A reporter tried to get the men to admit to competitiveness among the three gifted singers. Domingo’s calm reply was, “You have to put all of your concentration into opening your heart to the music. You can’t be rivals when you’re making music together.”1 The three tenors recognized that in order to be able to make music together that others would want to listen to, they had to put their egos aside and focus on the task at hand. If one tried to prove that their voice was better or tried to take over another’s part, the end result would not be a display of musical brilliance, but rather of selfish immaturity. workings is a cause for concern, many times there is disunity within the Body of Christ over issues that are not at the conviction level. Such areas could include an overemphasis on speaking in tongues, a misunderstanding of Holy Spirit baptism or an incorrect view of what it means to be filled with the Spirit.
 
@@ -106,11 +106,11 @@ As a mature believer in Christ, it is vitally important to not only understand w
 - f) If there is no interpreter, the person who has the gift of tongues should remain silent (I Cor. 14:28)
 - g) The gift of tongues is not uncontrollable (I Co. 14:32,33)
 
-3 James R. White, The Forgotten Trinity: Recovering the Heart of Christian Belief. Bethany House Publishers, 1998. p. 26.
+3 James R. White, The Forgotten Trinity: Recovering the Heart of Christian Belief. Bethany House Publishers, 1998. p.
 
 4 Millard J. Erickson, Christian Theology, Second Edition. Grand Rapids, 1998. p. 895.
 
-5 William McRae, Dynamics of Spiritual Gifts. Zondervan, 1976. p. 18.
+5 William McRae, Dynamics of Spiritual Gifts. Zondervan, 1976. p.
 
 6 Paul J. Achtemeier, Harper’s Bible Dictionary. Harper’s Row, 1985. p. 1081.
 

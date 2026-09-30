@@ -12,7 +12,7 @@ summary: "Cru.comm Bible study article by Tim Downs exploring why prayer, though
 source: "Building Community/Prayer/Superior Weapons.pdf"
 ---
 
-## Cru.comm • Bible Study Curriculum
+Cru.comm · Bible Study Curriculum
 
 Cru.Comm is the Campus Ministry’s core Bible study content. Over 110 Bible studies, written to ensure that everyone involved in our ministry is grounded in our classic, biblical teaching and training.
 
@@ -22,9 +22,9 @@ Each of the studies presents classic, transferable Campus Crusade teaching throu
 
 Content includes book studies on Luke, Ephesians, Thessalonians, James, 1 Samuel, John, and Acts. In addition, there are topical studies on issues such as spiritual leadership, God’s redemptive plan, and Old Testament character studies.
 
-## Order Online at Crupress.com Article
+Order Online at Crupress.com Article
 
-### use your supeRIor weAPoNS • Tim Downs
+use your supeRIor weAPoNS · Tim Downs
 
 In a scene from Raiders of the Lost Ark, Indiana Jones runs down a street and rounds a corner, finding himself face to face with an Arab swordsman. Remember the guy? He skillfully brandishes his sword. Indiana Jones just rolls his eyes and pulls out his revolver. Boom—that’s the end of the swordsman.
 
@@ -82,6 +82,6 @@ Edward MacHenry Baumn, a Civil War chaplain, was well known among his men becaus
 
 He once wrote, “The whole force of Bible statement is to increase our faith in the doctrine that prayer affects God. It secures favors from God which can be secured in no other way, and which will not be bestowed by God if we do not pray.” Prayer is admittedly hard, but it is rewarding.
 
-Excerpted from a transcription of a talk Tim Downs gave at the 1989 San Francisco Christmas Conference. End The Compass is the discipleship curriculum for Campus Crusade for Christ’s Campus Ministry. It was created by Centerfield Productions, the field based division of CruPress. We’d love to hear your feedback on this lesson. Please write us at centerfield@uscm.org ©2007 Cru Press, Campus Crusade for Christ, Inc. All rights reserved.
+Excerpted from a transcription of a talk Tim Downs gave at the 1989 San Francisco Christmas Conference. End The Compass is the discipleship curriculum for Campus Crusade for Christ’s Campus Ministry. It was created by Centerfield Productions, the field based division of CruPress. We’d love to hear your feedback on this lesson. Please write us at centerfield@uscm.org All rights reserved.
 
 No part of this publication may be digitally reproduced, stored in a retrieval system, or transmitted, without the prior permission of Cru Press.

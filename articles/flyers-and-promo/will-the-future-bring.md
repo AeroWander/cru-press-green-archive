@@ -12,7 +12,7 @@ source: "Small Groups and Meetings/Posters and Publicity copy/Every Student/Ever
 
 ## What
 
-## will the future bring?
+will the future bring?
 
 No matter what happens, in the world or in your personal life, what can you draw on to face it with confidence and hope? As your world changes, is there a reliable constant?
 

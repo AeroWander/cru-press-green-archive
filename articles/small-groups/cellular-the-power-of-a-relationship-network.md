@@ -17,15 +17,11 @@ The InTransition Workbook/Magazine equips and prepares graduating seniors to tra
 
 Single life, finances, life-transitions, the will of God, a theology of work, evangelism in the real world: InTransition addresses all the critical issues of a successful transition from campus-a resource for the last and most neglected phase of campus discipleship.
 
-### Order Online at Crupress.com
+## Cellular Cell U Lar
 
-## Cellular Cell U Lar////
+Cellular// the Power of the Network by Will Walker
 
-### Cellular// the Power of the Network by Will Walker
-
-## Net- Work Power
-
-###  © 2010, CruPress, All Rights Reserved. CruPress.com
+## Network Power
 
 If you haven’t already had too many people ask you what you plan to do after you graduate, you will soon enough. I will spare you the question, not because I don’t want to be one of those people, but because I know you prob-ably don’t have an answer. Plans are a difficult thing, because while you can make them, rarely are you in control of enough factors to make them happen. If everything does work out like you want it to, that is when you discover that you wanted the wrong things. I’m pretty sure you don’t believe me about any of this, which is exactly why you must keep reading.
 
@@ -37,11 +33,11 @@ Jesus said that if we hold on to our idea of life—in this case, “the good li
 
 I assume that this is what you really want when you think about it—a life given to Jesus. I think this is what a lot of people in your shoes want. So, how do authentic, energetic Christian students end up settling for a normal life, Christian or otherwise?
 
-### Cruise Control Cruise Control
+### Cruise Control
 
 In college, especially in the context of a ministry like Campus Crusade, the environment is passionate and idealistic. We talk about reaching the campus today to reach the world tomorrow. You go to several conferences a year and maybe even a summer or year-long mission trip. College students take part in things like all-night prayer meetings and campus-wide outreach events. They hold weekly meetings, form ministry teams and accountability groups, take training classes, complete discipleship appointments, and so on. It is a great environment for faith and spiritual growth, largely because there are so many people around who are setting the pace for such things. In other words, just to keep up with the flow of a strong movement on campus, one must walk at a faster pace than much of the Christian culture at large. In regard to this concept of “pace,” my observation is that people generally keep up with the people around them. If prayer is a high value in your movement, then you probably think prayer is a big deal. The same goes for knowledge, outreach, service, and whatever else you can think of. In most circles of life, Christian or otherwise, our tendency is to find a comfortable pace in the midst of our peers and set the cruise control of our life at that speed. Not too fast, not too slow. The thing about spiritual life in college is that the pace is set fast in a lot of areas because you’re around passionate and idealistic people. It really is great. What happens in the “real world” is that everyone gets so busy and distracted that the pace of the Christian race slows down. Idealism gives way to survival. Dynamic relationships and passionate service are often replaced with being a nice person and pitching in somewhere at church. The people in the fast lane are those who manage to have quiet times and go to a small group; anything beyond that requires too much time and energy. This is how following Jesus becomes less about living for others and more about our faithfulness to certain activities. To be sure, these activities are not bad—they are, in fact, very good— but they are a means toward an end and not the end in themselves. So we do not throw out the activities; we simply put them in their proper place, which will enable us to redeem the activities of normal life for their purpose in kingdom life.
 
-###  Time Crunch
+ Time Crunch
 
 Just so you know I am not exaggerating about the spirit-quenching reality of the real world, let’s do the math for a typical five-day work-week (120 hours) for a single person just out of college: expression in a public arena. Community is not a part of spiritual life; it is the air from which spiritual life draws its breath. If you can grow on your own, even with God’s help, then you have something to boast about before others. But if we need each other to grow, then our Work: 50 hours boasting is turned into humility. This is how community exposes our Sleep: 35 hours inadequacies and magnifies the power of the gospel as our only hope Eating: 5 hours (if you microwave everything and eat pretty for personal and cultural transformation and our only hope for a truly fast) good life.
 
@@ -63,13 +59,13 @@ Thousands of people your age with similar interests, all within walking distance
 
 Only through much arrogance and futility have I come to really believe that I need people and people need me, not because any of us are more important than the rest, but because personal faith must find
 
-###  © 2010, CruPress, All Rights Reserved. CruPress.com PLANNING PLANNING FOR THE FOR THE FUTURE FUTURE
+ PLANNING PLANNING FOR THE FOR THE FUTURE FUTURE
 
 What ever your experience of community has been in college, you need to make this a priority after you graduate. Nothing will matter more in your life than your relationships, so it only makes sense that you put some thought and energy into this. That you may only have a few months until graduation is not a hindrance. There is plenty you can start doing now to pursue kingdom life. Besides, if the stuff I am going to tell you to do causes people to think you are weird, who cares? You’re outta here in a few months anyway. Better to have been weird in college than to be weird after college.
 
 A few of my friends and I actually wrote a book about our community. In the book we tried to give some practical ideas about how one can go about cultivating this kind of life. I am going to share a few of those ideas in condensed form here, but if you want to pursue these further (and you should), by all means buy the book–The Kingdom of Couches (Crupress.com).
 
-## Church Church
+## Church
 
 ## Church
 
@@ -81,7 +77,7 @@ We will have to leave behind our safe Christian activities and step out into the
 
 You’re on board with all this, I know, but don’t forget about the time crunch. This kind of commitment will mean loss of something else: money, energy, entertainment, and most of all, comfort. Mission is the first thing that will fade in the real world. You will settle for maintenance, perhaps even strive for community, but what the world needs is missional community—groups of people who will give themselves away for the cause of Christ. The church is desperate for young people who will humbly lead the next generation into this kind of reality. If you settle for merely going to church, you will discover firsthand what I said earlier: that a normal life is a wasted life. “Church” is a broad concept. It’s a good concept, but it is sometimes difficult to get your arms around. The nitty-gritty of missional community is your relationships with people. Relationships are like ligaments, and a healthy body is one in which all the ligaments are working in harmony with each other for the good of the body. I begin with church because your most likely community will be with people you meet there. The rest of this article deals with specific practices that will help you cultivate meaningful relationships with those people.
 
-###  Con- Fession Confession
+ ConFession Confession
 
 Sin is a dominant topic of conversation in my communities. For starters, we have a lot to talk about in this area. Beyond that, we believe this is part of what it means to “walk in the light” (see 1 John 1:5-10). When we conceal or neglect sin, we learn and grow only in theory, not in our actual lives. That is, we may continue reading the Bible and having conversations, but all the while the real us is isolated from those activities. This is the nature of hypocrisy. An honest dialogue about sin in general, and yours specifically, enables a community to ground itself in reality. I’m not saying we need to tell the world about all our issues. To begin with, people are not really interested. They have issues of their own to keep up with. But in the context of community—the people you live life with—an open dialogue about struggle and desire and sin is imperative to growth and learning. This is the kind of authenticity that people are drawn to.
 
@@ -89,7 +85,7 @@ Honesty is a discipline. You must intend to tell people about the real you. If y
 
 The aim of confession is not to allow others to punish us or even fix us, and vice versa. Rather, we listen, we talk about relevant passages of Scripture, we reason from our experience, and we pray. Jesus does the cleansing. We just need to get our real selves into the light. The cleansing process is mysterious to me, but so is the gospel. I believe in both. Our sin is not simply between us and God. Most people think of it that way, but this is another area where we confuse personal and private.
 
-### Conversation Conversation
+### Conversation
 
 My friend Brett talks about the lost art of conversation. He says a lot As with confession, honest conversation is not simply voicing everything of people think we don’t know how to talk to other people because we think. Spewing our honest thoughts whenever we have them is self-we watch television too much and our brains have atrophied. Brett’s ishness to the highest degree. I find it helpful to distinguish between theory, though, is that the real reason our conversations are often so selfish honesty and selfless honesty. Is your honesty for the purpose of draining and empty is that we’re afraid of each other. He elaborates consuming or for the purpose of contributing? Selfish honesty is char-on this idea in the book: acterized by a sense of needing to say something so you can feel better about yourself, whether it’s gossip, insult, or boasting. Even confession We are afraid of what people might think if they knew what we actually thought. We fear looking stupid. I’m fine if the conversation stays on impersonal topics like sports or the weather or how that guy’s outfit does little to compliment his body type. I tend to speak my mind about those kinds of things, because there’s not a whole lot hinging on my opinion. Wait, you think it’s unseasonably warm this fall? That’s ridiculous. Our friendship is over. can be selfish when it’s just about getting it off your chest. Selfless honesty, on the other hand, is characterized by a sense of wanting to say something that would benefit others— encouragement, admonish-ment, teaching, personal disclosure for the sake of intimacy, or confession for the sake of restoration.
 
@@ -103,13 +99,13 @@ Knowing what to say, how to say it, and when to say it requires discern-ment, an
 
 God has forgiven them much. The Gospel provides a fertile ground for community and for the kinds of conversations that community tends to be grounded in. It’s tragic that this is often the opposite of our experience.
 
-###  © 2010, CruPress, All Rights Reserved. CruPress.com PRAYER PRAYER
+ PRAYER PRAYER
 
 Praying with people can be awkward. Imagine for a moment, though, what it would be like to pray regularly and casually with your friends in a way that makes nobody feel awkward. Would our lives be different if our inclination in relationships and circumstances was to step back and ask God to step in? I think our lives and communities would be dramatically better. Yet I am anything but quick to pray. I am quick to give advice, quick to talk about how my problems are worse, quick to get out of uncomfortable situations, but not quick to pray. we sat down to talk, even if it was pretty casual, he would say, “Can I pray for us?” I would say, “Sure,” because what else was I going to say—“Um, I don’t think so. We don’t need to pray just to talk to each other”? So he would invite God into our conversation and ask Him to use us to encourage each other. I always found it much easier not to say stupid stuff around that guy.
 
 What if I made it a point to pray with everyone I spent time with throughout the course of my day, as a way of disciplining myself to pray with people? After all, the only way to get to a place where pray-ing together is normal is to start doing it even when it’s awkward. I know only a few people who do this, and I think they are weird. But thinking about how careless we are in our conversations, and how important they are in missional community, maybe our conversations could use some prayer. I had a friend in college who did this. Every time So, what if we started there, just by inviting God into our conversations? That way the awkwardness of praying together is already on the table. Then when things come up in the conversation that we should and want to pray about, it will be easier to do. This is a simple thing to do but will be incredibly difficult to try because of our desire for independence that will surface in the process. But that is exactly why you should try it. This is how discipline leads us to heart issues. I will think you are weird if you try it with me, but prayer is just weird in general if you think about it.
 
-### Supernatural = Alien Supernatural = Alien
+Supernatural = Alien Supernatural = Alien
 
 Paul and Peter used the language of citizenship to help us understand the nature of following Jesus: “Our citizenship is in heaven”; “We are aliens and strangers in the world” (1 Peter 2:11). The idea is that if you are going to settle down as a citizen of this world it will demand all your energy and time and desire. You’ll have to play by the rules of the earth-life in order to succeed. If, on the other hand, you want to take up citizenship in the kingdom of God, this too will demand all your time and energy and desire. The rules are different: “Love your enemies and bless those who persecute you, that you may be sons of your Father in heaven” (Matthew 5:44). This is why you can’t apply for dual citizenship. You can’t have your cake (normal life) and eat it too (kingdom life). Not a very creative analogy, but you understand. actually good—is what we want, we will have to decide that this world is not our home. We will have to repent of wanting our faith to be defined in terms of achievement and will have to embrace the truth of what Jesus said—that our faith would be defined by our love for one another.
 

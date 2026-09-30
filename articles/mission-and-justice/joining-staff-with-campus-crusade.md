@@ -20,7 +20,7 @@ Picture leading a small group Bible study in a freshman residence hall and engag
 
 Catalytic In metro areas, catalytic teams are reaching students on 20 – 30 campuses in their city. Other teams are pioneering ministries on unreached campuses. You would help students, volunteers, and churches learn how to effectively develop “win, build, and send” movements that can reach every student with the gospel.
 
-Consider offering students an experience that will expand their view of God’s work in the world and how they can be used in the Great Commission. Perhaps this means inviting them to a fall or winter conference, or stateside and international summer project, which God may use to develop them profoundly. Coach a student on how to lead a spring break outreach or teach them to study God’s Word in such a way that they will also disciple others for a lifetime. Staff Campuses Imagine working with a team of five to ten other staff committed to building spiritual movements within a traditional campus environment. These campuses are places like The University of Colorado, Texas A&M, UCLA, The University of Michigan, Purdue, and more. Campuses are typically larger, localized, and comprised of a multitude of micro communities. Whether they’re known for an active Greek life, Ethnic Student Ministries ESM provides a ministry culture designed for Ethnic-American students who represent 25% of today’s university students. Many of these ethnic students don’t feel “at home” in our traditional campus movements. All of four staff can be a part of current teams that are working with African-American, Asian- American, and Hispanic-American students. force, not only on the college campuses, but in the community as a whole.
+Consider offering students an experience that will expand their view of God’s work in the world and how they can be used in the Great Commission. Perhaps this means inviting them to a fall or winter conference, or stateside and international summer project, which God may use to develop them profoundly. Coach a student on how to lead a spring break outreach or teach them to study God’s Word in such a way that they will also disciple others for a lifetime. Staff Campuses Imagine working with a team of five to ten other staff committed to building spiritual movements within a traditional campus environment. These campuses are places like The University of Colorado, Texas A&M, UCLA, The University of Michigan, Purdue, and more. Campuses are typically larger, localized, and comprised of a multitude of micro communities. Whether they’re known for an active Greek life, Ethnic Student Ministries ESM provides a ministry culture designed for Ethnic-American students who represent 25% of today’s university students. Many of these ethnic students don’t feel “at home” in our traditional campus movements. All of four staff can be a part of current teams that are working with African-American, Asian-American, and Hispanic-American students. force, not only on the college campuses, but in the community as a whole.
 
 Impact. The Impact Movement is a movement of evangelism and discipleship among African Americans on the campus, extending into the community and, ultimately, to the world. This movement is committed to the fulfillment of the Great Commission with a special interest in and commitment to reaching, equipping and training those of the African Diaspora. Learn more about Impact at www.impactmovement. com EPIC. Epic is a ministry of Campus Crusade for Christ which was designed to reach a people group that is often overlooked – the Asian American people. Asians are the fastest growing ethnic group in America whose numbers have grown by fifty percent since 1990. Epic has been strategically mobilized as a campus ministry in order to transform college students into Christ-centered laborers who will give back to the community and the world. Learn more about Epic at www. epicmovement.com
 
@@ -64,7 +64,7 @@ Fall (September) MPD Training–June 1 All application materials, including refe
 
 If you’ve served as a US Campus Intern, you’ll probably attend the Summer New Staff Training. Please check with your regional leadership if you are unsure which New Staff Training you should choose. If you have completed a STINT or Internship within the last 12 months, you may use a streamlined version of the application that will be used in conjunction with your STINT or Intern application materials.
 
-## Application Timeline
+*Application Timeline*
 
 Step 1: Complete and submit Online Application Step 2: Complete any additional application materials as directed by the Sending & Recruiting Team.
 
@@ -74,7 +74,7 @@ Step 4: All Application materials must be received by April 1 for Summer trainin
 
 Step 5: You will be called for a phone interview to follow up on information received in both your initial interview and application.
 
-Step 6: Once approved, you will receive a Pre- Acceptance decision within 6-8 weeks from the date that we received your completed application materials.
+Step 6: Once approved, you will receive a Pre-Acceptance decision within 6-8 weeks from the date that we received your completed application materials.
 
 Step 7: If you receive a Pre-Acceptance to staff, a Background Check will be performed.
 

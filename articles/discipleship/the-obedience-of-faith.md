@@ -11,8 +11,6 @@ summary: "An article by Tim Henderson analyzing the book of Titus, noting that P
 source: "Discipleship/Basic Growth Concepts/The Obedience of Faith.pdf"
 ---
 
-## Tim Henderson
-
 Paul, a servant of God and an apostle of Jesus Christ for the faith of God’s elect and the knowledge of the truth that leads to godliness — a faith and knowledge resting on the hope of eternal life, which God, who does not lie, promised before the beginning of time, and at his appointed season he brought his word to light through the preaching entrusted to me by the command of God our Savior, “Lord.” Instead you’ll find repeated instances of him calling Jesus the “Savior.”
 
 That might not seem significant to you, but hear me out. In all of Paul’s letters he uses the term “Lord” 257 times. In every single letter he uses it repeatedly. Even in the extremely short letter to Philemon he calls Jesus “Lord” a half a dozen times. The Lordship of Jesus is constantly on his lips. But he doesn’t use it once in all of Titus.

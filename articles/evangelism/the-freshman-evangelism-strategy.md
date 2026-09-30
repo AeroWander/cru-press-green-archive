@@ -12,7 +12,7 @@ source: "Evangelism/outreach/The_Freshman_Evangelism_Strategy.pdf"
 
 God has called Campus Crusade for Christ to be involved in reaching every student on every campus. The most strategic way we can accomplish this on a regular basis is by concentrating on reaching the Freshman class. They should be the focus of our efforts every year. movements around the exceptions. This means that if we are targeting Juniors or Seniors, just about the time they begin to make an impact, they graduate. A movement happens when what an individual is doing is multiplied several times in the lives of those she is working with. This creates momentum.
 
-## Reasons for Reaching Freshmen
+Reasons for Reaching Freshmen
 
 1. Historically Freshmen are the most open to the gospel. Statistically, 85% of those who receive Christ do so before the age of 19.
 5. Students will hopefully graduate with a greater depth of maturity and greater breadth of ministry skill and experience after 4-5 years of involvement. They will be prepared laborers for the harvest.
@@ -21,7 +21,7 @@ God has called Campus Crusade for Christ to be involved in reaching every studen
 3. Reaching the Freshman class means we will also be reaching the entire University after 3-4 years. In other words, if you reached every student this year with the gospel, who would you have to target next year to continue reaching the campus? Logically, just the Freshman and transfer students. Another example: If you reached everyone on your city block with the gospel, then two new families move in. Who would you have to reach in order to continue “reaching your block?” Just the new families.
 7. As we concentrate on reaching Freshmen as our “market niche,” we will reach far more students overall. Freshmen who are won to Christ will have more years to be involved in evangelism than a senior. There is a greater possibility of impact. Other classes will automatically be influenced as the Freshman progresses through college. If we are going to be involved in reaching the campus for the long-haul we can afford to be methodical and purposeful in our strategy.
 4. There is a normal growth curve of one to three years before new Christians begin to have their own groups, assume leadership and have an impact. Although there are some exceptions, we cannot build
-8. Freshmen are probably the most accessible and easy to share with. It is probably less of a “faith barrier” for a sophomore to share her faith with a Freshman than © 2010, CruPress, All Rights Reserved. CruPress.com a Senior.
+8. Freshmen are probably the most accessible and easy to share with. It is probably less of a “faith barrier” for a sophomore to share her faith with a Freshman than a Senior.
 9. As we reach every Freshman every year and are faithful in giving everyone the opportunity for building, training, and sending as they pass through the ranks, we are, from the human side of things, insuring all that could be involved are in fact involved. Choose as your “target audiences” the different segments of the Freshman class. Each leader can be in charge of reaching one of these “target audiences.”
 10. We tend to be more motivated when we can say with integrity that we are giving every student the opportunity to respond to the gospel. It gives focus and clarity to what we are trying to accomplish. We need to be crystal clear with our objectives and promote creativity in the strategy of fulfilling the objective.
 
@@ -40,4 +40,4 @@ You, the local leader, decide what strategies are the most effective to reach yo
 - Target your strategy toward Freshman.
 - Send a letter to Freshman every week telling them that someone from Campus Crusade will be calling them the next week to take the “6 Easy Questions” survey. Use other creative surveys that you change every month or so in order to really know your target audience.
 - Mail a copy of Jesus Without Religion to every Freshman. This puts something in their hands that the Holy Spirit can continue to use.
-- Distribute Freshman Survival Kits if you have them. Ask your staff or LINC consultant about availability. © 2010, CruPress, All Rights Reserved. CruPress.com
+- Distribute Freshman Survival Kits if you have them. Ask your staff or LINC consultant about availability.

@@ -11,8 +11,6 @@ summary: "An article by Chris Adsit making the case for accountability relations
 source: "Building Community/Men and Women/Men/Partners in Pursuit of Integrity.pdf"
 ---
 
-## Chris Adsit
-
 An accountability relationship can help us live a life that pleases God and satisfies our soul.
 
 Del Hessel was the new track coach at Colorado State University. I was a sophomore hurdler—and not a very good one. During our first one-to-one meeting he asked what my athletic goals were. my own, I never would have worked hard enough to become a great athlete—or even an average one. But through his coaching, I became an All-American by my senior year. Not quite an Olympian, but close. And I hold Del Hessel in high esteem, because he was one of the few men in my life willing to take the initiative with me, hold me accountable, and push me toward my goals.

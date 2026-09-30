@@ -11,7 +11,7 @@ summary: "IJM's Justice Week Toolkit, a lengthy leader's planning guide for orga
 source: "Justice/Justice Week Toolkit.pdf"
 ---
 
-### IJM Justice Week Toolkit: the Basics
+IJM Justice Week Toolkit: the Basics
 
 This toolkit will help you to organize campus events that introduce your campus to issues of injustice and provide ways to get involved in the justice movement. You’ll find tools for 8 different campus events.
 
@@ -31,7 +31,7 @@ Gratefully, IJM Student Ministries Team
 
 Justice Week Toolkit: the Basics 5 Justice Week Planning Resources Get Your Ducks in a Row: Planning Checklist 7 Get the Word Out: Generate Publicity 8 Justice Week Events Introduce Your Campus to Injustice Start the Conversation: Campus Outreach Days 12 Start the Conversation: Resources 14 Show the Truth: Film Screening and Discussion 18 Mobilize Students to Act Raise Your Voices: Call on Your Elected Officials to Take a Stand 22 Fund Rescue: Fundraising Event 26 Engage with the God of Justice Lift your Hands: Praise and Worship Service Call on God: Prayer Gathering Dig Deeper: Small Group Bible Study 30 End Strong Spread Hope: Celebration Night 36 Post-Justice Week Resources Wrap-Up: Report Back and Move Forward 39 4 International Justice Mission
 
-### Justice Week Toolkit: the Basics
+### Justice Week Toolkit: The Basics
 
 This toolkit will help you to organize campus events that introduce your campus to issues of injustice and provide ways to get involved in the justice movement. You’ll find tools for 8 different campus events:
 
@@ -41,7 +41,7 @@ We believe a Justice Week has great potential on any college campus, regardless 
 
 Justice Week Toolkit 5
 
-## Justice Week Planning Resources6 International Justice Mission
+## Justice Week Planning Resources International Justice Mission
 
 Justice Week Planning Resources
 
@@ -83,7 +83,7 @@ Consider other activities prior to (or during) your Justice Week, like flash mob
 
 Network with other groups on campus (UNICEF, Cru, Invisible Childremn, Amnesty International, etc.) to make your reach even bigger. There may be other groups that share your passion who are willing to help sponsor events, run events, or help advertise. If you do this with groups that don’t share your Christian faith, be sensitive to the fact that you are coming from different places, but you still do share a lot of common ground. Justice Week Toolkit 9
 
-## Justice Week EVENTS Justice Week Events
+## Justice Week Events
 
 10 International Justice Mission Justice Week Toolkit 11 Introduce Your Campus to Injustice
 
@@ -167,7 +167,7 @@ Tips could consider securing a prominent location on campus. Although you are al
 
 Check out this list of movies that other campus groups have used for successful screenings. If you’re interested in showing either of IJM’s movies about modern-day slavery—“At the End of Slavery” —email chapters@ijm.org 18 International Justice Mission Justice Week Toolkit 19 20 International Justice Mission Justice Week Toolkit 21 Mobilize Students to Act
 
-### Raise your Voices: Call on Your Elected Officials to Take a Stand
+Raise your Voices: Call on Your Elected Officials to Take a Stand
 
 Organizing an advocacy event is a great way to educate your campus about issues of injustice, while also providing immediate opportunities to take action. IJM’s Justice Campaigns team is here to help you advocate on behalf of victims of injustice by contacting your elected representatives in Congress and asking them to pass legislation that would help fight injustices around the world.
 
@@ -257,7 +257,7 @@ Displaying boards that have information and topics for prayer. (You can find rec
 
 If you set up prayer stations based on different points of focus, you should have at least one core team member at a station to answer questions and ensure that everything goes smoothly. You may want to create a schedule.
 
-Praying through the requests and praises in IJM’s weekly prayer update emails, which you can receive by signing up to be an IJM Prayer Partner. Consider sharing about this program with attendees as well. (You can also receive prayer updates by downloading the free IJM mobile app on your iPhone, Windows Phone or Droid.) Combining this prayer time with a praise and worship night.
+Praying through the requests and praises in IJM’s weekly prayer update emails, which you can receive by signing up to be an IJM Prayer Partner. Consider sharing about this program with attendees as well. (You can also receive prayer updates by downloading the free IJM mobile app on your Iphone, Windows Phone or Droid.) Combining this prayer time with a praise and worship night.
 
 Providing note cards where students can write notes and prayers of support to IJM frontline staff around the world. At the end of the week, mail the cards to IJM (Attn: Student Ministries, PO Box 58147, Washington, D.C. 20037) and we'll deliver them for you.
 
@@ -277,7 +277,7 @@ Conclude your Justice Week by shifting the focus from the weight of worldwide is
 
 Include whatever you feel would give the event a hopeful and climactic end to the week —here are a few suggestions:
 
-The night can include a time of worship, a guest speaker and/or a call to action. Other activities to consider: steps from IJM Justice Campaigns (www.IJM.org/justice-campaigns) providing $24 or more a month, students make it possible for IJM to show up 24 hours a day. (www.IJM.org/FreedomPartner) free mobile app, available on iPhone, Android and Windows phones—you’ll get breaking news, urgent prayer requests, action steps and more. You can also follow @IJMHQ and @IJMCampaigns on Twitter and Facebook. speakers@ijm.org. items from the frontlines of the fight for justice through the resources available on IJM’s website. Email chapters@ijm.org if you are looking for additional stories. Be sure to highlight to the audience that these stories happen as a result of their awareness about the issues and partnership with organizations like IJM. 36 International Justice Mission Justice Week Toolkit 37
+The night can include a time of worship, a guest speaker and/or a call to action. Other activities to consider: steps from IJM Justice Campaigns (www.IJM.org/justice-campaigns) providing $24 or more a month, students make it possible for IJM to show up 24 hours a day. (www.IJM.org/FreedomPartner) free mobile app, available on Iphone, Android and Windows phones—you’ll get breaking news, urgent prayer requests, action steps and more. You can also follow @IJMHQ and @IJMCampaigns on Twitter and Facebook. speakers@ijm.org. items from the frontlines of the fight for justice through the resources available on IJM’s website. Email chapters@ijm.org if you are looking for additional stories. Be sure to highlight to the audience that these stories happen as a result of their awareness about the issues and partnership with organizations like IJM. 36 International Justice Mission Justice Week Toolkit 37
 
 ## Post-Justice Week Resources
 
@@ -318,5 +318,3 @@ International Justice Mission is a human rights agency that brings rescue to vic
 IJM lawyers, investigators and aftercare professionals work with local officials to secure immediate victim rescue and aftercare, to prosecute perpetrators and to ensure that public justice systems—police, courts and laws—effectively protect the poor.
 
 PO Box 58147, Washington, DC 20037 fax chapters@ijm.org All text and images © 2011 International Justice Mission
-
-### www.IJM.org/ItMatters

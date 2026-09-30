@@ -11,8 +11,6 @@ summary: "An article by Bob Fuhs providing sample \"Challenge Sheets\" for invit
 source: "Small Groups and Meetings/Leading Small Group/Challenging Students.pdf"
 ---
 
-## Bob Fuhs
-
 In a healthy, growing campus ministry, students shouldn’t simply be asked to join a Small Group, but rather challenged to a Small Group appropriate to their level of maturity and comittment. Here are sample Challenge Sheets that you can use, or adapt for use, outlining the comittment integral to a basic-level Small Group (Access Group), an intermediate-level Group (Training Group), and an advanced-level Group (An Action Group).
 
 Challenge Sheets Attached . . .
@@ -77,7 +75,7 @@ Here is what you can expect from me and CCC:
 
 That we will always believe the best in you and seek God’s best for you and your whole life. That we are committed to equipping you with the character and skills to walk with Christ for a lifetime. That we will provide you with the skills and training at each step of your growth and involvement in CCC.
 
-## Small Group Challenge for ‘Training’ (Intermediate) Level Bible Study
+Small Group Challenge for ‘Training’ (Intermediate) Level Bible Study
 
 (The challenge to a Training Group for those not ready for an Action Group commitment.) Q: How have you seen God work in your life this year?
 
@@ -127,7 +125,7 @@ Q: Are you finding Crusade to be a good place to learn about God and grow spirit
 
 That we will always believe the best in you and seek God’s best for you and your whole life. That we are committed to equipping you with the character and skills to walk with Christ for a lifetime.
 
-## Small Group Challenge for ‘Advanced’ (Or ‘Action’) Level Bible Study
+Small Group Challenge for ‘Advanced’ (Or ‘Action’) Level Bible Study
 
 (The challenge to an Action Group and owning a Target Area)
 

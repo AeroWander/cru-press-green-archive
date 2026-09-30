@@ -19,13 +19,11 @@ The Ultimate Roadtrip was written to communicate all of the subtle, and not so s
 
 Chapter Topics: Lesson Preparation, Lesson Content, Creating Community, Groups With a Purpose, The Right Questions, Facilitating Life Change, Common Roadblocks and Problems, Incorporating Outreach, and Qualities of a Successful Group Leader.
 
-## Order Online at Crupress.com
-
 esus told a similar story about people who were too preoccupied, calloused or scared to help others. We know the story as the parable of the Good Samaritan (Luke 10:25-37). In this story a foreigner goes out of his way to help a total stranger. Jesus didn’t tell His parable as a reminder to travel safely, carry a cell phone, and join AAA. Rather, He told it to illustrate the care we should have for other people. It ends with these words, “Go and do likewise” (Luke 10:37).
 
 Many small groups study the Word and provide strength and encourage-ment for the members to walk with God. This is how it should be. But sadly, often groups never turn the corner from “getting” to “giving.” They never exist for anything beyond the group itself. This isn’t how it’s supposed to be. You can’t separate loving God from loving and caring for people. When an expert in the law asked Jesus which is the greatest commandment in the Law He replied, “‘Love the Lord your God with all your heart and with all your soul and with all your mind.’ This is the first and greatest commandment. And the second is like it: ‘Love your neighbor as yourself.’ All the Law and Prophets hang on these two commandments” (Matthew 22:37-40).
 
-Jesus’ answer is stunning. The most important issue in life is relation- Christian life is both a passion for our God and Savior, and a passion for those for whom He came. As we grow in our love for God, we’ll love what He loves—people. If you love God, you love people.
+Jesus’ answer is stunning. The most important issue in life is relation-Christian life is both a passion for our God and Savior, and a passion for those for whom He came. As we grow in our love for God, we’ll love what He loves—people. If you love God, you love people.
 
 So, all small groups should ultimately be committed to both of these pri-orities. Each group will go about pursuing these commandments in different ships—our relationship with God and relationships with other people. The ways, depending upon the purpose and maturity of the group. t’s important for leaders to be committed to helping those in their group learn to care for and be involved in the lives of those outside the group. This doesn’t imply that those in the group cease getting and only give. During our entire Christian lives we’re getting from God and from other believers. Ideally, believers in a small group should receive, and then give. Learning to turn the corner from getting to giving is often a difficult step for many Christians, because it’s far safer to stay within the confines of the group. However, someone cannot love God without caring about others; will reflect the priority of loving and caring for people.
 
@@ -43,7 +41,7 @@ Your group will benefit by studying passages in the Bible describing the spiritu
 
 Second, help your group develop a heart for others by studying passages which reveal God’s heart for people. Pray that God will help you see as He sees and feel what He feels. Some passages which reveal God’s heart for people are Matthew 9:35-38, Luke 15, Romans 5:6-8, Luke 13:31-34, Mark 1:40-45 and Luke 19:1-9.
 
-Third, expose your group to the needs of people. Use examples from everyday experi ences, such as articles in the school paper, conversa tions, news events, etc. When you are in situations with group members, like going to class, Mc- Donald’s, or the cafeteria, seize the opportunity to talk about peoples’ needs. Perhaps go off campus to see the needs of people, like to a soup kitchen, nursing home or AIDS hospice.
+Third, expose your group to the needs of people. Use examples from everyday experi ences, such as articles in the school paper, conversa tions, news events, etc. When you are in situations with group members, like going to class, Mc-Donald’s, or the cafeteria, seize the opportunity to talk about peoples’ needs. Perhaps go off campus to see the needs of people, like to a soup kitchen, nursing home or AIDS hospice.
 
 One way to expose your group to the spiritual needs of people is to take surveys around campus. Design questions that fit your particular audience. Have each person take as many surveys as possible and then compile a list of hearts and minds of other students.
 
@@ -75,7 +73,7 @@ Ask a young group to start a new evangelical church in downtown Baghdad. As grou
 
 As lost students become Christ-centered laborers, more students become actively involved in giving the ultimate gift to others. God’s great gift and His Great Commission are at the heart of all we do in Campus Crusade for Christ. here are a variety of ways your group can reach out to others. It’s up to the leader to choose the wisest course for the group in light of its maturity and purpose. Here are some ideas on different ways your group can give to others.
 
-1 Have a “bring a friend” small group meeting where every one invites a non- Christian to the group. In fact, some small groups are designed to be open groups, where members are encouraged to bring new people every week. Do a lesson or activity that would be appropriate for everyone. Cru.comm (see chapter 12) contains two evangelistic Bible study series.
+1 Have a “bring a friend” small group meeting where every one invites a non-Christian to the group. In fact, some small groups are designed to be open groups, where members are encouraged to bring new people every week. Do a lesson or activity that would be appropriate for everyone. Cru.comm (see chapter 12) contains two evangelistic Bible study series.
 
 2 Do something as a group to give to others, such as Habitat for Humanity, Special Olympics, or a leukemia drive. Sometimes taking students off campus deepens their heart to share Christ on campus.
 

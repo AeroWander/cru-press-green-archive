@@ -20,4 +20,4 @@ These questions will help you articulate your campus vision. As your vision soli
 2. What specific scriptures are you praying about for the campus? Write out each verse or passage.
 6. Since small plans don’t inflame the minds of men, what faith stretching events can you do in the next two to four years to fulfill your vision?
 3. What would your campus look like when these promises are fulfilled (i.e., the spiritual responsiveness of non-believers, the spiritual walk of believers, the spiritual tone of the campus, the character, vision, and biblical convictions of Christian students, etc.)?
-7. In light of the vision God has given you for the next two to four years, what is He showing you to do or become this year? © 2010, CruPress, All Rights Reserved. CruPress.com © 2010, CruPress, All Rights Reserved. CruPress.com Vision Worksheet Continued . . .
+7. In light of the vision God has given you for the next two to four years, what is He showing you to do or become this year? Vision Worksheet Continued . . .

@@ -20,9 +20,9 @@ Christians have lost sight of the supremacy and sufficiency of Christ, replacing
 
 With this fresh glimpse of Jesus, Sweet and Viola challenge their fellow believers to reject the “bestseller Christianity” that wraps up self-centeredness in spirituality, and to start living as “walking, breathing Jesus Manifestos.”
 
-## Order at Thejesusmanifesto.com
+Order at Thejesusmanifesto.com
 
-## The Old Testament teaches us that if you seek God, you will
+The Old Testament teaches us that if you seek God, you will
 
 find Him.1 Jesus went one better: He said that God seeks you. Jesus Christ, God the Son, knocks at your door and asks if you can come out and play.2 God doesn’t wait for us to come God is nearer to me than I am to myself. —Meister Eckhart3 to Him. God comes to us in Jesus, making Himself at home with us. Jesus is the dramatic pitching of God’s tent, wherein God is with us, making beautiful music for us to dance to—if we only will.4 The name Stradivarius is synonymous with the most expensive, most famous, most desirable violins in the world—even if they are three-hundred-year-old instruments.
 

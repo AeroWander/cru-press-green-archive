@@ -13,35 +13,19 @@ source: "added/All Callings/Missional Map.pdf"
 
 (DATE) (DATE) (DATE) (DATE) (DATE)
 
-### MISSIONAL TEAM Launch DATE:
+### Missional Team Launch Date
 
-1.
-
-5.
-
-2.
-
-6.
-
-## [ ] [ ]OuR TEAM [IF IN A SMALL GROUP, GO MISSIONAL TOGETHER]
+[ ] [ ]OuR TEAM [IF IN A SMALL GROUP, GO MISSIONAL TOGETHER]
 
 ### OUR TEAM’s
 
 ## MAP
 
-3.
-
-7.
-
-### Approx. Landing Date:
-
-4.
-
-8.
+**Approx. Landing Date:**
 
 Identifying the people He is sending us to...Pray and be filled with God’s Spirit and ask
 
-### THE POSTMODERN SOJOURNER’S CONTINUUM Created for the purpose of journeying others to the Kingdom.
+THE POSTMODERN SOJOURNER’S CONTINUUM Created for the purpose of journeying others to the Kingdom.
 
 Him to lead you to the people He has on your journey.
 
@@ -49,15 +33,7 @@ Use the following two questions to help with the clarification process.
 
 1. Is God sending us to people where we live, work, play, or 1. some other group?
 
-2.
-
 2. Who has God already placed in our path, in our care, or on our hearts? ?’s to consider as we begin 3.
-
-4.
-
-5.
-
-6.
 
 1. When will we pray for these people?
 2. How will we bless these people?
@@ -66,35 +42,15 @@ Use the following two questions to help with the clarification process.
 
 ONGOING ?’s TO CONSIDER 7.
 
-8.
-
-9.
-
-10.
-
-11.
-
-12.
-
 1.What are the troubles we can come alongside them in?
-
-13.
 
 2.What are the questions we are asking them?
 
 3.What are the questions they are asking us?
 
-14.
-
-15.
-
-16.
-
 4.How are you continually inviting sojourners to be a part of your existing 17.
 
 18. community?
-
-19.
 
 “just as the father sent me, I am sending you.” -John 20:21 20.
 

@@ -10,7 +10,7 @@ summary: "An overview article introducing Athletes in Action (AIA), a Cru-affili
 source: "Launching a New Ministry/Ethnic_ Contextualized Ministries/AIA.pdf"
 ---
 
-## The Ministry of AIA Www.athletesinaction.org One World to Reach
+The Ministry of AIA Www.athletesinaction.org One World to Reach
 
 Crime, Murder, Abuse, Racism, Scandal, Corruption. Every day our newspapers, the Internet and television tell the depressing, and sometimes tragic story of a world and its people that is far from realizing its created purpose.
 
@@ -22,7 +22,7 @@ For billions of people, the stadiums of the world serve as houses of worship. Wh
 
 ## One Message of Victory
 
-Since 1966, AIA has committed to sharing a Victory beyond Competition that is found only in a relationship with Jesus Christ. Athletes and coaches around the world who are experiencing this life-changing relationship are telling the story of Jesus – to their teammates and fellow coaches, to hurting and needy people through their words and acts of compassion and kindness, and to the millions of people through the media. Over 650 staff members and 7,500 volunteers in 94 countries boldly proclaim Jesus Christ, deeply equip believers to lead and urgently mobilize ambassadors of Good News and Good Will in the fulfillment of the Great Commission. As societies around the world look up to athletes as heroes, they must find those heroes looking up to God! The global vision and mission of AIA is supported by the following commitments and strategies: • • • • • • Direct ministry with college, professional and top amateur athletes and coaches A comprehensive plan for ethnic and gender diversity Competing sport teams in teams such as baseball, basketball, soccer, tennis, track and field, swimming, rugby and more Integrating compassion and humanitarian aid with the sport platform Hosting outreach events at major sporting events such as the Super Bowl, Final Four, NBA All-Star Game, Olympics, World Cup of soccer and more A home office that features a sports complex and conference center with overnight accommodations for over 200 people
+Since 1966, AIA has committed to sharing a Victory beyond Competition that is found only in a relationship with Jesus Christ. Athletes and coaches around the world who are experiencing this life-changing relationship are telling the story of Jesus – to their teammates and fellow coaches, to hurting and needy people through their words and acts of compassion and kindness, and to the millions of people through the media. Over 650 staff members and 7,500 volunteers in 94 countries boldly proclaim Jesus Christ, deeply equip believers to lead and urgently mobilize ambassadors of Good News and Good Will in the fulfillment of the Great Commission. As societies around the world look up to athletes as heroes, they must find those heroes looking up to God! The global vision and mission of AIA is supported by the following commitments and strategies: Direct ministry with college, professional and top amateur athletes and coaches A comprehensive plan for ethnic and gender diversity Competing sport teams in teams such as baseball, basketball, soccer, tennis, track and field, swimming, rugby and more Integrating compassion and humanitarian aid with the sport platform Hosting outreach events at major sporting events such as the Super Bowl, Final Four, NBA All-Star Game, Olympics, World Cup of soccer and more A home office that features a sports complex and conference center with overnight accommodations for over 200 people
 
 ## The Campus Sports Ministry
 

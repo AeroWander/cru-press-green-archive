@@ -11,11 +11,11 @@ summary: "An article by pastor Andy Stanley on why organizational vision natural
 source: "MTL/MTL/MTL2/Vision Leaks.pdf"
 ---
 
-## Andy Stanley How Do You Keep the Team’s Passion for Ministry from Deflating?
+Andy Stanley How Do You Keep the Team’s Passion for Ministry from Deflating?
 
 Vision doesn’t stick; it doesn’t have natural adhesive. Instead, vision leaks. You’ve repeated the vision for your church a hundred times. Then someone will ask a question that makes you think, What happened? Didn’t they hear what we’ve said over and over? Don’t they know what this church is all about?
 
-## You Can Spot Leakage by Listening for Three Things:
+## You Can Spot Leakage by Listening for Three Things
 
 1. Prayer requests. What people pray for will tell you more than anything else whether they are locked into the vision and priorities of the church. When you are in a leadership meeting, are the only prayer requests for sick people? When I’m in such a meeting, I say, “Whoa, is anybody in this group burdened for an unchurched or unsaved friend? Yes, let’s pray for the sick people. Now, what else can we pray for?”
 2. Stories of great things happening in people’s lives. If there are no stories, then maybe the vision for life transformation has leaked.
@@ -43,7 +43,7 @@ In church life, nothing unfocuses us faster than haphazard, “y’all come” p
 
 So we ask hard questions of each potential program: Is this event a step toward maturity, or just more programing? Unless it makes a clear contribution to maturity and life transformation, it will likely become a vision leak.
 
-## There Are Three Things You Need to Do in Order to Make Your Vision Stick. Repetition: Good, Good, Good
+There Are Three Things You Need to Do in Order to Make Your Vision Stick. Repetition: Good, Good, Good
 
 None of us casts vision enough. Why? Because we think we’ve already said these things.
 
@@ -67,7 +67,7 @@ For instance, every one of my newsletter articles is vision oriented. I don’t 
 
 When we talk about the vision, it needs to be in a way that’s clear and compelling to those we are addressing.
 
-## Three Components Help Me Keep the Vision Compelling:
+## Three Components Help Me Keep the Vision Compelling
 
 1. Define the problem. You must ask the question, What problem is my organization attempting to solve? There is something that will not get done if we don’t do it. If we don’t do what we do, there’s a group of people that won’t be reached. When you talk about vision, you need to begin by talking about why your church exists. What is the problem that God has called you to solve?
 2. Offer a solution. Your vision is the solution to a problem, and when you can couple a problem that people feel emotionally with a clear solution, you are on your way to capturing their hearts. Then you can also capture a piece of their time and effort. Is your vision for your church a solution to a problem?

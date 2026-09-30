@@ -18,13 +18,13 @@ the Big Picture Survey the big picture by analyzing the . . .
 - Literary Context
 - Redemptive Context
 
-## explore
+## Explore
 
 the PaSSage Carefully explore the biblical text by applying the interpretive approach that best fits the genre of the passage.
 
 (Different genres require different interpretive steps.)
 
-## DIScover
+## Discover
 
 the Big IDea Summarize the results of your interpretive journey. steps to survey
 
@@ -51,13 +51,13 @@ the Big Picture Survey the big picture by analyzing the . . .
 - Literary Context
 - Redemptive Context
 
-## explore
+## Explore
 
 the PaSSage Carefully explore the biblical text by applying the interpretive approach that best fits the genre of the passage.
 
 (Different genres require different interpretive steps.)
 
-## DIScover
+## Discover
 
 the Big IDea Summarize the results of your interpretive journey. steps to survey
 
@@ -74,7 +74,7 @@ the Big IDea Summarize the results of your interpretive journey. steps to survey
 -  Create a textual outline of your passage
 -  Summarize the big idea of your passage in a single sentence (the author’s big idea)
 
-## reSponD
+## Respond
 
 to God Respond to God through his Word. steps to respond
 
@@ -83,7 +83,7 @@ to God Respond to God through his Word. steps to respond
 -  Consider how the passage points you to Christ and his redemptive work
 -  Determine personal response(s)
 
-## reSponD
+## Respond
 
 to God Respond to God through his Word. steps to respond
 

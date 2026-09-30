@@ -55,7 +55,7 @@ Backstory Bible Studies written by:
 
 Matt Baehr & Jesse Furey
 
-## Backstory Bible Study
+*Backstory Bible Study*
 
 ## Betrayal
 
@@ -119,7 +119,7 @@ While you and I have lived our lives in active and passive rebellion against God
 
 The idea of betrayal involves a breach in trust. God fully knew we would betray Him, yet still sacrificed Himself to purchase our redemption. Now we can
 
-## Backstory Bible Study
+*Backstory Bible Study*
 
 ## Anticipation
 
@@ -195,7 +195,7 @@ Backstory Bible Studies written by:
 
 Matt Baehr & Jesse Furey
 
-## Backstory Bible Study
+*Backstory Bible Study*
 
 ## Pursuit
 
@@ -231,7 +231,7 @@ Backstory Bible Studies written by:
 
 Matt Baehr & Jesse Furey
 
-## Backstory Bible Study
+*Backstory Bible Study*
 
 ## Sacrifice
 
@@ -279,7 +279,7 @@ Why is Christ better than Harry Potter or Potter’s mom? There are myriads of a
 
 Christ is real. He’s alive, living, and active…maybe even right now in your heart! You may already know him personally or maybe you sense that he’s pursuing you. How is this possible? Because he rose from the dead. That’s what sets him apart. Christianity is not true because it makes you feel a certain way. Christianity is true because Jesus Christ rose from the dead! Potter’s mom may have sacrificed her life for her son because she loved him deeply, but that’s where it ended. She had no power over death. Once it consumed her that was it (not to mention she’s fictional). The same thing can be said for every other religious figure that actually lived. They may have had a dynamic impact on society and religious or ethical thought…but they’re dead. Their influence may still be lasting through today…but they’re dead. Everyone dies. Even Christ, yet Christ defeated death and sin by rising from the dead, never to die again. He is the only one to ever do that! Potter’s mom loved her son so she was willing to die for him. Christ loved us, even though we have given him absolutely NO
 
-## Backstory Bible Study
+*Backstory Bible Study*
 
 ## Invitation
 
@@ -320,7 +320,7 @@ There is only one way of salvation described in scripture: by grace (the free gi
 
 At the end of the day, Jesus is inviting all of us to find him more satisfying, more pleasing, more enjoyable than anything else. He may also be inviting you to live a more radical life for him...to give something up that you hold tighter than you hold him...to go somewhere crazy with the Gospel...or to share the Gospel in your own dorm or classes. Only you know what He is inviting you into...
 
-## Backstory Bible Study
+*Backstory Bible Study*
 
 ## Reunion
 

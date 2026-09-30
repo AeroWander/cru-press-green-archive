@@ -11,7 +11,7 @@ source: "Small Groups and Meetings/Posters and Publicity copy/Bible Study Flyers
 also_filed: ["Small Groups and Meetings/Posters and Publicity copy/Bible Study Flyers —Beatitudes/Beatitudes 4 b_w.pdf"]
 ---
 
-## cru. BIBLE STUDY/DISCUSSION
+cru. BIBLE STUDY/DISCUSSION
 
 Blessed (Oh, how lucky) are those without food? Without shelter? What did Jesus mean by this shocking statement? What was he telling us about the meaning of life and where true happiness can be found? Come and join the discussion.
 

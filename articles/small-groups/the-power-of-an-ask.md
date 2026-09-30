@@ -11,7 +11,7 @@ summary: "An article by Tim Dorsch arguing that personally asking students one-o
 source: "Building Community/Conferences and Retreats/The Power of an Ask.pdf"
 ---
 
-## Tim Dorsch Recruiting to Conferences and Retreats
+## Recruiting to Conferences and Retreats
 
 “I’m not going…”
 
@@ -25,7 +25,7 @@ Conferences and retreats are a great resource for reaching students and building
 
 There are many reasons why conferences are worth asking students to join us:
 
-He had not made the connection between his desires for the campus and his personal decision to come to the conference. I asked him to reconsider. Right then, he decided that he would go. While we were at the conference I counted six students that were there, in part, because this student decided to go. It occurred to me that it was easy for me to have assumed that he was going to go. After all, he knew about it and was the type of person who would go. At that moment, I realized how important it is to ask students one-on-one to come with us to conferences. • • • • Students hear more clearly from the Lord when they get away from the noise of life.
+He had not made the connection between his desires for the campus and his personal decision to come to the conference. I asked him to reconsider. Right then, he decided that he would go. While we were at the conference I counted six students that were there, in part, because this student decided to go. It occurred to me that it was easy for me to have assumed that he was going to go. After all, he knew about it and was the type of person who would go. At that moment, I realized how important it is to ask students one-on-one to come with us to conferences. Students hear more clearly from the Lord when they get away from the noise of life.
 
 People accept Christ and make life-changing decisions to serve the Lord.
 
@@ -39,7 +39,7 @@ Students come to conferences for many different reasons, and there are many meth
 
 Unfortunately, a significant obstacle to asking is apathy. We forget all of the reasons why it is important to get students to come.
 
-Here are some obstacles to asking one-on-one more often: • • • • • Other strategies are easier. Announcements, power point slides, and testimonies can take less time and energy.
+Here are some obstacles to asking one-on-one more often: Other strategies are easier. Announcements, power point slides, and testimonies can take less time and energy.
 
 Students already committed to going do not always see the necessity of asking others to come. Challenge and encourage involved students to be proactive in not only going, but also taking people with them.
 
@@ -47,7 +47,7 @@ Sometimes we do not feel like we have a strong enough relationship to make askin
 
 We think someone else has already asked them. This is a bad assumption. List all the students that could possibly be asked. Divide the names among your leadership team. Update the list as leaders meet new people. However, keep asking students regardless of whether they are on the list.
 
-We assume people will come if they know about the retreat and are interested. This is often not true, and can cause us to miss the chance to help students overcome obstacles. • • • • want to be more like Jesus. People want to know, “What difference will this make in my life?” You must have passion. Communicate with genuine enthusiasm about what God will do as a result of them attending the weekend retreat. Remember to be loving, tactful, and concerned about people’s welfare (that is why you are asking them to come to the retreat in the first place.) Make sure there is follow-through by getting a definite “yes” or “no” from each student. Be intentional to ask key people. Certain people will cause many other students to come. Ask key people to invite friends to come along with them. Have a good conversation instead of simply saying, “You should go.” A good conversation might include questions like: • • • • • • • “How has your life been spiritually?”
+We assume people will come if they know about the retreat and are interested. This is often not true, and can cause us to miss the chance to help students overcome obstacles. want to be more like Jesus. People want to know, “What difference will this make in my life?” You must have passion. Communicate with genuine enthusiasm about what God will do as a result of them attending the weekend retreat. Remember to be loving, tactful, and concerned about people’s welfare (that is why you are asking them to come to the retreat in the first place.) Make sure there is follow-through by getting a definite “yes” or “no” from each student. Be intentional to ask key people. Certain people will cause many other students to come. Ask key people to invite friends to come along with them. Have a good conversation instead of simply saying, “You should go.” A good conversation might include questions like: “How has your life been spiritually?”
 
 “What would you like to see the Lord do in your life?”
 
@@ -65,7 +65,7 @@ Listen for what his or her decision is hinging on. Be sensitive to objections. T
 
 ## How to Ask One-on-one
 
-What do we do when it comes to sitting down with someone in the student union? Here are some guiding principles to making a good one-on-one ask: • • • • Diligently pray for those you are inviting. Ask students to pray about going. Help students to making Christ-centered, spiritual decisions. It is important to help people understand that not making a decision is actually a “no.”
+What do we do when it comes to sitting down with someone in the student union? Here are some guiding principles to making a good one-on-one ask: Diligently pray for those you are inviting. Ask students to pray about going. Help students to making Christ-centered, spiritual decisions. It is important to help people understand that not making a decision is actually a “no.”
 
 How well you know the person you are asking is important. The stronger the relationship; the stronger the ask. This makes building relationships during the first six weeks of the school year even more critical. Diligently trying to get people to a place where God might change their lives is truly an act of love. The stronger the relationshipthe better, but do not forget to also ask those who we do not know well.
 

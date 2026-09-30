@@ -13,7 +13,7 @@ also_filed: ["Small Groups and Meetings/Posters and Publicity copy/Weekly Meetin
 
 The gospel of Jesus is a rogue element within history, a demythologizing virus that will undermine the false gods of any culture that would presume to contain it.
 
-## —David Dark REAL FAITH. REAL RELATIONSHIPS. REAL LIFE
+## David Dark Real Faith. Real Relationships. Real Life
 
 We’re a gathering of committed Christians on campus by which we mean: We’re real people dealing with the real problems of living out a real faith in the real world. Join us.
 

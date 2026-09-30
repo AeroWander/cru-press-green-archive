@@ -12,7 +12,7 @@ note: "1 of 23 pages had no text layer and were read with OCR; expect some recog
 source: "added/discipling_women_book_FINAL_eating disorders copy.pdf"
 ---
 
-### By Lori Joiner Eating Disorders
+### Eating Disorders
 
 Filled with personal stories, humorous examples and helpful advice, Discipling Women will guide you in how to invest spiritually in other women. Whether you are reaching out to a new Christian, a neighbor, or in full time vocational ministry, Discipling Women gives the answers, lift, and encouragement you need.
 
@@ -20,7 +20,7 @@ Discipling Women will assist you as you navigate through sensitive areas with yo
 
 TRANSFORMATIONAL COMMUNITY 1 DISCPING WOMEN BY LORI JOINER
 
-## " ISSUE #2 Eating Disorders: “If I eat this, it will make me fat…”
+" ISSUE #2 Eating Disorders: “If I eat this, it will make me fat…”
 
 “I remember the first day I threw up,” Allison told me. “I was on a Girl Scout camping trip and felt I had eaten too much. Just that week I had watched a Baywatch episode where the star of the show, played by Pamela Anderson, was being confronted with her eating disorder. There was a detailed scene showing her character throwing up her food by sticking her fingers down her throat. So I excused myself to the bath-room and tried to do what I had just seen on television — throw up by putting my fingers down my throat. It worked, and so began my six-year battle with bulimia.
 
@@ -64,47 +64,21 @@ Knowing Tina now, I can’t imagine her in beauty pageants or wearing frilly dre
 
 When talking about eating issues with your disciple, one way to fully understand the extent of her problem is to ask a few questions. Here is a list I have compiled and used throughout the years. After you have talked about your concerns, you could introduce this by saying, “I want to understand the extent of what is going on in your life so I can fully grasp your struggle and get you the help you need. In order for me to do that, how would you feel about me asking you a few questions?” Feel free to bring this list with you:
 
-1.
-
 Do you have regular periods? Skip periods?
-
-2.
 
 Do you fear getting fat?
 
-3.
-
 How often do you count calories/fat grams?
-
-4.
 
 How often and how long do you exercise?
 
-5.
-
 Do you “punishment-eat” (for example, deny yourself dinner because you ate a large lunch, or punish yourself for eating seconds by restricting food at the next meal)?
 
-6.
-
 Have you talked with anyone about this before? If yes, what was done?
-
-7.
 
 When did this start? How old were you?
 
 DISCIPLING WOMEN 8.
-
-9.
-
-10.
-
-11.
-
-12.
-
-13.
-
-14.
 
 Why did this start?
 
@@ -128,7 +102,7 @@ Getting at the root of an eating disorder is paramount for complete recovery. Yo
 
 EATING DISORDERS: “IF I EATTHIS, IT WILL MAKE ME FAT…”
 
-### Your disciple will need to:
+Your disciple will need to:
 
 Understand that her eating disorder is not about food or fat Understand that her eating disorder is a coping mechanism to deal with pain Heal from trauma, sexual abuse, and other painful experiences in her past Face fears of being unacceptable and unloved, and find better ways to deal with those fears than through perfectionism Develop a healthy self-esteem and reject self-hatred and self-loathing Resolve her issues with food, health, and nutrition so she can live Want to live and be alive Resolve body-image issues and stop determining self-worth by size and shape Give herself permission to feel and eat, and to ask for and receive help Trust herself and others, rather than demand to be in control Forgive herself Most of this portion was adapted from information gathered at CenterforChange.com.
 

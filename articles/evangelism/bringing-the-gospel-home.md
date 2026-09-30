@@ -11,7 +11,7 @@ summary: "The opening chapter of Randy Newman's book Bringing the Gospel Home, o
 source: "added/BTGH Chpt 1.pdf"
 ---
 
-## By Randy Newman
+*By Randy Newman*
 
 WITNESSING TO FAMILY MEMBERS, CLOSE FRIENDS, AND OTHERS WHO KNOW YOU WELL Jesus is off limits for a lot of families and friends—or at least that’s how it appears sometimes. Why does sharing the good news with a stranger often feel less frightening than telling those you love most?
 

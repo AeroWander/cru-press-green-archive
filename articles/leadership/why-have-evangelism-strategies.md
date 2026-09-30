@@ -11,8 +11,6 @@ summary: "An article by Eric Swanson explaining the rationale for deliberate eva
 source: "Evangelism/outreach/Why_Have_Evangelistic_Strategies.pdf"
 ---
 
-## Eric Swanson
-
 and ineffective strategies can all serve as barriers to effective evangelism. However, we want to make sure that we are applying the right solution to the right barrier. No new strategy or new materials will compensate for lack of heart or inactivity. No new net ever made a fisherman out of a non-fisherman.
 
 4. Ministry leaders are looking for ideas that give the greatest return (i.e. “hot” contacts, increased fruitfulness, good training opportunities and assimilation into the movement) for their time, effort and dollar expended.
@@ -30,7 +28,7 @@ Premises:
 
 ## Criteria for Effectiveness
 
-Ultimately, effectiveness in evangelism helps others “catch more fish” rather than simply weave better or more creative nets. Nets are a means not an end in themselves. How do we measure effectiveness? In evaluating the effectiveness of any evangelistic strategy, we should consider the following questions: • • two evangelistic models we see in the book of Acts are Peter’s proclamation message to “God-fearing Jews” (Acts 2:5) and Paul’s persuasion message to the “men of Athens” (Acts 17:22). The response to Peter’s message was the 3,000 who believed. The response to Paul’s dialogue was mixed--”some...sneered,...others said, ‘We want to hear you again...(and) a few believed” (Acts 17:32-34). We are experts in harvesting the prepared but we also need to be aware that if this is a shrinking segment of the student population then part of our strategy in evangelism is to bring an increasing number of students into that first group by educating and motivating students to receive Christ. In reaching the campus then, we use a two-fold approach. • • • • • Is it biblically sound and a reflection of our mission statement of helping to fulfill the Great Commission?
+Ultimately, effectiveness in evangelism helps others “catch more fish” rather than simply weave better or more creative nets. Nets are a means not an end in themselves. How do we measure effectiveness? In evaluating the effectiveness of any evangelistic strategy, we should consider the following questions: two evangelistic models we see in the book of Acts are Peter’s proclamation message to “God-fearing Jews” (Acts 2:5) and Paul’s persuasion message to the “men of Athens” (Acts 17:22). The response to Peter’s message was the 3,000 who believed. The response to Paul’s dialogue was mixed--”some...sneered,...others said, ‘We want to hear you again...(and) a few believed” (Acts 17:32-34). We are experts in harvesting the prepared but we also need to be aware that if this is a shrinking segment of the student population then part of our strategy in evangelism is to bring an increasing number of students into that first group by educating and motivating students to receive Christ. In reaching the campus then, we use a two-fold approach. Is it biblically sound and a reflection of our mission statement of helping to fulfill the Great Commission?
 
 Does the strategy promote the “critical event” as a result? That is, one trained ministry leader or student sharing the gospel with a non-Christian student and asking for a decision? This is what we really do best. To be effective, all strategies must eventually filter down to this “critical event.”
 
@@ -70,7 +68,7 @@ In any evangelistic strategy that we employ, we are in the process of doing one 
 
 “Relationships,” “Resolving Conflict,” “Better Grades,” etc. We can use these articles in conjunction with various surveys. As we do evangelism, we always have something to leave behind that is interesting and relevant. We sow as we go. Leaving pieces educate without confronting. DVD’s or short books can also be
 
-## Thoughts by Peter Wagner
+Thoughts by Peter Wagner
 
 Strategy is the means agreed on to reach a certain goal. I contend that some strategies are demonstrably superior to others, and that we do poorly if we do not examine them all and choose the best. The best strategy is, first of all, biblical because God’s work must be done God’s way. Secondly, it is efficient . Third, strategy must be relevant. A strategy that was useful five years ago might well be obsolete today. It needs constant updating.
 

@@ -15,11 +15,11 @@ INVESTIGATIVE BIBLE STUDY 1 A WHOLISTIC MODEL OF MINISTRY 1
 
 ## A Wholistic Model of Ministry
 
-## By Amy Brandt
+*By Amy Brandt*
 
 This is a great discipleship lesson on wholisitic ministry: meeting the physical and social needs of the individual as we seek to meet their spiritual need. As it is a discipleship appointment, it’s been placed in the format of The Compass, the Campus Ministry’s discipleship curriculum, as content to be used along side of it.
 
-## Wholisc Ministry Model
+*Wholisc Ministry Model*
 
 It can be tempng to look at ministry to the poor as something as reserved for me leover aer our other ministry responsibilies are completed. Of course it seems like a good thing to do... and of course we'd all encourage our disciples to reach out to the poor. But an essenal part of the gospel? Probably not. Or even if it is essenal, just how does it fit in with the part of the gospel that we generally encourage our disciples to share... with the KGP part? How does this ministry to the social needs of people relate to the tradional aspects of a ministry of Lifeme Laborer as we have pracced them within Campus Crusade?
 

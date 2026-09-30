@@ -11,8 +11,6 @@ summary: "An article by Eric Swanson distinguishing a 'ministry' from a 'movemen
 source: "Launching a New Ministry/Ministry Leadership/Ministries and Movements.pdf"
 ---
 
-## Eric Swanson
-
 one when we see one. The classic definition of a Crusade movement reads as follows:
 
 “A movement is the collective activity of committed, multiplying disciples as they band together and trust God for an impact greater than their own individual ministries.”
@@ -58,15 +56,12 @@ Crusade movements are easier to recognize than to define. We may not be able to 
 Historically we have said that in order to have a movement three essential elements will always be present.
 
 1. Momentum--Large numbers of people going in the same direction.
-- • •
 2. Multiplication--Multiplication involves the training of a new generation of leadership. There can be no movement without the training of new leadership. The movement will expand only as leadership is developed.
 3. Management--Management involves planning, organizing, leading, and controlling. Movements need guidance. Management is needed to transform enthusiasm into action--to channel and plan strategic action. Without management no movement can be sustained for any length of time. Lenin was the manager of the ideas espoused by Karl Marx, the thinker.
-- •
-- • •
 
 ## Misunderstanding Movements
 
-Even though all Crusade movements will contain the Crusade elements of a movement, activating these elements does not necessarily mean that you will have a movement. Why? Because ultimately a movement is what God produces in the life of a ministry. We can develop ministries but only God can transform a ministry into a movement. We build the spiritual environment and pray for God to transform it into a movement. Spiritual movements might be our way of expressing “revival.” A ministry is to a house what a movement is to a home. There are many similarities between ministries and movements. Both are good. But they are not the same. • • • • • • •
+Even though all Crusade movements will contain the Crusade elements of a movement, activating these elements does not necessarily mean that you will have a movement. Why? Because ultimately a movement is what God produces in the life of a ministry. We can develop ministries but only God can transform a ministry into a movement. We build the spiritual environment and pray for God to transform it into a movement. Spiritual movements might be our way of expressing “revival.” A ministry is to a house what a movement is to a home. There are many similarities between ministries and movements. Both are good. But they are not the same.
 
 ## Comparing Ministries and Movements
 
@@ -96,7 +91,7 @@ Ministry focus is inward. Movement focus is outward.
 
 Ministries maintain. Movements expect to bring about change.
 
-Ministries reflect the faithful work of people. Movements reflect the work of God. • • A ministry is the sum of its parts. A movement is greater than the sum of its parts.
+Ministries reflect the faithful work of people. Movements reflect the work of God. A ministry is the sum of its parts. A movement is greater than the sum of its parts.
 
 A movement has a life of its own. It is larger than any one individual.
 
@@ -117,7 +112,7 @@ Bill Bright has said this in regard to our basic materials: “We maintain a mov
 
 2. Commit yourself to discipling students. After twelve years of campus ministry John Bruce said this: “A movement is a description of what happens in the life of one student multiplied many times over.” Keith Davy’s campus plan states, “Movements grow as individuals grow.” In other words, after all the fluff, smoke and mirrors are removed from the activities, whose lives are really changed because of your presence on the campus? Are students walking in the Spirit? Are they having a quiet time? Do they share their faith? Although we cannot, of ourselves, build a movement, we can build students. We need to recruit and train leadership.
 
-## Lifecycle of a Movement
+Lifecycle of a Movement
 
 Any movement, like any living thing, has a natural lifecycle. Bill Bright says this, “Movements are born with seeds of decay.” Movements begin with an individual who is willing to sacrifice everything and conclude with a large group of people who are willing to sacrifice nothing. Put another way, they begin with a man (or woman), grow into a movement, become a machine and end up a monument to the vision of the one who began it. Let’s do our part to see that we continue.
 
@@ -129,7 +124,7 @@ By their nature movements do one of three things.
 
 It is possible to have a movement within your ministry. Prayer movements, overseas movements, etc. can be cultivated and thrive within your ministry. They will involve leaders with vision and followers who sacrifice.
 
-## Three Helpful Questions:
+## Three Helpful Questions
 
 What kind of person are we trying to produce? What kind of movements produce those kind of people?
 

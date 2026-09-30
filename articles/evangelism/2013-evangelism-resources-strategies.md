@@ -20,7 +20,7 @@ Cru plays a vital role in making the gospel inescapable on campuses across the n
 
 The Gospel for Every Student & Faculty (Gospel4ALL) is our priority (or strategic path step) for evangelism on the USCM Strategic Plan. Gospel4ALL efforts help us excel still more as we pursue the vision of giving every student and faculty member an opportunity to say “yes” to Jesus. The “Gospel4ALL Evangelism Strategies and Resources” is a toolbox of proven strategic options for missional teams to consider as they develop their local evangelism plans.
 
-## Leading Evangelistic Movements Evangelism Design: a Comprehensive Framework
+Leading Evangelistic Movements Evangelism Design: a Comprehensive Framework
 
 The Evangelism Model has been informing our thinking about evangelism for the past 15 years. Various tools and studies have helped reinforce this biblically based framework. Yet we’ve lacked a consistently used, comprehensive, written statement of the Evangelism Model to use in leadership development and training. That is until now. “Evangelism Design: A Comprehensive Framework” is a seventeen page publication, unpacking the Evangelism Model principles:
 
@@ -52,11 +52,11 @@ Mentor: Encouraging others to continue on in their spiritual journey.
 
 For additional resources that will help equip your students in conversational evangelism, go to crupressgreen.com.
 
-## Cojourners: Transferable Concept
+Cojourners: Transferable Concept
 
 This 16-page article is the best introduction and explanation of the CoJourner approach to evangelism. It is simple-to-follow and easy-to-apply. Great for personal study or for use in conjunction with CoJourner trainings, whether in small group or large group settings. Packs of professionally printed copies of CoJourners: Transferable Concept are available through CruPress.
 
-## Passages: a Devotional Journey
+## Passages: A Devotional Journey
 
 This 28-day devotional will help CoJourners become a way of life. Each devotional thought reinforces the CoJourner paradigm through prayer and the Word of God. Use it yourself, with your small group, as an assignment with training classes or as part of a month-long outreach emphasis. Available at CruPress.com.
 
@@ -64,15 +64,15 @@ This 28-day devotional will help CoJourners become a way of life. Each devotiona
 
 This video series, based on Colossians 4:5-6, is designed to guide you through conversational transitions: from general to spiritual to gospel. Using the CoJourners evangelism paradigm, c456 is a six-part training series that can be viewed individually, in a small group study, or a large group weekly meeting. C456 can be found at CruPress Green.
 
-## Cojourner Podcasts
+*Cojourner Podcasts*
 
 Listen to 90-second CoJourner spots by Keith Davy on MyBridge Radio Network. Download & stream for personal use or to stimulate discussion in your small group. Go to CruPressGreen.com.
 
-## Cojourner Equipment Pack
+*Cojourner Equipment Pack*
 
 The CoJourner Equipment Pack provides small group discussion content for equipping in Bible studies, discipleship groups, and discipleship appointments. The Pack includes twenty 8-12 minute equipping discussion cards. The discussion cards are not a replacement for the Bible study content, but rather provide an equipping element to help cultivate the outreach focus in small groups. The Equipment Pack is organized around the CoJourner roles, but the cards can be used in any order. The Equipment Pack can be downloaded at CruPress Green.
 
-## Cojourner Training Sessions
+*Cojourner Training Sessions*
 
 The CoJourner curriculum is what you need to teach your local movement or evangelism class how to be CoJourners. Use the Overview as a one-session training, or as the introductory session for a five-session series. The five-part training series can be taught in an all-day session, or over the course of five weeks in a church or classroom.
 
@@ -104,7 +104,7 @@ How can we help our students have more opportunities to share Christ with their 
 
 Developing three new redesigned versions of the KGP booklet and two one page versions that are folded up: These booklets will be field tested this fall. For more information, you contact Rick.James@cru.org
 
-## Back Story: Life@large Revisited
+Back Story: Life@large Revisited
 
 A major revision to Life@Large has been accomplished. The storyline of the gospel in seven themes:
 
@@ -118,7 +118,7 @@ A major revision to Life@Large has been accomplished. The storyline of the gospe
 
 ## One-verse Evangelism
 
-Many people feel that to be effective in evangelism they must memorize a complex illustration and a multitude of verses. But the Gospel is most powerful when shared with love, clarity, and simplicity. One- Verse Evangelism is a simple, interactive way to share Christ’s love conversationally and visually. It is based on asking questions and sharing. It’s easy to learn because it uses just one verse. On CruPress Green, simply search for “One Verse Evangelism.”
+Many people feel that to be effective in evangelism they must memorize a complex illustration and a multitude of verses. But the Gospel is most powerful when shared with love, clarity, and simplicity. One-Verse Evangelism is a simple, interactive way to share Christ’s love conversationally and visually. It is based on asking questions and sharing. It’s easy to learn because it uses just one verse. On CruPress Green, simply search for “One Verse Evangelism.”
 
 ## Life Stories: Personal Testimonies
 
@@ -136,13 +136,13 @@ The purpose of the Executive and Entrepreneurial Leadership Forum is to assist t
 
 For Greeks, check out Greekmovement.com.
 
-## Sharing the Gospel Online Everystudent.com
+Sharing the Gospel Online Everystudent.com
 
 Everystudent.com gives the opportunity to make the gospel “findable” to many who are searching for God. It is an easy way for your students to help friends find out about God and your movement can help an entire campus consider the claims of Christ. Everything you need to know to make the most of this powerful multi-dimensional outreach tool is found in The Everystudent.com Guidebook at:
 
 Everystudentinfo.com
 
-## Meettheprof.com
+Meettheprof.com
 
 A faculty-oriented outreach is taking shape. Local professors can create their own profile, tell their story and direct students to their page as a means of witness. For more information contact:
 

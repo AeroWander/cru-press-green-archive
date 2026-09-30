@@ -38,11 +38,6 @@ The eunuch asked Philip, “Tell me, please, who is the prophet talking about, h
 As they traveled along the road, they came to some water and the eunuch said, “Look, here is water. Why shouldn’t I be baptized?” And he gave orders to stop the chariot. Then both Philip and the eunuch went down into the water and Philip baptized him. When they came up out of the water, the Spirit of the Lord suddenly took Philip away, and the eunuch did not see him again, but went on his way rejoicing. Philip, however, appeared at Azotus and traveled about, preaching the gospel in all the towns until he reached Caesarea.” Response: Of course people ought to be seeing the difference in our lives and that should make them thirsty for what we have, but often they still don’t come to us and ask how to know Jesus, unless we bring it up. Or even if they know that the difference in our lives is because we are Christians, they often still don’t understand the Gospel and why they need Jesus or how to receive Him. We need to offer that understanding to them.
 
 2. If we go to people we will turn them off. There’s a lot thoughts and concepts in there but some of what should be observed are the following:
-- •
-- •
-- •
-- •
-- •
 - Phillip was already having a successful ministry where he was.
 
 The Lord led Phillip to a specific place . He finds a person of significant influence —the first black man to hear the Gospel, treasurer in the court of the Queen.

@@ -11,8 +11,6 @@ summary: "An article by Dave Lowe defending contextualized, ethnic-specific camp
 source: "Launching a New Ministry/Ethnic_ Contextualized Ministries/Biblical Principles Contextualized copy.pdf"
 ---
 
-## Dave Lowe
-
 “Why do you segregate your students?” This was the question that I was asked by a new student who had attended our weekly Cru meeting for the first time that night. He knew that our Epic1 and Destino2 ministries were meeting on campus in different rooms and wondered why we were not all one bigger, “unified” group. Before I could respond, another student who was listening quickly jumped into the conversation by adding, “Yeah, I’ve been wondering that too.” you put a person in a group, not based on their own preferences, but based on your desire to maintain some kind of ethnic purity. Rather than segregating, our desire is to give students a choice to be involved in a group that meets their cultural preferences yet maintains our ministry distinctives and values. We don’t tell Asian American students that they must get involved in Epic. Neither do we tell them that if they want to be involved in our missional purposes and objectives that they must join Cru, a group that is predominantly white culturally.
 
 To be honest, I was not completely prepared for the question. After all, we had started Epic, Destino, Impact3, and Bridges4 several years before. I thought for sure our students understood what we were trying to do and that they had bought into the paradigm of multiple movements in contextualized settings. I could understand the new person maybe not totally getting it, but the other student was one of our regular attendees and an up and coming leader.
@@ -27,7 +25,7 @@ Is it true? Does the idea of contextualized ministry violate some fundamental pr
 
 My first response was to refute the idea that we are in any way segregating students. Segregation is when
 
-## God Is the Author of Culture and He Has a Purpose for Each Culture
+God Is the Author of Culture and He Has a Purpose for Each Culture
 
 First of all, we should recognize that God is the creator of culture. It was His idea from the beginning. Four times in the book of Genesis, God gives man the directive to “be fruitful and multiply.” He gives this command to Adam (Gen 1.28) and he also gives the command to Noah after the flood (Gen 8.17; 9.1, 6). Why does He give this command? Quite simply, God’s desire is that the earth would be filled with people who worship Him and glorify Him.
 

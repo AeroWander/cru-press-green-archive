@@ -16,7 +16,7 @@ This is how the Basic Follow-up Series looked way back in the day— back when c
 
 And yet it’s still effective and still the material of choice for some staff and students. After going through the lesson, treat your disciple to a nickel root beer and a rousing game of pong.
 
-## our New Life in Relationshi s
+our New Life in Relationshi s
 
 Remember - As you grow in your relationship with God, He will reueal His character and will; the Holy Spirit enables us to liue a life which reflects both.
 
@@ -38,7 +38,7 @@ Key Points:
 
 A. God desires our comprehensive sanctifrcation. In other words, it is His will that we develop His character in every area of our lives. Purity and holiness are part of God's character. . "For this is the will of God, your sanctification; that is, that you abstain from sexual immorality.-" 1Thessalonians 4:3 B. God desires Christians not to defraud each other in relationships. We defraud someone when we cause them to step outside the boundaries God has established. "...See that no man transgress and defraud his brother in the matter..." l Thessalonians 4:6 On the surface, the Bible appears to be full of negative commandments which seem imposing and dreary. However, we need to remember that God has only one motivation - love. When we understand that He always seeks what is best for us, these commandments become positive.
 
-### God's Comiviands: Both to Protect You Aiid to Provide for You
+God's Comiviands: Both to Protect You Aiid to Provide for You
 
 Behind every negative command are tw_o positive principles..One is to protect us-, the ;th;; io pio"ia" for us. In other wordsfwhen God says, "Thou shalt not commit adultery," He is not being a cosmic killjoy, as we wiII see.
 
@@ -60,9 +60,9 @@ Provide: Integrity in your Christian witness that ministers to others.
 
 Protect: Your Christian testimony.
 
-Protect: Your fellowship with God' Provide: The abundant life. il#},fdljtiiflr,LillliljiiiiijllilrT;,:'iiiiri$1.tr'-i'.,'i,'.,' lli:t::t:*iitjii:t:ti:,:r'ji.':!ii !!r#////,,11'i'w::'ffi'' Why d,o you think God wants to protect and prouide foy you? Look at the following uerses ori ori*", in your own words: Rornans 8:38'39; Psalms 103:17-18; Deuteronorny 10:12. God protects us by giving us boundaries and limitations to our activities. They are an expression of Hisiove and wisdom and they keep us from doing ourselves hqT".^ Not only do^His commands keep us safe from harm but they are also targeted to provide for us in specific ways.
+Protect: Your fellowship with God' Provide: The abundant life. il#},fdljtiiflr,LillliljiiiiijllilrT;,:'iiiiri$1.tr'-i'.,'i,'.,' lli:t::t:*iitjii:t:ti:,:r'ji.':!ii !!r# ,,11'i'w::'ffi'' Why d,o you think God wants to protect and prouide foy you? Look at the following uerses ori ori*", in your own words: Rornans 8:38'39; Psalms 103:17-18; Deuteronorny 10:12. God protects us by giving us boundaries and limitations to our activities. They are an expression of Hisiove and wisdom and they keep us from doing ourselves hqT".^ Not only do^His commands keep us safe from harm but they are also targeted to provide for us in specific ways.
 
-### A Cleai\t Heart for a New Start
+A Cleai\t Heart for a New Start
 
 One of the greatest mistakes people can make is to assume that since they have failed to keep God'siommand regarding sex, God wants nothingto do with them. This is simply notirue. God is well aware of our sinful tendencies - that is why Jesus Christ came. For King David, what began with a stare,led not only tq adultery_and an unwanted p"egnu.--"y, but also to a murder. David really blew it. But consider what happened next.
 
@@ -108,8 +108,4 @@ Our accountability to another person helps maintain our accountability to God. E
 
 Seek fellowship with godly people who support and strengthen your convictions. Hebrettts 10:24,25 ; 2 Tirnothy 2 :22 ISBN 1-57902-105-0
 
-## $#i#ni#*'iyii#"{.;l*iH*{l. ::?#i:*"*T#""r:il llll ililil I illllill|li ll
-
 @uscrusadeforchrist
-
-### Product #5045p H9 iirt*ffi;erved'

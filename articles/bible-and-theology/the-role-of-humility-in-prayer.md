@@ -17,9 +17,7 @@ But it is more than a book on prayer. It is a book of stories; stories of great 
 
 This is not simply a reprint of an old classic. Fireseeds has been updated and expanded to include recent accounts of student revivals as well as stories from around the world and not simply the U.S. The new Fireseeds also recounts the contribution of women to these revivals as they are often overshadowed, and contains an additional chapter on the filling of the Spirit (including the Satisfied Prayer Experience). Last, the revised version opens with a foreword by Mark Gauthier, and a vision to trust God for movements everywhere. FIRESEEDS OF SPIRITUAL AWAKENING
 
-## Order Online at Crupress.com
-
-## humility and its role in revival
+humility and its role in revival
 
 37. Resolved, to inquire every night, as I am going to bed, wherein I have been negligent, —what sin I have committed, —and wherein I have denied myself; —also at the end of every week, month and year.
 48. Resolved, constantly, with the utmost niceness and diligence, and the strictest scrutiny, to be looking into the state of my soul, that I may know whether I have truly an interest in Christ or not; that when I come to die, I may not have any negligence respecting this to repent of.

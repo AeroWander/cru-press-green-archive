@@ -15,11 +15,9 @@ Postcards is the Users Guide for personal discipleship. While The Compass provid
 
 Here, for example, is a partial list of the topics covered: Habitual Sin, Authority Issues, Christian Counseling, Fasting, Theological Conflicts, Coaching Through Trials, Challenging to Conferences, Confronting Sin, Ministering Cross-Culturally, The Role of Faith, Difficulties in Sharing the Ministry of the Spirit, Selection, Conflict Resolution, Why Does Leadership Matter, Conducting Basic Follow-up... Postcards contains 47 articles on all critical issues of discipleship.
 
-## Order Online at Crupress.com
-
 ## Please Cooperate
 
-### What’s our part and what’s God’s in spiritual growth? (excerpt from Flesh)
+What’s our part and what’s God’s in spiritual growth? (excerpt from Flesh)
 
 We need to shed some light on a great mystery of our faith. It is something everyone seems to wonder about, but nobody talks about. When it comes to spiritual growth, what’s God’s part and what’s mine?” For lack of knowledge, Christians seem to fall off on either side of this horse. On the one side, God does all of the work. We simply ask Him to fix us, or we wait for an experience where he takes away our sinful desires. Slid-ing to the other side of the saddle, we reduce our faith to nothing more than discipline. You stop doing bad things, and you start doing better things. More accurately perhaps, we tend to favor the rodeo sensation of perpetually shifting from side to side. I was recently watching an episode of Dr. Phil that seemed to exemplify both approaches. The guests had hopelessly screwed up lives (which is always best for network ratings) and they had tried every self-help program imaginable to change their behavior. Sadly, the mother’s Satan-spawn offspring still liked torturing furry animals with a darning needle. What’s the mom to do? She had come to realize that the depth of their problems could not be overcome by simple discipline. So, completely discouraged, she had come to the omniscient Dr. Phil with an attitude that said, “I’ve tried everything. I give up. Fix me, Dr. Phil, fix me.”
 

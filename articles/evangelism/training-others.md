@@ -11,13 +11,13 @@ summary: "A short leader's guide for training others to use Soularium, a photo-b
 source: "added/Training Others to Use Soularium.pdf"
 ---
 
-## The Soularium Team Your Role Is Critical: You Set the Stage
+The Soularium Team Your Role Is Critical: You Set the Stage
 
 When you teach another person how to use Soularium, you not only shape their experience, but the experience they pass on to others and, most importantly, the experience of the person with whom they use Soularium. So it’s critical they understand how the tool was meant to be used — the philosophy and understanding of God, people, and the gospel that shaped its design.
 
 Quite simply, how you train others matters. Consider this: The purpose of Soularium is not “to get to the gospel”.
 
-## The Heart of Soularium
+The Heart of Soularium
 
 Soularium is designed to help us genuinely and sincerely explore and understand another person’s story.
 

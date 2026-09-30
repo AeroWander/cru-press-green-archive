@@ -11,8 +11,6 @@ summary: "An article by Eric Swanson describing the natural rhythm of a campus m
 source: "Launching a New Ministry/Ministry Leadership/Cycles of Momentum.pdf"
 ---
 
-## Eric Swanson
-
 as possible and getting them into group studies. During the First Quarter, students are generally more open to talking about spiritual things or taking a survey. All Quarters are not equal in this regard. If you had as your goal to initiate with 1,000 students per staff this year, most likely you would not try to reach 250 per Quarter. A good 40% of the yearly initiative and evangelism takes place during the first Quarter. Hence, you need to plan accordingly. This is why mid-year evaluations can be deceptive. At the time it appears that you are well over half-way in reaching your numerical goals. When the truth of the matter is the majority of your evangelism has already been done.
 
 Whether your campus utilizes the traditional two Semester terms or three Quarter terms, an invaluable way of looking at your school year is to divide it into four quadrants that reflect the natural flow of the school year. The First Quarter begins a week or so before school begins and ends at the Fall Conference. The Second Quarter begins after the Fall Conference and terminates with the Christmas Conference. The Third Quarter begins when school resumes in January and concludes at Spring Break. The final Quarter starts after Spring Break and finishes with the completion of the school year.
@@ -61,125 +59,123 @@ See the chart on the next page for a helpful overview of the cycles . . .
 
 #### The six columns
 
-#### to the right show
+to the right show
 
-#### some ideas and
+some ideas and
 
-#### activities you
+#### Activities you
 
-#### can use during
+#### Can use during
 
-#### the year. You
+#### The year. You
 
-#### do not have to
+do not have to
 
 do all of them.
 
 ## Cycles of Momentum
 
-### Aug. Sept. Oct. Nov. Dec. Jan. Feb. March April May June July * @ * # % @ # * @ # # % * @ %
-
 #### KEY
 
-## - Raise the level of commitment as you head towards a major evangelistic event or strategy. Communicate vision, pray, and equip and train your movement for the event or strategy.
+Raise the level of commitment as you head towards a major evangelistic event or strategy. Communicate vision, pray, and equip and train your movement for the event or strategy.
 
 - - Major evangelistic event. Might include Freshman Survival Kits, special speaker, poster campaign, music group, “I Agree With ..” campaign, etc. @ - Conduct the follow-up, gather new people into Bible studies, and invite them to the weekly meeting. % - Continue training people, solidify current Bible studies, go to Fall Retreat (September/October), Christmas Conference or Winter Conference, Spring Break Conference or retreat, or a summer project (apply by February).
 
-### Gathering Evangelism Evangelism Consolidation Conference Momentum Evangelism Discipleship Fall planning Summer
+Gathering Evangelism Evangelism Consolidation Conference Momentum Evangelism Discipleship Fall planning Summer
 
-#### • Prayer
+#### Prayer
 
-#### • Freshman
+#### Freshman
 
 #### Survival Kits
 
-#### • Surveys
+#### Surveys
 
-#### • Equip Small
+#### Equip Small
 
 #### Group Leaders
 
-#### • Put up posters
+#### Put up posters
 
-#### on campus
+#### On campus
 
-#### • Begin small
+#### Begin small
 
-#### groups
+#### Groups
 
-#### • Connection
+#### Connection
 
 #### Studies
 
-#### • Recruit for Fall
+#### Recruit for Fall
 
 #### Retreat
 
-#### • Social
+#### Social
 
-#### gatherings
+#### Gatherings
 
-#### • Every Student’s
+#### Every Student’s
 
 #### Choice
 
-#### • Follow up
+#### Follow up
 
-#### surveys
+#### Surveys
 
-#### • Continue
+#### Continue
 
-#### evangelism
+#### Evangelism
 
-#### • Training
+#### Training
 
-#### • Look for ways
+#### Look for ways
 
-#### to involve new
+#### To involve new
 
-#### people in the
+people in the
 
-#### movement
+#### Movement
 
-#### • Follow up
+#### Follow up
 
-#### commitments
+#### Commitments
 
-#### made at Fall
+#### Made at Fall
 
 #### Retreat
 
-#### • Every
+#### Every
 
 #### Student’s
 
 #### Choice
 
-#### • End of October
+#### End of October
 
-#### • Continue
+#### Continue
 
 #### Christmas
 
 #### Conference
 
-#### recruiting
+#### Recruiting
 
-#### • Raising
+#### Raising
 
 #### Conference
 
 #### Scholarships
 
-#### • Summer
+#### Summer
 
-#### project
+#### Project
 
-#### recruiting
+#### Recruiting
 
-#### • Relational
+#### Relational
 
-#### outreach during
+#### Outreach during
 
 #### Final’s Week
 
@@ -187,100 +183,100 @@ do all of them.
 
 #### Conference
 
-#### recruiting
+#### Recruiting
 
-#### • Bible study
+#### Bible study
 
-#### challenges -
+#### Challenges
 
-#### start new studies
+#### Start new studies
 
-#### • Discipleship
+#### Discipleship
 
-#### and training
+#### And training
 
-#### • Publicity
+#### Publicity
 
-#### • Spring
+#### Spring
 
 #### Conference
 
-#### recruiting
+#### Recruiting
 
-#### • Continue
+#### Continue
 
 #### Summer project
 
-#### recruiting
+#### Recruiting
 
-#### • Continue Bible
+#### Continue Bible
 
-#### studies
+#### Studies
 
-#### • Evangelism
+#### Evangelism
 
-#### Event or Theme -
+#### Event or Theme
 
 #### (Valentine’s
 
-#### outreach or
+outreach or
 
-#### survey)
+#### Survey)
 
-#### • Prayer
+#### Prayer
 
-#### • Training
+#### Training
 
-#### • Every Student’s
+#### Every Student’s
 
 #### Choice
 
-#### • Individual
+#### Individual
 
-#### evangelism
+#### Evangelism
 
-#### • Training
+#### Training
 
-#### • Evaluation of
+Evaluation of
 
-#### the year
+#### The year
 
-#### • Leader’s
+#### Leader’s
 
 #### Retreat
 
-#### • Plan for Fall
+#### Plan for Fall
 
-#### • Pick and
+Pick and
 
-#### equip new
+#### Equip new
 
-#### leaders
+#### Leaders
 
-#### • Prayer for the
+Prayer for the
 
-#### summer and
+summer and
 
-#### fall
+#### Fall
 
-#### • Raising
+#### Raising
 
-#### funds for
+funds for
 
-#### summer project
+#### Summer project
 
-#### • Personal walk
+#### Personal walk
 
-#### • Summer
+#### Summer
 
-#### projects
+#### Projects
 
-#### • Summer Bible
+#### Summer Bible
 
 #### Study
 
-#### • Virtual
+#### Virtual
 
 #### Summer Project
 
-#### on GodSquad
+on GodSquad

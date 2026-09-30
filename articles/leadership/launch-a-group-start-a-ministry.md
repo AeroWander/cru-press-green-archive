@@ -11,8 +11,6 @@ summary: "A practical guide by Rick James for running a first campus Bible study
 source: "Launching a New Ministry/Launching a Ministry/Students Launching A Ministry–Starter Kit/10. Launching The Group.pdf"
 ---
 
-## Rick James
-
 You’ve sent out e-mails, text messages, plastered the dorms with flyers, called every possible contact you have, all toward a goal of getting as many warm bodies in a room for a Small Group Bible Study.
 
 Here are some things to keep in mind as you try to make this first Small Group a successful one:
@@ -28,7 +26,7 @@ The greatest answer to your prayers for this initial meeting would be: (1) that 
 
 ## Leading the Study
 
-As this is a very important meeting, for your part, you want to be as prepared as possible with great questions, smooth ice-breakers, and penetrating biblical insight that will splay open the hearts of all those in attendance with the deft of Dr. Phil. • • • • • • • Introduce yourself. Be personable and real. (5 minutes)
+As this is a very important meeting, for your part, you want to be as prepared as possible with great questions, smooth ice-breakers, and penetrating biblical insight that will splay open the hearts of all those in attendance with the deft of Dr. Phil. Introduce yourself. Be personable and real. (5 minutes)
 
 Pray. You do it. Keep it short. (1 minute) Have each member introduce themselves. (15 minutes)
 

@@ -10,7 +10,7 @@ summary: "A short promotional piece for EveryStudent.com and EveryStudent.info, 
 source: "Evangelism/outreach/Offer an Article.pdf"
 ---
 
-## Everystudent.info
+Everystudent.info
 
 And here’s the best part: you don’t have to send someone to a website they may never go to anyway. Every article and video at EveryStudent.com can be e-mailed with a single click to a friend or family member. “In light of our conversation yesterday, I thought you might find this article interesting or helpful.” That’s it; that’s all you’d need to say along with the attached article or video—couldn’t get an easier to share the truth, love, and hope of Jesus Christ.
 

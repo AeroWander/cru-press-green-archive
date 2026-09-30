@@ -18,15 +18,13 @@ Flesh (for men) deals fearlessly with lust, sex and pornography in a clear, comp
 
 FLESH
 
-## Order Online at Crupress.com
-
-## an oRIGINALdeSIGN
+an oRIGINALdeSIGN
 
 There is no original evil, for as Peter Kreeft writes: “Evil can’t be greater than good, because evil is a bent good, a diseased good, a parasite on good.” You cannot have destruction without something to destroy. You cannot have bulimia without the joy of eating to corrupt. You cannot have sexual immorality, perversion and pornography if the beauty and joy of sex and marriage had not come first. So, before we discuss lust, sexual immorality or pornography, we need to begin here, with God’s original design. We need to begin in the beauty of marriage and the goodness of sex, when God called things “good.”
 
 Then God said, “Let us make man in our image, in our likeness, and let them rule over the fish of the sea and the birds of the air, over the livestock, over all the earth, and over all the creatures that move along the ground.” So God created man in his own image, in the image of God he created him; male and female he created them.”
 
-Genesis 1:26, 27 mArriage and Sex: A Picture of the Trinity What jumps out from this account is the clear multiplicity of the creation called man—that’s pretty weird. It’s in this multiplicity that we are in God’s image. In other words, man and woman together are in the image of God. The union of the two is a picture of many things; among them is the relationship of the Trinity: unity with diversity, one God—three persons.
+Genesis 1:26, 27 Marriage and Sex: A Picture of the Trinity What jumps out from this account is the clear multiplicity of the creation called man—that’s pretty weird. It’s in this multiplicity that we are in God’s image. In other words, man and woman together are in the image of God. The union of the two is a picture of many things; among them is the relationship of the Trinity: unity with diversity, one God—three persons.
 
 Twentieth-century theologian Karl Barth put it this way: “Man never exists as such, but always as the human male or female… Nor can he wish to liberate himself from the relationship and be man without woman or woman apart from man.”
 
@@ -34,11 +32,7 @@ Think, then, of the profundity of sex within the context of marriage: two becomi
 
 Sex not only reflects the structural unity of God (two individuals becoming one flesh) but also mirrors the joy and complete satisfaction that this unity brings. This is going to sound weird, but the enjoyment—or fun, if you will—of sex is extremely glorifying to God, because it reflects the joy and satisfaction the Trinity experiences. On the other hand, lifeless, forced, unenjoyable sex—or a dissatisfying marriage—symbolizes something that is not true of God’s unity. Therefore, the design of sex is for enjoyment every bit as much as procreation. an original design f
 
-e
-
-h ...
-
-A third purpose of the design of sex and marriage is procreation. True love and unity cannot help but bear fruit. In a fallen world this is not always realized, but it is an essential feature of the original design. mArriage and Sex: A Picture of God’s Relationship with His People Marriage is not only a reflection of God’s relationship within himself, but his relationship with us. In their book Authentic Human Sexuality, Dr. Judith and Jack Balswick define four components of God’s marriage design. When lived out, it becomes clear how these elements indeed reflect God’s relationship with us. This is the blueprint for marriage.
+A third purpose of the design of sex and marriage is procreation. True love and unity cannot help but bear fruit. In a fallen world this is not always realized, but it is an essential feature of the original design. Marriage and Sex: A Picture of God’s Relationship with His People Marriage is not only a reflection of God’s relationship within himself, but his relationship with us. In their book Authentic Human Sexuality, Dr. Judith and Jack Balswick define four components of God’s marriage design. When lived out, it becomes clear how these elements indeed reflect God’s relationship with us. This is the blueprint for marriage.
 
 Covenantal Commitment The marriage relationship, like God’s relationship with us, was meant to be based on an unconditional covenant commitment. It is a commitment to pursue the other partner regardless of his or her response, for that is what God does with us. The only grounds for breaking covenant love is if the other person leaves and establishes a covenant with another person. Otherwise, each person in the relationship must be unconditionally pursued, much like God pursues us. This should explain why the only ground for divorce given by Jesus is marital unfaithfulness—or, when one partner breaks the covenant the only way possible, by establishing a new one with someone else. Grace The second design principle follows from the first: Offering grace, rather than judgment or placing blame, is what provides healing and renewal within the marriage relationship. How many times does God forgive us when we ask? Always, his grace is bottomless, and that is the design for marriage. Marriage ceases to reflect God’s relationship with us and, therefore, its intended design when one or both partners reach a threshold in their grace giving (“I can forgive this but not this”). They move from a disposition of grace to an adversarial, judgmental deposition. They look to blame, convict, find fault or pay back wrongs rather than forgive. There is nothing quite like hell on earth than a graceless adversarial marriage, which is why many end in divorce.
 
@@ -46,9 +40,7 @@ Empowerment The third principle of God’s design for marriage is that personal 
 
 038 f h...
 
-### l e s
-
-an original design © 2010, CruPress, All Rights Reserved. CruPress.com Knowing and Being Known Last, the Balswicks propose that marriage was designed to deepen one’s experience of knowing and being known. This is the essence of our walk with God and therefore is the essence of the marriage relationship.
+an original design Knowing and Being Known Last, the Balswicks propose that marriage was designed to deepen one’s experience of knowing and being known. This is the essence of our walk with God and therefore is the essence of the marriage relationship.
 
 For some reason, if you go to Roy Rogers at 7:00 a.m. you’ll find dozens of old people—really old people—having coffee. As you watch the couples, they seem to have an endless capacity to stare and not communicate with each other. Unfortunately, even with the aid of caffeine, their camaraderie doesn’t increase, and if you speak with them, both answer at the same time, not listening to the other. This is bad advertisement for marriage, as well as for Roy Rogers (Come to Roy Rogers, where you’re always alone). At some point, each couple’s knowledge of each other stagnated. Each individual ceased the pursuit of knowing his or her partner. Such relationships no longer mirror the vitality of God with his people, which should grow in intimacy not boredom.
 
@@ -59,7 +51,3 @@ With that picture of God’s original design for sex and marriage and the way it
 That is exactly what lust, sexual immorality and pornography do. As God’s design for sex and marriage shout to the universe, “Look how great God is!” sexual immorality and pornography scream of self-centeredness, abusive and manipulative love, degradation and a God who does not adequately provide and whose ways are wholly unsatisfying.
 
 This is what’s at stake. This is what that battle of purity is really about: We will either be vehicles and vessels that bring praise and glory to God, or pawns used as insults for Satan to hurl against God. an original design f
-
-e
-
-h ...

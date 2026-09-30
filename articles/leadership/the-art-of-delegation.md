@@ -11,8 +11,6 @@ summary: "An article by Eric Swanson on why and how ministry leaders should dele
 source: "Launching a New Ministry/Ministry Leadership/The Art of Delegation.pdf"
 ---
 
-## Eric Swanson
-
 Del-e-gate: “To entrust to another. To empower another person to act.” Delegation is the act of empowering others to accomplish a task. Although it seems like one of the simplest things in the world to do it is one of the hardest to accomplish. The job of a leader is to see that all the work gets done--not to do it all themself. entrusted to us His creation, should we not be much quicker in empowering others to act?
 
 ## Parables About Delegation
@@ -88,6 +86,6 @@ Here’s an example. You need the rides arranged for a retreat. The goal is that
 
 ## How to Delegate
 
-• Decide what needs to be done. • Select the best person for the job. Let him/her know you believe he/she can do it. Trust is one of the highest forms of motivation. • Clarify and agree upon the desired result and deadline. Major on what not how--results not methods. • Define guidelines and potential pitfalls. Let him/ her learn from your mistakes and the mistakes of others. • Establish level of authority, accountability, and method of evaluation. • Identify resources--financial, human, technical, and organizational resources that he/she can draw from. •
+- Decide what needs to be done. • Select the best person for the job. Let him/her know you believe he/she can do it. Trust is one of the highest forms of motivation. • Clarify and agree upon the desired result and deadline. Major on what not how--results not methods. • Define guidelines and potential pitfalls. Let him/ her learn from your mistakes and the mistakes of others. • Establish level of authority, accountability, and method of evaluation. • Identify resources--financial, human, technical, and organizational resources that he/she can draw from. •
 
 - Establish consequences.

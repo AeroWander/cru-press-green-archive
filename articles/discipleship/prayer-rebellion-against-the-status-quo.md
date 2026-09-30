@@ -11,8 +11,6 @@ summary: "Article by David Wells reframing petitionary prayer, via Jesus's parab
 source: "Building Community/Prayer/Rebellion Against the Status Quo.pdf"
 ---
 
-## David Wells
-
 system” —at least as it functioned in his corrupted courtroom. In putting the matter like this I have not, of course, been quite honest. For this never really happened in Chicago (as far as I know), nor is it even my “story.” It is a parable told by Jesus (Luke 18:1-8) to illustrate the nature of petitionary prayer. You will be appalled by the story I am about to relate to you. Appalled, that is, if you have any kind of social conscience.
 
 The parallel Jesus drew was obviously not between God and the corrupt judge, but between the widow and the petitioner. This parallel has two aspects. First, the widow refused to accept her unjust situation, just as the Christian should refuse to resign himself or herself to the world in its fallenness. Second, despite discouragements, the widow persisted with her case as should the Christian with his or hers. The first aspect has to do with prayer’s nature and the second with its practice.

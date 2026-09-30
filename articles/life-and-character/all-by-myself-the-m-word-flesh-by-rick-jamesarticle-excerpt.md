@@ -17,15 +17,11 @@ Flesh (for men) deals fearlessly with lust, sex and pornography in a clear, comp
 
 FLESH
 
-## Order Online at Crupress.com
-
-## ALL ByMYSeLF
+ALL ByMYSeLF
 
 Well, let’s get right to it, shall we? What does God have to say on the topic of masturbation? Turn with me to the gospel of … I know I saw it here someplace … Come to think of it, there isn’t anything in the Scriptures about masturbation, is there? (Actually, there is one occurrence of a man spilling his seed, but its context has little relevance, relating to inheritance not sexual immorality, and should not be applied to this issue.)
 
 Besides the fact that it’s a rather gross topic, many have wondered why something so heavy on our conscience is never addressed in the Bible. Some would say that it’s simply subsumed as a subcategory in the biblical discussions on sexual immorality, or implied in what it means to be sexually pure, while others would take Scripture’s silence to mean that masturbation is not always a sin, if exercised within certain parameters. We’ll look at both of those perspectives in a moment. But first, let’s not miss an application 074 f h...
-
-### l e s
 
 all by myself that’s as glaringly obvious as it is comforting: that the weight biblically assigned to this sin is drastically out of proportion with the swelling of guilt and self-loathing we experience when we masturbate. I honestly wish I felt as bad about, say, lying, envy or murder. Let’s take comfort and encouragement where it can be found, and there’s a good bit of it in Scripture’s silence on the topic. We’re not saying that the issue isn’t important, and that it shouldn’t be to us, or isn’t to God, but that our consciences are out of alignment with the truth of Scripture on the magnitude of this sin. A godly man who taught me as a young Christian used to say to our men’s small group Bible study that while the Bible doesn’t mention masturbation, it clearly states that lust is a sin. He would challenge us to try masturbating without lust. Well, perhaps I’m just gifted in this area, but I found it quite possible. We all have different strengths and abilities; this, apparently, is my gift to the world. Actually, I don’t think I’m alone, especially if you’ve had a sexually active past. So much for easy answers. There are other loopholes, too. I had a seminary professor who mentioned that when he traveled extensively, he didn’t feel it was a sin when he masturbated thinking about his wife (but, presumably, this would be a sin if, say, you were to think about his wife). He certainly brings up an interesting nuance, which I would probably ponder if it didn’t bring to my mind images of my professor that, frankly, make me never want to have sex again.
 
@@ -41,13 +37,9 @@ As John Piper says in his book Desiring God, “It’s not that we sin because w
 
 Practical Avoidance iSSues In seeking to weed impurity from our lives and abstain from masturbation, there are two different approaches: one is to quit cold turkey and the other is a gradual tapering off. Before we get into the merits of these approaches, let’s look at some helpful tactics you might employ in your battle to weed masturbation out of your life.
 
-Debauchery. It’s an ugly word. So ugly, in fact, that when the Bible prohibits it, we immediately vow to stop, even though we have no idea what the heck it is. It means excessive living: over eating, over drinking, over exercising, over sleeping, “over- TVing” (new word), etc. It’s a principle that says excess, or fleshliness, in one area of your life will overflow into others. Aiding us, then, in our battle against masturbation is a lifestyle that avoids excess or fleshliness on all fronts. I don’t know many people who sleep 12 hours and do not masturbate. Actually, I don’t know many people who get to sleep 12 hours a day, but you get the point.
+Debauchery. It’s an ugly word. So ugly, in fact, that when the Bible prohibits it, we immediately vow to stop, even though we have no idea what the heck it is. It means excessive living: over eating, over drinking, over exercising, over sleeping, “over-TVing” (new word), etc. It’s a principle that says excess, or fleshliness, in one area of your life will overflow into others. Aiding us, then, in our battle against masturbation is a lifestyle that avoids excess or fleshliness on all fronts. I don’t know many people who sleep 12 hours and do not masturbate. Actually, I don’t know many people who get to sleep 12 hours a day, but you get the point.
 
 Don’t play with yourself and don’t hang around naked (get dressed right away after a shower.). Good, I sound like your mother. It is simply a truism that either of these things lead toward masturbation, as do long showers. all by myself f
-
-e
-
-h ...
 
 Sleep with the door of your room open. This was the rule in a house full of Christian guys on one campus I visited. Also, get right out of bed in the morning.
 
@@ -67,6 +59,4 @@ Finally, abstinence regarding masturbation will allow you to get to the deeper i
 
 076 f h...
 
-### l e s
-
-all by myself © 2010, CruPress, All Rights Reserved. CruPress.com
+all by myself

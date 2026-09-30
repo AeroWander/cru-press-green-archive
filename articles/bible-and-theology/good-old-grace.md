@@ -10,7 +10,7 @@ summary: "A chapter (by Narramore and Counts) contrasting living under law versu
 source: "Discipleship/Basic Growth Concepts/Good Old Grace.pdf"
 ---
 
-## Narramore & Counts
+Narramore & Counts
 
 Frustration was written across Carl’s face. “I just can’t get it all together,” he said. “I read the Bible every day, I’ve helped several of my friends come to know Christ, and I don’t have any gross faults. But something isn’t right. No matter how hard I try, I’m never satisfied. I feel I haven’t done enough, and I just don’t have the joy I used to feel.”
 

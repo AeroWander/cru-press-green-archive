@@ -16,17 +16,13 @@ The InTransition Workbook/Magazine equips and prepares graduating seniors to tra
 
 Single life, finances, life-transitions, the will of God, a theology of work, evangelism in the real world: InTransition addresses all the critical issues of a successful transition from campus-a resource for the last and most neglected phase of campus discipleship.
 
-### ORDER ONLINE AT CRUPRESS.COM iP iPO iPOD iPOD/// SINGLE LIFE IS NOT AN OXYMORON BY SARAH GALE
-
-## iPOD iPOD iPOD
-
-###  © 2010, CruPress, All Rights Reserved. CruPress.com
+ORDER ONLINE AT CRUPRESS.COM iP iPO iPOD iPOD SINGLE LIFE IS NOT AN OXYMORON BY SARAH GALE
 
 How do you respond when someone asks you to write an article on single-ness? “My life’s goal! Of course I will! This is my purpose!” Is receiving such a request acknowledgement and affirmation? I’m not sure what it is, but here I am. Single. Sitting in the kitchen with my laptop, dinner dishes pushed aside, while wearing an ex-boyfriend’s sweatshirt. Apparently I’m an “expert” in being single. I’ve been single for 31 years. So, yeah, I guess I have some experience in this arena.
 
 But you’re only 21. Or 22. Or 23. If you’ve made it this far, standing on the edge of graduation, about to take that big leap into the realm of adulthood (salary, car payment, rent/mortgage), then you look at my life and maybe dread becoming me: 31 and single. Perhaps your secret prayer is something along the lines of “O Lord, anything but that!” But you could get stuck with a whole lot worse than singleness. Really. You could be married and wishing you were single! That’s not as rare as you might like to think. And—who knows?—maybe within a year or five you will be married. But for now you’re as singular as I. It hasn’t been as hard or scary as you might think. In fact, I have a great life—lots of fun, lots of travel, lots of learning, lots of friends, lots of life. And isn’t that what Jesus came to give us— abundant life? I think so. And so I try to live like that. Here are my thoughts on singleness and living out your life with meaning for as long as you find yourself happily single.
 
-### Attitude and Attitude and Perspective Perspective
+### Attitude and Perspective
 
 A lot of this journey is in your attitude. I mean, if you think living as a In The Secret of Loving, author Josh McDowell talks about that very nonmarried person is torture, then it will be. But the apostle Paul talks thing. (Spoiler alert: The secret of loving is you.) He says that we should about singleness as a “gift,” (1 Corinthians 7:7) and I think we down-think about what kind of person we want to be with and then take play and disrespect that gift by wishing it away. Is it a temporary gift? time to incrementally grow into the kind of person whom he or she I hope so, since I test positively for it on some spiritual gifts tests. But I would want. Makes sense. While I can’t control how others react to me, see a purpose for my singleness right now. I’m single today. God has a I can live life to become the kind of person whom the kind of man I plan for my single life today. want would want.
 
@@ -36,7 +32,7 @@ I can’t make your heart feel something it won’t.... **CAUTION: Beware of try
 
 So while my heart waits to feel something for someone whose heart feels the same for me, there’s a lot of life to explore and experience. I don’t want to waste this life by pining away for something different.
 
-### Making Making a List, a List Checking It Twice
+### Making a List, a List Checking It Twice
 
 Make a list of your dreams and goals. Go ahead! Put marriage and family on your list if they are important to you. But you’ll notice that those aren’t your only goals, right? Maybe you want to go somewhere to see breathtaking sights. Or pick up a new hobby. Earn another degree. Learn a language, an instrument. Visit all the pro baseball fields. See as many U2 concerts as you can. There are lots of adventures waiting for you.
 
@@ -54,7 +50,7 @@ The grass isn’t greener on the other side; it’s just a different blend of se
 
 We live in a fallen world. Sin started destroying the world, so now everyone has to learn to deal with disappointment and disillusionment,
 
-###  © 2010, CruPress, All Rights Reserved. regardless of life stage. The good news of the gospel is that we are no
+ regardless of life stage. The good news of the gospel is that we are no
 
 longer slaves to sin and doomed to hopeless destruction, isolation, and death. Rather, we can experience life now—the life of the resurrected Christ lived out within us. And we get to be a redemptive presence in the world.
 
@@ -66,7 +62,7 @@ So look at your list of goals or dreams. (Remember, you wrote them down earlier.
 
 CruPress.com
 
-### Community Community
+### Community
 
 Leaving the safety net of college and arriving in the “real world” can be a shock to your system. Your friends from Campus Crusade are strewn all across the U.S. and you find yourself in unfamiliar terri-tory—a new town or at least a new stage of life. Staying connected to your friends will be a great comfort, but there is also something to be said for creating new connections and friendships. Community is a great thing. intern, I started a weekly “happy hour” to hang out with coworkers in the evenings. At my first assignment, I invited two women from church to take kickboxing lessons with me at a karate dojo so we could work out and develop a friendship. Eight years (and four job relocations) later, the three of us have annual reunions.
 
@@ -74,7 +70,7 @@ But community takes effort. No longer are you surrounded by thousands of people 
 
 ### Church
 
-## Church Church
+## Church
 
 I’ll admit it. Some of my loneliest times have been at church. I go alone. I find a spot in the pew alone. And throughout the sermon I watch families sitting together and couples with their arms wrapped around each other (sometimes touching each other a bit too much, if you ask me). It can be distracting and disheartening. I know.
 
@@ -90,13 +86,13 @@ Yes, a good single life requires some initiative and effort. You don’t have so
 
 These people are really just trying to figure out how to connect with me. So I can offer common ground by asking about their life (what they do, what they like about the church, how long they’ve lived in the area), and that can get the focus off me.
 
-###  the Dating Game and
+ the Dating Game and
 
-## M&Ms
+M&Ms
 
-### M&Ms
+M&Ms
 
-Last year was my best dating year ever, hands down. The best out of all my dating years combined even. A few dates were from eHarmony.
+Last year was my best dating year ever, hands down. The best out of all my dating years combined even. A few dates were from Eharmony.
 
 I know. Online dating. Well, I did it. And I had a good time. I viewed it as discipleship. See, a disciple is a learner, and I want to learn how to have healthy interactions with men, learn how to cultivate a relationship, learn what I want in a mate, and learn how to communicate (what questions to ask and so forth). And in the process, I had a great time.
 
@@ -107,19 +103,17 @@ My sister gave me her rules for meeting an online date for the first time:
 3. Don’t buy any new clothes for the date. Your blind date hasn’t seen your wardrobe yet, so don’t waste time and money on anything new.
 4. Bonus: Ask one of your friends to meet the date too—at the movie theater, at the bookstore—so that your date knows you have backup and so that your friends can check out your date. It’s a safety thing. I’m a safety girl!
 
-But eHarmony isn’t the only one I get to thank. I asked my friends and work associates to pray for “M&Ms” for me: money and men. I needed financial support (I’m on staff with Campus Crusade) and I wanted dates. So people all over the country were praying for me, asking how it was going, and setting me up on dates. And I ended that year with a boyfriend. Not bad, eh?
+But Eharmony isn’t the only one I get to thank. I asked my friends and work associates to pray for “M&Ms” for me: money and men. I needed financial support (I’m on staff with Campus Crusade) and I wanted dates. So people all over the country were praying for me, asking how it was going, and setting me up on dates. And I ended that year with a boyfriend. Not bad, eh?
 
-### Walking with
+Walking with
 
-## God God
+## God
 
 The single life doesn’t have to be some humdrum holding pattern. No, it’s an adventure, full of possibilities and potential. Life doesn’t start when you’re married; this is life. Right now. Part of enjoying and experiencing life is to enjoy and experience God, the author of life. Jesus said, “I am the way, the truth and the life” (John 14:6). Seriously, plug into a church and commit to the basics of prayer and Bible study as you walk through this transitional stage. Perhaps there’s a lot of uncertainty in your life now. But God isn’t an uncertainty. Go online or to a local Christian bookstore and buy a Bible study to do on your own. Or ask friends how they connect with God. Get some spiritual accountability. Try taking the Perspectives on the World Christian Our life with God is vital. How are you doing with that? Do you know Movement class (www.godsperspective.org) and learn about missions. God? Know what’s on His heart? Are you reading the Bible? When you Take your walk with God seriously; don’t neglect it. do, are you reading it to get through your “duty,” or do you read it with an eye toward how your life needs to change in light of truth and how God is portrayed in each book of the Bible?
 
 Who are you hanging out with? Is there anyone who encourages you to walk with God, or are all the influences in your life pointing you away from God? You may not be able to do much about that, but you can monitor how much time you spend with people and what kinds of activities you engage in. Garbage in, garbage out. This is the time to make wise choices, because every choice matters. Unfortunately, many Christians stumble in their walk after college, giving in to temptation, busyness, laziness, and distraction.
 
 At this time, being single, we have incredible freedom to travel and serve God anywhere, anytime. Remember the tsunami that hit South-east Asia at the end of 2004? Within the next few months, I not only gave money to aid the relief work, but I also went over to Thailand twice to help rebuild homes and lives. I didn’t have to check in with anyone, ask for permission, or arrange meals or child care. I knew there was a huge need, and I knew I could help. So I went. After Hurricane Katrina, I knew I wanted to go and help, so some people from work got together and we made plans to go down to the destruction area. We can pick up at a moment’s notice and go. We are unencumbered in the pursuit to help fulfill the Great Commission.
-
-###  © 2010, CruPress, All Rights Reserved. CruPress.com
 
 And God, in His wisdom and kindness, has chosen to use singleness in your life (and in mine) to conform you to the image of Christ (Romans 8:28- 29). Will you let God transform and conform you, or will you fight Him every step of the journey?
 
@@ -129,11 +123,9 @@ You can connect with ministries like Here’s Life Inner City, Priority Associat
 
 In 1 Corinthians 7 Paul talks about the freedom we singles have right now. He says married people are anxious about worldly things, such as how to please their spouse, but single people are anxious for the things of the Lord, how to please the Lord. This is so true! What a gift we’ve been given through singleness. It’s not a holding pattern, with us waiting for clearance to land at the altar and start life. No! This is the journey.
 
-### Referrals Re Ferrals
+*Referrals Re Ferrals*
 
 Now, I know that everyone tells you to “read this book” or “read that book,” and, like, who has the time? It’s like a verse citation at the end of an e-mail: if I don’t happen to know it, I’m not looking it up. Well, I’m sorry, but whether you read them or not, I simply must suggest a few books: Every Man’s Battle by Stephen Arterburn; Sex and the Soul of a Woman by Paula Reinhart; Twenty Someone: Finding Yourself in a Decade of Transition by Craig Dunham and Doug Serven; Twenty-Something: Surviving and Thriving in the Real World by Margaret Feinberg; Boundaries in Dating by Henry Cloud; and Changes That Heal by Henry Cloud and John Townsend. If you read even one, I’ll be happy.
-
-### Re Reflection Fl Ec Ti O N
 
 1. Write out some personal goals you have for the next few years.
 2. If you were to be married five years from now, what would you wish you had accomplished or done during the next five years?

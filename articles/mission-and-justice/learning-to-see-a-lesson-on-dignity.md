@@ -11,7 +11,7 @@ summary: "A personal-narrative article by Emily Malloure recounting her time vol
 source: "added/Learning to See - A Lesson on Dignity.pdf"
 ---
 
-## By Emily Malloure
+*By Emily Malloure*
 
 “Pāni chahiye?” Do you want to drink of the waters? Ōtsu responded as he began to walk.1 -Shusaku Endo, Deep River On my first visit to the Home for the Dying I was not prepared for what I would see. As our car drove through the orange dust I could see a stone wall at the end of the road. Faces peered over the wall at our car as we approached. We got out and immediately my nose was assaulted by the smell of urine, feces, and a smell I now know as the stench of human decay. Ōtsu’s chappals slapped along the stone pavement soiled with filthy water and dog droppings, then came to a stop. At his feet, an old woman leaning against a wall peered up at Ōtsu. Hers were eyes bereft of feeling, like the eyes of the cow that had looked at him and then sauntered away. Her shoulders heaved as she panted for breath. Crouching down, Ōtsu took from the bag on his shoulder an aluminum cup and a bottle filled with water. “Pāni. Pāni.” He gently encouraged the woman. “Ãp mērē dost hain.” Water. Water. I am your friend. He placed the aluminum cup to her tiny mouth and slowly poured the water in, but it merely moistened her chin and soaked the tattered clothing that wrapped her body. In a faint voice she muttered: “Gangā.” The Ganges.
 

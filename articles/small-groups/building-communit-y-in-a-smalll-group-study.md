@@ -19,19 +19,17 @@ The Ultimate Roadtrip was written to communicate all of the subtle, and not so s
 
 Chapter Topics: Lesson Preparation, Lesson Content, Creating Community, Groups With a Purpose, The Right Questions, Facilitating Life Change, Common Roadblocks and Problems, Incorporating Outreach, and Qualities of a Successful Group Leader. THE ULTIMATE ROADTRIP
 
-### Order Online at Crupress.com
-
-## tripmates—more than gas money
+tripmates—more than gas money
 
 7.1 Cultivating Camaraderie 7.2 Creative Icebreakers 7.3 Developing Relationships 7.4 Jesus, Paul & their “Small Groups”
 
-## Fifteen years later most people will not remember specific lessons but
+Fifteen years later most people will not remember specific lessons but
 
 most likely will remember the relationships within the group. Hopefully God’s Word changed the lives of those gathered in your home, but undoubt‑ edly, the weekend discussion would be dominated by fond recollections of good times and friendships in the group.
 
 Relationships are the glue that hold small groups together. If they happen, the group not only sur vives but flourishes. If they don’t, the group is short lived. The Scriptures are full of teaching, advice and admonishment regarding relationships. Solomon writes, “As iron sharpens iron, so one man sharpens another” (Proverbs 27:17). The author of Hebrews commands, “Let us not give up meeting together, as some are in the habit of doing, but let us encourage one another, and all the more as you see the Day approaching” (Hebrews 10:25). The Bible, research studies, and the personal experiences of scores of small group‑leaders confirm: relationships are crucial for learning and spiritual growth. Relationships within a group help move it from being the “leader’s group” to “our group.” So, as a group leader, work hard to provide an environ‑ THE ULTIMATE ROADTRIP ment where dynamic and encouraging relationships can be developed. In this chapter we’ll offer suggestions on how to build a sense of com‑ munity by fostering relationships within your group, both between you and the group and among the group members themselves. We’ll also provide ideas for icebreakers (relationship-building activities) and fun activities to do as a group. As you use these resources to get started, you’ll gain experience in this aspect of small group dynamics and will soon add your own ideas to this list. 7.1 Cultivating Camaraderie
 
-## In many new groups, the members don’t know each other well. Meeting
+In many new groups, the members don’t know each other well. Meeting
 
 new people can be one of the most uncomfortable things a person can experience, except maybe flunking a test or being overdrawn at the bank. If individuals are anxious about simply attending the group, it will be dif‑ ficult to get them to study God’s Word together or come back. On the other hand, once the group is comfortable with each other, the relation ships within the group will help stimulate the study of God’s Word.
 
@@ -39,11 +37,11 @@ Initially, the leader is the key ingredient to building cohesiveness among group
 
 1 Be an involved and caring leader.
 
-Group members catch and model the attitude of the leader. If the leader is inter‑ ested in everyone in the group, looks forward to being with them, and genuinely cares about helping the group learn and grow, the members will pick up on his or her attitude—it’s contagious. Here are a few ways a leader can demonstrate a caring heart: • Pay Attention. People want to know they are being listened to when they’re speaking. Don’t look ahead in your lesson or stare out the window. chapter 7 tripmates—more than gas money • • Be Responsive. When a member gives an answer or shares an insight or opin‑ ion, don’t just nod and go on to the next person. Instead compliment the per‑ son or ask a follow-up question to show your interest.
+Group members catch and model the attitude of the leader. If the leader is inter‑ ested in everyone in the group, looks forward to being with them, and genuinely cares about helping the group learn and grow, the members will pick up on his or her attitude—it’s contagious. Here are a few ways a leader can demonstrate a caring heart: · Pay Attention. People want to know they are being listened to when they’re speaking. Don’t look ahead in your lesson or stare out the window. chapter 7 tripmates—more than gas money Be Responsive. When a member gives an answer or shares an insight or opin‑ ion, don’t just nod and go on to the next person. Instead compliment the per‑ son or ask a follow-up question to show your interest.
 
 Value Others’ Opinions. Everyone’s input and opinions have value. Don’t judge what they share and avoid giving pat answers or quick fixes to their problems. Sarah’s Care My group had been together a couple months and the women in the group were becoming friends. We knew Mary Anne’s parents were divorced, but one night in group she began to share the painful details. She said she hadn’t seen or heard from her mother in two or three years and had no idea where she lived. She retold a very painful conversation when she, her brother and sister tearfully begged their mother not to leave them, but she walked away anyway. Mary Anne was so embarrassed and hurt that she hadn’t felt free to tell her story to anyone at school. The group comforted Mary Anne and her vulnerability brought the group closer together. From that night on the women in the group felt they had a safe place to go.
 
-For example, if someone says they are struggling with being homesick don’t fire back, “Well, you know you have a friend in God.” No one wants pat an‑ swers. One of the best ways to show you value someone’s opinions is to ask a follow-up question. So, you could ask this person, “In what ways has it been hard?” or, “What do you miss most about home?” • Encourage Interaction by asking for their input. What do they think? Do they agree? Disagree? Does anyone else have any input?
+For example, if someone says they are struggling with being homesick don’t fire back, “Well, you know you have a friend in God.” No one wants pat an‑ swers. One of the best ways to show you value someone’s opinions is to ask a follow-up question. So, you could ask this person, “In what ways has it been hard?” or, “What do you miss most about home?” · Encourage Interaction by asking for their input. What do they think? Do they agree? Disagree? Does anyone else have any input?
 
 - Be Real with your group. Laugh with them, share your struggles and victories, and share your life and love for the Lord. Let them be your friends. You don’t have to spill your deepest secrets, but let them know you too are a real person who’s in the process of becoming like Christ.
 - Maintain Confidentiality. If someone shares something confidentially, honor their request and don’t share it outside of the group. Ask the rest of the group to do the same. If the group violates this principle, it will seriously deter others THE ULTIMATE ROADTRIP from sharing about their lives.
@@ -67,7 +65,7 @@ At the end of the group you could ask if anyone has a need for which they would 
 
 7.2 Creative Icebreakers
 
-## Icebreakers encourage people to get to know each other. It is important that
+Icebreakers encourage people to get to know each other. It is important that
 
 icebreakers be non-threatening. What is non-threatening to some group members could terrify others. For example, the question, “Who would you like to go on vacation with for one week and why?”, would be threatening to many groups. However, the question, “If you could go on vacation anywhere, where would you go?” is not as threatening.
 
@@ -79,11 +77,15 @@ Here are some suggested icebreakers. The first few are easiest and most helpful 
 
 Have each person share the first item. Go around again on the second item, and again until you have gone through each one. Don’t feel like you have to use the whole list because it may take too long.
 
-Rachel’s Bests & Worsts When I started my group we always did “Bests and Worsts.” Usually the women gave safe answers, such as, “My best was a date to the football game.” As their sense of community deepened, we kept doing Bests and Worsts, but their answers were more personal. One week after Christmas break, Tracy said her worst was that her parents told her she could never read her Bible in their house again. Her best was the peace she felt from the Lord during this difficult time. Whenever any thing good or bad happened during the week the women would remember it, wanting to tell the group the next week. Bests and Worsts were a highlight every week. Christine’s Pizza I had a pizza party with my girls. When the pizza got there I put a toothpick flag on each slice. On each flag I wrote a “getting to know you” question. Each slice you picked had a question to answer! It was a great icebreaker! 5 Get to Know You Questions • • • What do you do for fun?
+Rachel’s Bests & Worsts When I started my group we always did “Bests and Worsts.” Usually the women gave safe answers, such as, “My best was a date to the football game.” As their sense of community deepened, we kept doing Bests and Worsts, but their answers were more personal. One week after Christmas break, Tracy said her worst was that her parents told her she could never read her Bible in their house again. Her best was the peace she felt from the Lord during this difficult time. Whenever any thing good or bad happened during the week the women would remember it, wanting to tell the group the next week. Bests and Worsts were a highlight every week. Christine’s Pizza I had a pizza party with my girls. When the pizza got there I put a toothpick flag on each slice. On each flag I wrote a “getting to know you” question. Each slice you picked had a question to answer! It was a great icebreaker! 5 Get to Know You Questions What do you do for fun?
 
 What would be your ideal vacation?
 
-What is the most memorable activity you did with your family when you were a child? • What quality do you appreciate most in a friend? • What is one characteristic you received from your parents that you want to keep, and one you wish you could change? • What is a good thing happening in your life right now? What makes it good?
+What is the most memorable activity you did with your family when you were a child?
+
+- What quality do you appreciate most in a friend?
+- What is one characteristic you received from your parents that you want to keep, and one you wish you could change?
+- What is a good thing happening in your life right now? What makes it good?
 
 - If you knew you couldn’t fail and money was no object, what would you like to do in the next five years?
 - What would you like said at your funeral?
@@ -113,11 +115,11 @@ You can do this for weeks by changing the topic. Topic ideas on the lighter side
 
 7.3 Developing Relationships
 
-## If you want to be an effective small group leader, you need to know your job
+If you want to be an effective small group leader, you need to know your job
 
 doesn’t stop after the group meeting is over. The small group meeting is a structured, time-limited activity that’s focused primarily on learning and applying God’s Word. A sense of belonging and community can be developed in such an environment, but it has its limits. Involvement with members outside the official small group session is crucial for significant relationships to develop. Roles There are several different roles you may play as you make friends with those in your group. Foremost, be sure you are a friend to them, someone with whom they feel they can be themselves and enjoy. You must there fore make Jarvis’ Friend I wasn’t very faithful in attending my first group as a freshman at Ole Miss. Brad, my leader, continued to come by and spend time with me. His commitment to our relationship influenced me a great deal more than he would have imagined. Over the last four years, Brad has become my closest friend.
 
-Tom’s Great Friendship I was in Ralph’s group at the University of South Carolina. He would meet with Tom, Jimmy and me to talk about what God was doing in our lives or share Christ with friends on campus. On Saturday mornings we’d hang around his dorm room and pray about anything and everything for a couple of hours. Ralph was much more than just my small group leader, he was a great friend. In fact, he was the first person outside of my family that told me that he loved me. © 2010, CruPress, All Rights Reserved. CruPress.com THE ULTIMATE ROADTRIP sure you are not condescending or aloof. Initiate with them and enjoy being with them.
+Tom’s Great Friendship I was in Ralph’s group at the University of South Carolina. He would meet with Tom, Jimmy and me to talk about what God was doing in our lives or share Christ with friends on campus. On Saturday mornings we’d hang around his dorm room and pray about anything and everything for a couple of hours. Ralph was much more than just my small group leader, he was a great friend. In fact, he was the first person outside of my family that told me that he loved me. THE ULTIMATE ROADTRIP sure you are not condescending or aloof. Initiate with them and enjoy being with them.
 
 A second role you may play is that of an older sister/brother. Older sisters and brothers tend to look out for the younger siblings. Younger siblings also tend to come to older brothers and sisters for advice. This is a relationship you can’t force, just like you can’t get your younger brother to do what you want him to do. Hopefully, over time those in your group will come to you for help. You will also play the role of a coach at times. A coach instructs, but also cheers on his team. Everyone needs a little encouragement. A pat on the back or communicating respect when they make good decisions will go far. Benefits of Building Relationships Outside the Group
 
@@ -225,7 +227,7 @@ How to Kill the Relationships in Your Group
 Have fun with your friends, but be serious with your group. This is important: never call them except to transmit information.
 
 - Criticize their music, clothes, dorm room, major, family, hometown, girlfriend or boyfriend, weight, hair color or size of nose.
-- • chapter 7 tripmates—more than gas money 7.4 Jesus, Paul & Their “Small Groups”
+- chapter 7 tripmates—more than gas money 7.4 Jesus, Paul & Their “Small Groups”
 
 Jesus had a great set-up for His small group: He traveled, ate, slept, and spent hours teaching and ministering with them. There were structured times, like on the Mount (Matthew 5) when He taught them in a sermon, but many other important lessons were learned in settings outside of a formal teaching situ‑ ation. Jesus shared His life with the twelve.
 

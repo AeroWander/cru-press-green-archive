@@ -11,7 +11,7 @@ source: "Small Groups and Meetings/Posters and Publicity copy/Weekly Meeting Pos
 also_filed: ["Small Groups and Meetings/Posters and Publicity copy/Weekly Meeting Poster —Leper/Leper b_w.pdf"]
 ---
 
-## leper. Most Christians today would find such notions Repulsive,
+leper. Most Christians today would find such notions Repulsive,
 
 perhaps heretical. The Bible tells us little about what he looked like except that there was no supernatural glow about him. Our glamorized representations of Jesus say more about us than about him.
 

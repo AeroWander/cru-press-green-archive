@@ -14,7 +14,7 @@ source: "Launching a New Ministry/Ministry Leadership/Makings of a Leader.pdf"
 
 MAKINGS OF A LEADER 1 INVESTIGATIVE BIBLE STUDY 1
 
-### Makings of a Leader the Principles and Practice of Spiritual Leadership by Andrea Buczynski
+Makings of a Leader the Principles and Practice of Spiritual Leadership by Andrea Buczynski
 
 As Campus Crusade’s Vice President for Global Leadership and Development, Andrea Buczynki has spent a considerable portion of her life giving, observing, and teaching leadership. In this Critical Concept, Andrea provides an explanation and overview of the roles and responsibilities of a leader that are the foundation of our ministry’s leadership model. She then goes on to consider leadership through the matrix of time and how God develops leaders through a life-long process.
 

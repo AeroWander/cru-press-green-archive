@@ -11,11 +11,9 @@ summary: "An article by Bob Fuhs, a campus ministry staff veteran, laying out pr
 source: "added/From 2 to 200.pdf"
 ---
 
-## Bob fuhs
-
 student on your campus? Would you like to raise up lifetime laborers who go into every nation and occupation more concerned about making disciples than making money? Read on my friend…read on. Eleven years ago, when I was 31, I learned how to play basketball for the first time. I had watched others play, so I understood that the point was to put the ball in the hoop, but I couldn’t have told you the first thing about how to play.
 
-## PRINcIPle 1: REACH THE FRESHMAN clASS yEAR AFTER YEAR
+## Principle 1: Reach the Freshman Class Year After Year
 
 History has shown that students are way more likely to get involved in a campus movement their freshman year than any other year. One campus ministry veteran observed, “Well over 50% of the freshmen who get involved with Cru will do so within the first six weeks of the school year.”
 
@@ -45,7 +43,7 @@ This might mean other areas of the ministry seem to suffer, and that’s okay. I
 
 Once you see some genuine momentum develop, things will change, but not before. After you take two to three healthy freshman classes in a row, you will find yourself and your top leaders moving from “player” to “coach.” Of course, your movement never stops going after reaching freshmen and getting to new places with the Gospel, but the people directly involved in that venture will change over time. Great ideas abound for how to reach out to and involve freshmen. We did freshman surveys at the start of the year, we had special freshman events, we spent time in the dorms meeting as many freshmen as we could. Over time you will discover the most effective way to reach the maximum number of freshmen on your campus.
 
-## PRINcIPle 2: BEGIN WITH THE END IN MIND, THEN START AT THE BEGINNING
+PRINcIPle 2: BEGIN WITH THE END IN MIND, THEN START AT THE BEGINNING
 
 As the saying goes, “If you aim for nothing, you’ll hit it every time.” One mistake campus leaders make is to think in vague terms about what it will take to reach their scope. They say, “We need movements.” Or, “We need more student leaders.” That’s good, but it won’t be helpful unless you are as specific as possible. How many movements? Two? Seventeen? How many leaders? A gazillion?
 
@@ -53,7 +51,7 @@ The leader needs to ask, “Exactly how many leaders and movements will we need 
 
 Of course, reaching the scope will require more than one movement. So, part of your plan will be to develop leaders to reach every pocket of your scope, including faculty, ethnic students, international students, and possibly even local high school students.
 
-## PRINcIPle 3: NOT all TIMES OF THE yEAR ARE cREATED equal
+## Principle 3: Not All Times of the Year Are Created Equal
 
 Ecclesiastes 3:1 says, “There is a time for everything, and a season for every activity under heaven.” Like our lives, campus ministry has seasons and a particular rhythm to it. As a Missional Team Leader, you will want to understand and harness those rhythms for maximum effectiveness.
 
@@ -67,7 +65,7 @@ Please note: In no way is this meant to take you or your leaders away from a day
 
 How many cycles you have depends on how your campus is structured. Schools on the quarter system will have three cycles: one in the fall, one in the winter, and one in the spring. Schools with semesters will have four cycles: two in the fall and two in the spring. In a semester system the first cycle is the most important. It leads up to the Fall Retreat. The second cycle is much less ambitious. It is launched at the Fall Retreat and carried through to the Winter Conference. The third cycle is launched at the Winter Conference and can be a more ambitious one. It carries you to Spring Break. After Spring break, you want to end the year on a high note and prepare everyone for the next fall.
 
-## PRINcIPle 4: If HE’s juST NOT THAT INTO you, THAT’s OKAy BEcauSE OTHERS WIll BE
+PRINcIPle 4: If HE’s juST NOT THAT INTO you, THAT’s OKAy BEcauSE OTHERS WIll BE
 
 A few years ago there was a popular book about relationships called He’s Just Not That Into You. The book identified the telltale signs a man really isn’t into a particular woman, so she can just cut him loose. The Scriptures record several “he’s just not that into you” moments in the life and ministry of Jesus. Some people just weren’t that into Him (See John chapter 6). The same is true of your movement-some students just won’t be into it. That’s okay, because others will be.
 
@@ -81,7 +79,7 @@ As a leader, your radar is always looking for those who are growing in their lov
 
 For me, this meant I was regularly asking my student leaders and staff about those with whom they were working and spending time. I wanted to make sure they were spending their limited time with those students who were proving to be faithful, available and teachable.
 
-## PRINcIPle 5: EMBRACE REALITY AND TIME AS youR FRIENDS
+## Principle 5: Embrace Reality and Time as Your Friends
 
 In his book Good To Great, Jim Collins says that leaders need to “confront the brutal facts.” Proverbs 27:23 says, “Know well the condition of your flocks and give attention to your herds.” For the Missional Team Leader this means being willing to do an honest assessment of where you are as a movement. As you do this honest assessment, you will be able to diagnose where you are and where you need to be.
 
@@ -95,6 +93,6 @@ To embrace time as your friend, you realize that your scope will not be reached 
 
 Jim Collins puts it this way, “Breakthrough results come about by a series of good decisions diligently executed and accumulated one on top of another.” It has also been said, “You will see less happen in one year than you would ever think, but you will see more happen in five years than you would ever dream.” As a leader, you need to take the long view of things. Be patient, growth will happen. Keep trusting the Lord and working hard, but it will probably be slower than you think.
 
-## In cONcluSION…
+## In Conclusion…
 
 It has been said, “Methods are many, principles are few. Methods always change, principles never do.” The hope in presenting this information is to equip you, the campus ministry leader with some principles to help you grow your movement from 20 to 200 and beyond. As you apply these principles, by faith in the power of the Holy Spirit, I trust you will see God do amazing things. As the Apostle Paul says, “For at the proper time we will reap a harvest if we do not give up.” (Galatians 6:9)

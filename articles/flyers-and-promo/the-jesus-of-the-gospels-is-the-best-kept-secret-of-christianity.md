@@ -13,6 +13,6 @@ also_filed: ["Small Groups and Meetings/Posters and Publicity copy/Bible Study F
 
 He wasn’t all nicey-nice like Mr. Rogers. He wasn’t always calm and unemotional like Spock. But what was he like? Was he like John Lennon? John Cena? The christians you know? Come and join the discussion.
 
-## check out a cru. bible study/discussion
+check out a cru. bible study/discussion
 
 DATE/TIME/PLACE

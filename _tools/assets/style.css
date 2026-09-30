@@ -203,6 +203,7 @@ mark{background:var(--mark);color:inherit;border-radius:3px;padding:0 1px}
 .body p{margin:0 0 1.1em}
 .body ul,.body ol{margin:0 0 1.25em;padding-left:1.35em}
 .body li{margin:.35em 0}
+.body li>ul,.body li>ol{margin:.35em 0 .25em}
 .body li::marker{color:var(--tc)}
 .body blockquote{margin:1.5em 0;padding:14px 18px;background:var(--tc-soft);border-left:4px solid var(--tc);border-radius:0 10px 10px 0;color:var(--soft)}
 .body blockquote p{margin:0}

@@ -11,15 +11,13 @@ summary: "A short article by Marilyn Adamson describing the 'Every Student' (ESC
 source: "Evangelism/outreach/ESC Media Strategy.pdf"
 ---
 
-## Marilyn Adamson
-
 ESC Media broadly conveys an evangelistic message to the entire campus, using posters, campus newspaper ads, and evangelistic articles.
 
 ## What to Expect
 
 Most students on campus will see your posters and ads. Campuses who use the campaigns say there is tremendous value in getting these messages out on campus, to soften the ground, to cause them to think about God. And because the campaign is visible all over campus, it’s easy to offer students the free article. You can broadly hand out articles and in personal conversations. For Christian students who have never shared their faith, it’s pretty easy to say, “Have you seen these posters on campus? Would you like a free copy of the article?” Many students are very willing to read an article, even more easily than they will engage in a conversation. And every article contains a clear presentation of the gospel, written within the context of the topic.
 
-## ESC Media Strategy
+ESC Media Strategy
 
 There are 17 different ESC campaigns available, on a wide variety of topics. The posters/ads can all be freely downloaded, or you can order a set of all the ads in the campaign as printed slicks.
 
@@ -35,10 +33,10 @@ Students will see a variety of compelling messages throughout the school year. E
 
 Even if students do not contact you, each ad promotes an evangelistic website Everystudent.com.
 
-There are several different posters for each campaign. To get posters follow this ESC Media link. © 2010, CruPress, All Rights Reserved. CruPress.com
+There are several different posters for each campaign. To get posters follow this ESC Media link.
 
-## The ESC Campaigns
+The ESC Campaigns
 
 The following are the topics covered by ESC Media campaigns:
 
-African Americans & Jesus; Alcohol; Changed Life; Choosing a God; Christmas; Comparing Religions; Easter; Eating Disorders; Existence of God; Racism; Life & Death; Love & Sex; Marriage; Real Life; Peace in an Unstable World; and Tragedy & Terrorism. © 2010, CruPress, All Rights Reserved. CruPress.com
+African Americans & Jesus; Alcohol; Changed Life; Choosing a God; Christmas; Comparing Religions; Easter; Eating Disorders; Existence of God; Racism; Life & Death; Love & Sex; Marriage; Real Life; Peace in an Unstable World; and Tragedy & Terrorism.

@@ -11,25 +11,19 @@ summary: "An excerpt from the Y-Origins apologetics magazine (CruPress) tracing 
 source: "Evangelism/apologetic/What Caused the Universe.pdf"
 ---
 
-### Y-origins Apologetics Magazine- Article Excerpt
+### Y-origins Apologetics Magazine-Article Excerpt
 
 There are many great apologetic books that you could leave with students if only they would read them. But they probably won’t. They might, however, skim through a magazine. So we compiled the most convincing apologetics for the existence of God and the best evidence for Jesus into two highly graphic magazines and had the designers of Relevant magazine make it look really cool. Y-Origins deals with proofs for the existence of God ranging from arguments from Intelligent Design to the nature of man (mind, aesthetics, morality, etc.).
 
 Y-Jesus presents the classic evidence for Christ including “Lord, Liar, Lunatic,” Evidence for the Resurrection, Claims to Deity, New Testament Reliability and Fulfillment of Prophecy. Y-ORIGINS
 
-### Order Online at Crupress.com
-
-© 2010, CruPress, All Rights Reserved. CruPress.com
-
 ## Back to the Beginning
 
-© 2010, CruPress, All Rights Reserved. CruPress.com
-
-## Scientific Discoveries Revive the Ancient Belief in a Beginning to the Universe
+Scientific Discoveries Revive the Ancient Belief in a Beginning to the Universe
 
 IF WE COULD REWIND THE HISTORY OF THE UNIVERSE, WHAT WOULD WE DISCOVER ABOUT ITS ORIGIN AND DEVELOPMENT? DID IT REALLY HAVE A BEGINNING, OR WAS IT ALWAYS THERE?
 
-© 2010, CruPress, All Rights Reserved. CruPress.comBACK TO THE BEGINNING • ARTICLE ONE • 7 The influential ancient philosopher Aristo-tle stated, “It is impossible that movement should ever come into being or cease to be, for it must always have existed. Nor can time come into being or cease to be.” Meanwhile, the biblical book of Genesis famously starts off, “In the beginning God created the heaven and the earth.” they are now quite certain that the moon isn’t made of cheese). It’s looking like the universe had a beginning at a point in time after all.
+The influential ancient philosopher Aristo-tle stated, “It is impossible that movement should ever come into being or cease to be, for it must always have existed. Nor can time come into being or cease to be.” Meanwhile, the biblical book of Genesis famously starts off, “In the beginning God created the heaven and the earth.” they are now quite certain that the moon isn’t made of cheese). It’s looking like the universe had a beginning at a point in time after all.
 
 Remarkably, one of the first scientists to swing the pendulum of opinion back to the birthday-universe position was so entrenched in eternal-universe thinking that at first he refused to believe his own conclusions. of his day in that he believed in an eternal universe. And not being particularly fond of the implications of his own theory, he did what any red-blooded super-genius would do: he fudged the numbers. He altered his equation in order to nullify the conclusion that the universe was expanding.
 
@@ -41,7 +35,10 @@ University of California astrophysicist George Smoot explains that Einstein’s 
 
 The seesaw of opinion has tipped one way or the other over time. But lately the weight of evidence has all been coming down on the side of the birthday universe. In the old days when the Christian church dominated Western society, the creation of the universe was taken for granted. But slowly the scientific viewpoint pushed aside creation as well as the Creator. Now many scientists are thinking that the idea of a creation may not have been so far off from the truth as they thought (though When Albert Einstein developed his revolutionary theory of general relativity in 1916, his mathematical calculations pointed to an extraordinary conclusion—the universe was expanding. And since if you rewind the tape on any expansion, you get back to a point where it started, that meant the universe must have had a beginning too.1 There’s a point worth considering here: if it could happen to Einstein, it could happen to anyone. Rarely is anyone completely objective when it comes to the issue of a Creator. While it is true that religious belief and philosophy became an obstacle for scientific inquiry in the days of Galileo, trends have changed. In the modern era it has at times been a prejudice against the possibility of an intelligent Designer for the universe that has kept many scientists from honest and open inquiry.
 
-Thankfully, the truth generally comes out in the end and skeptics are convinced. Einstein, however, was like most scientists 8 • ARTICLE ONE • BACK TO THE BEGINNING© 2010, CruPress, All Rights Reserved. CruPress.com For Einstein and others, it was something called red shift that started the parade of evidence for a universe with a beginning.
+Thankfully, the truth generally comes out in the end and skeptics are convinced. Einstein, however, was like most scientists 8
+
+- ARTICLE ONE
+- BACK TO THE BEGINNING For Einstein and others, it was something called red shift that started the parade of evidence for a universe with a beginning.
 
 ### Red Shifting the Big Bang Theory into High Gear
 
@@ -53,7 +50,7 @@ There it was in the red shift: proof that Einstein had been right in the first p
 
 ### A Second Law of First Importance
 
-In addition to Hubble’s discovery, the second law of thermodynamics also predicts a beginning to the universe. You say you don’t know what the second law of thermo-dynamics is? I beg to differ. © 2010, CruPress, All Rights Reserved. CruPress.comBACK TO THE BEGINNING • ARTICLE ONE • 9 holes would have ceased vacuuming the universe of unsightly stars and planets. Let’s say you come into a room containing me and a bunch of your other pals, and you find a steaming cup of Starbucks coffee on the table. Being the thoughtful individual that you are, you ask, “Does this belong to anyone?”
+In addition to Hubble’s discovery, the second law of thermodynamics also predicts a beginning to the universe. You say you don’t know what the second law of thermo-dynamics is? I beg to differ. holes would have ceased vacuuming the universe of unsightly stars and planets. Let’s say you come into a room containing me and a bunch of your other pals, and you find a steaming cup of Starbucks coffee on the table. Being the thoughtful individual that you are, you ask, “Does this belong to anyone?”
 
 To which I reply, “It’s been there for the last month.”
 
@@ -75,15 +72,15 @@ Now let’s apply this law to the universe, just as cosmologists have. If the un
 
 ### The Greatest Discovery of All Time?
 
-In 1992, a team of astrophysicists led by Smoot launched the COBE satellite in order to verify the temperatures in space. The satellite would be able to take precise measurements and determine whether fluctuations in temperature existed. But how could scientists know for sure that the hiss they were hearing was actually an echo from the beginning of the universe? Mathematicians calculated that heat generated at the moment the universe began would have been enormous beyond com- The results stunned the scientific world. Not only was the three-degree temperature confirmed, but more importantly, the profiles of the fluctuations were discovered to be a match with what had been expected.10 10 • ARTICLE ONE • BACK TO THE BEGINNING © 2010, CruPress, All Rights Reserved. CruPress.com Hawking called the discovery “the scientific sion is deemed correct.15 discovery of the century, if not all time.” Smoot himself excitedly stated to news-paper reporters, “What we have found is evidence for the birth of the universe.”11 He also said, “If you’re religious, it’s like look-ing at God.”12 Tests from an array of radio telescopes at the South Pole have confirmed the big bang to a still higher degree of accuracy than ever before.16 Background radiation measurements exceed 99.9% of what had been predicted.17 There are now more than 30 independent confirmations that the Genesis literally had no reason to believe there had been a beginning.”21 The Genesis account of creation and the big bang theory both speak of everything coming from nothing. Suddenly the Bible and science agree (a discovery somewhat embarrassing to naturalists). Smoot admits, “There is no doubt that a parallel exists between the big
+In 1992, a team of astrophysicists led by Smoot launched the COBE satellite in order to verify the temperatures in space. The satellite would be able to take precise measurements and determine whether fluctuations in temperature existed. But how could scientists know for sure that the hiss they were hearing was actually an echo from the beginning of the universe? Mathematicians calculated that heat generated at the moment the universe began would have been enormous beyond com-The results stunned the scientific world. Not only was the three-degree temperature confirmed, but more importantly, the profiles of the fluctuations were discovered to be a match with what had been expected.10 10 · ARTICLE ONE · BACK TO THE BEGINNING Hawking called the discovery “the scientific sion is deemed correct.15 discovery of the century, if not all time.” Smoot himself excitedly stated to news-paper reporters, “What we have found is evidence for the birth of the universe.”11 He also said, “If you’re religious, it’s like look-ing at God.”12 Tests from an array of radio telescopes at the South Pole have confirmed the big bang to a still higher degree of accuracy than ever before.16 Background radiation measurements exceed 99.9% of what had been predicted.17 There are now more than 30 independent confirmations that the Genesis literally had no reason to believe there had been a beginning.”21 The Genesis account of creation and the big bang theory both speak of everything coming from nothing. Suddenly the Bible and science agree (a discovery somewhat embarrassing to naturalists). Smoot admits, “There is no doubt that a parallel exists between the big
 
-### The Evidence Had Begun to Add Up, and Some Scientists Weren’t Liking the Sum.
+The Evidence Had Begun to Add Up, and Some Scientists Weren’t Liking the Sum.
 
 Astounded by the news, Ted Koppel began universe had a one-time origin.18 bang as an event and the Christian notion his ABC Nightline television program with of creation from nothing.”22 an astronomer quoting the first two verses of the Bible. The other special guest, a physicist, immediately added his quote of the third Bible verse: “In the beginning God created the heavens and the earth. … And God said, ‘Let there be light,’ and there was light” (Genesis 1:1, 3).13 New telescopes such as the infrared Spitzer Space Telescope, launched in 2003, have opened up even bigger windows to our universe. They have prompted astronomer Giovanni Fazio, from the Harvard-Smithsonian Center for Astrophysics, to remark, “We are now able for the first time to lift the cosmic veil that has blocked our view.”19 The evidence had begun to add up, and some scientists weren’t liking the sum. Evidence like that provided by the COBE satellite virtually makes other confirmations of the big bang superfluous. (Ho-hum, the universe had a beginning.) But it raises some rather intriguing questions.
 
 ### The Questions That Follow the Evidence
 
-Einstein’s theorems based on his theory of relativity predict that the universe could not have begun without an outside force or Beginner.14 Since Einstein’s theory of relativity ranks as the most exhaustively tested and best proven principle in physics, his conclu- As a result of the accumulating evidence, the scientific community has long since begun asking questions about origins, such as the following:
+Einstein’s theorems based on his theory of relativity predict that the universe could not have begun without an outside force or Beginner.14 Since Einstein’s theory of relativity ranks as the most exhaustively tested and best proven principle in physics, his conclu-As a result of the accumulating evidence, the scientific community has long since begun asking questions about origins, such as the following:
 
 - What was there before the big bang?
 - Why did the big bang result in a universe enabling life to exist?
@@ -97,7 +94,7 @@ A beginning to the universe brought scientists face to face with the question of
 
 1. Everything that has a beginning had a cause.
 2. The universe had a beginning.
-3. Therefore, the universe had a cause. © 2010, CruPress, All Rights Reserved. CruPress.com BACK TO THE BEGINNING
+3. Therefore, the universe had a cause. BACK TO THE BEGINNING
 - ARTICLE ONE
 - 11 But admitting a cause leads to the next logical question: who or what is the cause? Think about it for a minute. What existed before the beginning? Well, since time, space, matter, and motion are all a part of the created universe, whatever existed before the beginning existed in a timeless, spaceless, motionless state.
 
@@ -111,11 +108,14 @@ Next came the oscillating-universe theory. According to this concept, the univer
 
 ### A One Time Beginning
 
-Well, in certain academic circles, this line of reasoning simply won’t do. And since a primary cause is beyond the limits of science, naturalists have looked for a way to prove that the universe didn’t have a begin-ning. Smoot remarks, “Cosmologists have long struggled to avoid this bad dream by seeking explanations of the universe that avoid the necessity of a beginning.”23 More recently, some scientists, including Hawking, have begun considering the so-called multiverse theory. This theory accepts that our universe is finite, but it suggests that ours is just one of many universes. The whole mega-universe may be eternal, according to this theory, even though our particular universe is not. This theory is covered in more depth in another article in this magazine, but the key point to get about it right now is that it has no evidence whatsoever to support it. Hoyle and other scientists fervently pursued alternative explanations to a onetime origin of the universe. Eventually, however, the evidence showed clearly that the universe had a beginning, and the big bang theory was proclaimed victorious. Ironically, it was evidence from Hoyle’s own research that helped confirm that the universe had a one-time beginning. Today most cosmologists and physicists accept the big bang theory as the scientific explanation of how our universe began. In fact, scientists believe they can trace the history of the universe all the way back to 14 • ARTICLE ONE • BACK TO THE BEGINNING © 2010, CruPress, All Rights Reserved. CruPress.com 10-43 of a second. At that point all of the laws of nature break down and science can see no further back. The very beginning of the universe remains a mystery.
+Well, in certain academic circles, this line of reasoning simply won’t do. And since a primary cause is beyond the limits of science, naturalists have looked for a way to prove that the universe didn’t have a begin-ning. Smoot remarks, “Cosmologists have long struggled to avoid this bad dream by seeking explanations of the universe that avoid the necessity of a beginning.”23 More recently, some scientists, including Hawking, have begun considering the so-called multiverse theory. This theory accepts that our universe is finite, but it suggests that ours is just one of many universes. The whole mega-universe may be eternal, according to this theory, even though our particular universe is not. This theory is covered in more depth in another article in this magazine, but the key point to get about it right now is that it has no evidence whatsoever to support it. Hoyle and other scientists fervently pursued alternative explanations to a onetime origin of the universe. Eventually, however, the evidence showed clearly that the universe had a beginning, and the big bang theory was proclaimed victorious. Ironically, it was evidence from Hoyle’s own research that helped confirm that the universe had a one-time beginning. Today most cosmologists and physicists accept the big bang theory as the scientific explanation of how our universe began. In fact, scientists believe they can trace the history of the universe all the way back to 14
+
+- ARTICLE ONE
+- BACK TO THE BEGINNING -43 of a second. At that point all of the laws of nature break down and science can see no further back. The very beginning of the universe remains a mystery.
 
 Imagine rewinding the universe back to its beginning, a time when there were no stars. No light, matter, or energy. Not even space or time. Suddenly an enormous explosion erupted from this nothingness at a temperature exceeding a million trillion trillion degrees.25 Immediately time began. Then matter, energy, and space began taking form.
 
-When a bomb ejects shrapnel into the air, both the bomb material and the space it blows into have already been there. However, in the beginning of the universe, neither space nor matter existed until the explosion. The space surface of the universe and the newly created matter expanded from an infi nitely compressed point of nothingness. According to the big bang theory, this explosion launched the entire universe, from the most distant galaxy, to the most colorful nebula, to quasars fl ashing like beacons, to our own comforting sun and nearby planets, to you and me with our questions about where we came from and what it all means. Since man alone thinks about the meaning and purpose of life, the beginning—and the cause of that beginning—must be fascinating to each one of us.
+When a bomb ejects shrapnel into the air, both the bomb material and the space it blows into have already been there. However, in the beginning of the universe, neither space nor matter existed until the explosion. The space surface of the universe and the newly created matter expanded from an infinitely compressed point of nothingness. According to the big bang theory, this explosion launched the entire universe, from the most distant galaxy, to the most colorful nebula, to quasars flashing like beacons, to our own comforting sun and nearby planets, to you and me with our questions about where we came from and what it all means. Since man alone thinks about the meaning and purpose of life, the beginning—and the cause of that beginning—must be fascinating to each one of us.
 
 The verdict is in on the question of whether the universe is eternal or had a beginning. The idea that everything in the cosmos originated from nothing seems mythical, yet it is now mainstream science.
 
@@ -145,6 +145,6 @@ The verdict is in on the question of whether the universe is eternal or had a be
 22. Ibid., 17.
 23. Ibid., 291.
 24. Stephen Hawking, ed., Stephen Hawk-ing’s A Brief History of Time: A Reader’s Companion (New York: Bantam, 1992), 63.
-25. Bradford A. Smith, “New Eyes on the Universe,” National Geographic, January 1994, 33. © 2010, CruPress, All Rights Reserved. CruPress.comBACK TO THE BEGINNING
+25. Bradford A. Smith, “New Eyes on the Universe,” National Geographic, January 1994, 33. BACK TO THE BEGINNING
 - ARTICLE ONE
 - 15

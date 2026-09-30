@@ -16,10 +16,6 @@ The InTransition Workbook/Magazine equips and prepares graduating seniors to tra
 
 Single life, finances, life-transitions, the will of God, a theology of work, evangelism in the real world: InTransition addresses all the critical issues of a successful transition from campus-a resource for the last and most neglected phase of campus discipleship.
 
-## Order Online at Crupress.com
-
-© 2010, CruPress, All Rights Reserved. CruPress.com
-
 ## Detour
 
 ### Creative Career Paths by Larry Stephens
@@ -46,7 +42,7 @@ Maybe you’re among the few who could handle a year of rugged travel around the
 
 ### There’s No Rush
 
-Even though you may be nervous about “taking a year off” while your friends dive into the “real world,” you will find that you didn’t miss a thing. In fact, did you know that it looks better on your résumé to show a diverse array of experiences? Being able to include the year you spent helping inner-city children in New York City certainly makes your résumé stand out. Here’s what Colleen Kinder, author of Delay-ing the Real World, has to say: “If you apply for a job on Monster- Trak there are hundreds of other people applying for the same job and they all look exactly the same on paper.
+Even though you may be nervous about “taking a year off” while your friends dive into the “real world,” you will find that you didn’t miss a thing. In fact, did you know that it looks better on your résumé to show a diverse array of experiences? Being able to include the year you spent helping inner-city children in New York City certainly makes your résumé stand out. Here’s what Colleen Kinder, author of Delay-ing the Real World, has to say: “If you apply for a job on Monster-Trak there are hundreds of other people applying for the same job and they all look exactly the same on paper.
 
 You want to look different.”
 
@@ -58,7 +54,7 @@ Though later in life you may have many commitments—marriage, children, a house
 
 You can serve the Lord right now in a way that might not be possible further down the road.
 
-### 101 © 2010, CruPress, All Rights Reserved. CruPress.com TAKE THE GLOBAL ROAD
+### Take the Global Road
 
 If you’ve never gone abroad, now is the time. You may never get the chance again to live in a foreign country. Imagine yourself sitting in a café in Florence, walking the streets of Argentina, or perusing a city market in the Middle East while getting to know university students and talking with them about your relationship with Christ. You have the opportunity to take the life-changing message of Christ to students around the world. You’ll be amazed at the similarities you find with others as you engage in conversation about your lives and become gripped by the spiritual need of the students you meet.
 
@@ -74,7 +70,7 @@ If you’ve wondered about serving in the States but not on a campus, there are 
 
 I spent the summer in New York City with Here’s Life Inner City. The Lord gave me a heart for the poor. He taught me that you don’t just pray about people in need, but you go and you help them. God humbled my prideful heart and crushed my stereotypes; I have learned that everyone is truly equal in His eyes. —Alissa Pelphrey, 21 I was planning on getting a job in business but decided to be open to the possibility of doing ministry. I was fearful of letting go of my career plans but couldn’t ignore God, so I signed up for a one-year internship with Student Venture. Immediately, I had opportunities to see high school students radically changed for eternity. Now I’m leading a movement to reach 1,200 teenagers at the local high school. My experience with Student Venture exceeded my expectations; the year I thought I was sacrificing ended up being a blessing. —Chris McClelland, 25
 
-### Go BACK TO YOUR OLD STOMPING GROUND
+### Go Back to Your Old Stomping Ground
 
 Are you leaving a thriving ministry back on your campus? Perhaps you’re a resident assistant in a dorm leading a Bible study. Maybe you’re an athlete still trusting God for your teammates. Or you’re a member of a sorority or fraternity who’s seen God move in incredible ways. So, why leave it? Why not stay and hang with your friends? Interning on your campus might be the right thing for you. Classes won’t be in the way. You can pour all your time and energy into your ministry.
 
@@ -88,4 +84,4 @@ We have been “created in Christ Jesus to do good works, which God prepared in 
 
 Read over the following stories and experiences of recent graduates, begin praying about where the Lord may want you to go after graduation, and take steps of faith to discover His amazing plan for your future. Each moment of the day is a gift from God. It’s up to us to choose how we use it.
 
-This article was inspired by Colleen Kinder’s book Delaying the Real World and by the lessons I learned from not going for it after I graduated. I had no idea there were so many opportunities there for the taking. Larry Stephens gives leadership to evangelism for the Campus Ministry and lives in Orlando. © 2010, CruPress, All Rights Reserved. CruPress.com
+This article was inspired by Colleen Kinder’s book Delaying the Real World and by the lessons I learned from not going for it after I graduated. I had no idea there were so many opportunities there for the taking. Larry Stephens gives leadership to evangelism for the Campus Ministry and lives in Orlando.

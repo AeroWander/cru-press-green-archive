@@ -75,7 +75,7 @@ The Cincinnati Metro ministry partners with India Cru to launch new movements on
 
 After the April 2011 Aruna 5K: “Our Aruna 5K had close to 1200 people involved (online financial sponsors, participants, and volunteers). We saw about $27,000 raised. Some fun conversations as well. Good news, good deeds… Good stuff.” (View Aruna mini-documentary.)
 
-## Train and Equip for Blending the Works and Words of the Gospel
+Train and Equip for Blending the Works and Words of the Gospel
 
 Even though high school football was a long time ago for me, I still have a vivid memory of intercepting a pass and running through the entire opposing team. At the 2 yard line, I got so excited about scoring that I fumbled the football into mid-air even though no one was anywhere near me. How embarrassing!
 

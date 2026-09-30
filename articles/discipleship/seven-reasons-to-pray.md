@@ -11,7 +11,7 @@ summary: "Article by Dan Hayes offering seven motivating reasons to pray, drawn 
 source: "Building Community/Prayer/Seven reasons.pdf"
 ---
 
-## Dan Hayes Some Obvious, Some Not So Obvious!
+## Some Obvious, Some Not So Obvious!
 
 This article is an unapologetic attempt to motivate… ME! Yes, me. Because if anybody needs help in getting motivated to pray, it’s yours truly. I mean, I know prayer is important. There’s sure enough of it in the Bible, and you can find tons of books on prayer. Not only that, all the godly people I’ve ever met testify to the crucial nature of prayer in their lives. So I understand I should pray, but… way of praying. But somehow I cannot see that as the prime and certainly not the most satisfying reason. So I began to study how and why Jesus prayed. After all, He got more answers than anyone else and He always prayed for the right reasons. I was amazed! First, because He prayed all the time. The Bible says that “He would often withdraw to the wilderness and pray.” Often is right. He prayed just about every chance He got. He was perfect; so it wasn’t like He was praying for forgiveness of sin or anything like that. Why?
 
@@ -43,7 +43,7 @@ One girl from a Jewish background wrote the following: “I now know Christ is h
 
 “Certainly they won’t appreciate what I am doing for them. They will cast it away. Many will ridicule Me and trample My Father’s salvation underfoot. How can I bear the sins of Sodom, of the butchers of babies in Bethlehem. How can I stand to be clothed in the sins of all the child molesters and mass murderers and the Adolph Hitlers of all the ages? How can I bear the devil’s glee as he turns the screws of my agony? In fact, the longer I love, the more I think that the chief reason for the gift of prayer is that we learn to receive, experience, and return His love in genuine relationship. Prayer is one place when God can get at us (and we think prayer is for getting at Him!) and speak to and minister to us. It is for this reason first that we can learn to rush to prayer.
 
-## 2. Helps US Overcome Temptation
+## 2. Helps Us Overcome Temptation
 
 Second in our list of reasons is that prayer is an important instrument in our overcoming sin and temptation. Perhaps no experience in the earthly life of Christ is more instructive on prayer than Jesus’ teaching and subsequent modeling in the twenty- “Perhaps there is another cup. Yes, perhaps I can let this one pass, return to My gracious Father from whom I have never in all eternity been separated. Yes, that possibility exists. I can go to Him now, avoid the dread cross, discuss it further, find an alternative plan...”
 
@@ -63,7 +63,7 @@ So wait. How does prayer help determine His will then? Jesus again gives us a de
 
 Who could have cared what group of men an obscure rabbi in an obscure province of an obscure corner of the Roman Empire chose for leadership. No major newspaper or television station covered the story of that all-night prayer vigil. Yet, because of those prayers, through the influence of men, today (2000 years later), 1.3 billion people around the world call themselves by this “obscure” Rabbi’s name.
 
-## 3. Helps US Determine God’s Will
+## 3. Helps Us Determine God’s Will
 
 Third in our series of reasons to pray is the following: we pray because prayer is crucial in determining God’s will.
 
@@ -99,7 +99,7 @@ In two verses, we are commanded to pray five different times. Do you think he (a
 
 The weapon of prayer softens up Satan’s fortress. Hell’s gates cannot prevail. It is the cannon, reducing the wall to rubble so that the troops can go through. Too often, the gospel moves slowly because the softening-up process of prayer has been neglected. When practiced, however, prayer “puts the wind at the back” of Christ’s soldiers.
 
-## 5. a Weapon of Spiritual Warfare
+## 5. A Weapon of Spiritual Warfare
 
 Fifth in our series of reasons to pray is that prayer is a major weapon in fighting the spiritual battle. Ephesians six, verses ten to twenty, outlines some of the armaments in the arsenal of God. We are reminded that ultimately our struggles are not against humans, but against powerful spiritual beings and forces in the “heavenly places” (the spiritual realm which directly influences the natural, material realm). The picture here is that of a war. Life as a Christian is not a playground; it’s a battlefield. While there is much beauty and love in the world, it is often bent and twisted by our Fall and Satan’s machinations. Thus, the war for souls between God and Satan is fought with Christian co-combatants with Him.
 
@@ -111,7 +111,7 @@ We are instructed by Paul, an experienced soldier in this combat, to be appropri
 
 Now, it seems we have a complete set of armor and weaponry. And if I were writing this passage, I would say, “Now get out there and fight the battle!”
 
-## 6. a Prerequisite to Spiritual Awakening
+## 6. A Prerequisite to Spiritual Awakening
 
 You are probably beginning to get the message (I’m sure getting it!) that prayer might be the most multifaceted gift of devotion which the Lord has bestowed on humanity. This sixth reason underlines that truth: prayer is the necessary pre-requisite to sweeping spiritual awakening.
 

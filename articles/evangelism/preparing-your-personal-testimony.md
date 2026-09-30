@@ -23,7 +23,7 @@ There are five basic parts of ‘Your Story’: the opening, your life before Ch
 
 The Closing. Close it out with a summary statement that ties your story together according to your theme. You could close with a verse, but only if it’s meaningful and relates to the story you’ve just told. The Opening. Identify a theme. What did your life
 
-## Testimony Worksheet
+*Testimony Worksheet*
 
 1. The Opening A. Identify a theme.
 2. Your Life Before Christ (or gave Him complete control) A. What was your life like that will relate most to the non-Christian? B. How did those things let you down? Why were you open to change?
@@ -33,8 +33,6 @@ C. When did your attitude begin to change? Why? D. What were the doubts or strug
 
 4. Your Life After Christ (or gave Him complete control) A. What are the specific changes Christ has made in my life? Are there any illustrations that would be helpful? Why am I motivated differently?
 5. Closing Helpful Hints:
-- •
-- •
-- • Write the way you speak—make the testimony yours. Choose a theme and carry it throughout the testimony. Don’t be overly negative or positive. Be truthful. Don’t criticize or name any church, denomination, organization, etc. Time limit should be 3 minutes.
+- Write the way you speak—make the testimony yours. Choose a theme and carry it throughout the testimony. Don’t be overly negative or positive. Be truthful. Don’t criticize or name any church, denomination, organization, etc. Time limit should be 3 minutes.
 
 Practice it over and over until it becomes natural.

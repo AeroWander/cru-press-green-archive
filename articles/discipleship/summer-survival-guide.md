@@ -12,7 +12,7 @@ note: "1 of 8 pages had no text layer and were read with OCR; expect some recogn
 source: "added/Summer Survival Guide.pdf"
 ---
 
-## Student Linc Spiritual Summers
+*Student Linc Spiritual Summers*
 
 Summers can pose a major challenge to our faith and obedience to Christ. It can be a very spiritually isolating time because you are away from the environment and friends that have helped you grow spiritually this past school year.
 
@@ -72,7 +72,7 @@ When you record your observations from personal Bible study, use the following s
 
 Deed: Let Christ lead you to plan one totally unselfish and loving act of kindness for the day. Pray that He will act through you to fulfill this plan in a vigorous and compassionate manner.
 
-#### Need: Decide what your greatest single need is for the day. Ask the
+Need: Decide what your greatest single need is for the day. Ask the
 
 Lord for clear insight about your life. Trust Him for great things.
 
@@ -145,7 +145,7 @@ Acts Colossians II Timothy Philemon Hebrews James II John III John Revelation �
 - That Christians would want to take a stand for Christ (Matthew 9:37-38). Pray that they would avoid involvement with bad elements of campus. I Corinthians 5 & 6; Revelation 21:8; John 17:15; 2 Corinthians 11:2, 3
 - Pray for non-Christians, that God would prepare the soil of their hearts would be hungry to hear the gospel and ready to respond in faith. Matthew 13 and 2 Corinthians 4:6: For God, who said, “Let light shine out of the darkness,” made his light shine in our hearts to give us the light of the knowledge of the glory of God in the face of Christ.
 
-#### Your Transformational Community
+*Your Transformational Community*
 
 - That we'd be people who know the Lord. Ephesians 1:18-19: I pray that the eyes of your heart may be enlightened, so that you may know what is the hope of His calling, what are the riches of the glory of His inheritance in the saints, and what is the surpassing greatness of His power toward us who believe.
 - That we would consider life as Christ, that we would present ourselves to Him, that we would seek His kingdom first. Philippians 1:21: For to me, to live is Christ, and to die is gain. Romans 12:1,2; Matthew 6:33.

@@ -11,8 +11,6 @@ summary: "A discipleship worksheet/Bible study by Andy Swanson on the connection
 source: "Sending/Missions/The Christian2 copy.pdf"
 ---
 
-## Andy Swanson
-
 Q5. How are we saved?
 
 Q6. What cannot save us?
@@ -73,11 +71,7 @@ Q19. What does this mean for followers of Christ?
 
 ## Steps of Obedience
 
-Think of three people around where you live with a physical need you can meet this week. Pray for them and ask God to be glorified as you meet those needs. 1.
-
-2.
-
-3.
+Think of three people around where you live with a physical need you can meet this week. Pray for them and ask God to be glorified as you meet those needs.
 
 What is one practical way you can show God’s love to your roommates this week? Pray for them and ask God to be glorified as you serve them this week. What is one thing you can do to serve someone this week? Show them God’s love right now and tell them that God loves them as you serve them.
 

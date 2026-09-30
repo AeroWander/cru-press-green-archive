@@ -14,7 +14,7 @@ source: "Launching a New Ministry/Ethnic_ Contextualized Ministries/Epic.pdf"
 
 leaders of secular Asian American organizations. Find a person of peace. Invest time in a leader or leaders that are committed to the Epic Movement vision and who desire to launch a movement within their community. Invite them to attend an epic movement student conference.
 
-## Epicmovement.com
+Epicmovement.com
 
 The Epic Movement was launched as a response to the rapidly changing campus population in the United States. As more and more Asian American students come to campus, they are increasingly immersing themselves in an ethnic student subculture. If we are to reach these students, we cannot rely on traditional means of ministry. The challenge of this generation is to believe God to do something radical, something different, whatever is necessary to give every Asian American student a chance to hear the gospel and respond to Christ.
 
@@ -46,7 +46,7 @@ We dream of the day when there are movements of Christian professors on every ca
 
 ## How Do We Accomplish This?
 
-Through our fulltime staff of nearly 100, and in partnership with many other USCM staff and volunteers, we help professors: • • • Grow in their faith journey in Christ and become leaders to emulate; Integrate their personal faith with their teaching, research, publishing and service as a holistic endeavor Include a Christian worldview in discussions throughout the campus community and the greater culture.
+Through our fulltime staff of nearly 100, and in partnership with many other USCM staff and volunteers, we help professors: Grow in their faith journey in Christ and become leaders to emulate; Integrate their personal faith with their teaching, research, publishing and service as a holistic endeavor Include a Christian worldview in discussions throughout the campus community and the greater culture.
 
 ## How You Can Help
 

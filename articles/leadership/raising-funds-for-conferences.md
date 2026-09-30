@@ -18,7 +18,7 @@ If God is leading you to attend a conference or retreat, you can trust him to pr
 
 “For I am confident of this very thing, that He who began a good work in you will perfect it until the day of Christ Jesus.” (Philippians 1:6)
 
-For instance, you’ve probably had at least a dozen teachers alone. At the church you regularly attend you probably know Sunday school teachers, elders, deacons, and other friends who attend church. The idea is to think through the people you interact with in life. Here are some categories to get you started: “And my God shall supply all your needs according to His riches in glory in Christ Jesus.” (Philippians 4:19) You’re giving donors the privilege of investing in your life and the lives of those reached through you. As you raise scholarship funds, you’re not going around holding a tin cup. Don’t apologize for asking for financial assistance. Remember, you are a child of the King! • • • • • • • • • • • • Family and other relatives Friends Friends of your parents Businessmen (Christian and non-Christian) Church (talk to the pastor first!):
+For instance, you’ve probably had at least a dozen teachers alone. At the church you regularly attend you probably know Sunday school teachers, elders, deacons, and other friends who attend church. The idea is to think through the people you interact with in life. Here are some categories to get you started: “And my God shall supply all your needs according to His riches in glory in Christ Jesus.” (Philippians 4:19) You’re giving donors the privilege of investing in your life and the lives of those reached through you. As you raise scholarship funds, you’re not going around holding a tin cup. Don’t apologize for asking for financial assistance. Remember, you are a child of the King! Family and other relatives Friends Friends of your parents Businessmen (Christian and non-Christian) Church (talk to the pastor first!):
 
 Sunday school classes Men’s and women’s groups Missionary committee Youth group Campus Crusade for Christ staff Faculty Referrals given to you by these sources
 
@@ -34,7 +34,7 @@ From your list of names, write first to those you feel most likely to give.
 
 The ideal is a handwriten personal letter that presents your needs. While it would be best to send a handwritten note to each contact, it’s not always feasible if you come up with a list of 100 names. Since most people have access to a computer, you can write the same letter to each person and personalize the salutation. Sending people photocopied letters would not be the best, try to make the letters personal. need money for the conference, a letter writing party is a nice way to accomplish the task, have some fellowship, and ensure everyone gets their letters written. Each person should bring their list of names, photocopied letters, and a sufficient amount of stamps. Have food, music, soda, coffee, and a ton of envelopes—enough for everyone. Take time to pray together as a group and then jump in.
 
-The following is a basic format you can use to compose your letter (see sample on last page): • • • • • • • • • • Give your letter a specific date.
+The following is a basic format you can use to compose your letter (see sample on last page): Give your letter a specific date.
 
 Your greeting should be personalized. If you use a form printed letter, hand-write the name instead of using “Dear friend.”
 

@@ -12,7 +12,7 @@ toc: false
 source: "added/Communicating Your Ministry Structure.pdf"
 ---
 
-### Timothy Henderson a Sample Campus Ministry Structure and How to Communicate It to Leaders
+Timothy Henderson a Sample Campus Ministry Structure and How to Communicate It to Leaders
 
 Your campus may not be the size of Penn State but whatever the size and state of your ministry there is wisdom to be gleaned here both in terms of strategy and communication. Both are critical to effective leadership especially in the beginning of the year. The students need to know where the ministry is going, how you will get there, and what role they can play in the process. Tim’s a great thinker and has been doing this for a long, long time, so look it over—you’re sure to get something out of it.
 
@@ -58,9 +58,9 @@ Imagine East Halls saturated with the gospel. Can you picture it? Every dorm, cl
 
 That’s what we’re all about. Trusting Jesus to turn that vision into reality. And to do it, we need your help. mike.shepski@gmail.com (814) 852-8362 scott.umble@cru.org (717) 286-6246 leslie.williamson@cru.org (619) 578-4398 You can reach the directors of Cru at tim.henderson@cru.org (814) 280-3771, or tom.sperlich@cru.org (814) 441-2986. We’d love to hear from you if we can help you in any way.
 
-## What is Cru?
+What is Cru?
 
-### Cru is a Community where the
+Cru is a Community where the
 
 ## Gospel
 
@@ -104,11 +104,11 @@ As a senior we'll help you learn the life-long skill of developing yourself and 
 
 Everything we do is designed to move you toward this!
 
-### Cru Core Values
+*Cru Core Values*
 
 When you first come to Cru, regardless of your year or age we will invite you to go through a five week, one-on-one study of the basics of following Christ. These lessons have proven incredibly helpful for hundreds of students before you. If you're new, or if you missed them when you were new, and we hope you'll take us up on the offer.
 
-### Cru on Thursday nights Connecting with staff Conferences (Fall Retreat, RADIATE, Big Break) Summer Project
+Cru on Thursday nights Connecting with staff Conferences (Fall Retreat, RADIATE, Big Break) Summer Project
 
 These things are available to everyone in Cru as long as you are here. Make the most of every opportunity! These things will be foundational to your growth for your entire life. Develop good habits now!
 

@@ -11,8 +11,6 @@ summary: "An article by Tim Henderson explaining a Penn State evangelism campaig
 source: "Small Groups and Meetings/Posters and Publicity copy/Beer is Proof.pdf"
 ---
 
-## Tim Henderson
-
 “Beer is proof that God loves us and wants us to be happy.” life for you. And then He did just that. He made the ultimate sacrifice to make the ultimate case. God loves you so much He would rather die than live without you.
 
 I love that quote. Not only because it’s funny, but because it’s just about perfect for starting a conversation about God with somebody who loves beer. That is exactly what we want to do. We’re not saying that the quote is true or that we agree with it, just observing that Ben said it and then offering some commentary on it. My buddy Tom Hudzina designed this sweet card.
@@ -31,11 +29,11 @@ What about you? Consider laughter, music, sunsets at the beach and the miraculou
 
 Ferment on this: Jesus said the ultimate proof that someone loves you is that they would give up their
 
-## Beer is proof that God loves us and wants us to be happy.
+Beer is proof that God loves us and wants us to be happy.
 
 Several months ago I happened to be downtown late on a Thursday night when the party weekend oﬃcially kicks oﬀ. I was struck by what I saw. Students, who for the most part are dressed and in their right minds during the day, were just a mess. Girls dressed so as to reveal far more than they ought and guys hammered and acting like fools.
 
-Now I’m not so naïve that I was actually surprised by it. Students drink, students party– got it. But that evening it aﬀected me deeply and I was ashamed at how little we were doing to reach out to the party crowd here at Penn State. The next day I had lunch with Billy and Alexis. They both came to Christ here and both have been and remain involved in the downtown bar scene. Alexis was a waitress at one bar and Billy a bouncer at another. Both are committed to walking with Christ and loving those who don’t yet know him. As we talked about what I saw that night and what they see many nights we prayed together that God might help us do something to eﬀectively make his name known among the students who are looking for life in alcohol. To make a long story short, after lots of time talking with them and other students and staﬀ we came up with a campaign specifically targeted to the party scene. It’s designed to help us start a conversation, and talk about Christ in a way that is pretty fun and light- hearted, and we think attractive to those we are trying to reach. It’s built around a quote by Ben Franklin.
+Now I’m not so naïve that I was actually surprised by it. Students drink, students party– got it. But that evening it aﬀected me deeply and I was ashamed at how little we were doing to reach out to the party crowd here at Penn State. The next day I had lunch with Billy and Alexis. They both came to Christ here and both have been and remain involved in the downtown bar scene. Alexis was a waitress at one bar and Billy a bouncer at another. Both are committed to walking with Christ and loving those who don’t yet know him. As we talked about what I saw that night and what they see many nights we prayed together that God might help us do something to eﬀectively make his name known among the students who are looking for life in alcohol. To make a long story short, after lots of time talking with them and other students and staﬀ we came up with a campaign specifically targeted to the party scene. It’s designed to help us start a conversation, and talk about Christ in a way that is pretty fun and lighthearted, and we think attractive to those we are trying to reach. It’s built around a quote by Ben Franklin.
 
 “Beer is proof that God loves us and wants us to be happy.”
 

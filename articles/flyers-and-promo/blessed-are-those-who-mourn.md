@@ -11,13 +11,13 @@ source: "Small Groups and Meetings/Posters and Publicity copy/Bible Study Flyers
 also_filed: ["Small Groups and Meetings/Posters and Publicity copy/Bible Study Flyers —Beatitudes/Beatitudes 1 b_w.pdf"]
 ---
 
-## —Jesus
+## Jesus
 
 HAITI 2010 A survivor in Carrefour.
 
 Earthquake aftermath.
 
-## cru.
+cru.
 
 ### Bible Study/discussion
 

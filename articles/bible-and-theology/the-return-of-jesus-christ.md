@@ -11,8 +11,6 @@ summary: "An article by Rick James on the doctrine of Christ's Second Coming as 
 source: "Discipleship/Mature Teaching/The Return of Christ.pdf"
 ---
 
-## Rick James
-
 and anticipation of the Lord’s return. This urgency propelled them to heroic efforts in spreading the gospel.
 
 Biblical teaching to the soul is a lot like basic vitamins to the body. Often we can go awhile without a specific vitamin without feeling the effects, but eventually we begin to experience a lack of energy and motivation. Similarly the teaching of Christ’s return is a central biblical theme that is meant to provide great comfort, motivation and encouragement for Christians. As Christians, we can only go so long without “encouraging each other with these words” before we begin to feel the motivational effects.

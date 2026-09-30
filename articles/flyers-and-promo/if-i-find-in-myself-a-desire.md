@@ -14,13 +14,13 @@ experience in
 
 ## This
 
-## WORLDwhich no
+WORLDwhich no
 
-### CAN SATISFY, the most probable explanation is that I was made for another
+CAN SATISFY, the most probable explanation is that I was made for another
 
-## world.
+## World.
 
-### —C.S. LEWIS . Real Faith. Real Relationships. Real Life.
+C.s. Lewis . Real Faith. Real Relationships. Real Life.
 
 If we consider the rewards promised in the Gospels, it would seem that God finds our desires, not too strong, but too weak. Join us each week as we try to discover what it means to really live.
 

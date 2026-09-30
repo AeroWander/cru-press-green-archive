@@ -14,7 +14,7 @@ source: "Launching a New Ministry/Ethnic_ Contextualized Ministries/Greek.pdf"
 
 Partner: with national fraternity and sorority leadership, as well as campus Greek advisers, to help serve them by mentoring/volunteering on a local level .
 
-## Greekmovement.com Starting a Greek Ministry
+Greekmovement.com Starting a Greek Ministry
 
 Greekmovement.com is designed to help interested individuals that want to help launch a ministry to fraternities and sororities on their campus. Our staff can give you resources such as Bible study materials and let you know about conferences for Greek students. We really do want to help you grow in your faith and to have an impact on those around you. Greek Movement is a movement of Campus Crusade for Christ. We exist to inspire and equip every fraternity and sorority member to leave a spiritual legacy in thier Greek House. We also desire to serve the Greek community by offering resources on leadership, spiritual growth, and Greek life and culture.
 

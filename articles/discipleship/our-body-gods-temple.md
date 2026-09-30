@@ -11,8 +11,6 @@ summary: "A chapter excerpt by Rick James tracing the biblical theme of God's dw
 source: "Building Community/Men and Women/Men/Our Body God_s Temple.pdf"
 ---
 
-## Rick James
-
 When we put our faith in Jesus Christ and invited him into our hearts, it is the person of the Holy Spirit (the Spirit of Christ), not really Jesus, who came to dwell in us. Jesus is enjoying better accommodations in heaven. But, to fully appreciate this new reality, I’m afraid you’re going to need to be visited by the “Ghost of Israel Past,” as we take an historical digression through Scripture.
 
 ## Out of Egypt

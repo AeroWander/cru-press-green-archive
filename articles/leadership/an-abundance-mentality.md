@@ -23,7 +23,7 @@ Before addressing the principles, it is important to This document should help t
 
 The eight principles of development are simple, and some may even be familiar. However, please be assured that, if applied diligently, these principles will yield a bountiful harvest.
 
-## 1. THE PRINCIPLE OF STEWARDSHIP Before
+## 1. The Principle of Stewardship Before
 
 starting any fund raising effort, it is important to understand who will really be providing the money we need. Psalm 24:1 states, “The earth is the Lord’s, and everything in it, the world, and all who live in it”. We must accept the fact that God owns everything and that the financial resources we need are out there and are His. They may currently be in the possession of an individual (whether believer or non-believer), but they are ultimately the Lord’s. “For the world is mine, says the Lord, and all that is in it.”(Psalm 50:12). If He wants us to possess any portion or a large portion of those resources, He can and will make it happen. It is also important to understand that it IS God’s intention to provide for our needs and that He will use His people, in many cases, to provide for those needs. Philippians 4:19 states, “And my God will meet all your needs according to His glorious riches in Christ Jesus”. That’s not just some of our needs —that’s ALL of our needs.
 
@@ -31,7 +31,7 @@ It is critical that we turn to God for our guidance and direction when it comes 
 
 While God is the owner, we are the stewards of the resources God entrusts to us. As stewards, we are accountable to God for how the resources are invested. We know that our ministry partners care greatly how their gifts are being used but more importantly, God cares how effectively the gifts are used.
 
-## 2. the Principle of Friend Raising
+## 2. The Principle of Friend Raising
 
 The concept of “friend raising” is not just another way to put a positive spin on the perceived “necessary evil” of fund raising. Friend raising is a way of life and a philosophy that we must put into practice daily. If we cannot embrace this philosophy, our time as ministry leaders will be difficult and uncomfortable. The emphasis on developing relationships and friendships with people means believing that the more a person becomes involved with our organization, or immersed in its mission, the more they will be likely to give. This also means putting relationships above money, trusting that the validity and “worthiness” of our cause will capture the heart of a person who gets to know us better.
 
@@ -41,13 +41,13 @@ Another perspective is that people give to people, justified by the cause. This 
 
 As much as people would like to think they give logically, they really give emotionally (Luke 18:18-23 and 2 Corinthians 9:7). Most ministry partner’s do not want to know all the details - but they do want to be assured that we “have our house in order”. Annual reports, brochures, leaving pieces and other factual information only reinforce logically the decision they had already made emotionally. Making friends with a ministry partner will not only aid them in their emotional decisions but their logical rationale as well.
 
-## 3. the Principle of Giving
+## 3. The Principle of Giving
 
 Scripture tells us that “it is more blessed to give than to receive”. Think back to the last gift you bought for a friend, spouse or family member. Remember how you felt watching the person receive the gift. You could not wait for the person to open it — to see the look on their face when they saw what it was. That same excitement exists for the ministry partner every time they give a gift to our ministry. Do not forget to love and appreciate them – they will be waiting for a response.
 
 The apostle Paul states in Philippians, chapter 4, “The benefit in giving always goes to the giver.” We know that God promises that if we give, He will give back many times over. We also know that it is impossible to “out give” God. Giving is the only area where God says, “try me and test me” (Malachi). Certainly, we shouldn’t give to get back from God, but we can expect a blessing from Him in His timing and in the manner best suited for us. As ministry leaders, we serve in a unique role as “blessing brokers”. We provide opportunities for people to be blessed by God. If we fail to present people with the opportunity to give, we are denying them a blessing from God (Phil 4:17-20). Proverbs chapter 3 says, “Honor the Lord with your wealth, with the first fruits of all your crops” (Proverbs 3:9) and the second book of Corinthians states, “Each man should give what he has decided in his heart to give, not reluctantly or under compulsion, for God loves a cheerful giver”. Giving is a unique way for us to participate in God’s plans.
 
-## 4. THE PRINCIPLE OF ASKING As
+4. THE PRINCIPLE OF ASKING As
 
 Christians, we face many challenges – some of which deal directly with our faith and trust in God. Three specific things God asks us to do are especially hard: pray, share our faith, and ask for money. It is clear that all three are spiritual activities. Sometime in the past you’ve probably done extensive studying on prayer, you’ve probably taught countless students how to share their faith, but I will bet you haven’t done much work related to the ministry of asking. Asking, especially as it relates to financial resources, is a critical role of a leader. Two things are true about spiritual leadership and the ministry of asking. First, the more the leadership responsibilities we assume, the greater the ministry of asking must be. For example, Nehemiah went before a hostile king and risked his neck to ask (Neh.2:1-8). King Solomon invited the Queen of Sheba on a major financial partner appointment to see his “ministry” — She gave liberally (1 Kings 10:1-10). Elijah went on a one-on-one partner call (1 Kings 17:8-16) — Elijah’s need was met and the partner was deeply blessed. Paul sent a mass mailing (the first direct mail letter) to raise funds (1 Cor.16:1-3). Bill Bright and Paul Eshelman both claimed to have spent approximately 80% of their time in development with a third of that time spent on the ministry of asking. As God lifts us to greater leadership responsibilities, our success will depend on our willingness to embrace a greater ministry of asking.
 
@@ -79,7 +79,7 @@ To overcome these traps, remember that God charged us with the ministry of askin
 
 A very successful businessman in Dallas gave four million dollars to help produce The JESUS Film and soon lost a fortune in the silver market. When asked about the loss, his son said, “My dad may very well be remembered in history not for his great loss but for this great contribution that has reached billions”. To this day, the partner still thanks Bill Bright for the boldness he had to ask.
 
-## 5. the Principle of Winning
+## 5. The Principle of Winning
 
 The lifeblood of any development effort is the constant infusion of new prospects and ultimately new ministry partners to its ministry. This infusion is referred to as, “the winning of people to our cause”. Just as in scripture, any successful new name/partner acquisition strategy starts with those we know well and extends from there —our Jerusalem, Judea and Samaria (Acts 1:8). Begin with those people who are already committed to us and our ministry and will provide access to early “seed money.” We should consider starting with our own personal ministry partners, individuals who already know what we are doing are excited about our work, and we can build from there. In addition to helping us personally, these people may be interested in helping with corporate needs. Once they give, they may refer or introduce you to their friends who would also be interested in corporate needs.
 
@@ -93,7 +93,7 @@ When asking, it is important to do so face-to-face when possible, and always use
 
 Make sure that when asking an individual to play a role in reaching a goal with other individuals involved, that we do not fall prey to the “myth of the multiples”. People inexperienced in fund raising often think in terms of “average” gifts. They divide a goal by the number of likely ministry partners and then ask everyone for the same amount. In almost every case the person asking loses. The average is typically too high for some ministry partners and drastically too little for others. This strategy does not work and should be avoided.
 
-## 6. the Principle of Keeping
+## 6. The Principle of Keeping
 
 Winning people to our cause is only part of the puzzle. It is important to deepen the relationship of ministry partners with Christ, His heart and His workers. In order to keep the partner for the long term, it is critical that we increase involvement through their giving and activities of the ministry – this will grow their understanding and passion for the mission. Do not be afraid to get a person immersed in the ministry. The more the ministry partner is involved in helping plan strategies and carrying out those plans, the more they will want to give to the strategies. This is referred to as building “ownership”. Owners of a company usually pour their lives into the company and make great sacrifices of time, talents and treasures for the company. All of us would benefit from greater ownership amongst our ministry partners. There are numerous ways to keep ministry partners involved. The first way is through increased communication. Depending on the level of commitment and giving, this could be written communication. For ministry partners giving under $500 per year, newsletters, appeal letters and information pieces sent on a regular basis should be sufficient to keep a ministry partner informed of ministry activities. For ministry partners giving over $500, adding personal and notes, birthday and anniversary cards and letters is appropriate. As someone begins to give more frequently and at a higher level, regular phone calls could be added and even personal visits once or twice a year depending on proximity.
 
@@ -101,7 +101,7 @@ One strategy that has worked extremely well for local and regional leaders is th
 
 Other strategies such as small dinner parties, golf tournaments and marathons or a-thons have been tried with some success over the years. It’s important to test all methods according to the “plumb line” established by the principle of friend raising. If the activity builds friends for the long term, then it should be done. If all the method does is raise funds for the here and now, it may seem like a good strategy, but understand the method will be equivalent to selling the goose that laid the golden eggs. The price we get for the goose now may look good, but we’re looking to develop a producer of eggs that will meet our needs for years to come. Resist the temptation for “get rich quick” schemes – no matter who is selling the idea.
 
-## 7. the Principle of Lifting
+## 7. The Principle of Lifting
 
 Simply acquiring more ministry partners who stay at the same giving level year after year is fine if our reservoir of names and potential ministry partners is unlimited, but for most of us, that’s not the case. If new funds must be developed for a project or ministry effort, one could continue to keep trying to find new ministry partners to “buy into the strategy” or one could take the wise approach and present the opportunity to those who already love us and give out of a joyful heart. Those are our current ministry partners.
 
@@ -109,7 +109,7 @@ Each 12 to 18 months, a ministry partner should be challenged to a higher giving
 
 Most people’s income grows each year and so does the amount they are able to give. Challenging a person to a higher giving level increases their involvement and commitment to our ministry and gives them greater avenues for making a successful investment.
 
-## 8. the Principle of the Critical Few
+## 8. The Principle of the Critical Few
 
 This principle was developed by Larry Johnston, President of McConkey/Johnston, Inc., consultants to non-profit organizations. Mr. Johnston has shared that “it is important to focus on what and who are really important in ministry. Since 20% of a ministry’s activities produce 80% of the results, it’s important that we focus on the critical few (Luke 10). Ministry leaders must direct their efforts at income-producing activities, or they will be burdened with “busy-ness.” In looking at one’s current or even potential financial partner base, it is most likely that 80% of the money comes from 20% of the partners. Since, as ministry leaders, we only have so much time to invest in the lives of current ministry partners (friend raising), we will want to identify those who have the greatest impact on our ministry. In this case, we want to invest relationally in those who are giving a majority of our budget. This does not mean that these people are of greater value in God’s eyes, nor should they be in our eyes, than the person who gives less, but possibly with greater sacrifice. But since our time is limited, our focus should be on those who can have the greatest impact.
 

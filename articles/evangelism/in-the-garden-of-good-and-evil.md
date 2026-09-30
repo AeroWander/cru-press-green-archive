@@ -11,8 +11,6 @@ summary: "An apologetics essay by Rick James on the problem of evil, written in 
 source: "Evangelism/apologetic/In the Garden of Good and Evil.pdf"
 ---
 
-## Rick James
-
 had really suffered. Those who had only “suffered” learned their unspoken role to be apologetic about the ease of their labor and to gawk in amazement at the superhuman feats of endurance accomplished by the professional sufferers—apparently from the good stock of Viking women who gave birth while simultaneously hewing a canoe.
 
 Who put the doggy in the doghouse?
@@ -39,11 +37,11 @@ I’ve decided that we are going to approach this by way of the backdoor. That i
 
 I have raised a zillion issues, philosophically, some are legitimate points and others are not. I’ll let you figure out which is which. All in all, using good common horse sense—which I don’t believe evolved from a horse—I’m not happy with the problems that eliminating God leaves me with. It’s like working on a jigsaw puzzle and jamming two closely related pieces together, and while those pieces couldn’t fit more snug, the whole rest of the puzzle doesn’t fit. And so you reason, perhaps, these pieces don’t fit together, after all.
 
-## If God Isn’t There
+*If God Isn’t There*
 
-Well let’s see, if God isn’t there, we are forced to agree with the insane notion that creativity, art, speech, love, morality, justice, compassion and courage evolved by happenstance. Hmm, what are the odds; perhaps tomorrow I’ll find an iMac sprouting out of my neck, leaving my PC head to swing in the trees of evolutionary obsolescence. While possible, the belief in such ingenious happenstance might take more faith then I’ve got.
+Well let’s see, if God isn’t there, we are forced to agree with the insane notion that creativity, art, speech, love, morality, justice, compassion and courage evolved by happenstance. Hmm, what are the odds; perhaps tomorrow I’ll find an Imac sprouting out of my neck, leaving my PC head to swing in the trees of evolutionary obsolescence. While possible, the belief in such ingenious happenstance might take more faith then I’ve got.
 
-So I’m going to assume that God is there and that evil is there and that somehow we can make the two jigsaw pieces fit without ripping the cardboard all to hell. Perhaps a stroke of genius or ignorance on my part—you can be the judge of that—but it has always seemed to me that the Scriptures (Judeo/Christian- Old testament/New Testament) provide an insightful perspective on the problem of evil, as opposed to other religious books where evil came to us on the back of a sea turtle or something to that effect.
+So I’m going to assume that God is there and that evil is there and that somehow we can make the two jigsaw pieces fit without ripping the cardboard all to hell. Perhaps a stroke of genius or ignorance on my part—you can be the judge of that—but it has always seemed to me that the Scriptures (Judeo/Christian-Old testament/New Testament) provide an insightful perspective on the problem of evil, as opposed to other religious books where evil came to us on the back of a sea turtle or something to that effect.
 
 And then there is the spiritual component of man. Wherever you go in the world people are innately religious. Atheism must be learned, while theism is reflexive, as is a belief in an afterlife. But no one has ever proved there’s an afterlife. What would you suggest: someone die and then come back and tell us what it was like? It’s called a Near Death Experience and they happen all the time. There is considerable uniformity to the experiences, and people do in fact continue to exist though their vital signs have flat-lined. I’m not sure what more evidence could be provided here.
 

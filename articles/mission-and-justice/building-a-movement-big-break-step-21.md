@@ -17,9 +17,9 @@ As you walk through the campus year: the Fall Retreat sits squarely in the middl
 
 College students have a wide variety of Spring Break trips and options available to them, few, if any, being helpful or productive to one’s walk with God. A mission trip or the Big Break conference, however, not only provides an opportunity for spiritual growth, but is also a catalyst to ministry as a whole: deepening relationships, developing spiritual leadership, generating excitement and momentum, and providing training in basic ministry skills.
 
-Big Break provides an opportunity to absorb new people into the movement who have yet to really get connected. Unlike the Christmas Conference where students often want to stay at home during the break, there is already an intrinsic desire to ‘do something’ or ‘go someplace’ over Spring Break and thus it is a golden opportunity to get new people (and those loosely connected) involved. For those already involved, Big Break is an unparalleled opportunity for fun, challenge, worship, community, and deeper involvement in the ministry—Big Break puts the Christian experience on steroids. © 2010, CruPress, All Rights Reserved. CruPress.com
+Big Break provides an opportunity to absorb new people into the movement who have yet to really get connected. Unlike the Christmas Conference where students often want to stay at home during the break, there is already an intrinsic desire to ‘do something’ or ‘go someplace’ over Spring Break and thus it is a golden opportunity to get new people (and those loosely connected) involved. For those already involved, Big Break is an unparalleled opportunity for fun, challenge, worship, community, and deeper involvement in the ministry—Big Break puts the Christian experience on steroids.
 
-## Spring Break- Big Break
+## Spring Break-Big Break
 
 ## Retreats Gone Wild
 
@@ -37,9 +37,9 @@ While there are other missions opportunities over Spring Break for the more spir
 
 Of the different Spring Break options the most popular is the Big Break conference. Big Break is a one-week mission experience that gathers students from colleges and universities from all over the country in Panama City Beach, Florida for Spring Break.
 
-## Mexico City
+*Mexico City*
 
-Imagine a Christ-centered community on each of the 400 different campuses in Mexico City, the second © 2010, CruPress, All Rights Reserved. CruPress.com © 2010, CruPress, All Rights Reserved. CruPress.com largest city in the world. By adopting a few campuses, you can literally help change Mexico City, the country of Mexico, and the world. • • • • Detroit Los Angeles Minneapolis Seattle How much impact can you have in a week? By simply walking on a campus and talking to students, you may just find the future leader(s) who will revolutionize that school for Christ. You may touch a life that for the first time will feel and experience Jesus Christ. Visit www.seizeit.org to check out the cities that offer trips that fit your schedule. Then contact the Urban Immersion Coordinator to register.
+Imagine a Christ-centered community on each of the 400 different campuses in Mexico City, the second largest city in the world. By adopting a few campuses, you can literally help change Mexico City, the country of Mexico, and the world. Detroit Los Angeles Minneapolis Seattle How much impact can you have in a week? By simply walking on a campus and talking to students, you may just find the future leader(s) who will revolutionize that school for Christ. You may touch a life that for the first time will feel and experience Jesus Christ. Visit www.seizeit.org to check out the cities that offer trips that fit your schedule. Then contact the Urban Immersion Coordinator to register.
 
 Make Mexico City your 2007 Spring Break destination and join the staff from the Great Plains region who have already caught the vision to reach the 1,000,000 college students in Mexico City. Dates for Mexico City Spring Break obviously shift a bit from year to year but generally fall on these weeks: Week 1: Feb. 28 - March 7 Week 2: March 7 - March 14 Week 3: March 14 - March 21 Week 4: March 21 - March 28 Week 5: April 4 - April 8
 
@@ -61,4 +61,4 @@ For student-led ministries the most important logistic is making sure everyone h
 
 During Urban Immersion you will have opportunities to share your faith in Christ with children, youth, and adults. You will work alongside seasoned inner-city Christian workers at various host ministry sites doing a variety of activities including work projects, assisting in children’s after-school programs, and community outreach. Your week will be “packed,” “fast-paced,” “challenging,” “faith-stretching,” and guaranteed to be one you won’t soon forget! There are always some students who would like to go but simply can’t afford it. There are several solutions for raising money that you can read about in the article on Raising Funds for Conferences.
 
-Cities hosting groups for Urban Immersion 2007 include: • Chicago © 2010, CruPress, All Rights Reserved. CruPress.com © 2010, CruPress, All Rights Reserved. CruPress.com
+Cities hosting groups for Urban Immersion 2007 include: · Chicago

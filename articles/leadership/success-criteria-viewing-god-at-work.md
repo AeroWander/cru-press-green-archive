@@ -11,8 +11,6 @@ summary: "An article by Mark Gauthier explaining to missional team leaders why a
 source: "MTL/Building Movements/Success Criteria.pdf"
 ---
 
-## Mark Gauthier
-
 This article was written by Mark Gauthier to Missionalteam leaders to give perspective and explanation on the changes in the statistics made by the National team fall of 2006. We want you to hear the heart of why we record God’s work on our campuses. We also think it is essential that you know what we have chosen to measure and why we believe it is important. the will tell of your might acts... They will tell of the power of your awesome works, and I will proclaim your great deeds. [Psalm 145.4, 6] So also in the New Testament, the first disciples recorded (for example, the book of Acts) and reported God at work through their ministry.
 
 ## Celebrating the Works of God

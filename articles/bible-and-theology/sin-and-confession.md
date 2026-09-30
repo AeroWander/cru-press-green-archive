@@ -11,13 +11,13 @@ summary: "An article by Rick James on common ways people avoid dealing with sin 
 source: "Discipleship/Basic Growth Concepts/Sin and Confession.pdf"
 ---
 
-## Rick James No Harm, No Foul
+## No Harm, No Foul
 
 “Now that you mention it, I’m not sure that really was a sin.” Recognize it? It’s called justification. And as the word implies we decide to make a judgment over and against our conscience, declaring that what we did was actually right, or at least not that wrong. Why go to the effort? Because someone must pay for sin, unless of course there is no sin to be paid for, and that’s what we’re shooting for in this approach: to eliminate the offense.
 
 When we sin (the operative word being “when”) we instinctively feel a judicial impulse that that someone must pay a price for our wrong-doing. Deep down we really don’t believe that anyone should get off “scot-free.” What we need to decide is who is going to pay the price for our transgression.
 
-## I Had to
+I Had to
 
 “I couldn’t help myself, it’s just my personality.” Let’s call this rationalizing, which is equivalent to the courtroom plea of insanity. What I’m saying here is, “Yes, it was sin but I didn’t have the moral capacity to say ‘no.’” My personality was such, and circumstances were such, that I could do no other than what I did.
 

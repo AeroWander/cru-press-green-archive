@@ -26,7 +26,7 @@ The “Gospel4ALL Evangelism Strategies and Resources” is a toolbox of proven 
 
 As we launch and build movements embedded with our Win-Build-Send DNA, our vision is to see truly
 
-## Evangelism Design: a Comprehensive Framework
+## Evangelism Design: A Comprehensive Framework
 
 The Evangelism Model has been informing our thinking about evangelism for the past 15 years. Various tools and studies have helped reinforce this biblically based framework. Yet we’ve lacked a consistently used, comprehensive, written statement of the Evangelism Model to use in leadership development and training. That is until now. “Evangelism Design: A Comprehensive Framework” is a seventeen page publication, unpacking the Evangelism Model principles:
 
@@ -58,11 +58,11 @@ Mentor: Encouraging others to continue on in their spiritual journey.
 
 CruPress Green will soon deploy a CoJourners splash page, bringing together all that is needed to equip your students in conversational evangelism. The resources will help you learn to be a CoJourner and teach others to be one, as well.
 
-## Cojourners: Transferable Concept
+Cojourners: Transferable Concept
 
 This 16-page article is the best introduction and explanation of the CoJourner approach to evangelism. It is simple-to-follow and easy-to-apply. Great for personal study or for use in conjunction with CoJourner trainings, whether in small group or large group settings. Packs of professionally printed copies of CoJourners: Transferable Concept are available through CruPress.
 
-## Passages: a Devotional Journey
+## Passages: A Devotional Journey
 
 This 28-day devotional will help CoJourners become a way of life. Each devotional thought reinforces the CoJourner paradigm through prayer and the Word of God. Use it yourself, with your small group, as an assignment with training classes or as part of a month-long outreach emphasis. Available at CruPress.com.
 
@@ -70,15 +70,15 @@ This 28-day devotional will help CoJourners become a way of life. Each devotiona
 
 This video series, based on Colossians 4:5-6, is designed to guide you through conversational transitions: from general to spiritual to gospel. Using the CoJourners evangelism paradigm, c456 is a six-part training series that can be viewed individually, in a small group study, or a large group weekly meeting. C456 can be found at CruPress Green.
 
-## Cojourner Podcasts
+*Cojourner Podcasts*
 
 [Coming Soon] Listen to 90-second CoJourner spots by Keith Davy on MyBridge Radio Network. Download & stream for personal use or to stimulate discussion in your small group.
 
-## Cojourner Equipment Pack
+*Cojourner Equipment Pack*
 
 The CoJourner Equipment Pack provides small group discussion content for equipping in Bible studies, discipleship groups, and discipleship appointments. The Pack includes twenty 8-12 minute equipping discussion cards. The discussion cards are not a replacement for the Bible study content, but rather provide an equipping element to help cultivate the outreach focus in small groups. The Equipment Pack is organized around the CoJourner roles, but the cards can be used in any order. The Equipment Pack can be downloaded at CruPress Green.
 
-## Cojourner Training Sessions
+*Cojourner Training Sessions*
 
 The CoJourner curriculum is what you need to teach your local movement or evangelism class how to be CoJourners. Use the Overview as a one-session training, or as the introductory session for a five-session series. The five-part training series can be taught in an all-day session, or over the course of five weeks in a church or classroom.
 
@@ -106,7 +106,7 @@ A short film is a visual story—told in a matter of minutes. This medium is gro
 
 How can we help our students have more opportunities to share Christ with their friends? Just Ask! What is the Just Ask! project? Just Ask! is a relational guide that takes advantage of Cru’s great listening tools (like the four above) to mobilize a small group in connecting spiritually with friends. And it cultivates for a lifestyle of relational witness with friends, family and acquaintances—an essential skill for a 100% Sent lifetime laborer! To find out more about being part of the Just Ask! Field Test, contact: Aaron.Emerson@uscm.org
 
-## Conducting Large Group Gospel Events Communicating Conversationally Knowing God Personally
+Conducting Large Group Gospel Events Communicating Conversationally Knowing God Personally
 
 What more needs said?
 
@@ -114,7 +114,7 @@ What more needs said?
 
 US Campus Ministry “Speaker Events” help accelerate the mission of reaching every student with the gospel. As a proven “harvest” strategy leading to evangelistic decisions, the Speaker Forum provides matching grants for approved national speakers, while funds last. These grants cover up to 50% of actual expenses, but not exceeding the individual grants allotted to each speaker. Find out more about the Speakers Forum at CruPress Green.
 
-## Back Story: Life@large Revisited
+Back Story: Life@large Revisited
 
 A major revision to Life@Large has been accomplished. The storyline of the gospel in seven themes:
 
@@ -138,9 +138,9 @@ For Greeks, check out Greekmovement.com.
 
 ## Sharing the Gospel Online One-verse Evangelism
 
-Many people feel that to be effective in evangelism they must memorize a complex illustration and a multitude of verses. But the Gospel is most powerful when shared with love, clarity, and simplicity. One- Verse Evangelism is a simple, interactive way to share Christ’s love conversationally and visually. It is based on asking questions and sharing. It’s easy to learn because it uses just one verse. On CruPress Green, simply search for “One Verse Evangelism.”
+Many people feel that to be effective in evangelism they must memorize a complex illustration and a multitude of verses. But the Gospel is most powerful when shared with love, clarity, and simplicity. One-Verse Evangelism is a simple, interactive way to share Christ’s love conversationally and visually. It is based on asking questions and sharing. It’s easy to learn because it uses just one verse. On CruPress Green, simply search for “One Verse Evangelism.”
 
-## Everystudent.com
+Everystudent.com
 
 Everystudent.com gives the opportunity to make the gospel “findable” to many who are searching for God. It is an easy way for your students to help friends find out about God and your movement can help an entire campus consider the claims of Christ. Everything you need to know to make the most of this powerful multi-dimensional outreach tool is found in The Everystudent.com Guidebook at:
 
@@ -150,7 +150,7 @@ Everystudentinfo.com
 
 We continue to have “classic” approaches to equipping believers to share their own journey to Christ. There is a need for upgrading our approach and resources in order to more relevantly equip students for the broad range of opportunities they encounter.
 
-## Meettheprof.com
+Meettheprof.com
 
 A faculty-oriented outreach is taking shape. Local professors can create their own profile, tell their story and direct students to their page as a means of witness. For more information contact:
 

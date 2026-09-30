@@ -35,7 +35,7 @@ Role: To give leadership and direction to a specific area of ministry:__________
 2. As a servant team leader, you will be responsible for the delegation of appropriate tasks to team members and give oversight to all ______________events and activities. You will be expected to meet with your team on a regular basis for prayer and planning.
 3. You are responsible to help fellow servant team leaders remember the importance of having a dynamic _____________ ministry in Campus Crusade. Basically, you are the one to keep your fellow movement leaders thinking about the role of _____________and it’s importance to the overall movement as it relates to our mission of turning lost students into Christ centered laborers.
 
-#### Expectations:
+#### Expectations
 
 #### Personal Character
 

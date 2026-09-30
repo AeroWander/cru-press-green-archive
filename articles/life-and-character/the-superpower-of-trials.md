@@ -11,8 +11,6 @@ summary: "An article by Rick James arguing that trials are one of God's primary 
 source: "Discipleship/Basic Growth Concepts/The Power of Trials.pdf"
 ---
 
-## Rick James
-
 While I’m generally a fan of superheroes, something about Superman has always irritated me. For whatever reason, the idea of a superhero flying around in a cape and tights does not present an intellectual stumbling block for me. I do, however, find it hard to believe that nobody recognizes Clark Kent as Superman merely because he wears reading glasses! you find yourself in some difficult or constraining circumstances that are a source of struggle for you, consider yourself in a trial; it is therefore not random (it was allowed by God) and can work for good in your spiritual growth.
 
 It is my premise that perhaps the greatest power to change our lives exists in the form of trials that God graciously sends to us to bring about character transformation. It is also my contention that most Christians would endure such trials, if they only knew they were in one. The problem is that trials are much like Clark Kent. For some reason, we seem unable to identify when we are in one, and as a result, run from the trial rather then embrace it and the growth it brings. I believe that often trials come into our lives in four thinly veiled disguises that can prevent us from recognizing and embracing their transforming superpower.

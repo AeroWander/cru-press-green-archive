@@ -11,8 +11,6 @@ summary: "An article by Rick James surveying the history of Protestant revivals 
 source: "Sending/Missions/The Role of Revivals.pdf"
 ---
 
-## Rick James
-
 revivals are so let’s begin there.
 
 ## What Is Revival?
@@ -35,7 +33,7 @@ When I say that God’s Spirit overflowed in a dramatic overpowering fashion, yo
 
 Now as I noted there have been six major revivals since 1700, and with every wave of revival came a thrust of missions, like labor pains pushing forward the final advent of Christ’s kingdom. Revivals do not account for all missionary activity in this period but because they are so integral to it, I have selected this as the lens by which to see missionary expansion in the modern era.
 
-## Missions Mindset
+*Missions Mindset*
 
 We should note that the century leading up to the revivals of the 1700’s was entirely absorbed with the Reformation. Prior to the Reformation the Roman church had wrongly viewed missions in a geopolitical sense: missions and evangelism were measured by whether the country was under the dominion of the Pope and Roman church. In such a distorted understanding the Crusades would have seemed like a missionary endeavor. from Czech). This little community experienced a powerful revival, later refered to as the Moravian Pentecost, and within two weeks of the outpouring, twenty-four men and twenty-four women covenanted to pray ‘hourly intercessions,’ thus praying every hour around the clock, a prayer vigil that would go unhindered for the next 100 years.
 
@@ -99,7 +97,7 @@ By the time Global Revival subsided in the 1930’s almost every country on the 
 
 In 1886, the first ever, Christian conference for college students was held at Mount Hermon, Massachusetts. Though used to addressing audiences in the thousands, the conference’s main speaker, Dwight Moody, agreed to come and speak to the 250, some odd, college students assembled from schools such as Yale, Harvard, Dartmouth, and Cornell. Though Moody was the Billy Graham of his day, the most impassioned speech was given by fellow student and Princeton senior, Robert Wilder. Wilder challenged his fellow students to consider taking the gospel to the world as foreign missionaries. One by one, a hundred students came forward to accept the challenge. As a symbol of their commitment, students signed a pledge, which simply read:
 
-## Evangelical Awakenings (Mid 20Th Century)
+## Evangelical Awakenings (Mid 20th Century)
 
 In June of 1947, at the Forest Home College Briefing Conference the evening’s main speaker, Henrietta Mears, gave an impassioned plea for total commitment and availability to Christ. Several men were so moved by her words that they asked to meet in her cabin later for prayer. Mears’ biographer would describe the ensuing prayer meeting in these words: As they knelt they were overcome by a sense of helplessness and inadequacy. They prayed on into the late hours of the night. There was much weeping and crying out the Lord. At times no one prayed as God spoke to them.
 

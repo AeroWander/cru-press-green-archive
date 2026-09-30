@@ -16,7 +16,7 @@ source: "Launching a New Ministry/Building a Movement/The Christmas Conference.p
 
 One of the greatest obstacles to leading a campus ministry is the transient nature of the college campus. Just as the ministry is beginning to gel and form into a real biblical community, the semester ends and everyone vacates for an entire month. January feels like you’re starting the ministry all over again. But in the world of campus ministry every obstacle is at the same time an opportunity, and that opportunity is the Christmas Conference. This is a chance to gather the most committed members of your ministry for five days of the most incredible fellowship, worship, Bible teaching, and outreach. In this case the Christmas break actually serves to accelerate your ministry instead of hinder it. Students return to campus ready and eager to lead, to serve, and to reach the campus for Christ.
 
-For this reason your primary focus for December needs to be recruiting and promoting The Christmas Conference. Here is an article about The Christmas Conference and an article that explains our ministry philosophy of recruiting. © 2010, CruPress, All Rights Reserved. CruPress.com
+For this reason your primary focus for December needs to be recruiting and promoting The Christmas Conference. Here is an article about The Christmas Conference and an article that explains our ministry philosophy of recruiting.
 
 ## The Christmas Conference
 
@@ -46,7 +46,7 @@ The Denver Conference puts it more poetically: Besides turning a huge negative (
 
 ### A Heart for the World
 
-Through stories, videos, speakers, and seminars, students are exposed to what God is doing around © 2010, CruPress, All Rights Reserved. CruPress.com © 2010, CruPress, All Rights Reserved. CruPress.com the world. For many Christians this is the first time they’ll fully grasp and embrace Jesus’ Commission to go into the world and “make disciples of all nations.” Everything is theory and head-knowledge until it’s experienced first-hand. Here, students are exposed to the world of missions. The Christmas Conference can transform a campus ministry into a missionary movement as students leave the conference eager to return to campus to make an impact for Christ.
+Through stories, videos, speakers, and seminars, students are exposed to what God is doing around the world. For many Christians this is the first time they’ll fully grasp and embrace Jesus’ Commission to go into the world and “make disciples of all nations.” Everything is theory and head-knowledge until it’s experienced first-hand. Here, students are exposed to the world of missions. The Christmas Conference can transform a campus ministry into a missionary movement as students leave the conference eager to return to campus to make an impact for Christ.
 
 ### Training
 
@@ -74,7 +74,7 @@ Spending a full, five days together with other students from your campus builds 
 
 Not that students don’t get helpful biblical teaching and messages back on campus but at the Christmas Conference they are exposed some of the most gifted, passionate, and knowledgeable communicators of the Word. Besides hearing great messages, the more important result is that a passion is sparked for God’s Word. It is only when someone brings out the full-meaning of a Bible passage that you realize how much meaning is in there. Students leave with a hunger for the Scripture.
 
-As we’ve said, Christmas Conference builds momentum in the ministry at a time that it would normally be lost. © 2010, CruPress, All Rights Reserved. CruPress.com © 2010, CruPress, All Rights Reserved. CruPress.com
+As we’ve said, Christmas Conference builds momentum in the ministry at a time that it would normally be lost.
 
 ## Conference Locations and Dates
 
@@ -98,11 +98,9 @@ Late October. Make a banner for your weekly meeting. Meet with student leaders. 
 
 Early November. All ministry leaders should be registered this week before all-out promotion begins. As leaders it’s critical to set an example and essential to challenge others to come along. For thoughts on how and why to challenge someone to a conference, see the article “The Power of an Ask.”
 
-November. All-out promotion. Testimonies, skits and general promotion at your weekly meeting. Banner and Sign-up table are also prominant at the meeting. Leadership makes sure that every student has either been asked or challenged to come to the conference. Hold a letter writing party for those students who need to raise money for the conference. © 2010, CruPress, All Rights Reserved. CruPress.com © 2010, CruPress, All Rights Reserved. CruPress.com
+November. All-out promotion. Testimonies, skits and general promotion at your weekly meeting. Banner and Sign-up table are also prominant at the meeting. Leadership makes sure that every student has either been asked or challenged to come to the conference. Hold a letter writing party for those students who need to raise money for the conference.
 
 ## The Philosophy of Recruiting
-
-## Eric Swanson
 
 retreat than in a whole semester of Bible studies. Conferences can serve as a rallying point--something that everyone is looking forward to. Conferences build vision.
 
@@ -128,7 +126,7 @@ Conferences get all those in the ministry moving in the ministry moving in the s
 
 We make at least two wrong assumptions when it comes to conferences. 1) Students know what is going on, and 2) students will go to the conference on their own and don’t need to be asked or challenged to consider going.
 
-On each campus, the students in the ministry can be represented by a line. ______ _________________ ______ 20% 60% 20% For sake of illustration, let’s say that when you give the opportunity to sign up for a conference, 20% immediately decide they want to go. To them it doesn’t matter if the conference is expensive or is a © 2010, CruPress, All Rights Reserved. CruPress.com © 2010, CruPress, All Rights Reserved. CruPress.com thousand miles away. For one reason or another, they know they want to be there or need to be there. seminars that you have benefited from.) The price will be....Here’s the schedule....You can register by....” Another 20% has no intention of going . . . never. It wouldn’t matter if the conference were across the street, it was free, and Billy Graham was the main speaker—they just are not going to go.
+On each campus, the students in the ministry can be represented by a line. ______ _________________ ______ 20% 60% 20% For sake of illustration, let’s say that when you give the opportunity to sign up for a conference, 20% immediately decide they want to go. To them it doesn’t matter if the conference is expensive or is a thousand miles away. For one reason or another, they know they want to be there or need to be there. seminars that you have benefited from.) The price will be....Here’s the schedule....You can register by....” Another 20% has no intention of going . . . never. It wouldn’t matter if the conference were across the street, it was free, and Billy Graham was the main speaker—they just are not going to go.
 
 MOTIVATE. This is where you answer, “What difference does it make if I go?” In your own words, share the benefits of going to the conference. It is the 60% in the middle that is affected by our intentional efforts to ask, invite, and challenge. Students in this segment are wondering if they will be alone at the conference, if it will be worth the time, expense and effort of attending. These questions are answered in the recruiting process.
 
@@ -160,7 +158,7 @@ EDUCATE. “Let me tell you what will go on....We’re going to take a bus....We
 
 ## Goals Versus Desires
 
-Goals are statements of faith. No goals—no faith. Goals are a statement of what we believe God wants us to do. “We’re praying for two bus loads of students to go to the conference.” Goals are a focal point for trusting God together as a ministry. Goals become © 2010, CruPress, All Rights Reserved. CruPress.com © 2010, CruPress, All Rights Reserved. CruPress.com our “prayer targets.” In setting recruiting goals, it is useful to remember the difference between goals and desires. A goal is an objective that can be achieved without anyone else’s cooperation, i.e. “My goal is to personally challenge 20 students to go the Christmas Conference.” A desire is an objective that cannot be achieved without someone else’s cooperation. This is your prayer target, i.e. “We’re praying for 100 students to go to the Christmas Conference.” It is essential that we pray for our desires and hold ourselves accountable for our goals.
+Goals are statements of faith. No goals—no faith. Goals are a statement of what we believe God wants us to do. “We’re praying for two bus loads of students to go to the conference.” Goals are a focal point for trusting God together as a ministry. Goals become our “prayer targets.” In setting recruiting goals, it is useful to remember the difference between goals and desires. A goal is an objective that can be achieved without anyone else’s cooperation, i.e. “My goal is to personally challenge 20 students to go the Christmas Conference.” A desire is an objective that cannot be achieved without someone else’s cooperation. This is your prayer target, i.e. “We’re praying for 100 students to go to the Christmas Conference.” It is essential that we pray for our desires and hold ourselves accountable for our goals.
 
 ## Using Obstacles to Build Faith
 
@@ -170,4 +168,4 @@ In challenging students it is necessary that we don’t make the decision for th
 
 No matter who is in charge of running the conference on your campus, the bottom line is what you, as the custodian of the vision, think of and say about the conference. You must get behind the promotion and recruiting . A good team leader has the ability to focus and define what needs to be done and when. It is you who defines the importance of each conference in the overall ministry plan.
 
-Eric Swanson is a former Campus Crusade staff member who now serves as a Leadership Community Director for Externally Focused Churches. He received his Doctor of Ministry degree from Bakke Graduate University. © 2010, CruPress, All Rights Reserved. CruPress.com © 2010, CruPress, All Rights Reserved. CruPress.com
+Eric Swanson is a former Campus Crusade staff member who now serves as a Leadership Community Director for Externally Focused Churches. He received his Doctor of Ministry degree from Bakke Graduate University.

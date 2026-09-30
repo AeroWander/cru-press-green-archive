@@ -17,9 +17,7 @@ But it is more than a book on prayer. It is a book of stories; stories of great 
 
 This is not simply a reprint of an old classic. Fireseeds has been updated and expanded to include recent accounts of student revivals as well as stories from around the world and not simply the U.S. The new Fireseeds also recounts the contribution of women to these revivals as they are often overshadowed, and contains an additional chapter on the filling of the Spirit (including the Satisfied Prayer Experience). Last, the revised version opens with a foreword by Mark Gauthier, and a vision to trust God for movements everywhere. FIRESEEDS OF SPIRITUAL AWAKENING
 
-## Order Online at Crupress.com
-
-## confession and repentance
+## Confession and repentance
 
 “A revival always includes conviction of sin on the part of the church. Back-slidden professors cannot wake up and begin right away in the service of God without deep searchings of heart. The fountains of sin need to be broken up. In a true Revival, Christians are always brought under such conviction; they see their sins in such a light that often they find it impossible to maintain a hope of their acceptance with God. It does not always go to that extent, but there are always, in a genuine Revival, deep convictions of sin, and often cases of abandoning all hope.”
 

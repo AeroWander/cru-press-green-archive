@@ -16,8 +16,6 @@ The reason for the Critical Concept series is that there are important topics no
 
 Volume 1 contains five booklets addressing the following topics: Heaven and Hell: Alternative Endings Worldviews: War of the Worlds God’s Will: The Art of Discerning the Will of God Missions/ Great Commission: Mission Impossible Christ-centered Bible Study: Hearing the Music of the Gospel
 
-### Order Online at Crupress.com
-
 Critical Concept Series
 
 ## White
@@ -264,7 +262,7 @@ The Reformation was staged on the campuses of Wittenberg, Geneva, Zurich, and To
 
 God has been the architect of the campus mission strategy, and he continues to energize and utilize it today.
 
-A Seamless Strategy for Twenty-First- Century Missions If you were to ask any missionary what is the most needed resource to complete the Great Commission, his or her answer invariably would be “people.” The gospel is powerful, but it cannot provide its own transportation.
+A Seamless Strategy for Twenty-First-Century Missions If you were to ask any missionary what is the most needed resource to complete the Great Commission, his or her answer invariably would be “people.” The gospel is powerful, but it cannot provide its own transportation.
 
 Now consider the brilliance of God in addressing this need for missionary labor through college students:
 
@@ -288,11 +286,11 @@ Conclusion That’s what God has been up to. That is the plot of history, of Scr
 
 1 John Noble Wilford, “Languages Die But Not Their last Words,” New York Times, September, 19, 2007.
 
-2 1. Quoted in David Bryant, In the Gap (Ventura, CA: Regal, 1984), p. 97.
+2 1. Quoted in David Bryant, In the Gap (Ventura, CA: Regal, 1984), p.
 
 Rick James has been on staff with Campus Crusade for 20 years, and currently serves as publisher of CruPress, producing resources for the Campus Ministry. He holds an M.Div from Trinity Evangelical Divinity school. Critical Concept Series Vol. 1 Published by CruPress Design: Devon Sayers Series Editor: Rick James CruPress is the publishing division of the Campus Ministry.
 
-To Order go to: www.CruPress.com Or call 1.800.827–2788 ©2008, CruPress All rights reserved.
+To Order go to: www.CruPress.com Or call 1.800.827–2788
 
 Scriptures taken from the Holy Bible, New International Version ®NIV ®©1973, 1978, 1984 by International Bible Society. Used by permission.
 

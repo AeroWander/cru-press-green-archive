@@ -11,7 +11,7 @@ summary: "A four-week discipleship/Bible study supplement introducing One-Verse 
 source: "some time/One verse evang.pdf"
 ---
 
-## Ask Ask. Explore. Discover. One-verse Evangelism—what Is It?
+## Ask. Explore. Discover. One-verse Evangelism—what Is It?
 
 Many people feel that to be effective in evangelism they must memorize a complex illustration and a multitude of verses, but the gospel can be powerfully shared when it is done with love, clarity, and simplicity.
 
@@ -21,11 +21,11 @@ Below is a 4 week, 10 minute supplement for a Bible study, ministry team, or dis
 
 SOME TIME 1
 
-## ONE-VERSE EVANGELISM—WHAT TO DO PRINT: Print: Print the One-verse Evangelism article
+ONE-VERSE EVANGELISM—WHAT TO DO PRINT: Print: Print the One-verse Evangelism article
 
 (print 1/person). http://crupressgreen.com/one-verse-evangelism
 
-## TEACH YOURSELF: Read the One-Verse Evangelism
+## Teach Yourself: Read the One-Verse Evangelism
 
 article and teach yourself how to explain the gospel by illustrating Romans 6:23. (Don’t worry, it’s really easy.) But talk through and illustrate Romans 6:23 with a friend or staff member at least once before teaching your group. This will give you valuable feedback, experience, and confidence as you lead.
 

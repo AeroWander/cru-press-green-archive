@@ -14,7 +14,7 @@ GOSPEL DIAGNOSTICS 1
 
 ## Gospel Diagnostics
 
-## Kaleo Church- San Diego What’s Under the Hood?
+## Kaleo Church-San Diego What’s Under the Hood?
 
 The life of the Christian is one of continual repentance and belief, without which we slip into a boss/employee, earn/wage, work/rights relationship with our God. It then becomes the loving responsibility for each of us to run gospel diagnostics to determine whether or not what motivates our actions is “in step” with the gospel (Gal. 2:14).
 
@@ -24,7 +24,7 @@ The life of the Christian is one of continual repentance and belief, without whi
 - hurt others by undermining your ability to love
 - are grievous to God By pursuing this idol you are saying to God, “Jesus is not enough. I also need ______ to be happy.” Preaching the gospel to yourself and to others is an art that all of us must grow in if we seek to see real and lasting change in our lives. It is often assumed the gospel is only for those who have not yet trusted Christ. As we know, this is a faulty view of the gospel and limits its work to a personal salvation experience rather than the explosive power and catalytic dynamic for renewal in our hearts on a continuous basis. To sum up, the life of the Christian is one of continual repentance and belief, without which we slip into a boss/employee, earn/wage, work/rights relationship with our God. It then becomes the loving responsibility for each of us to run gospel diagnostics to determine whether or not what motivates our actions is “in step” with the gospel (Gal. 2:14). Getting to the root of such idols is incredibly liberating and helps us to hit our target rather than shadow boxing with sin, swinging in the dark without much success. The dynamic of the Gospel not only saves us from the penalty of our sins, it also defangs and cuts the power of sin at it’s root as we look forward in hope to the complete removal of its presence at the return of our King.
 
-## Here Are Some Gospel Questions to Ask Ourselves:
+## Here Are Some Gospel Questions to Ask Ourselves
 
 1. What is my greatest nightmare? What do I worry about most?
 

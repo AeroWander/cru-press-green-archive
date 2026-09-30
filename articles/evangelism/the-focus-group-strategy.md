@@ -22,7 +22,7 @@ In only four weeks your group has established an open, meaningful dialogue about
 
 Each of the non-Christians now see the group facilitators as people who are easy to talk to, and who know what they believe but are great listeners. Most are willing to get together with you to discuss spiritual issues, because they realize they have questions and that you might actually have some answers. Some of them have even initiated getting together.
 
-As a ministry strategy, the focus group gives students an opportunity to voice their opinions, feelings and thoughts about a wide range of topics in an environment that is nonthreatening and (usually) very interesting for the participants. These groups will give you clearer insight into the minds of non- Christian students.
+As a ministry strategy, the focus group gives students an opportunity to voice their opinions, feelings and thoughts about a wide range of topics in an environment that is nonthreatening and (usually) very interesting for the participants. These groups will give you clearer insight into the minds of non-Christian students.
 
 Sound good? In reality, it is not too far-fetched.
 
@@ -42,7 +42,7 @@ Here are some of the many reasons you might consider using this strategy on your
 4. As a ministry tool, focus groups are likely to:
 - a) Surface Christians who are interested in getting more involved with an on-campus ministry;
 - b) Surface non-Christians who are interested in the Gospel, or at least open to talking about it;
-- c) Open a tremendously positive dialogue between the group leader and non- Christians in the group.
+- c) Open a tremendously positive dialogue between the group leader and non-Christians in the group.
 5. Non-Christian participants usually walk away feeling:
 - a) That the leader really listened to them;
 - b) That the leader didn’t argue or ‘fight back’ when Christianity was attacked;
@@ -53,7 +53,7 @@ Here are some of the many reasons you might consider using this strategy on your
 
 IV. How To’s
 
-### III. Formats that Work
+III. Formats that Work
 
 There are two different formats you might consider. The first is a one-time meeting—though students often ask to meet again after the initial focus group—that is 59 minutes long. This format seems to work well with students who are either extremely busy or who are fairly closed to Christians and/or Christianity. The second is a three-week series that has been used and developed by the staff at Texas A&M, which leads to more in-depth interaction, but also demands more time from the participants.
 
@@ -68,7 +68,7 @@ If you are seeking to generate contacts across campus, and to develop and grow a
 A. How to Set Up the Meeting There are four considerations you should take into account when planning a focus group: the location, the time of day (or night), the timing in the semester, and the involvement of an RA.
 
 1. Location We would suggest holding a focus group in location where a majority of students would feel most comfortable. The location should be free of distractions and should allow for people to come and go without disrupting the group. You probably will want to hold it in a particular dorm, fraternity or sorority. You don’t want a campus-wide focus group, because it could quite easily get too large.
-2. Time of Day The time of day you choose will be a critical factor in determining who will (or will not) be able to participate. Because you will be inviting a number of non- Christians you already know (hopefully), choose a time when most of them would be available. If you are going to hold your focus group in a dorm, try it at 10pm at night, early in the week. A lot of folks are around the dorms at 10pm, and they may need or want a break from whatever it is that they have been doing. Be careful not to schedule your focus group during a popular TV show or big-time sporting event.
+2. Time of Day The time of day you choose will be a critical factor in determining who will (or will not) be able to participate. Because you will be inviting a number of non-Christians you already know (hopefully), choose a time when most of them would be available. If you are going to hold your focus group in a dorm, try it at 10pm at night, early in the week. A lot of folks are around the dorms at 10pm, and they may need or want a break from whatever it is that they have been doing. Be careful not to schedule your focus group during a popular TV show or big-time sporting event.
 3. Time of Semester Be aware of midterm schedules when you plan your focus group. Enough said.
 4. Get Your RA Involved Many RA’s (Resident Advisors) are required to host a certain number of programs for their residents, and find it challenging to come up topics that are interesting to their residents. When you approach the RA about a focus group in a dorm, these tips will help:
 
@@ -255,7 +255,7 @@ About Christianity & God...
 
 ## Life. Relationships. Religion. What do you think?
 
-### We know you have opinions. We want to hear them. (And that s ALL we want to do.),
+We know you have opinions. We want to hear them. (And that s ALL we want to do.),
 
 [ Replace with time, date, location info, using Courier size 12 text, printed from your computer and pasted over this text. ] This is a sample flier you could use to invite folks. If you want to use this exact one, you will have to replace the time, date and location.
 
@@ -263,23 +263,23 @@ Using any computer with a decent printer, simply type the time on one line, the 
 
 But if you do choose to use this one, make sure that you actually have free pizza there, since that is what this flier promises...
 
-### We’d Like to Know.
+We’d Like to Know.
 
 #### We need your help... We want to get your
 
-#### ideas and opinions on three different issues:
+ideas and opinions on three different issues:
 
 Life, Relationships, and Religion.
 
 Please join us for a Focus Group,
 
-### 10:00-10:59 pm Tuesday Night, August 26th in the 5th Floor Study Lounge
+10:00-10:59 pm Tuesday Night, August 26th in the 5th Floor Study Lounge
 
 #### Though this event IS sponsored
 
 by Campus Crusade for Christ,
 
-#### we WILL NOT bring our beliefs into
+we WILL NOT bring our beliefs into
 
 the discussion at any time.
 
@@ -287,10 +287,10 @@ the discussion at any time.
 
 FREE PIZZA,
 
-#### as a way of saying thank you
+as a way of saying thank you
 
 for your input.
 
-#### We simply want your opinions, beliefs, and
+We simply want your opinions, beliefs, and
 
 thoughts (even if you think we might disagree).

@@ -11,13 +11,11 @@ summary: "An excerpt from the Y-Jesus apologetics magazine (CruPress) defending 
 source: "Evangelism/apologetic/Jesus.doc.pdf"
 ---
 
-### Y-jesus Apologetics Magazine- Article Excerpt
+### Y-jesus Apologetics Magazine-Article Excerpt
 
 There are many great apologetic books that you could leave with students if only they would read them. But they probably won’t. They might, however, skim through a magazine. So we compiled the most convincing apologetics for the existence of God and the best evidence for Jesus into two highly graphic magazines and had the designers of Relevant magazine make it look really cool. Y-Origins deals with proofs for the existence of God ranging from arguments from Intelligent Design to the nature of man (mind, aesthetics, morality, etc.).
 
 Y-Jesus presents the classic evidence for Christ including “Lord, Liar, Lunatic,” Evidence for the Resurrection, Claims to Deity, New Testament Reliability and Fulfillment of Prophecy. Y-JESUS
-
-### Order Online at Crupress.com
 
 ## Jesus.doc
 
@@ -41,7 +39,7 @@ The importance of these questions should be obvious. If the accounts of Jesus we
 
 The New Testament writers claimed to be rendering eyewitness accounts of Jesus. The apostle Peter stated it this way in one letter: “We were not making up clever stories when we told you about the power of our Lord Jesus Christ and his coming again. We have seen his majestic splendor with our own eyes” (2 Peter 1:16).
 
-### Ancient Greek Document Comparison (Partial & Complete Manuscripts)9
+Ancient Greek Document Comparison (Partial & Complete Manuscripts)9
 
 AUTHOR BOOK WRITTEN EARLIEST COPIES GAP FROM ORIGINAL Homer Iliad 800 B.C. c.400 b.c. 400 yrs. 643 Herodotus History 480–425 B.C. c.900 a.d. 1,350 yrs. 8 Thucydides History 460–400 B.C. c.900 a.d. 1,300 yrs. 8 Plato 400 B.C. c.900 a.d. 1,300 yrs. 7 Demosthenes 300 B.C. c.1100 a.d. 1,400 yrs. 200 Caesar Gallic Wars 100–44 B.C. c.900 a.d. 1,000 yrs. 10 part—4th cent. 400 yrs. 1 partial Livy History of Rome 59 B.C. –A.D.17 most—10th cent. 1,000 yrs. 19 copies Tacitus Annals A.D. 100 c.1100 a.d. 1,000 yrs. 20 Pliny Secundus Natural History A.D. 61–113 c.850 a.d. 750 yrs. 7 New Testament A.D. 50–100 fragment—c.114 + 50 yrs. 5,366 books—c.200 100 yrs. most—c.250 150 yrs. complete—c.325 225 yrs.
 
@@ -56,7 +54,7 @@ So, what evidence do we have concerning when the Gospel accounts of Jesus were r
 
 - early documents from heretics such as Marcion and the school of Valentinus citing New Testament books, themes, and passages (see “Mona Lisa’s Smirk”)
 
-JESUS.DOC • ARTICLE FOUR • 45 Biblical archaeologist William Albright concluded on the basis of his research that all the New Testament books were written while most of the apostles were still alive. He wrote, “We can already say emphatically that there is no longer any solid basis for dating any book after about A.D. 80, two full generations before the date of between A.D. 130 and 150 given by the more radical New Testament critics of today.”3 Else-where Albright put the writing of the entire New Testament at “very probably sometime between about 50 A.D. and 75 A.D.”4 no doubt, tune in to Antiques Roadshow hoping one might emerge).
+Biblical archaeologist William Albright concluded on the basis of his research that all the New Testament books were written while most of the apostles were still alive. He wrote, “We can already say emphatically that there is no longer any solid basis for dating any book after about A.D. 80, two full generations before the date of between A.D. 130 and 150 given by the more radical New Testament critics of today.”3 Else-where Albright put the writing of the entire New Testament at “very probably sometime between about 50 A.D. and 75 A.D.”4 no doubt, tune in to Antiques Roadshow hoping one might emerge).
 
 Yet the New Testament is not alone in this fate; no other comparable document from ancient history exists today either. Historians aren’t troubled by the lack of original manuscripts if they have reliable copies to examine. But are there ancient copies of the New Testament available, and if so, are they faithful to the originals?
 
@@ -70,7 +68,7 @@ As the number of churches multiplied, hundreds of copies were carefully made und
 
 So let’s look at the trail of clues that takes us from the original documents to our New Testament copies today.
 
-### Who Needs Kinko’s?
+Who Needs Kinko’s?
 
 In fact, scholars studying ancient literature have devised the science of textual criticism to examine documents such as The Odyssey, comparing them with other ancient documents to determine their accuracy. More recently, military historian Charles Sanders augmented textual criticism by devising a three-part test that looks at not only the faithfulness of the copy but also the credibility of the authors. His tests are these: The original writings of the apostles were revered. Churches studied them, shared them, carefully preserved them and stored them away like buried treasure.
 
@@ -96,7 +94,7 @@ Tischendorf’s enthusiasm made the monks wary, and they would not show him any 
 
 Not only is the number of manuscripts significant, but so is the time gap between when the original was written and the date of the copy. Over the course of a thousand years of copying, there’s no telling what a text could evolve into—I wonder what Jesus meant by “blessed are the cheesemakers.” But over a hundred years, that’s a different story. German critic Ferdinand Christian Baur (1792–1860) once contended that John’s Gospel was not written until about a.d. 160; curacy of the New Testament.
 
-JESUS.DOC • ARTICLE FOUR • 49 therefore, it could not have been written by John. This, if true, would have not only undermined John’s writings but cast suspicion on the entire New Testament as well. But then, when a cache of New Testament papyri fragments were discovered in Egypt, among them was a fragment of the Gospel of John (specifically, P52: John 18:31-33) dated to roughly 25 years after John wrote the original. In fact, there is a nearly complete copy of the Bible called, Codex Vaticanus, that was written only about 250 to 300 years after the apostles’ original writing. The oldest known complete copy of the New Testament in ancient uncial script is named, Codex Sinaiti-cus, now housed at the British Museum. Like Codex Vaticanus, it is dated from the fourth century. Vaticanus and Sinaiticus, going back to early in Christian history, are like other early biblical manuscripts in that they differ minimally from each other and give us a very good picture of what the original documents must have said.
+therefore, it could not have been written by John. This, if true, would have not only undermined John’s writings but cast suspicion on the entire New Testament as well. But then, when a cache of New Testament papyri fragments were discovered in Egypt, among them was a fragment of the Gospel of John (specifically, P52: John 18:31-33) dated to roughly 25 years after John wrote the original. In fact, there is a nearly complete copy of the Bible called, Codex Vaticanus, that was written only about 250 to 300 years after the apostles’ original writing. The oldest known complete copy of the New Testament in ancient uncial script is named, Codex Sinaiti-cus, now housed at the British Museum. Like Codex Vaticanus, it is dated from the fourth century. Vaticanus and Sinaiticus, going back to early in Christian history, are like other early biblical manuscripts in that they differ minimally from each other and give us a very good picture of what the original documents must have said.
 
 The point is this: If the New Testament records were made and circulated so closely to the actual events, their portrayal of Jesus is most likely accurate. But external evidence is not the only way to answer the question of reliability; scholars also use internal evidence to answer this question.
 
@@ -127,7 +125,7 @@ Consistency. Phony documents either leave out eyewitness reports or are inconsis
 
 In the previous few centuries, skeptical Bible scholars attacked both Luke’s authorship and its dating, asserting that it was written in the second century by an unknown author. Archaeologist Sir William Ramsey was convinced they were right, and he began to investigate. After extensive research, the archaeologist reversed his opinion. Ramsey conceded, “Luke is a historian of the first rank. … This author should be placed along with the very great-est historians. … Luke’s history is unsurpassed in respect of its trustworthiness.”16 Eyewitnesses to a crime or an accident generally get the big events right but see it from different perspectives. Likewise, the four Gospels describe the events of Jesus’ life from different perspectives. Yet, regard-less of these perspectives, Bible scholars are amazed at the consistency of their accounts and the clear picture of Jesus and his teaching they put together with their complementary reports.
 
-JESUS.DOC • ARTICLE FOUR • 51 Acts chronicles Paul’s missionary voyages, listing places he visited, people he saw, messages he delivered, and persecution he suffered. Could all these details have been faked? Roman historian A. N. Sherwin- White wrote, “For Acts the confirmation of historicity is overwhelming. … Any attempt to reject its basic historicity must now appear absurd. Roman historians have long taken it for granted.”17 Well, some of them were clearly intended to be circulated widely. Yet large portions of the New Testament consist of personal letters written to small groups and individuals. These documents, at least, would not be considered prime candidates for falsification.
+Acts chronicles Paul’s missionary voyages, listing places he visited, people he saw, messages he delivered, and persecution he suffered. Could all these details have been faked? Roman historian A. N. Sherwin-White wrote, “For Acts the confirmation of historicity is overwhelming. … Any attempt to reject its basic historicity must now appear absurd. Roman historians have long taken it for granted.”17 Well, some of them were clearly intended to be circulated widely. Yet large portions of the New Testament consist of personal letters written to small groups and individuals. These documents, at least, would not be considered prime candidates for falsification.
 
 From the Gospel accounts to Paul’s letters, the New Testament authors openly described details, even citing the names of individuals who were alive at the time. Historians have verified at least thirty of these names.18 Embarrassing features. Most writers don’t want to publicly embarrass themselves. Historians have therefore observed that documents containing embarrassing revelations about the authors are generally to be trusted. What did the New Testament authors say about themselves?
 
@@ -196,5 +194,3 @@ The third and final measure of a document’s reliability is the external eviden
 26 Quoted in McDowell, 135.
 
 27 Quoted in Josh McDowell, The Resurrection Factor (San Bernardino, CA: Here’s Life Publishers, 1981), 9.
-
-JESUS.DOC • ARTICLE FOUR • 53

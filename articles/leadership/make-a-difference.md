@@ -27,4 +27,4 @@ Picture this happening on your campus:
 
 ## How Can We Help You?
 
-Student LINC (Leaders in New Campuses) exists to help Christian college students as they trust God to have an impact for Christ on their campus. We can resource you to launch and lead a movement of evangelism and discipleship on your campus. © 2010, CruPress, All Rights Reserved. CruPress.com
+Student LINC (Leaders in New Campuses) exists to help Christian college students as they trust God to have an impact for Christ on their campus. We can resource you to launch and lead a movement of evangelism and discipleship on your campus.

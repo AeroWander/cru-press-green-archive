@@ -11,8 +11,6 @@ summary: "An article by Gary Purdy on building \"Community Groups\" at the Unive
 source: "MTL/MTL/MTL2/Last MTL/Gospel Centered COmmunity Groups.pdf"
 ---
 
-## Gary Purdy
-
 “I don’t need to know how to know Christ as much as I need to experience Christ.” When I heard this opinion expressed to me, it brought together a collage of conversations into one crisp statement. This insightful student articulated in one sentence a concept that rings through my ears as I minister in the university community today. communities that not only equip for service but also expose sin and call people to adore Christ. We need Christ-centered communities that transform lives from the inside out.
 
 ## The Biblical and Theological Center

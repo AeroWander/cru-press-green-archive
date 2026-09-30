@@ -18,15 +18,11 @@ Flesh (for men) deals fearlessly with lust, sex and pornography in a clear, comp
 
 FLESH
 
-### Order Online at Crupress.com
-
-## MINDS MadEUp
+MINDS MadEUp
 
 Of all the passages relevant to our battle against lust, nothing exceeds the following verse in importance: Therefore do not let sin reign in your mortal body so that you obey its evil desires.
 
 Romans 6:12 The idea is simple enough: don’t let sin set up a kingdom in your life by which it may gain the leverage to become the controlling influence of your behavior. But even with an explanation, the insight of this verse is lost on those new to the Bible. The New Testament has what theologian Gordon Fee calls a symbolic universe—words that carry with them imported meaning. That imported meaning comes from the world of the Old Testament. Certain Old Testament analogies are obvious, says Fee, but many words and phrases contain a meaningful echo for those who have grown up with or been saturated in Old Testament stories. Fee illustrates what he means by relaying a conversation he once had with an 110 f h...
-
-### l e s
 
 minds made up Australian. During the conversation, he uttered the phrase “four score and seven years ago,” to which the Australian queried, “What does 84 years have to do with anything?” That phrase from President Abraham Lincoln’s speech is a part of the “symbolic universe” of America. Grammar school children in America memorize the speech. But it is totally lost on outsiders, or at the very least, Australians. In much the same way, when the early Christians heard Romans 6:12, they would have had this understanding based on what they knew from the Old Testament:
 
@@ -50,22 +46,14 @@ There is no place in the Christian life for promises we cannot keep, for confide
 
 We encourage you to make such a decision to fight and to persevere until the “land” is completely taken. End the truce and make a declaration of war. Such a commitment is in no way affected by a future failure but should only spur us to return to the fight with resolve until victory is attained. On the following page is a sample commitment you can use if you find it helpful. minds made up f
 
-e
-
-h ...
-
-## it’S not what’s on your cable. it’s wHat’s not.
+it’S not what’s on your cable. it’s What’s not.
 
 Section 504 of the Telecommunications Act states that: “Upon request from a cable service subscriber, a cable operator shall, without charge, fully scramble or otherwise fully block the audio and video programming of each channel carrying such programming so that… a subscriber does not receive it.” It is your right, and responsibility, to make sure you are not exposed, and therefore tempted, by this programming. It will never seem convenient to take the time to black out these stations, but nothing should be a higher priority than your purity.
 
-## a commi tment to Fight
+a commi tment to Fight
 
 But if serving the LORD seems undesirable to you, then choose for yourselves this day whom you will serve, whether the gods your forefathers served beyond the River, or the gods of the Amorites, in whose land you are living. But as for me and my household, we will serve the LORD.
 
 God never calls us to make promises we cannot keep, to put confidence in our will, or to make vows of future victory. Scripture puts forth, however, a strong impulse or imperative to decide, to follow, to count the cost, to forsake, and to repent. This call is set forth in such a way that implies that after the choice is made, nothing will be the same, and there will be no turning back. Those who have seen victory have usually made such a decision: a decision to fight, not a vow to win. The proof of that commitment is not always seen in the daily battle reports, but in the tenacity and resolve to keep fighting after the experience of a setback, or many setbacks.
 
 We encourage you to make such a decision to fight and to persevere, and in the space below suggest you phrase that decision in your own words. _______________________________________________________________________________________ _______________________________________________________________________________________ _______________________________________________________________________________________ Date: __________________ Signature _______________________________________________________ f
-
-e
-
-h ...

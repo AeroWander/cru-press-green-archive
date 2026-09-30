@@ -17,8 +17,6 @@ Apologetic books typically present arguments for Jesus, stripped from the contex
 
 Jesus Without Religion paints a compelling portrait of Jesus and after finishing the book, the reader will clearly understand the words, works and claims of Jesus. The book concludes with a clear presentation of the gospel. JWR is one of few apologetic resources written to this generation of students.
 
-## Order Online at Crupress.com
-
 Super Power No matter how great the stereo, music coming out of only one speaker will sound like it’s being played on the intercom at Foodworld, which is why speakers—and ears, for that matter—are available in pairs. In the ministry of Jesus, his teachings and miracles were essentially two different speakers playing the same song, his miracles complementing and authenticating his teaching. And that’s why the miracles of Jesus always had a point: Jesus was running a ministry, not a sideshow. Here is the first recorded miracle of Jesus’ ministry, the famed turning of water into wine.
 
 Nearby stood six stone water jars, the kind used by the Jews for ceremonial washing, each holding from twenty to thirty gallons. Jesus said to the servants, “Fill the jars with water”; so they filled them to the brim.

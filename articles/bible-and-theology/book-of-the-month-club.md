@@ -11,8 +11,6 @@ summary: "An article by Eric Swanson promoting a practice of studying one book o
 source: "Discipleship/Mature Teaching/Book of the Month Club.pdf"
 ---
 
-## Eric Swanson
-
 The Bible is the one book that God has given to man to communicate his love, his plan, his values and instructions. How can we become men and women of God? How can we become men and women of the Word? Where can we find the spiritual resources to feed ourselves and others? An effective way to get a handle on the entire Bible is to study a different book of the Bible each month. The “Book of the Month Club” is a group of those who are committed to learning and applying a different book of the Bible each month. Since there are 66 books of the Bible, one can effectively study the Bible in its entirety in somewhat over five years. It is dynamic, challenging and life-changing. after they graduate, would have the ability to begin with any book of the Bible and have the confidence he or she could learn from it and teach others to teach themselves from it? Think of the spiritual leadership that they could provide for the church and Christian ministries. Teaching others to fish, in the long-run is more satisfying and productive than handing a person a fish and saying, “Hey, eat this fish. It’s good for you.”
 
 4. Self-study is essential to maturity. In Hebrews 5:11- 14, the author implies that “by now” these believers should have been teaching others, yet they needed “milk” because of their immaturity. What is milk? It is pre-digested food. Partaking of the milk of the Word is simply allowing someone else to do the hard work of study and passing it on to you in a palatable form. Milk can be simple truths or complex truths but it is always pre-digested truths. “Anyone who partakes only of milk...is a babe” (v.13 NAS) regardless of their years in the faith or ecclesiastical position they hold.
@@ -73,7 +71,7 @@ One of the barriers to consistent Bible study is the sense that we already know 
 
 ## Action Points
 
-• Begin your own chapter of Book of the Month Club. Make a plan of what to study and when you will meet and discuss what you are learning. • Look for opportunities to teach what God is teaching you. “The best way to make something yours is to give it away.” • Read Living by the Book, by Howard Hendricks. This book contains many helpful tools for studying the Bible.
+- Begin your own chapter of Book of the Month Club. Make a plan of what to study and when you will meet and discuss what you are learning. • Look for opportunities to teach what God is teaching you. “The best way to make something yours is to give it away.” • Read Living by the Book, by Howard Hendricks. This book contains many helpful tools for studying the Bible.
 
 ## A Suggested Plan
 

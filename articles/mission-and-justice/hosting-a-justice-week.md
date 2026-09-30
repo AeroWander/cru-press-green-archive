@@ -11,7 +11,7 @@ summary: "A leader's planning writeup and template for hosting a campus 'Justice
 source: "Justice/CSU Justice Week.pdf"
 ---
 
-## IJM Justice Week
+IJM Justice Week
 
 Justice Week is a week set apart to:
 
@@ -35,7 +35,7 @@ Justice Week is a week set apart to:
 
 IJM Table (Public location, 10:00 – 2:00)
 
-Soularium Table (Plaza,10:00 – 2:00. Students fill 1 hour slots and engage campus on justice topic utilizing soularium cards. Instructions below.) Soularium Table- CSU justice week “Thanks for your desire to help engage the CSU students and faculty on the topic of justice. Enjoy your time as you are, for a moment, the voice of those who are enslaved and oppressed around the world. Pray that God will use this hour to raise up an army who will combat the evil in the world and become those who ‘set the captives free’.”
+Soularium Table (Plaza,10:00 – 2:00. Students fill 1 hour slots and engage campus on justice topic utilizing soularium cards. Instructions below.) Soularium Table-CSU justice week “Thanks for your desire to help engage the CSU students and faculty on the topic of justice. Enjoy your time as you are, for a moment, the voice of those who are enslaved and oppressed around the world. Pray that God will use this hour to raise up an army who will combat the evil in the world and become those who ‘set the captives free’.”
 
 The goals of the table:
 
@@ -81,7 +81,7 @@ WEDNESDAY - Shock and Awe Bricks on Campus 10:00 – 2:00 (Freshman Bible Studie
 
 IJM Table (10:00 – 2:00)
 
-Soularium Table IJM Handouts before CSU basketball game (hand out statistics as students enter game). THURSDAY- Fundraising IJM Booth Soularium Table IJM documentary played hourly (Advertise in paper ahead of time and show in high traffic area).
+Soularium Table IJM Handouts before CSU basketball game (hand out statistics as students enter game). THURSDAY-Fundraising IJM Booth Soularium Table IJM documentary played hourly (Advertise in paper ahead of time and show in high traffic area).
 
 24-hour prayer starts (5:00 pm; Chapel on campus. Multiple organizations/churches involved)
 

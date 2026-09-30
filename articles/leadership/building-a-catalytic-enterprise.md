@@ -11,8 +11,6 @@ summary: "An article by Mark McCloskey framing campus ministry expansion as a sp
 source: "Launching a New Ministry/Launching a Ministry/Building A Catalytic Enterprise.pdf"
 ---
 
-## Mark Mccloskey
-
 Very early in the morning, while it was still dark, Jesus got up and left the house and went off to a solitary place, where he prayed. Simon and his companions went to look for him, and when they found him, they exclaimed: “Everyone is looking for you!” Jesus replied, “Let us go somewhere else—to the nearby villages— so I can preach there also. That is why I have come.” So, he traveled throughout Galilee, preaching in their synagogues and driving out demons. slaves and freemen (Romans 1:16; Galatians 3:28). This “apostolic spirit” of expansion and border crossing is, I believe, at the heart of the calling and mission of Campus Crusade for Christ.
 
 ## The Spirit of the Missionary Enterprise
@@ -33,7 +31,7 @@ What I am about to share with you reflects what I have learned from observing an
 
 While the EL must be able to scan the directional horizon for possibilities and opportunities, he or she must, simultaneously, come to terms with the contemporary situation. The EL is equally at home in the world of possibility and the world of mundane reality. The leader must have one foot in the desired future of the enterprise in order to motivate and inspire, with the other foot firmly planted in the real world of today’s pressing needs and sometimes bleak realities. The possibility of “what might be” must be joined by a comprehensive and realistic assessment of “what is” in the mind of the leader.
 
-## The Six Components-steps of the Enterprise Building Process 1. Setting Direction
+The Six Components-steps of the Enterprise Building Process 1. Setting Direction
 
 The effective enterprise-leader (EL) has integrated Covey’s habit of “beginning with the end in mind”. The EL must be obsessed (in a healthy way of course) with framing, clarifying and passionately communicating the direction of the spiritual enterprise. Toward this end, the EL must, with constancy and clarity, passion and persuasive ability, ask and answer four crucial directional questions.
 
@@ -46,7 +44,7 @@ God works in the real world, as it really is, not in the world as the leader hop
 
 Toward this end, the leader must courageously ask and answer questions that connect the directional imperatives of the enterprise to the real world in which the fledgling enterprise must take its first steps. Situational Analysis categories would include, but not be limited to (1) personnel, (2) money, (3) past performance, (4) relevant societal trends, (5) political/organizational issues, and (6) technology. Most of us need the cognitive clarity provided by a discussion of mission, (what, exactly, will we do for whom?) and the affective connection with the enterprise provided by a discussion of purpose, vision and values. The EL must engage potential team members, partners, sponsors, constituents and workers in dialogue on these directional issues if he or she hopes to build a critical mass of human and financial resources sufficient to sustain and expand the enterprise (Step 3). It is noteworthy that John Kotter (Leading Change, 1996) believes that top
 
-## 3. Critical Mass: Identifying, Gathering, Sustaining and Expanding Your Resource Base:
+3. Critical Mass: Identifying, Gathering, Sustaining and Expanding Your Resource Base:
 
 The spiritual leader must define with clarity and precision the resources required for closing the gap between the present world of “what is” and the future world of “what could be.” The leader must think clearly and deeply about “how much of what” it will take to (1) blast out of the inertia of present reality, (2) establish and sustain two or three substantial “wins” along the critical path, and (3) sustain the enterprise at a “mission accomplishing” level of performance. the wise leader can secure every resource needed for mission success except for sponsored leaders. I define critical mass as sponsored leaders and their tools. Allow me to clarify. By sponsored I mean that the leader must have both divine and human/ organizational sponsorship (support, authorization, right of way, etc.). Divine sponsorship is always required. Human/organizational sponsorship is usually required. Jesus had the sponsorship of God the Father. This sponsorship was revealed (it was always true) in His baptism (Mark 1:9-11) and confirmed throughout His ministry (John 8:12- 58). Nehemiah first sought and obtained the Lord’s sponsorship for rebuilding the wall (Nehemiah 1), and then secured the sponsorship of King Artaxerxes (Nehemiah 2). Paul and Barnabas received sponsorship from the Lord and the church at Antioch (Acts 13: 1-3).
 

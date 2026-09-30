@@ -54,61 +54,59 @@ If the timing is right, you can transition with this, “Another thing I share w
 
 you do during your lifetime, if at all possible?
 
-### 2 What single thing do you want to make absolutely sure
+2 What single thing do you want to make absolutely sure
 
 you do during your lifetime, if at all possible?
 
-### 3 What happens after death? Clarifying Questions: If they believe in
+3 What happens after death? Clarifying Questions: If they believe in
 
 heaven, ask if they also believe in hell. If they believe in some form of continuing existence, ask who or what determines what a person will experience.
 
-### 3 What happens after death? Clarifying Questions: If they believe in
+3 What happens after death? Clarifying Questions: If they believe in
 
 heaven, ask if they also believe in hell. If they believe in some form of continuing existence, ask who or what determines what a person will experience.
 
-### 4 Your best friend comes to you and says, “I want to become
+4 Your best friend comes to you and says, “I want to become
 
 a Christian, but I don’t know how.” What would you tell your friend? Assume your friend wants you to answer the question, not be sent to a priest, minister or someone else.
 
-### 4 Your best friend comes to you and says, “I want to become
+4 Your best friend comes to you and says, “I want to become
 
 a Christian, but I don’t know how.” What would you tell your friend? Assume your friend wants you to answer the question, not be sent to a priest, minister or someone else.
 
-### 5 On a scale from 1 to 10, rate your desire to know God.
+5 On a scale from 1 to 10, rate your desire to know God.
 
 (1 is low/10 is high)
 
-### 5 On a scale from 1 to 10, rate your desire to know God.
+5 On a scale from 1 to 10, rate your desire to know God.
 
 (1 is low/10 is high)
 
 Qu EST (Questions Exploring Students’ Thinking) is a nationally sponsored Campus Crusade for Christ research project.
 
-## Copyright 2005, Campus Crusade for Christ, Inc. ><Qu EST (Questions Exploring Students’ Thinking)
-
 Copyright 2005, Campus Crusade for Christ, Inc. is a nationally sponsored Campus Crusade for Christ research project.
 
 QuEST (Questions Exploring Students’ Thinking) is a nationally sponsored Campus Crusade for Christ research project. QuEST interviews explore the spiritual journeys of students, gathering information about their thoughts on life and God.
 
-### Using Qu EST is as easy as 1-2-3! 1 What three words would you use to describe your life?
+Using Qu EST is as easy as 1-2-3! 1 What three words would you use to describe your life?
 
 BEFORE THE Qu EST INTERVIEW
 
-### 2 What single thing do you want to make absolutely sure
+2 What single thing do you want to make absolutely sure
 
 you do during your lifetime, if at all possible? PRAY In Colossians 4:2-4, Paul wrote, “Devote yourselves to prayer, being watchful and thankful. And pray for us, too, that God may open a door for our message, so that we may proclaim the mystery of Christ, for which I am
 
-### 3 What happens after death? Clarifying Questions: If they believe in
+3 What happens after death? Clarifying Questions: If they believe in
 
 in chains. Pray that I may proclaim it clearly, as I should” (NIV). Pray for God to open doors for significant conversations. heaven, ask if they also believe in hell. If they believe in some form of continuing existence, ask who or what determines what a person will experience.
 
 PREPARE Reproduce both sides of the QuEST forms.
 
-### 4 Your best friend comes to you and says, “I want to become
+4 Your best friend comes to you and says, “I want to become
 
 a Christian, but I don’t know how.” What would you tell your friend? Assume your friend wants you to answer the question, not be sent to a priest, minister or someone else. DURING THE Qu EST INTERVIEW
 
-### 5 On a scale from 1 to 10, rate your desire to know God.
+5 On a scale from 1 to 10, rate your desire to know God.
 
 (1 is low/10 is high)
 
@@ -118,47 +116,47 @@ INTERVIEW Use the front of the QuEST form as an interview. Use possible answers 
 
 Qu EST (Questions Exploring Students’ Thinking) Copyright 2005, Campus Crusade for Christ, Inc. is a nationally sponsored Campus Crusade for Christ research project.
 
-© 2010, CruPress, All Rights Reserved. CruPress.com(continued on back)
+(continued on back)
 
 How would you complete the following statements? How would you complete the following statements? Note to interviewer: Do not show the possible answers. They are for recording purposes only. Note to interviewer: Do not show the possible answers. They are for recording purposes only.
 
-### 1 The most important thing to me in life right now is:
+1 The most important thing to me in life right now is:
 
 Good relationships Setting myself up to get a good job Being fulfilled Being a kind and loving person Finding a life partner God, spiritual things Other ____________
 
-### 2 In my spiritual journey I’ve tried:
+### 2 In my spiritual journey I’ve tried
 
 Meditation Buddhism Christianity Prayer Wicca Islam Hinduism Atheism Nothing Other ____________
 
-### 3 This search left me feeling:
+### 3 This search left me feeling
 
 Satisfied Disappointed Fulfilled Confused Empty Still searching Other ____________
 
-### 4 Currently, the importance of my spiritual life is:
+### 4 Currently, the importance of my spiritual life is
 
 High Somewhat Not at all
 
-### 5 On a scale from 1 to 10 (1 is low/10 is high), my desire to
+5 On a scale from 1 to 10 (1 is low/10 is high), my desire to
 
 know God is____________.
 
-### 1 The most important thing to me in life right now is:
+1 The most important thing to me in life right now is:
 
 Good relationships Setting myself up to get a good job Being fulfilled Being a kind and loving person Finding a life partner God, spiritual things Other ____________
 
-### 2 In my spiritual journey I’ve tried:
+### 2 In my spiritual journey I’ve tried
 
 Meditation Buddhism Christianity Prayer Wicca Judaism Islam Hinduism Atheism Nothing Other ____________
 
-### 3 This search left me feeling:
+### 3 This search left me feeling
 
 Satisfied Disappointed Fulfilled Confused Empty Still searching Other ____________
 
-### 4 Currently, the importance of my spiritual life is:
+### 4 Currently, the importance of my spiritual life is
 
 High Somewhat Not at all
 
-### 5 On a scale from 1 to 10 (1 is low/10 is high), my desire to
+5 On a scale from 1 to 10 (1 is low/10 is high), my desire to
 
 know God is____________.
 
@@ -168,27 +166,27 @@ Qu EST (Questions Exploring Students’ Thinking) Copyright 2005, Campus Crusade
 
 QuEST (Questions Exploring Students’ Thinking) is a nationally sponsored Campus Crusade for Christ research project. QuEST interviews explore the spiritual journeys of students, gathering information about their thoughts on life and God.
 
-### Using Qu EST is as easy as 1-2-3!
+Using Qu EST is as easy as 1-2-3!
 
 How would you complete the following statements? Note to interviewer: Do not show the possible answers. They are for recording purposes only. BEFORE THE Qu EST INTERVIEW
 
-### 1 The most important thing to me in life right now is:
+1 The most important thing to me in life right now is:
 
 Good relationships Setting myself up to get a good job Being fulfilled Being a kind and loving person Finding a life partner God, spiritual things Other ____________
 
-### 2 In my spiritual journey I’ve tried:
+### 2 In my spiritual journey I’ve tried
 
 Meditation Buddhism Christianity Prayer Wicca Judaism Islam Hinduism Atheism Nothing Other ____________
 
-### 3 This search left me feeling:
+### 3 This search left me feeling
 
 Satisfied Disappointed Fulfilled Confused Empty Still searching Other ____________
 
-### 4 Currently, the importance of my spiritual life is:
+### 4 Currently, the importance of my spiritual life is
 
 High Somewhat Not at all
 
-### 5 On a scale from 1 to 10 (1 is low/10 is high), my desire to
+5 On a scale from 1 to 10 (1 is low/10 is high), my desire to
 
 know God is____________.
 
@@ -198,9 +196,9 @@ DURING THE Qu EST INTERVIEW INTRODUCE When initiating an informal interview, a s
 
 INTERVIEW Use the front of the QuEST form as an interview. Use possible answers as a Qu EST (Questions Exploring Students’ Thinking) Copyright 2005, Campus Crusade for Christ, Inc. is a nationally sponsored Campus Crusade for Christ research project.
 
-prompt only if needed. © 2010, CruPress, All Rights Reserved. CruPress.com(continued on back)
+prompt only if needed. (continued on back)
 
-### We’d like your Opinion...
+We’d like your Opinion...
 
 ... on relationships...
 
@@ -211,7 +209,7 @@ prompt only if needed. © 2010, CruPress, All Rights Reserved. CruPress.com(cont
 5. If we (Campus Crusade for Christ) were to hold a discussion group type meeting in your dorm on relationships, dating, love, would you be interested in attending? __yes __no __maybe
 6. If you could know God (who IS able to love you unconditionally and perfectly) personally, would you be interested? __yes __no __maybe Name ____________________________ Phone ________________ Res. Hall/Address _________________________________________ Email Address _______________________ Greek chapter ________ Athletic team ______________ Best time to call: _______ am | pm sponsored by Campus Crusade for Christ.
 
-### We’d like your Opinion...
+We’d like your Opinion...
 
 ... on relationships...
 

@@ -12,8 +12,6 @@ summary: "An article by Timothy Keller, opening from Martin Luther's first of th
 source: "Discipleship/Mature Teaching/All of Life is Repentance.pdf"
 ---
 
-## Timothy Keller
-
 Martin Luther opened the Reformation by nailing the “Ninety-five Theses” to the door of Castle Church in Wittenberg, Germany. The very first of the theses stated that “our Lord and Master Jesus Christ . . . willed the entire life of believers to be one of repentance.”1 gospel we are sorry for the sin itself.
 
 Religious Repentance is Self-Righteous Furthermore, religious repentance is self-righteous. Repentance can easily turn into an attempt to “atone” for one’s sin—a form of self-flagellation, in which we convince God (and ourselves) that we are so truly miserable and regretful that we deserve to be forgiven. On the surface this looks a little bleak. Luther seems to be saying Christians will never make much progress in life. That, of course, wasn’t Luther’s point at all. He was saying that repentance !” the way we make progress in the Christian life. Indeed, pervasive, all-of-life-repentance is the best sign that we are growing deeply and rapidly into the character of Jesus.

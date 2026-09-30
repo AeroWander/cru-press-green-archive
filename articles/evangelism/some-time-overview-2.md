@@ -15,7 +15,7 @@ SOME TIME 1
 
 ## Some Time
 
-## Ask Ask. Explore. Discover. Exploring the Faith Journeys of Your Friends Through Discussion
+Ask Ask. Explore. Discover. Exploring the Faith Journeys of Your Friends Through Discussion
 
 Imagine eating at Chipotle and enjoying a meaningful and significant conversation about the gospel with a friend who does not yet know Jesus. No tricks. No surprises. No awkwardness. Isn’t that what we want? Aren’t those the kinds of conversations we long to have with our friends?
 
@@ -39,7 +39,7 @@ Invite - Invite them to share more. (“Tell me more about...”)
 
 Ask – Ask permission to go beyond. (“Can I ask you about…?”)
 
-## An Easy Approach . . . Explore Past Experiences:
+## An Easy Approach . . . Explore Past Experiences
 
 What was your religious background as a child? What have you tried in your spiritual journey since? SOME TIME 2
 

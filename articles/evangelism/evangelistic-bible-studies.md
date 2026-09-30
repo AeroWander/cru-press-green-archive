@@ -12,7 +12,7 @@ source: "Evangelism/outreach/Evangelistic Bible Studies.pdf"
 also_filed: ["Evangelism/outreach/Evangelistic_Bible_Studies.pdf"]
 ---
 
-## Exploration Studies in Cru.comm
+Exploration Studies in Cru.comm
 
 In a location such as a freshman dorm it’s often to have an open Bible study—one that attended by both believers and non-believers. framework of belief, Paul is able to point the Athenians toward God. This is what we are attempting to do: to tap into current beliefs concerning the paranormal (ghosts, the afterlife, demons, clairvoyance, dreams, etc,) and turn the conversation in the right direction, toward Christ.
 
@@ -32,10 +32,10 @@ As the Apostle Paul comes into Athens (Acts 17), he actually compliments them on
 
 ## Seven
 
-This is a seven-week series focused on he Seven Deadly Sins. The Seven Deadly Sins is the list of wicked human passions, first refined by Pope Gregory in the 6th century. It was heavily taught in the Middle © 2010, CruPress, All Rights Reserved. CruPress.com Ages and popularized by Dante in his work, The Divine Comedy. This epic poem had three parts: Inferno, Purgatorio, and Paradiso, which are about Hell, Purgatory, and Heaven/Paradise, respectively. They were called “Deadly Sins,” because of their fatal effect on spiritual health. In “Purgatorio,” Dante places each of the seven sins on a level, with the higher levels closer to Paradise and the lower ones closer to Hell.
+This is a seven-week series focused on he Seven Deadly Sins. The Seven Deadly Sins is the list of wicked human passions, first refined by Pope Gregory in the 6th century. It was heavily taught in the Middle Ages and popularized by Dante in his work, The Divine Comedy. This epic poem had three parts: Inferno, Purgatorio, and Paradiso, which are about Hell, Purgatory, and Heaven/Paradise, respectively. They were called “Deadly Sins,” because of their fatal effect on spiritual health. In “Purgatorio,” Dante places each of the seven sins on a level, with the higher levels closer to Paradise and the lower ones closer to Hell.
 
 There is no biblical support for the idea of “purgatory,” where sins are paid for by the sinner. Christ paid for all sin by His death on the cross. Those who receive His forgiveness have life; those that don’t do not have life. There is no in-between. Furthermore, the idea of a special list of “Deadly Sins” does not appear in the Bible. Some sins clearly have more devastating effects on one’s life than others, but the Bible does not create such overly simplistic categories.
 
 That said, it does provide an interesting premise for an evangelistic study, and though many of these ideas have no biblical support, the topics, and sins, are certainly worthy of study and reflection for Christians while for the non-Christians they provide a vehicle by which to ultimately understand the gospel.
 
-Both series can be found within Cru.comm. Each study comes with a student and leaders guide as well as a poster for that study. © 2010, CruPress, All Rights Reserved. CruPress.com
+Both series can be found within Cru.comm. Each study comes with a student and leaders guide as well as a poster for that study.

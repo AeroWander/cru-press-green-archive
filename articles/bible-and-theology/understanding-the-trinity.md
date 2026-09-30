@@ -11,8 +11,6 @@ summary: "An article by John Piper explaining the doctrine of the Trinity: one G
 source: "Discipleship/Mature Teaching/Understaning the Trinity.pdf"
 ---
 
-## John Piper
-
 God (Acts 5:3-4). Are these just three different ways of looking at God, or simply ways of referring to three different roles that God plays?
 
 The doctrine of the Trinity is foundational to the Christian faith. It is crucial for properly understanding what God is like, how He relates to us, and how we should relate to Him. But it also raises many difficult questions. How can God be both one and three? Is the Trinity a contradiction? If Jesus is God, why do the Gospels record instances where He prayed to God? While we cannot fully understand everything about the Trinity (or anything else), it is possible to answer questions like these and come to a solid grasp of what it means for God to be three in one.

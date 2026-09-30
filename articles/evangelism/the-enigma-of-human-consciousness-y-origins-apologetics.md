@@ -15,15 +15,14 @@ There are many great apologetic books that you could leave with students if only
 
 Y-Jesus presents the classic evidence for Christ including “Lord, Liar, Lunatic,” Evidence for the Resurrection, Claims to Deity, New Testament Reliability and Fulfillment of Prophecy. Y-ORIGINS
 
-### Order Online at Crupress.com
+- ARTICLE SEVEN •
 
-© 2010, CruPress, All Rights Reserved. CruPress.com 76 • ARTICLE SEVEN • THE HUMAN ENIGMA © 2010, CruPress, All Rights Reserved. CruPress.com © 2010, CruPress, All Rights Reserved. CruPress.comTHE HUMAN ENIGMA • ARTICLE SEVEN • 77
+capacities of human beings far exceed the ability of naturalism to explain their origin
 
-## capacities of human beings far exceed the ability of naturalism to explain their origin
+- ARTICLE SEVEN
+- THE HUMAN ENIGMA
 
-78 • ARTICLE SEVEN • THE HUMAN ENIGMA © 2010, CruPress, All Rights Reserved. CruPress.com
-
-## The nature and
+The nature and
 
 Really, I’m not a geek, but each month I can’t wait for my new issue of Wired magazine to arrive. I love knowing what new technical toys our clipboard-toting friends in
 
@@ -37,7 +36,7 @@ The future holds for us a world of smart houses, where
 
 all we need to do is think of an object or command and The ability to speak distinguishes man from all apes the impulses will be sent out to our mechanized “smart” The first thing that strikes one as odd about Homo sapi-and hominids. Although human beings have both the house. There is no end to the seamless ways that humans ens is their appearance on the stage of history. Despite hardware and the software for language, hominids didn’t. and machines will interact in the future. But I must pause the transitional drawings found in textbooks, intelligent, They didn’t even come close. here to share with you an insightful analysis from T. R. laptop-carrying man seems to have shown up rather Reid’s book The Chip: abruptly.
 
-For all the mystique of “electronic brains” and “artificial intelligence” digital devices are actually mind-less dullards that rely on computational techniques abandoned in Neanderthal days. Digital problem solving involves simple math—far simpler than the stuff humans learn in grade school. A computer approaches Although humanlike bones have been discovered, there is a huge jump from such hominids to our own species. Naturalist Ian Tattersall (curator at the American Museum of Natural History) remarks in his book The Fossil Trail: “Something extraordinary, if totally fortuitous, happened with the birth of our species.”2 Scientists are unable to identify an evolutionary basis for human speech. And this failure is significant. Language, in most every way, is synonymous with intelligence, as thoughts are expressed and comprehended by way of the symbols of language. The sudden development of language capacity amounts to the sudden development of intelligence, which is problematic for Darwinian evolution to say the least. © 2010, CruPress, All Rights Reserved. CruPress.com THE HUMAN ENIGMA • ARTICLE SEVEN • 79 every problem like a child counting on his fingers, but the computer counts as though it had one finger. (The word digit comes from the Latin digitus, meaning “a finger.”) The real miracle of the “miracle chip” is that people have devised ways to manipulate this one minimal skill so that machines can carry out complex functions.1”
+For all the mystique of “electronic brains” and “artificial intelligence” digital devices are actually mind-less dullards that rely on computational techniques abandoned in Neanderthal days. Digital problem solving involves simple math—far simpler than the stuff humans learn in grade school. A computer approaches Although humanlike bones have been discovered, there is a huge jump from such hominids to our own species. Naturalist Ian Tattersall (curator at the American Museum of Natural History) remarks in his book The Fossil Trail: “Something extraordinary, if totally fortuitous, happened with the birth of our species.”2 Scientists are unable to identify an evolutionary basis for human speech. And this failure is significant. Language, in most every way, is synonymous with intelligence, as thoughts are expressed and comprehended by way of the symbols of language. The sudden development of language capacity amounts to the sudden development of intelligence, which is problematic for Darwinian evolution to say the least. every problem like a child counting on his fingers, but the computer counts as though it had one finger. (The word digit comes from the Latin digitus, meaning “a finger.”) The real miracle of the “miracle chip” is that people have devised ways to manipulate this one minimal skill so that machines can carry out complex functions.1”
 
 In case you missed all that, let me put it simply: People are brilliant and therefore found a way to make a bunch of computers do their grunt work. Machines are not intelligent; they are a network of on-off switches. With that as our context, we consider the human “machine” and its phenomena of intelligence and conscious-ness as a thumbprint of intelligent design. Most hominids had small, apelike brains and no capacity for language. Then, suddenly in the fossil record, man appears with several unique features, including an enlarged brain capacity. Why are their no clear-cut links between hominids without language capacity and Homo sapiens? As he traces the history of our species, evolutionist Steve Olson spells out the problem. “Of course, language could not have come from nowhere. To speak, early humans needed particular vocal and neural mechanisms. But here a notorious problem arises. Any adaptations produced by evolution are useful only in the present, not in some vaguely defined future.”4 For decades Neanderthal man was considered to be one of the main links between apes and humankind. However, hopes for this linkage have been crushed by recent DNA evidence. Biologist Fazale Rana reveals, “The average percent and locations of the differences between Neanderthal and human DNA sequences indicate that Neanderthals did not evolve into humans.”3 If one were to reconstruct the events of the fossil record, it would appear that one day Unk came back from a mastodon ride with a tumor the size of a grapefruit. But upon further inspection he found the growth to be a larger brain giving him abilities for language and abstract thought. During an interview with the French science monthly La Recherché, Marcel Schut-zenberger was asked, “The appearance of human beings—is that a miracle?”
 
@@ -54,17 +53,17 @@ The outspoken French mathematician replied, Naturally. And here it does seem tha
 
 4. We have all descended from a single person. Olson pens, “The first time I heard this statement I thought it highly implausible. All 6 billion people on this planet descended from a single ancestor? Yet this is one of those wonderful scientific conclusions that is not only true but has to be true.”8 So, what are we to make of the human brain? We generally associate complexity with intelligence. The more complex a building or machine, the more intelligence is required to engineer it. The human brain, for starters, contains 12 billion neuron cells intertwined with 100 trillion connections. 80
 - ARTICLE SEVEN
-- THE HUMAN ENIGMA © 2010, CruPress, All Rights Reserved. CruPress.com As we examine our universe, nothing else in it even remotely approaches the com-
+- THE HUMAN ENIGMA As we examine our universe, nothing else in it even remotely approaches the com-
 
-## “Homo Sapiens Are as
+“Homo Sapiens Are as
 
 plexity of the human brain. Stephen Hawk-ing compares the complexity of the human brain with most present-day computers and reveals the overwhelming superiority of our
 
-## Distinctive an Entity as
+Distinctive an Entity as
 
 brains: “In comparison with most computers which have one central processing unit, the brain has millions of processing units
 
-## Exists on the Face of the
+Exists on the Face of the
 
 … all working at the same time.”13 Even if communication engineers could
 
@@ -90,7 +89,7 @@ forest.
 
 Yet the brain’s connections are not mere
 
-## Hominid Fossil That
+*Hominid Fossil That*
 
 intersections like those in a highway system, but rather they are a highly organized network far exceeding the complexity of
 
@@ -98,11 +97,11 @@ intersections like those in a highway system, but rather they are a highly organ
 
 all the communication networks on planet Earth.11 Our memories (one billion trillion bits of them) are not isolated in one section
 
-## Ian Tattersall
+*Ian Tattersall*
 
 of the brain but instead are intertwined throughout the network. “Each junction has the potential to be part of a memory. So the memory capacity of a human brain is effectively infinite.”12 Inside that three pounds
 
-### The Mystery of
+The Mystery of
 
 of gray matter of yours is enough informa-
 
@@ -110,17 +109,17 @@ of gray matter of yours is enough informa-
 
 tion to fill 20 million books (19 million if you aren’t that bright).
 
-The cerebral cortex is the area of our brains © 2010, CruPress, All Rights Reserved. CruPress.com THE HUMAN ENIGMA • ARTICLE SEVEN • 81 where, mysteriously, “matter is transformed into consciousness.”15 The cerebral cortex distinguishes human beings from all other animals. “Though the difference between the human genome and that of a chimp is estimated to be less than 1 percent, our cerebral cortex has ten times more neurons.”16 Nobody really understands conscious-ness or how we got it. Sir John Maddox, former editor-in-chief of the journal Nature, addresses the puzzle of consciousness: “Nobody understands how decisions are made or how imagination is set free. What consciousness consists of, or how it should be defi ned, is equally puzzling. … We seem as far from understanding cognitive processes as we were a century ago.”20 Our awareness, with its manipulation of ideas, actually takes place in the prefrontal cortex.17 It is in this part of our brains that we reason, ponder, imagine, fantasize, and seek answers to why we are here. This prefrontal cortex area in a human makes up a far larger proportion of the cerebral cortex than in any animal, and it is the most complex arrangement of matter in the universe.18 While consciousness is at rest during sleep, the brain is still in action. “Even in sleep, the brain is pulsing, throbbing and fl ashing with the complex business of human life—dreaming, remembering, fi guring things out. Our thoughts, visions and fantasies have a physical reality.”19 For years people have tried to reduce humans to nothing more than a series of drives (Freud’s life and death drives, for example) and instincts. But analyze for a moment these proposals. Cambridge professor C. S. Lewis proposes the following thought experiment:
+The cerebral cortex is the area of our brains where, mysteriously, “matter is transformed into consciousness.”15 The cerebral cortex distinguishes human beings from all other animals. “Though the difference between the human genome and that of a chimp is estimated to be less than 1 percent, our cerebral cortex has ten times more neurons.”16 Nobody really understands conscious-ness or how we got it. Sir John Maddox, former editor-in-chief of the journal Nature, addresses the puzzle of consciousness: “Nobody understands how decisions are made or how imagination is set free. What consciousness consists of, or how it should be defined, is equally puzzling. … We seem as far from understanding cognitive processes as we were a century ago.”20 Our awareness, with its manipulation of ideas, actually takes place in the prefrontal cortex.17 It is in this part of our brains that we reason, ponder, imagine, fantasize, and seek answers to why we are here. This prefrontal cortex area in a human makes up a far larger proportion of the cerebral cortex than in any animal, and it is the most complex arrangement of matter in the universe.18 While consciousness is at rest during sleep, the brain is still in action. “Even in sleep, the brain is pulsing, throbbing and flashing with the complex business of human life—dreaming, remembering, figuring things out. Our thoughts, visions and fantasies have a physical reality.”19 For years people have tried to reduce humans to nothing more than a series of drives (Freud’s life and death drives, for example) and instincts. But analyze for a moment these proposals. Cambridge professor C. S. Lewis proposes the following thought experiment:
 
-If we could shrink in size and become spectators to the incredible activity in the innermost portion of the cerebral cortex, we might see something resembling a kaleidoscope of fi reworks networking in all directions. Yet these electrical impulses are billions of organized patterns that result in our thoughts and imaginations. All of these thoughts intersect with our self-awareness. When chess grand master Gary Kasparov was defeated by the IBM supercomputer Deep Blue, the computer didn’t even realize it had won (though some spectators reported they heard it snicker and mumble the word “loser”). Deep Blue lacked this attribute we take for granted—conscious-ness, a mystery that has baffl ed scientists for centuries.
+If we could shrink in size and become spectators to the incredible activity in the innermost portion of the cerebral cortex, we might see something resembling a kaleidoscope of fireworks networking in all directions. Yet these electrical impulses are billions of organized patterns that result in our thoughts and imaginations. All of these thoughts intersect with our self-awareness. When chess grand master Gary Kasparov was defeated by the IBM supercomputer Deep Blue, the computer didn’t even realize it had won (though some spectators reported they heard it snicker and mumble the word “loser”). Deep Blue lacked this attribute we take for granted—conscious-ness, a mystery that has baffled scientists for centuries.
 
-Let’s say you heard a woman scream-ing. For a moment you would sense two different instincts, says Lewis. The fi rst is self-preservation: get out of there as fast as you can. The second is a herding instinct— woman in trouble, must save (the herding instinct is primitive and therefore doesn’t use pronouns). But what do you choose to do, asks Lewis?
+Let’s say you heard a woman scream-ing. For a moment you would sense two different instincts, says Lewis. The first is self-preservation: get out of there as fast as you can. The second is a herding instinct— woman in trouble, must save (the herding instinct is primitive and therefore doesn’t use pronouns). But what do you choose to do, asks Lewis?
 
-82 • ARTICLE SEVEN • THE HUMAN ENIGMA © 2010, CruPress, All Rights Reserved. CruPress.com Your consciousness chooses between the instincts, and it is as different and separate from them as the pianist is from the keys he chooses to play on the piano. The consciousness sits over and above our instincts, drives, and desires, and it chooses which it will act upon.21 On the metaphysical side of things, when you are thinking about a pink elephant, where in your brain is there an actual image of a pink elephant? Our mind cannot be reduced to physical phenomena, or we could point to some cells and say, “This is the theater where the pink elephant image is being shown.” Or if we were to tear you apart piece by piece, at what point would we be able to point to a clump of cells and say, “Here he is; this is where the inner George resides.” or leg or head. The patient always knew that he or she was not the one moving the body parts. In other words, the patient clearly had a sense of existence apart from the interactions between the brain and body. Probing the entire cerebral cortex, Penfi eld concluded that there was no place that could be electrically stimulated to cause a person to believe or decide.22 Or consider the phenomenon of “the enduring sense of self.” Your cells are dying and replicating all of the time. You no longer possess the same cells you had at birth, yet you have a cohesive sense that you are still you. (You are still you, aren’t you?) In the book The Case for a Creator, philosopher J. P. Moreland makes the following observation: “I know that consciousness isn’t a physical phenomenon because there are things that are true of my conscious-ness that aren’t true of anything physical.” Another example of consciousness is the objectivity of the self—you distinguish yourself from your experiences. When you squash a fl y, there’s no reason to conclude that its experience is separate from itself. In other words, in its little fl y brain, it senses, “I am pain” (if it does feel pain). You, on the other hand, distinctly feel that pain is happening to you and that you are distinct from the experience of pain.
+82 · ARTICLE SEVEN · THE HUMAN ENIGMA Your consciousness chooses between the instincts, and it is as different and separate from them as the pianist is from the keys he chooses to play on the piano. The consciousness sits over and above our instincts, drives, and desires, and it chooses which it will act upon.21 On the metaphysical side of things, when you are thinking about a pink elephant, where in your brain is there an actual image of a pink elephant? Our mind cannot be reduced to physical phenomena, or we could point to some cells and say, “This is the theater where the pink elephant image is being shown.” Or if we were to tear you apart piece by piece, at what point would we be able to point to a clump of cells and say, “Here he is; this is where the inner George resides.” or leg or head. The patient always knew that he or she was not the one moving the body parts. In other words, the patient clearly had a sense of existence apart from the interactions between the brain and body. Probing the entire cerebral cortex, Penfi eld concluded that there was no place that could be electrically stimulated to cause a person to believe or decide.22 Or consider the phenomenon of “the enduring sense of self.” Your cells are dying and replicating all of the time. You no longer possess the same cells you had at birth, yet you have a cohesive sense that you are still you. (You are still you, aren’t you?) In the book The Case for a Creator, philosopher J. P. Moreland makes the following observation: “I know that consciousness isn’t a physical phenomenon because there are things that are true of my conscious-ness that aren’t true of anything physical.” Another example of consciousness is the objectivity of the self—you distinguish yourself from your experiences. When you squash a fly, there’s no reason to conclude that its experience is separate from itself. In other words, in its little fly brain, it senses, “I am pain” (if it does feel pain). You, on the other hand, distinctly feel that pain is happening to you and that you are distinct from the experience of pain.
 
 Furthermore, there is the “aboutness” of the mind; it is always daydreaming, planning, remembering, or envisioning. Your mind is often off somewhere else (it is probably beginning to wander now as I ramble on). It’s as if your mind would wander away if it weren’t chained to your brain. And exactly how would such abstract thought be helpful in the brain’s early development for survival of the species? (Poor Unk. He was thinking about physics and a woolly mammoth sat on him.)
 
-He goes on to give the following example: Wilder Penfi eld, the renowned neurosurgeon, did a series of experiments on epileptic patients. Using electricity, he would stimulate certain regions within the brain, causing the patient to move his or her arm Some of my thoughts have the attribute of being true. Tragically, some of my thoughts have the attribute of being false. However, none of my brain states are true or false. No scientist can look at the state of my brain and say, “Oh, that particular brain state is true and that one is false.” So there is something true of my conscious states that are not true of my brain states, and consequently they can’t be the same thing.23 © 2010, CruPress, All Rights Reserved. CruPress.comTHE HUMAN ENIGMA • ARTICLE SEVEN • 83
+He goes on to give the following example: Wilder Penfi eld, the renowned neurosurgeon, did a series of experiments on epileptic patients. Using electricity, he would stimulate certain regions within the brain, causing the patient to move his or her arm Some of my thoughts have the attribute of being true. Tragically, some of my thoughts have the attribute of being false. However, none of my brain states are true or false. No scientist can look at the state of my brain and say, “Oh, that particular brain state is true and that one is false.” So there is something true of my conscious states that are not true of my brain states, and consequently they can’t be the same thing.
 
 ## Thumbprints of Design on the Soul
 
@@ -132,7 +131,8 @@ In other words, consciousness is not explainable in natural terms and has the tr
 
 While our “mind” seems to refer to all of the mechanisms of consciousness, the “soul” seems to speak of a spiritual Oughtness. Have you ever seen a cow that seems disillusioned with life and who thinks she was made for something better? (OK, besides the Chick-fil-A cows.) Most humans have a sense that things are not as they should be. A longing for heaven, it has been called. We struggle with circumstances, resent death, complain of evil, and have a general sense that we were made for something better, that things “ought” to be different. Why do we have These phenomena are pointers beyond our physical bodies to a mind, a soul, and to an intelligent Designer whose thumbprint is best seen in the creature called Homo sapiens.
 
-84 • ARTICLE SEVEN • THE HUMAN ENIGMA © 2010, CruPress, All Rights Reserved. CruPress.com
+- ARTICLE SEVEN
+- THE HUMAN ENIGMA
 
 ### Smart People
 
@@ -167,6 +167,6 @@ While some naturalists like Dawkins remain atheists, others are reconsidering th
 23. Quoted in Lee Strobel, The Case for a Creator (Grand Rapids, MI: Zondervan, 2004), 258
 24. Laurence W. Wood, Asbury Theological Journal 41, no.1 (1986).
 25. Richard Dawkins, The Selfish Gene (Oxford: Oxford University Press, 1989), 59.
-26. Schroeder, 159. © 2010, CruPress, All Rights Reserved. CruPress.comTHE HUMAN ENIGMA
+26. Schroeder, 159. THE HUMAN ENIGMA
 - ARTICLE SEVEN
 - 85

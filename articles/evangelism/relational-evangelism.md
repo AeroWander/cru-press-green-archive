@@ -28,14 +28,14 @@ Sometimes Christians cocoon into spiritual safety and security rather than take 
 - Make a list of unreached friends.
 - Get involved in common ground activities such as intramurals, band, greek system, clubs, etc.
 - Be yourself and have fun.
-- Remember there are lots of morally neutral places you can go and things you can do with non- Christians.
+- Remember there are lots of morally neutral places you can go and things you can do with non-Christians.
 - Study the life of Christ; He was a friend of sinners.
 2. Pray
 - Pray consistently for your new friends.
 - Ask God for sincere compassion (Mark 9:36).
 - Pray for God’s Spirit to work in their hearts (John 16:7-11).
 - Pray for open doors and opportunities (Colossians 4:3).
-- Pray for their salvation (Romans 10:1, 1 Timothy 2:1-7). © 2010, CruPress, All Rights Reserved. CruPress.com
+- Pray for their salvation (Romans 10:1, 1 Timothy 2:1-7).
 - Imagine a group of 10 believers praying for 10 people each. That would be 100 non-Christians being prayed for!
 3. Give yourself
 - Be a good conversationalist and friend.
@@ -53,4 +53,4 @@ Sometimes Christians cocoon into spiritual safety and security rather than take 
 
 Damon and Andrea were involved in Campus Crusade in college. After graduating they got married, and Damon went to medical school while Andrea got a job. After becoming involved in a church, they helped give leadership to a church-based campus ministry with students attending from two universities. They also got to know another couple from Damon’s class in medical school.
 
-They prayed for this couple, took them to church, and spent time with them. After several months, their friends received Christ. Because they had a relationship with Damon and Andrea (and with the church), it was natural for the new couple to receive follow-up and become involved in the church. © 2010, CruPress, All Rights Reserved. CruPress.com
+They prayed for this couple, took them to church, and spent time with them. After several months, their friends received Christ. Because they had a relationship with Damon and Andrea (and with the church), it was natural for the new couple to receive follow-up and become involved in the church.

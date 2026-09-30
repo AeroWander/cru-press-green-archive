@@ -34,7 +34,7 @@ International Campus staff are staff members from the US who choose to become a 
 
 STINT is short for Short Term International.
 
-## Dquestions About Stint
+*Dquestions About Stint*
 
 1. What is a partnership?
 
@@ -77,7 +77,7 @@ Go to the Locations Page to see where you can go. Remember that though you could
 
 13. How do I apply for STINT?
 
-All applications are done Online. The application process involves completing information regarding: • • • • • • • Personal Information Ministry Experience Church & Spiritual Background Financial Information Moral Convictions Recommendations Biographical Information |essay format including your testimony and why you believe God is leading you to take this step| Statement of Faith |check the boxes you agree with| 14. How long does the application process take? After completing and returning the application (and with all your references completed and returned) you should hear back from us in 3 weeks. In most cases you will be notified by email.
+All applications are done Online. The application process involves completing information regarding: Personal Information Ministry Experience Church & Spiritual Background Financial Information Moral Convictions Recommendations Biographical Information |essay format including your testimony and why you believe God is leading you to take this step| Statement of Faith |check the boxes you agree with| 14. How long does the application process take? After completing and returning the application (and with all your references completed and returned) you should hear back from us in 3 weeks. In most cases you will be notified by email.
 
 9. Where will I live?
 
@@ -98,7 +98,6 @@ Email has changed the world and in most locations you can get good reliable emai
 Most of your support will come from individuals you ask to be part of your support team. We call them ministry partners and we will provide extensive training on how to gather a team of ministry partners. Be encouraged, every staff member in the world is responsible for raising their support and God has done it over and over again. He continues to prove himself faithful and gives abundantly beyond what you can imagine. including a benefits notebook. It is important to note that you are not covered until after you are hired and you are usually not covered by your parents insurance after you graduate college. It is your responsibility to get coverage during this period even if you are accepted to the internship program at this point. In April each region of the US Campus Ministry will host a conference that all STINT and Interns are required to attend (it is a great time). At this time we will give you extensive training on how to develop a ministry partner team, a biblical basis for support raising and strategy for getting started. You will need to have your team completed a month before your departure in order to get plane tickets and visas organized.
 
 17. What is covered in the amount I raise? There are three basic things covered in the money you raise:
-- •
 - Salary (money for the basics of life)
 
 Benefits (health insurance)

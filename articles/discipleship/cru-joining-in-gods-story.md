@@ -11,8 +11,6 @@ summary: "An article by Ryan Berg (Cincinnati Metro Cru) explaining Cru's \"Thre
 source: "added/The Three Es.pdf"
 ---
 
-## Ryan Berg
-
 and corporately. We believe that change happens through the power of Christ’s Gospel, for the glory of God and the good of people. Therefore, Cru is committed to three main priorities:
 
 EMBRACING THE GOSPEL PERSONALLY Honestly recognizing personal sin and genuinely celebrating Christ’s grace to us in the midst of it. We never move beyond the Gospel, only into a more profound understanding of it.
@@ -57,7 +55,7 @@ Inward Orientation •Living in authentic community. •Moving toward one anothe
 
 Outward Orientation •Display (being): Christ in us by who we are (and are becoming). •Demonstrate (doing): Christ through us by stepping into others needs (physically, emotionally, etc.). •Declare (saying): Christ spoken by us as we proclaim the Gospel.
 
-## From You to CRU
+From You to CRU
 
 The influence of a movement to bring about change is only as strong as the individuals who are engaged in the efforts. But as it gathers passionate participants, the movement can become a powerful means through which God brings about His kingdom.
 
@@ -65,4 +63,4 @@ As you individually seek to explore and/or live out these three priorities, it i
 
 As the collection of small groups come together to form a movement with weekly gatherings - to participate in activities ranging from simple worship meetings to large philanthropic events (like organizing a 5K run to help end sex trafficking) - we begin to see the Gospel change society. And as we change societies, we begin to affect change in the world, one life at a time. Starting with yours. This truly is a bigger, greater story worth being a part of. Come join in.
 
-## Embrace Embrace Embrace Experience Experience Experience Extend Extend Extend You. Small Group. Movement.
+Embrace Embrace Embrace Experience Experience Experience Extend Extend Extend You. Small Group. Movement.

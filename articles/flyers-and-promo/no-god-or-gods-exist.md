@@ -10,25 +10,25 @@ summary: "An EveryStudent.com outreach flyer contrasting how different world rel
 source: "Small Groups and Meetings/Posters and Publicity copy/Every Student/EveryStudent 6.pdf"
 ---
 
-#### Buddhism -
+#### Buddhism
 
-#### no God or gods exist
+no God or gods exist
 
-#### Islam -
+#### Islam
 
-#### a transcendent God
+#### A transcendent God
 
-#### Hinduism -
+#### Hinduism
 
-#### infinite manifestations of god
+infinite manifestations of god
 
-#### Jesus Christ -
+#### Jesus Christ
 
-#### an infinite yet personal God
+an infinite yet personal God
 
-#### New Age -
+#### New Age
 
-#### we are God
+#### We are God
 
 ## Are they really all the same?
 

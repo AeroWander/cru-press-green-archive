@@ -11,7 +11,7 @@ summary: "Classic article by O. Hallesby on the Holy Spirit's role in teaching b
 source: "Building Community/Prayer/Classic Articles On Prayer/The School pf Prayer.pdf"
 ---
 
-## O. Hallesby Lord Teach US to Pray
+## O. Hallesby Lord Teach Us to Pray
 
 Now do you dare to pray, “Lord, teach me to pray”? That is right, be honest. You are afraid of trials and afflictions. And I believe that both you and I are willing to admit that we are also afraid of God. Pure instinct seems to tell us that God is going to deal harshly with us. And the same instinct seems to tell us that we can rely on ourselves, and that we understand what is good and what is not. But remember one thing, neither you nor I will be happy before we yield ourselves to His pierced hands and say to Him: to expend the effort. And little by little we ceased to intercede for others.
 

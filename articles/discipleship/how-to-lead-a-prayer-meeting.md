@@ -31,7 +31,7 @@ During conversational prayer group members should talk to God as they would talk
 
 Go around the group allowing each member to share their own personal prayer requests.
 
-## Pray Using Scripture
+*Pray Using Scripture*
 
 Have the group use one or more passages of Scripture as their guide for praying. Choose any passage you feel is appropriate. Here’s an example:
 

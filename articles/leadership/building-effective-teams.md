@@ -11,7 +11,7 @@ summary: "An article by Eric Swanson on what distinguishes a genuine high-perfor
 source: "MTL/MTL/MTL2/Building Effective Teams.pdf"
 ---
 
-## Eric Swanson the Advantage of Teams
+## The Advantage of Teams
 
 Teams bring together skills and experience that exceed those of any individual on the team. As the saying goes, “No one of us is as smart as all of us.” Parenthetically, this is why God has given each of us different spiritual gifts.
 

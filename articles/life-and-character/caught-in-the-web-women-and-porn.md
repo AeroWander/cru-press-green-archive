@@ -11,7 +11,7 @@ summary: "Article by Marnie C. Ferree, M.A., addressing pornography and sexual a
 source: "Building Community/Men and Women/Women/Women And Porn.pdf"
 ---
 
-## Marnie C. Ferree, M.a.
+## M.a.
 
 Until now, she never thought she’d tell anyone, but the poison is choking her and finally comes vomiting out when she connects on the phone. Her secret? Amy regularly surfs the dark side of the Web.
 
@@ -25,7 +25,7 @@ The problem of pornography is, of course, well known. It’s occasionally mentio
 
 Deep inside, though, Amy also has a secret. One she hates and protects and wrestles with in the night. The reality is that pornography is the most abused “drug” in our country and sexual addiction is the addiction of choice among Christians. Based on surveys conducted by Christianity Today, 47 percent say porn is a “major problem” in their homes and 51 percent of ministers say it’s their biggest temptation. For 37 percent, it’s a current struggle.1 People of faith aren’t exempt from the dark side of the Web or other forms of sexual sin.
 
-## Women Like Sex, Too
+Women Like Sex, Too
 
 “But aren’t all those people men?” Amy whispers, her question fueled by the stereotype of bleary-eyed men clicking on lookatsex.com in the middle of the night. Categorically, sexual acting out is largely considered a male phenomenon, much like it was first thought that alcoholism primarily affected men and not women. Even cultural standards for feminine behavior limit women’s expressions of sexuality more than men’s practices. After all, boys will be boys. “relate,” instead of solitary activity such as accessing pornography. A major study found women were disproportionately represented in the interactive media such as chat rooms, which were preferred by 70 percent.4 Simply put, women’s online sexual behavior mirrors their offline behavior: females most often favor relationally oriented activity. Even those women who want the same thing as most male users— the casual sexual encounter—tend to couch their activity in some semblance of a relationship (however fleeting) instead of anonymous sex.
 
@@ -35,7 +35,7 @@ A growing number of women, though, are looking online at the more traditional ki
 
 A key difference surfaces in the way women progress in their Internet sexual activity. According to an early study, females who frequent sexual chat rooms are more likely than men to seek real-life meetings with their online sexual partners. In fact, an astounding 80 percent of female cybersex users admitted to this behavior.5 This escalation of sexual activity clearly has enormous implications and risks. Once a woman steps offline, she’s increasingly vulnerable to dangerous interactions.
 
-## Internet Interaction
+*Internet Interaction*
 
 Typically, women are more likely to want romance and relationship as part of their sexual activities, and this pattern translates intact to the Internet. Female users strongly prefer chat rooms, where they can
 

@@ -10,9 +10,9 @@ summary: "A brief promotional description of the Spiritual Starter Kit, a free s
 source: "Discipleship/How to Disciple Others/Spiritual Starter Kit.pdf"
 ---
 
-## Startingwithgod.com
+Startingwithgod.com
 
-“The Spiritual Starter Kit” is a free 7-part e-mail series covering the most essential and foundational concepts of what it means to walk with Christ. Here’s what’s you’ll receive in “The Spiritual Starter Kit:” • How to be sure that Jesus Christ entered your • • • • • • life.
+“The Spiritual Starter Kit” is a free 7-part e-mail series covering the most essential and foundational concepts of what it means to walk with Christ. Here’s what’s you’ll receive in “The Spiritual Starter Kit:” · How to be sure that Jesus Christ entered your life.
 
 What God did to draw you to himself.
 

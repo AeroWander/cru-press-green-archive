@@ -69,6 +69,6 @@ FAITH answer any doubts with solid facts. Your feelings will begin to respond to
 - You have new life: 2 Corinthians 5:17, Ephesians 2:4,5
 - You have eternal life: 1 John 5:11-13, John 5:24; 10:27-29 Take one truth each day and reflect on it. Read the verses listed by each truth. Thank God that this is now true of you.
 
-Knowing these essential truths is critical to our growth in Christ. What happens when we struggle and fall short in our efforts to live the Christian life? Next meeting: A Campus Crusade book from Here's Life Publishers, Inc. © 1984 by Campus Crusade for Christ, Inc.
+Knowing these essential truths is critical to our growth in Christ. What happens when we struggle and fall short in our efforts to live the Christian life? Next meeting: A Campus Crusade book from Here's Life Publishers, Inc.
 
 All rights reserved.

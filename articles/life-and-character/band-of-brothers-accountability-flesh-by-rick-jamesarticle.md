@@ -18,9 +18,7 @@ Flesh (for men) deals fearlessly with lust, sex and pornography in a clear, comp
 
 FLESH
 
-## Order Online at Crupress.com
-
-## BLOOdbROTHERS
+## Bloodbrothers
 
 “Jumbo Shrimp” and “Healthy Whopper” are examples of what we would label an oxymoron. “Personal Christianity” is another. Christianity was designed by God to be lived out in a community of believers.
 
@@ -43,8 +41,6 @@ Therefore confess your sins to each other and pray for each other so that you ma
 My rule of thumb is that within 24 hours of making a poor choice in the sexual area I will have called or met with someone and told them the exact nature of what I did.
 
 090 f h...
-
-### l e s
 
 blood brothers Someone to Confront Christian teacher and scholar Dr. Ken Boa relates the following lesson on the need for correction and confrontation:
 
@@ -82,9 +78,7 @@ A Men’s Group One of the healthiest things you can be involved in is a Bible s
 
 092 f h...
 
-### l e s
-
-article name © 2010, CruPress, All Rights Reserved. CruPress.com The power of a men’s group goes beyond two hours a week and leads to deep relationships: hanging out together, going out together, e-mailing and IMing through the week. It becomes powerful when it is a true community where everyone really knows each other, warts and all. If you are not part of a group, then start one. Use the material provided in this book as the foundation, but do move on to other topics, using the complete counsel and ministry of Scripture.
+article name The power of a men’s group goes beyond two hours a week and leads to deep relationships: hanging out together, going out together, e-mailing and IMing through the week. It becomes powerful when it is a true community where everyone really knows each other, warts and all. If you are not part of a group, then start one. Use the material provided in this book as the foundation, but do move on to other topics, using the complete counsel and ministry of Scripture.
 
 Some Correctives for AccountABility Back to our lifting-partner analogy: Good lifting partners don’t simply stand idly by consoling you for being a sissy-pants (“Bummer you couldn’t lift it, dude.”). They challenge you. Godly accountability knows how to give compassion, but also challenge you. Challenge comes in the form of questions like: “So, what can you do different next time?” or “What do we need to do to insure this doesn’t happen again?” It means asking specific questions to keep people from glossing over accounts, questions like: “How long were you on line?” “Were they hardcore images?” “Did you watch video?” Go the extra mile for each other. Tell your friend, “I’m coming over tonight,” or “I’m going on-line with you.”
 

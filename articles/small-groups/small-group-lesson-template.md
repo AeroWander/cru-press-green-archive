@@ -12,7 +12,7 @@ source: "Small Groups and Meetings/Leading Small Group/Small Group Lesson Templa
 
 ## Quick Guide Small Group Lesson Template
 
-On the following page is a quick guide for preparing a small group lesson plan—a lesson that leads to true repentance and heart-change. You may want to cut it out and keep it in your Bible so you have it on hand. © 2010, CruPress, All Rights Reserved. CruPress.com
+On the following page is a quick guide for preparing a small group lesson plan—a lesson that leads to true repentance and heart-change. You may want to cut it out and keep it in your Bible so you have it on hand.
 
 ## Small Group Lesson Template
 
@@ -96,4 +96,4 @@ ELEmenTS Remember that your teaching will be most effective when it is aligned w
 
 Ask a couple questions that help them envision what it would look like practically to live out this passage. Ask a couple questions that expose heart-resistance to Christ. Help them see how they experience the “fallen condition” this passage reveals (i.e, some aspect of their brokenness that requires the redemptive work of Christ).
 
-Ask a couple questions that point them to Christ. What aspect of God’s redemptive work do they need to believe and embrace in order to reflect and enjoy God’s glory? © 2010, CruPress, All Rights Reserved. CruPress.com
+Ask a couple questions that point them to Christ. What aspect of God’s redemptive work do they need to believe and embrace in order to reflect and enjoy God’s glory?

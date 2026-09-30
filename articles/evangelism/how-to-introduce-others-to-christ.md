@@ -13,7 +13,7 @@ source: "Evangelism/traning/6. How to Introduce Others to Christ.pdf"
 also_filed: ["Discipleship/Basic Growth Concepts/Transferable Concepts/How to Intrduce Others to Christ.pdf"]
 ---
 
-## Dr. Bill Bright Transferable Concept Six
+## Transferable Concept Six
 
 “You must bring a lot of happiness into the world,” said the young businessman with tears of joy and gratitude sparkling in his eyes. He had just prayed with me to receive Christ as his Savior. He and his wife had been looking for God for some time, he said, and now he was eager to take the Four Spiritual Laws booklet home with him so that he could in turn introduce his wife to Christ. between effective and ineffective witnessing Basically, we witness in two ways; by the way we live and by the words we speak. We are specifically commanded to speak the good news with our lips, and that is the aspect of witnessing that we shall discuss here. For more than 25 years I have had the exciting privilege of “bringing a lot of happiness into this world” by sharing the Lord Jesus Christ with thousands of students and laymen around the world. Before you can introduce others to Christ, however, there are certain things that you need to know: You must be sure that you are a Christian yourself. Then, as a Christian, you must know the empowering ministry of the Holy Spirit. You must also be sure of what people should know about God, Jesus Christ, and the gospel before they can make intelligent decisions for Christ.
 

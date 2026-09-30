@@ -11,7 +11,7 @@ summary: "An article by Timothy Henderson arguing that Western culture is shifti
 source: "added/Gospel of Ashamed.pdf"
 ---
 
-## Timothy Henderson
+*Timothy Henderson*
 
 In Genesis 3 Moses records the fall and it’s immediate effects. In particular he shows three completely novel and deeply negative experiences that would forever accompany mankind: guilt, shame, and fear. In vv. 12 and 13 Adam and Eve play the blame game, highlighting their guilt; in v. 7 they cover their nakedness of which they are newly ashamed; and in v. 10 they hide from God, fearing the one that has only ever been their benefactor. obey, guilt is a concept with little meaning. Every one of us since that day has known all three of those states. Guilt, shame, and fear are part of our lives. But interestingly, it seems that people in different parts of the world have tended to primarily experience their falleness through one more than the other two:
 

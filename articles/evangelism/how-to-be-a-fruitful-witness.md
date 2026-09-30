@@ -13,7 +13,7 @@ source: "Evangelism/traning/5. How to be a Fruitful Witness.pdf"
 also_filed: ["Discipleship/Basic Growth Concepts/Transferable Concepts/How to be a Fruitful Witness.pdf"]
 ---
 
-## Dr. Bill Bright Transferable Concept Five
+## Transferable Concept Five
 
 There is no experience in life more exciting and spiritually rewarding than the adventure of sharing Christ with others. All over the world, I have asked two questions of thousands of Christians and the answers are always the same, no matter whom I ask. First, you must be sure that you are a Christian, that you have invited Jesus Christ to be the Lord and Savior of your life. Second, be sure that there is no unconfessed sin in your life, and third, that you are filled with the Holy Spirit.
 

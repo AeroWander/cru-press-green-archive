@@ -11,8 +11,6 @@ summary: "An article by Roger Hershey (longtime Campus Crusade staff at Penn Sta
 source: "Sending/Missions/An Eternal Perspective.pdf"
 ---
 
-## Roger Hershey
-
 right hand of God. Set your minds on things above, not on earthly things. For you died, and your life is now hidden with Christ in God. (Colossians 3:1-3) In fact, it’s when we loose sight of the eternal things that we often loose our way in life becoming consumed with the here and now. Time passes, and before you know it you realize, like Scully, you’re simply making “sugar water.”
 
 Apple computers was started in the 70s by two guys in a garage—Steve Woz and Steve jobs. Woz was the technical genius, Jobs was the visionary. Jobs had a vision of literally changing the world with what he considered “Insanely great” computers. He had a passion for the Macintosh.
@@ -33,7 +31,7 @@ Jesus taught that He was coming back and that we should always be ready and look
 
 ## Mired in the Temporal
 
-In contrast to things that are eternal the scriptures © 2010, CruPress, All Rights Reserved. CruPress.com have this to say about the temporal:
+In contrast to things that are eternal the scriptures have this to say about the temporal:
 
 James 4:13-14 Our life is like a vapor; it appears for a little while and than vanishes away. and 2 Cor. 4:17. He speaks of an eternal weight of glory far beyond all comparison – the joys and pleasures of Heaven, seeing the Lord face to face, no more sin, pain, or death.
 
@@ -43,7 +41,7 @@ I John 2:15-18 The world is passing away and also its lusts – earthly glory, f
 
 Matt. 6:19-24 Do not lay up treasures on earth, because rust and moth destroy them. Earthly wealth will not last, so Jesus told us to lay up treasures in Heaven.
 
-“I’m going to start a savings account next year.” I’ve actually said this to myself. Here’s what’s is implied in that statement: That I have a value on preparing for the future, but I’m too embroiled in today’s concerns to do anything about it. • • • We will reign with Christ in His coming kingdom. We will receive crowns that we can throw back at His feet to express our gratitude for what He has done for us.
+“I’m going to start a savings account next year.” I’ve actually said this to myself. Here’s what’s is implied in that statement: That I have a value on preparing for the future, but I’m too embroiled in today’s concerns to do anything about it. We will reign with Christ in His coming kingdom. We will receive crowns that we can throw back at His feet to express our gratitude for what He has done for us.
 
 Personal praise from Jesus for being faithful servants.
 
@@ -72,4 +70,4 @@ Consider these 3 future things we can look forward to:
 Roger Hershey currently runs the Greek ministry at Penn State University. He is a popular speaker and has been working with Campus Crusade for Christ for almost 40 years.
 
 1. We will share in His glory – when He is exalted and honored, when every knee bows to acknowledge He is Lord (Phil. 2:9-11). We, as saints, also will share in His glory and be honored with Him.
-2. This future reality of glory helps us endure suffering in the present. Paul spoke of this clearly in Rom. 8:18 © 2010, CruPress, All Rights Reserved. CruPress.com
+2. This future reality of glory helps us endure suffering in the present. Paul spoke of this clearly in Rom. 8:

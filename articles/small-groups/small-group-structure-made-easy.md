@@ -11,7 +11,7 @@ summary: "An article by Bob Fuhs laying out five design principles for structuri
 source: "Small Groups and Meetings/Leading Small Group/Small Group Structure.pdf"
 ---
 
-## Bob Fuhs Rule 1: Growth Takes Place Over Time
+## Rule 1: Growth Takes Place Over Time
 
 In their book Guidebook to Discipleship, authors Hartman and Sutherland say this, “There needs to be an atmosphere established, a place where people can get involved for different reasons and join at different points to express their involvement. It is a place to reside where they are able to move at their own pace. The Holy Spirit is able to mature them as an individual at their own pace of involvement.” Odds are you don’t need to be convinced that small groups are pretty important to reaching your goals on campus. As a campus leader, most likely you were part of a small group on campus as a student that had a significant impact on your spiritual growth. Small groups are tremendous places to build redemptive relationships where you pray for one another, study the scriptures and encourage others to stay strong in the Lord. There’s a reason the author of Hebrews said, “Don’t give up meeting together as some are in the habit of doing.”
 
@@ -35,7 +35,7 @@ So, our small group system needs to be “selection based.” In other words, yo
 
 And, let’s just say it: I don’t think you’re going to have a lot of guys confess their addiction to porn or masturbation in a coed small group.
 
-## Rule 3: Your Small Group Structure Is Your Leadership Development Structure
+Rule 3: Your Small Group Structure Is Your Leadership Development Structure
 
 I would tell our staff and students, “Jesus never commanded us to go and lead Bible studies. His command was to make disciples.” Yes, of course the Word is our textbook and our guide, but the overall purpose of our small groups is not to get to know the Bible better. The purpose of our small groups is to build leaders, to build disciples. More specifically: to build multiplying disciples.
 

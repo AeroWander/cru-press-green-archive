@@ -11,8 +11,6 @@ summary: "An article by Eric Swanson urging team leaders to treat ministering to
 source: "MTL/MTL/MTL2/Ministering to Your Staff2.pdf"
 ---
 
-## Eric Swanson
-
 Any team leader who wants to have a ministry of multiplication will be committed to ministering to his staff as his number one priority. You cannot and must not bypass the staff if you want to build a movement of multiplication. If they are effective, then you are effective. The staff are not just the means to your ministry. They are your ministry.
 
 The business model helps us with our organization. However, when it comes to ministry, we need another example--the biblical model of leadership. As a leader, Jesus identified himself as a Shepherd and a Servant.

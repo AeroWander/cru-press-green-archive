@@ -11,8 +11,6 @@ summary: "An article by Millie Welsh on 'Made for Relationship,' arguing from Ge
 source: "Building Community/Community and Relationships/Made for Relationship.pdf"
 ---
 
-## Millie Welsh
-
 environment but I thrived there and developed life-long friendships. I have been in 23 weddings, which should get me some kind of award (other than dresses that “I’ll wear again, for sure!”) And as of today, I apparently have 1174 “friends” on Facebook. But I digress.
 
 We were made for relationship. It’s not even a fuzzy, unclear, debatable issue. And I know this because God said so. There. Can’t argue with that, can you? Well, you can, but you’ll lose . . . every time.
@@ -37,7 +35,7 @@ Sadly, it didn’t take long for both the vertical and horizontal relationships 
 
 We were made for relationship. That’s what makes Christianity unique – the God we worship wants a personal relationship with us! Christianity isn’t about a bunch of rules – it’s about a relationship with our Creator and with each other. And only Jesus can enable this to happen, redeeming us and restoring what God intended.
 
-## Section A: the Big Picture
+## Section A: The Big Picture
 
 Several years ago, while working with a bible study of college-aged girls, I discovered that vulnerability cannot be assumed in friendships. Here’s what happened: I would meet with each girl and talk about her struggles, successes, boy stuff...whatever. Usually these were pretty personal and intimate times as they openly shared their lives with me. Then I would guide them through a biblical perspective of how to pursue God and grow through these challenges. One night in our bible study group, I asked the group to go around and share their response to some question I asked that was deeper than “What’s your favorite flavor of ice cream?” The problem was that they wouldn’t go deeper than that. I was dumbfounded. Each of them had shared personal things with me earlier that week that would have been totally relatable in the group, but it was as if they all had brain-freeze during our group time (hence the ice-cream question may have been better). They just wouldn’t “go there.”
 
@@ -49,11 +47,7 @@ Check out the diagram below. I’ve used this in a variety of situations: from o
 
 ## The Relationship Cycle
 
-### Accepted Superficial ' ’ Gather Information ‘ ’ Vulnerability ‘ ; Rejected ' ’ Self-disclosure ’ ‘ ’ Known ‘ ’ Agape Love Other -Disclosure
-
 2 CORINTHIANS 6:11-13
-
-### ' Shut Down ‘ Inpenetrable ‘ ’ ’ ’ Superficial Unity
 
 JOHN 17: 20-23
 
@@ -159,7 +153,7 @@ I researched the folk-etymology of the word gossip and loved what I found! It co
 
 Interestingly, the last pillar is exactly the opposite of this last pitfall...you can’t agape love someone and choose gossip - they just don’t go together. Here’s a paraphrase from Paul’s “love chapter” of his first letter to the Corinthians: “If you really love someone you will be loyal to her no matter what the cost. You will always believe in her, think the best of her, and stand your ground in defending her” (I Corinthians 13:7). Am I believing (and saying) the best in everyone I talk about? Yikes! Are you? Imagine what your friendships would be like if instead of gossiping, you held your tongue. Or if, when you heard gossip sneak in to a conversation, you said, “Stop! I don’t need to hear that —it has nothing to do with me.” Where’s the best place to start combating gossip? You!
 
-### The Greatest Commands
+*The Greatest Commands*
 
 We were made for relationship. We thirst for intimacy with others — to know and to be known. Isn’t it amazing that the greatest commandment Jesus gives us wasn’t a to-do list we could ever check off ? Jesus replied, “‘You must love the LORD your God with all your heart, all your soul, and all your mind.’ This is the first and greatest commandment. A second is equally important: ‘Love your neighbor as yourself.’”
 

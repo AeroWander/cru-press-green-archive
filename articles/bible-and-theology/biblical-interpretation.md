@@ -11,8 +11,6 @@ summary: "An article by Tom Hudzina teaching a three-step method for studying Sc
 source: "Discipleship/Basic Growth Concepts/Biblical Interpretation.pdf"
 ---
 
-## Tom Hudzina
-
 When one is studying a passage of Scripture, a basic but helpful pattern to follow is the threefold process of observation, interpretation, and application. I can never remember the “how,” because it rebelliously begins with an h instead of a w. Maybe it’s the same for you. If so, that’s okay. This is just a general template; it’s not meant to be a science or a straitjacket. Once you get a feel for some of these questions, try to keep an eye out for key words or phrases, repeated words, contrasts and comparisons, and terms of summary and conclusions (“so that,” “for this reason,” and so on).
 
 ## Observation
@@ -65,13 +63,13 @@ the Big Picture Survey the big picture by analyzing the . . .
 - Literary Context
 - Redemptive Context
 
-### explore
+### Explore
 
 the PaSSage Carefully explore the biblical text by applying the interpretive approach that best fits the genre of the passage.
 
 (Different genres require different interpretive steps.)
 
-### DIScover
+### Discover
 
 the Big IDea Summarize the results of your interpretive journey. steps to survey
 
@@ -98,13 +96,13 @@ the Big Picture Survey the big picture by analyzing the . . .
 - Literary Context
 - Redemptive Context
 
-### explore
+### Explore
 
 the PaSSage Carefully explore the biblical text by applying the interpretive approach that best fits the genre of the passage.
 
 (Different genres require different interpretive steps.)
 
-### DIScover
+### Discover
 
 the Big IDea Summarize the results of your interpretive journey. steps to survey
 
@@ -121,7 +119,7 @@ the Big IDea Summarize the results of your interpretive journey. steps to survey
 -  Create a textual outline of your passage
 -  Summarize the big idea of your passage in a single sentence (the author’s big idea)
 
-### reSponD
+### Respond
 
 to God Respond to God through his Word. steps to respond
 
@@ -130,7 +128,7 @@ to God Respond to God through his Word. steps to respond
 -  Consider how the passage points you to Christ and his redemptive work
 -  Determine personal response(s)
 
-### reSponD
+### Respond
 
 to God Respond to God through his Word. steps to respond
 

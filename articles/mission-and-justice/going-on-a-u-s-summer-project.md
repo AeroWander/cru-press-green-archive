@@ -20,11 +20,11 @@ Any project experience will make for a very full schedule. You will enjoy buildi
 
 No matter the length or ministry focus, our U.S. summer projects offer great training and ministry experience. If you want to grow deeper in your relationship with God and heart for the lost world around you, a U.S. summer project may be a great choice for you. On project, you will be with 30-150 other students who also desire to grow in their walk with God, in how to share Jesus with lost people, and to learn some great ministry skills to take back to campus in the fall.
 
-## Typical Day on a U.S. Project
+Typical Day on a U.s. Project
 
-8-9am Breakfast and Quiet Time Our U.S. summer projects offer some of the best evangelism training you can get. Not only will you grow in confidence through training on how to communicate the message of the Gospel, but you will 9-5pm At ministry site © 2010, CruPress, All Rights Reserved. CruPress.com 5-6pm Dinner 7-9pm Project training/meeting/small group/activities Organized outreaches happen each week – most likely on weekends (depends on project)
+8-9am Breakfast and Quiet Time Our U.S. summer projects offer some of the best evangelism training you can get. Not only will you grow in confidence through training on how to communicate the message of the Gospel, but you will 9-5pm At ministry site 5-6pm Dinner 7-9pm Project training/meeting/small group/activities Organized outreaches happen each week – most likely on weekends (depends on project)
 
-## U.S. Summer Project Venues
+U.s. Summer Project Venues
 
 Here are just some of the U.S. Summer Project venues. Up to date information can be found at Summer Projects website.
 
@@ -40,4 +40,4 @@ Ocean City, Maryland Ocean City, NJ Orlando Summer Project Bridges Chinese Trek 
 
 Bridges Ishmael Project Bridges Wilderness Trek (Yosemite)
 
-Destino Trek Greek Summit-Breckenridge Minneapolis/St. Paul Urban Trek Rocky Mountain High San Diego Adventure Jackson Hole, WY LA Urban Project Nations: Alaska Nations: Blackfeet Indian Reservation New York Tribeca - Arts © 2010, CruPress, All Rights Reserved. CruPress.com
+Destino Trek Greek Summit-Breckenridge Minneapolis/St. Paul Urban Trek Rocky Mountain High San Diego Adventure Jackson Hole, WY LA Urban Project Nations: Alaska Nations: Blackfeet Indian Reservation New York Tribeca - Arts

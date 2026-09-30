@@ -12,7 +12,7 @@ summary: "A Transferable Concept article by Keith Davy introducing CoJourners, a
 source: "Evangelism/traning/CoJourners TC.pdf"
 ---
 
-### Cojourners Transferable Concept
+*Cojourners Transferable Concept*
 
 A 16-page, full-color, article that explains and teaches the CoJourner approach to evangelism. CoJourners is not an evangelism strategy. It is an equipping paradigm, which provides a way of thinking about and teaching conversational evangelism. This equipping paradigm consists of learning the four roles we play in relating to others in their spiritual journeys.
 
@@ -21,8 +21,6 @@ The Explorer: engages in significant conversations to discover and understand th
 The Builder: builds bridges over and beyond the issues and obstacles that hinder others in their journey to Christ. Being a bridge building involves prayer and gentle persuasion.
 
 The Mentor: encourages others to follow Christ. Being a mentor involves helping others make relational connections to other believers and imparting foundational concepts for Christian living.
-
-### Order Online at Crupress.com
 
 TheExplorer Engageinsignificant conversationstodiscover andunderstandthespiri-tualjourneysofothers.
 
@@ -36,11 +34,11 @@ Beingabridgebuildingin-volvesprayerandgentle persuasion.Seepage5.
 
 TheMentor Encourageotherstofollow Christ.Beingamentorin-volveshelpingothers makerelationalconnec-tionstootherbelievers andimpartingfoundational conceptsforChristianliv-ing.Seepage6.
 
-## CoJourners
+## Cojourners
 
-## CoJourners
+## Cojourners
 
-Everyoneisonaspiritualjourney.Wecan’thelpit.Godcreatedusthatway. Granted,somearemovingtowardGodandothersaremovingawayfromHim. Somepursuegodswhoaren’tGodatall.Othersarestuckinaspiritualquagmire andarenotgoinganywhere.Therearethosewhoarespirituallyopen,whileothers areclosed.Somearespirituallyinvolved;somearenot.Butineachandeverycase, theyareonaspiritualjourney.
+Everyoneisonaspiritualjourney.Wecan’thelpit.Godcreatedusthatway. Granted,somearemovingtowardGodandothersaremovingawayfromHim. Somepursuegodswhoaren’Tgodatall.Othersarestuckinaspiritualquagmire andarenotgoinganywhere.Therearethosewhoarespirituallyopen,whileothers areclosed.Somearespirituallyinvolved;somearenot.Butineachandeverycase, theyareonaspiritualjourney.
 
 Here is a second fact you can counton—Godisalreadyatworkin people’s lives, whether they ever glanceheavenwardornot.Heisnot apassiveobserverorashut-indes-peratelyhopingforvisitors.No,heis anactiveandalmightyparticipant: theLordoftheHarvestwhosends workers into his harvest field (Matthew9:37-38);theGodwhocreatedallpeopleandnations determining“thetimessetforthemandtheexactplaceswhere theyshouldlive…thatmenwouldseekhimandperhapsreach outforhimandfindhim”(Acts17:26-27).HisSpiritisatworkin thelivesofpeopletoday(John16:7-11)andhe’sgivenusthepriv-ilegeofbeinghis“fellowworkers”(1Corinthians3:9)byentering thespiritualjourneysofothersandhelpingthemcometoJesus. Thereisonemorefoundationalinsight—peopleliketotravel together.It’strueonroadtripsandoncross-countryflights.Even climbingMt.Everest,youwanttotakeaSherpaortwoalong. AndI’mconvincedit’strueonspiritualjourneysaswell.Now, obviouslymostpeopledon’tthinkofspiritualjourneysasaso-cialendeavor.We’vebeenraisedtoobeytheeleventhcommand-ment,“Keep thy religious views to thyself—thank you very much.”Buthere’sthekey—whilespiritualjourneysarepersonal, they’renotprivate.Wearedesignedasspiritualandrelational beings.Thatmeansevenaspiritualjourneywillbeenhanced inrelationship.Alwayshasbeen,alwayswillbe—ducksquack, dogsbark,peopletalk.Theinescapablecorrelativeofallthisis rathersimple:peopleneedpeopleintheirspiritualjourneys. Thereisalsoasurpriseinthis.Listencarefully—despitepublic Keith Davy is the National Director of Research and Development for Campus Crusade for Christ. His Orlando-based ministry keeps him writing, speaking, and consulting with ministry leaders, especially in the area of evangelism. When given the opportunity, he loves to go camping with his family, especiallyinthemountainsofColorado. opinion,relationshipscanoftenbe enhancedbyspiritualconversation.
 
@@ -78,7 +76,7 @@ That’stheroleoftheexplorer—todiscoverwhotheyareand whattheirstoryis.Thisdisc
 
 Hereisanexample:IsatnexttoRobertonaflight.Whatdo youknowaboutRobertspiritually?Unlessyouarespeedreading thissectionwithoutthinking,youprobablyanswered,“Nothing.” Butthereisonethingyoudoknow,right?Factnumber1:Heis onaspiritualjourney.
 
-Soletmegiveyouanotherclue.He’sFrench—aFrenchden-tist,asamatteroffact.Nowwhatdoyouthink?Ishespiritually nearorspirituallyfar?Moreclues:heconsidershimselfaFrench humanist.Hmm…Humanismisaman-centeredworldview andnotthepathyounormallythinkofasleadingtoChrist.So probablyspirituallyfar,right?
+Soletmegiveyouanotherclue.He’Sfrench—Afrenchden-tist,asamatteroffact.Nowwhatdoyouthink?Ishespiritually nearorspirituallyfar?Moreclues:heconsidershimselfaFrench humanist.Hmm…Humanismisaman-centeredworldview andnotthepathyounormallythinkofasleadingtoChrist.So probablyspirituallyfar,right?
 
 AsIcontinuedtoexploreRobert’sexperiencesandopinions, Idiscoveredthatheconsideredthechurchinhisowncountryas irrelevanttotheneedsofsociety—notagoodsign.Herewe haveaFrenchhumanistdisillusionedbythechurch.It’ssound-ingmoreandmoredistant.
 
@@ -114,7 +112,7 @@ TheGuideShowingtheWaytoJesus Whathappenswhenyoudiscoversomeonewhoisspiritually o
 
 YourStory:ShareItBriefly Whatistheprerequisiteforbeingaguide?It’sfirst-hand experienceoftheroute,right?Youarenotgoingtochooseaguide whohasneverbeenwhereyouwanttogo.No,agoodguidehas personalknowledgeofthejourneyahead.Thinkoftheimplica-tionofthis.IfyouknowChristasyourpersonalSaviorandLord, ifyouhavecometohiminfaith,youqualifyasaguide.Eventhe immoralSamaritanwomancouldserveasaguideforhervillage justmomentsafterencounteringJesus.ReadtheaccountinJohn 4.IfGodcanuseherone-sentence,seven-wordstory(“Hetold meeverythingIeverdid”)toleadmanyvillagerstofaith(as seeninJohn4:39),thenhecanuseyours!
 
-Here is what is exciting about being a Co- Journer. After you have explored the lives andexperiencesofothers,theywillnaturally be interested in your story.Often they will turntheconversationandaskaboutyou.
+Here is what is exciting about being a Co-Journer. After you have explored the lives andexperiencesofothers,theywillnaturally be interested in your story.Often they will turntheconversationandaskaboutyou.
 
 HereiswhatisexcitingaboutbeingaCoJourner.Afteryou haveexploredthelivesandexperiencesofothers,theywillnat-urallybeinterestedinyourstory.Oftentheywillturntheconver-sationandaskaboutyou.Afterexploringthelifeandworkofan Muslimnephrologist(thatmeansIwaslearningalotaboutkid-neysandmedicine),heaskedaboutmyworkandministry.After listeningtoanaccountofthereligiouseducationofatwenty-somethingonaplane,heasked,“Sowhat’syourstory?”While exploringtheexperiencesofacollegestudentIjustmetona beach,heasked,“So,howdidyougetintoallthis?”Thiskindof responseiscommon.Butifapersondoesn’tinquireaboutyou, simplyask,“CanIsharealittlebitofmystory?”Justremember, itisalittlebitofyourstory.Fewwillwantthefulltwo-hour,cin-ematicversionofyourwholelifeexperience(nomatterhowex-citingyouthinkithasbeen.)Infact,theyprobablywon’twant theten-minuteversion.TrytheSamaritanwoman’smodel.She saiditallwithasentenceandanintriguingquestion(John4:29). Youmayneedtosharealittlemore.Butthepointis,don’tget carriedaway.
 
@@ -163,7 +161,7 @@ RelationalConnections There are three primary relational connections that new be
 1. HowcanIbesureofmysalvation?
 2. HowcanIexperienceGod’sloveandforgiveness? 3.HowcanIbefilledwiththeSpirit,walkinginhimmoment bymoment?
 4. HowdoIpray?
-5. HowdoIreadGod’sWord?
+5. HowdoIreadGod’Sword?
 
 6.Whatistheimportanceoffellowship?
 
@@ -189,7 +187,7 @@ IhavethoughtalotaboutacceptingChristinmylife,andIde-cidedthatlifeistootoughnotto
 
 Indeeditwasn’tacoincidence.Itwasadivineappointment. Afinalgroupofopportunitieswillcomethroughintentional outreach.Asyouareinvolvedwithyourlocalchurchorcampus ministry,youmayidentifyagroupofpeopletohelpreachfor Christ.Thiscouldbestudentsatyourschooloryoungprofes-sionals.Itmaybewithyourlocalchurch’soutreachtotheneedy. Theopportunitiesareendlessforthosewhoseekthem. TheAdventureContinues Well,thereyouhaveit—anoverviewoftheCoJournerroles andprinciples.Thereareplentyofotherresourcesavailableto helpequipandencourageyouasyoumoveahead.Asyoudo,you willdiscoverthatnothingisasrewardingasseeingGoduseyou tohelpanotherpersoncometoChrist.AtThanksgivingacouple ofyearsago,Ireceivedane-mailfromasoftwareengineerfrom Boston.Inithewrote, “Ican'tbelievethatitisalmostThanksgiving,andastheday approachesIlookbackonallthethingsIhavetobethankfulfor thisyear.Topsonmylististhenotso"chancemeeting"wehadon the airplane.I believe that God seated you next to me to let me knowthatthedoorwasopentocomebacktoHim,andthatJesus' hand was always there to welcome me… I just want to say THANKSforhelpingtoleadmebacktoJesus.”
 
-Remember:Everyoneisonaspiritualjourney.Godisalready atworkandhewantstouseyou.Thatiswhatitmeanstobea CoJourner! ©2007,CruPress.CampusCrusadeforChrist.Allrightsreserved. CoJournersOutline Introduction A.Everyoneisonaspiritualjourney.
+Remember:Everyoneisonaspiritualjourney.Godisalready atworkandhewantstouseyou.Thatiswhatitmeanstobea CoJourner! CampusCrusadeforChrist.Allrightsreserved. CoJournersOutline Introduction A.Everyoneisonaspiritualjourney.
 
 B.Godisatwork.(Matt.9:37-38;Acts17:26-27;John16:7-11) C.Hewantstouseyou.(1Corinthians3:9)
 
@@ -197,7 +195,7 @@ D.Therearefourroles:Explorer,Guide,BuilderandMentor. I.AnExplorer–DiscoveringS
 
 2.Forcommonground.
 
-3.Forunmetneeds 4.FortracesoftheSpirit B.AskingQuestions 1.Exploringpastexperiences 2.Exploringpresentattitudes 3.Exploringfuturedesires II.AGuide–ShowingtheWaytoJesus A.InvitingintoChristiancommunity B.Sharingyourlifestory C.Explainingthegospel 1.Withaverse–Romans6:23 2.Withoutline(WouldYouLiketoKnowGodPersonally?) III.ABuilder–HelpingOverandBeyondObstacles A.Prayer B.GentlePersuasion 1.WordofGod 2.PersonalExperiences 3.InsightfulQuestions 4.MeaningfulStories IV.AMentor–EncouragingSpiritualGrowth A.RelationalConnections 1.One-on-one 2.Asmallgroupofbelievingfriends 3.Acommunityoffaith B.LifeConcepts 1.Assurance 2.God’sLoveandForgiveness 3.TheFillingoftheSpirit 4.WalkingintheSpirit 5.Prayer 6.God’sWord 7.Fellowship 8.Witness Conclusion–MakingtheMostofEveryOpportunity A.Withprioritypeopleonyourprayerlist B.Withdivineappointments C.Instrategicoutreach CoJournerQuestionsforDiscussionorReflection 1. Whatdifferencedoesthetruththat“everyoneisona spiritualjourney”makeotyourviewofwitnessing?
+3.Forunmetneeds 4.FortracesoftheSpirit B.AskingQuestions 1.Exploringpastexperiences 2.Exploringpresentattitudes 3.Exploringfuturedesires II.AGuide–ShowingtheWaytoJesus A.InvitingintoChristiancommunity B.Sharingyourlifestory C.Explainingthegospel 1.Withaverse–Romans6:23 2.Withoutline(WouldYouLiketoKnowGodPersonally?) III.ABuilder–HelpingOverandBeyondObstacles A.Prayer B.GentlePersuasion 1.WordofGod 2.PersonalExperiences 3.InsightfulQuestions 4.MeaningfulStories IV.AMentor–EncouragingSpiritualGrowth A.RelationalConnections 1.One-on-one 2.Asmallgroupofbelievingfriends 3.Acommunityoffaith B.LifeConcepts 1.Assurance 2.God’sLoveandForgiveness 3.TheFillingoftheSpirit 4.WalkingintheSpirit 5.Prayer 6.God’Sword 7.Fellowship 8.Witness Conclusion–MakingtheMostofEveryOpportunity A.Withprioritypeopleonyourprayerlist B.Withdivineappointments C.Instrategicoutreach CoJournerQuestionsforDiscussionorReflection 1. Whatdifferencedoesthetruththat“everyoneisona spiritualjourney”makeotyourviewofwitnessing?
 
 2. Whydowesoeasilyforgetthateverypersonisona spiritualjourney?
 3. Howdoeseachofthefollowingversesaffectyourconfi-denceinwitnessing?Matthews9:37-38;Acts17:26-27; John16:7-11.
@@ -219,7 +217,7 @@ CoJournerResourceOptions ThegrowingfamilyofCoJournerresourcesexistsfortwopur-pos
 1. To encourage and equip you to be more effective for conversationalwitnessinanapproachappropriateto today’sculture.
 2. Toenableyoutoencourageandequipothersthroughread-ilyavailable,economical(thatmeans,cheaporfree)and easilytransferableconceptsandresources.
 
-CoJournerWebsite YourfirststopinexploringadditionalCoJournersresourcesis thewebsite: www.cojourners.org.Thereyouwillfindadditional perspectives and principles, training resources, access to a devotionalandsmallgroupdiscussions,aBiblestudyondevel-opingabiblicalphilosophyofevangelismand,ofcourse,ablog. Allresourcesonthesitearefreeforuseanddownload.Justgo to: www.cojourners.org TheCoJournerTrainingSessions Group training in CoJourner concepts can be adapted to a arietyofsettings.Manyuseaone-sessionoverviewtointroduce CoJournerconcepts.Itisessentiallythecontentfoundinthis introduction. A more complete five-session training is the primarytrainingformat.Whilethesessionscanbedeliveredin a weekend conference,the five-week format makes an ideal outreachemphasismonth.Teachingnotes,note-takingoutlines and an adaptable PowerPoint are all free and available at www.cojourners.org.Thesessionsinclude:
+CoJournerWebsite YourfirststopinexploringadditionalCoJournersresourcesis thewebsite: www.cojourners.org.Thereyouwillfindadditional perspectives and principles, training resources, access to a devotionalandsmallgroupdiscussions,Abiblestudyondevel-opingabiblicalphilosophyofevangelismand,ofcourse,ablog. Allresourcesonthesitearefreeforuseanddownload.Justgo to: www.cojourners.org TheCoJournerTrainingSessions Group training in CoJourner concepts can be adapted to a arietyofsettings.Manyuseaone-sessionoverviewtointroduce CoJournerconcepts.Itisessentiallythecontentfoundinthis introduction. A more complete five-session training is the primarytrainingformat.Whilethesessionscanbedeliveredin a weekend conference,the five-week format makes an ideal outreachemphasismonth.Teachingnotes,note-takingoutlines and an adaptable PowerPoint are all free and available at www.cojourners.org.Thesessionsinclude:
 
 Thesessionsinclude:
 

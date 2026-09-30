@@ -16,11 +16,9 @@ The InTransition Workbook/Magazine equips and prepares graduating seniors to tra
 
 Single life, finances, life-transitions, the will of God, a theology of work, evangelism in the real world: InTransition addresses all the critical issues of a successful transition from campus-a resource for the last and most neglected phase of campus discipleship.
 
-### Order Online at Crupress.com
+## Commuting
 
-## Commut- Ing Commuting
-
-COMMUTING// IN TRANSITION FROM POINT A TO POINT B BY MAT WEISS IN TRANSITION FROM POINT A TO POINT B  © 2010, CruPress, All Rights Reserved. CruPress.com
+COMMUTING// IN TRANSITION FROM POINT A TO POINT B BY MAT WEISS IN TRANSITION FROM POINT A TO POINT B 
 
 My transition from university to full-time work was just how I like my life-changing experiences to be: abrupt and dramatic. After graduation, I landed a pretty decent job (it had “analyst” in the title), bought a brand-new truck, and began wondering where I’d get an apartment. Things were looking good. The Friday before I was to start my new job, my parents’ house, where I was still living at the time, burned down. I literally lost everything but the clothes on my back, and I had to throw those away due to smoke and soot damage.
 
@@ -68,13 +66,11 @@ Well, you’re probably going to experience significant change in almost all of 
 
 Well, an important part of a successful transition is simply recognizing that you are in a transition and knowing the areas of your life where you should expect a loss of equilibrium. Important parts of your life are in flux, and sometimes it is hard to see the forest for the trees. Things may not feel right anymore, and you may not know why. You may feel stressed. With that stress, depression and anxiety (they’re kissing cousins) creep in. Before you know it, your world is upside down, and you might not know why or know how to set it right again.
 
-###  © 2010, CruPress, All Rights Reserved. CruPress.com
-
 Some of the ways you may experience this stress include doubt (feelings of being out of God’s will), lack of motivation, sleeping more or less than you used to, a fall into bad habits at home, escapism (watching even more TV or playing even more video games), a change in eating habits, and my personal favorites: irritability and a lack of concentration. healthier response is to use your transition as a time to draw closer to God. Continue doing the right things, the things you know to do. Why are you making this transition sound so bad?
 
 Experiencing these things is normal, and it is not wrong. As you get used to the changes, your life will feel normal again. Trust me, it will. There are, however, healthy and unhealthy responses to stress. Without realizing it, you may be responding in unhealthy ways, such as overeat-ing, escaping into video games and television, and isolating yourself. A Transitions aren’t all bad. Often the new life before us is an improve-ment over the way things were. It’s just going to take a little while to get there, and transition is the necessary path to this better life. What we are trying to do is negotiate the transition in such a way that our trajectory doesn’t go off course—away from intimacy with Christ, away from a fruitful life. Unfortunately, the best way to prepare for this transition is to face reality and in so doing normalize what will feel abnormal.
 
-### Non-negotiables Non-negotiables
+### Non-negotiables
 
 Okay, having thought through which areas in our lives might be chang-ing, the next thing we need to identify is how these changes are going to affect the nonnegotiables in our life. Nonnegotiables are those things that you believe are so essential to your walk with God and fruitfulness that if you don’t keep up with them, you’re going to spiral out of control.
 
@@ -100,7 +96,7 @@ It may even be more helpful to connect with your close Christian friends from co
 
 In your first year after graduation you should consider planning two or three time-outs like this to gain objectivity on where the stream of transitions has brought you.
 
-###  © 2010, CruPress, All Rights Reserved. CruPress.com N
+ N
 
 As Christians, we all long to hear Jesus say, “Well done, good and faithful servant,” as we stand before Him at the end of our lives. How we transition to this next phase of life, which is really the bulk of our lives, is extremely important if we are to hear those words. To prepare for that transition, we need to be aware of those aspects of our life that are changing and how those changes will impact us. Identifying steps we can take to ensure that our support structures and nonnegotiables remain intact is important. And in the execution of these steps (let me again remind you), accountability is essential.
 

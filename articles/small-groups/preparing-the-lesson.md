@@ -19,13 +19,11 @@ The Ultimate Roadtrip was written to communicate all of the subtle, and not so s
 
 Chapter Topics: Lesson Preparation, Lesson Content, Creating Community, Groups With a Purpose, The Right Questions, Facilitating Life Change, Common Roadblocks and Problems, Incorporating Outreach, and Qualities of a Successful Group Leader. THE ULTIMATE ROADTRIP
 
-### Order Online at Crupress.com
-
-## hitting the road
+## Hitting the road
 
 6.1 Preparing the Lesson 6.2 Planning the Group Session 6.3 Desiging the Right Environment 6.4 Ten Suggestions for the First Meeting 6.5 After Your First Meeting 6.1 Preparing the Lesson
 
-## There are two important phases to preparing a lesson:
+## There are two important phases to preparing a lesson
 
 First: Apply the lesson yourself.
 
@@ -53,7 +51,7 @@ Select questions and activities that will help group members discover and ap‑ 
 
 After you get a good grasp on the lesson, you can choose the various ele‑ ments which make up your meeting, such as icebreakers (relationship-build‑ ing activities) and prayer. chapter 6 hitting the road 6.2 Planning Your Group Session
 
-## Several questions may come to mind as you plan the group session: What
+Several questions may come to mind as you plan the group session: What
 
 elements should I include in the group this week? How long should I spend on each element, such as the lesson, prayer, fellowship, etc.? How can I best structure the group session to meet the needs of those in the group? Think about a small group you liked. What made it enjoyable? Your leader probably did some fun things to help members get to know each other. You might have spent time praying. You studied the Bible. You might have gone somewhere together as a group. Think through these issues as you determine what to include in each group session:
 
@@ -108,13 +106,13 @@ The crucial point in planning your group time is to wisely structure each elemen
 
 6.3 Designing the Right Environment
 
-## A key element to every group is the mood or tone. What happens apart
+A key element to every group is the mood or tone. What happens apart
 
 from the content helps to enhance (or sometimes destroy) your group mem bers‘ experiences. Some groups seem to soar, partly because of a com‑ fortable environment.
 
 The Pause That Refreshes There are times when the women in my Bible study are really struggling or discouraged. On days like this sometimes we spend more time sharing prayer requests and encouraging each other to trust God. When I take time to meet their needs, it shows I care about them. The women really appreciate these times.
 
-Lori’s Offering I was holding the second meeting of a new Bible study with some women at Louisiana Tech. In the first meeting I had told the girls they could pay for their Bible study books at the next meeting. One of the girl’s first visit to the group was at the second meeting. She arrived late just as the girls were passing their three dollars for the books to me. The meeting time ended and as this girl left she pressed a couple dollar bills into my hand and said, “Thank you.” I guess she thought we had just collected an offering. Jesus knew the influence of environment in learning. He taught about the resurrection outside the tomb of Lazarus and about His identity amid the natural beauty of Caesarea Philippi. He taught about prayer in the Garden of THE ULTIMATE ROADTRIP Gethsemane, about faith in a boat, righteous anger in the temple, and evan‑ gelism beside a dusty well in a Samaritan village. Each change in environment brought an opportunity to teach another truth. (Don’t take this too far. You don‘t have to move your group every week to match your topic.) Think about the atmosphere you‘ll be creating in your small group. Ask yourself, ”What can I do to communicate to my group that this is a safe place Bad Environments for Small Groups •  Your roommate’s “Naughty Cheerleaders of the Big Ten” poster makes the guys drool like leaky faucets. •  The phone rings regularly during the group. When it does, everyone stops talking and listens to the person talking on the phone. •  The guys in your afternoon Bible study nod lethargically after coming down from a sugar high brought on by a lunch of Snickers and Mountain Dew. •  Your roommate keeps coming in every five minutes, saying, “I just need to grab one more thing, and I promise I won’t bother you again.” •  A local rock group rehearses in the room above you. •  The room is so dark and musty that sewer workers regularly walk through wearing those lighted helmets. •  The room gets so hot that sometimes the members of your Bible study literally become on fire for the Lord. for them to come? How can I help people be comfortable? How do I mini mize distractions? What condi tions will enhance learning?“ Developing the right environment helps establish a sense of belonging. The environ ment will influence how people feel about your group, how well they learn, and if they will come back.
+Lori’s Offering I was holding the second meeting of a new Bible study with some women at Louisiana Tech. In the first meeting I had told the girls they could pay for their Bible study books at the next meeting. One of the girl’s first visit to the group was at the second meeting. She arrived late just as the girls were passing their three dollars for the books to me. The meeting time ended and as this girl left she pressed a couple dollar bills into my hand and said, “Thank you.” I guess she thought we had just collected an offering. Jesus knew the influence of environment in learning. He taught about the resurrection outside the tomb of Lazarus and about His identity amid the natural beauty of Caesarea Philippi. He taught about prayer in the Garden of THE ULTIMATE ROADTRIP Gethsemane, about faith in a boat, righteous anger in the temple, and evan‑ gelism beside a dusty well in a Samaritan village. Each change in environment brought an opportunity to teach another truth. (Don’t take this too far. You don‘t have to move your group every week to match your topic.) Think about the atmosphere you‘ll be creating in your small group. Ask yourself, ”What can I do to communicate to my group that this is a safe place Bad Environments for Small Groups ·  Your roommate’s “Naughty Cheerleaders of the Big Ten” poster makes the guys drool like leaky faucets. ·  The phone rings regularly during the group. When it does, everyone stops talking and listens to the person talking on the phone. ·  The guys in your afternoon Bible study nod lethargically after coming down from a sugar high brought on by a lunch of Snickers and Mountain Dew. ·  Your roommate keeps coming in every five minutes, saying, “I just need to grab one more thing, and I promise I won’t bother you again.” ·  A local rock group rehearses in the room above you. ·  The room is so dark and musty that sewer workers regularly walk through wearing those lighted helmets. ·  The room gets so hot that sometimes the members of your Bible study literally become on fire for the Lord. for them to come? How can I help people be comfortable? How do I mini mize distractions? What condi tions will enhance learning?“ Developing the right environment helps establish a sense of belonging. The environ ment will influence how people feel about your group, how well they learn, and if they will come back.
 
 Here are some keys to creating a good environment:
 
@@ -129,7 +127,7 @@ Here are some keys to creating a good environment:
 
 THE ULTIMATE ROADTRIP 6.4 Ten Suggestions For the First Group Meeting
 
-## The first group meeting is a crucial one. People will some times decide
+The first group meeting is a crucial one. People will some times decide
 
 whether they will return based on this meeting. It‘s also a unique meeting since sometimes group members are unfamiliar with each other, you, where to meet, etc. Don’t be surprised if your first meeting takes a lot of energy and time to get going. It’s worth it to make it a success.
 
@@ -161,7 +159,7 @@ Sample Schedule for Your First Meeting
 
 8 Don’t blow people away with your big words, grandiose dreams or spiritu ality. If you start your fresh man group with a lecture on how this group is going to reach the world, you might not have a group left.
 
-THE ULTIMATE ROADTRIP 9 Be real. Share with the group some of your own journey with the Lord—your ups and downs along the way. Put yourself in their shoes. Remember, they probably don’t know what to expect, so help them feel at ease. 10  Be positive when asking people to come each week. You might say some‑ thing like, “You know, one of the things I’m looking forward to about this group is getting to know each other. If seven of us are here one week and four different people the next, we’ll never develop a sense of unity, and we’ll never get to know each other. I’ll be here every week and hopefully every one will be able to make this time a priority so we can get to know each other.” Follow up with each person later and ask if they think they can attend the group regularly. Give them room to say “no,” but encourage them. 6.5 After Your First Group Meeting • Take some time to thank God for your group and the meeting time.
+THE ULTIMATE ROADTRIP 9 Be real. Share with the group some of your own journey with the Lord—your ups and downs along the way. Put yourself in their shoes. Remember, they probably don’t know what to expect, so help them feel at ease. 10  Be positive when asking people to come each week. You might say some‑ thing like, “You know, one of the things I’m looking forward to about this group is getting to know each other. If seven of us are here one week and four different people the next, we’ll never develop a sense of unity, and we’ll never get to know each other. I’ll be here every week and hopefully every one will be able to make this time a priority so we can get to know each other.” Follow up with each person later and ask if they think they can attend the group regularly. Give them room to say “no,” but encourage them. 6.5 After Your First Group Meeting · Take some time to thank God for your group and the meeting time.
 
 - Try to drop by and see each member at least once before the next meeting to get to know them better and get feedback. You might do something social, but don’t force yourself on them. Let them know you care about them as a person.
 - For the first couple weeks remind your group about the meeting a day or so before. This can easily be done with a short phone call. After a couple of weeks it will be in their schedule. chapter 6 hitting the road For Thought / Discussion 1 Share your first small group experiences. What can you learn, good and bad, from them?

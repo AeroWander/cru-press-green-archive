@@ -12,7 +12,7 @@ summary: "Transferable Concept Four by Dr. Bill Bright, introducing the concept 
 source: "Discipleship/Basic Growth Concepts/Transferable Concepts/How To Walk in the Spirit.pdf"
 ---
 
-## Dr. Bill Bright Transferable Concept Four
+## Transferable Concept Four
 
 If you have been living in spiritual defeat -- powerless and fruitless, wondering if there is any validity to the Christian life -- there is hope for you! What greater promise could Christ offer to the Christian than the assurance that he can walk daily in the power of the Holy Spirit, the Spirit of Jesus Christ, and experience an abundant and fruitful life of purpose and adventure? Here is His promise:
 
@@ -78,7 +78,7 @@ And the promise is found in 1 John 5:14,15: Ask him for anything in line with hi
 
 Then continue to breathe spiritually, exhaling whenever the Holy Spirit reveals sin that you need to confess and inhaling as you go on walking in the fullness and control of the Spirit by faith. Some Christians breathe spiritually faster and more often than others.
 
-## Don’t Rely on Feelings
+Don’t Rely on Feelings
 
 Do not depend upon feelings. Tied as they are to your ever-changing circumstances, feelings are unreliable in evaluating your relationship with God. The unchanging promises of God’s Word, not your feelings, are your authority. The Christian is to live by faith, trusting in the trustworthiness of God Himself and His Word. A train is a good illustration of the relationship between fact, faith and feeling. Let us call the train engine “fact” -- the fact of God’s promises found in His Word. The fuel car we will call “faith” — your trust in God and His Word. The caboose we will call “feelings.”
 

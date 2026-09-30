@@ -16,8 +16,6 @@ source: "Evangelism/traning/CoJourner Equipment Pack.pdf"
 
 CoJourners is not a specific resource; rather it is an equipping paradigm, which provides an effective way of thinking about and teaching personal evangelism. There are currently three CoJourners products that support and teach this evangelism approach. This is the CoJourners Equiptment Pack for use in small groups. A typical small group balances personal sharing, Bible study, and prayer. However, an often neglected, yet equally important, dimension of small groups is ministry training. The CoJourners Equipment Pack addresses this ministry component by providing practical evangelism discussions and action steps. This does not replace the Bible study content, but rather supplements an element of ministry training.
 
-## Order Online at Crupress.com
-
 COJOURNERS No _ 2.1 | EXPLORER _ 2.2 | EXPLORER Is there a window in the room? Stand on the other side of the room and describe what you can see through it. Now move closer to the window. What do you see? There is a principle at work – the closer you get the more you see. The same principle works within everyday conversations. Casual comments can often be windows to a person’s soul. These are conversational clues. On the surface they appear to be casual comments, but if you investigate with questions, you discover there is much more to be seen.
 
 - Name examples of common conversational clues you might hear.
@@ -124,7 +122,7 @@ Make a plan with your small group to get training in how to share the gospel wit
 - Read 2 Corinthians 4:4 and 10:4, 5. What insights do these verses provide about obstacles?
 - What other verses give insights into dealing with spiritual obstacles? _ 4.3 | BUILDER
 
-## il ld Jesus was the master when it
+il ld Jesus was the master when it
 
 came to building bridges to help people on their spiritual journeys. But he didn’t always use the same bridge. Nor did he always have the same results.
 
@@ -145,7 +143,7 @@ When a person comes to an obstacle on their path, they need a bridge to help the
 
 Try it out. Break into groups of threes. Have one person take the role of someone who is spiritually stuck. Let another try to under-stand the issue conversationally, while the third observes. After each has had a turn, discuss the approaches. What was best? What suggestions do you have? Bridge building begins with understanding.
 
-## de er r
+## De er r
 
 _ 4.4 | BUILDER Now compare the two incidents and the results.
 
@@ -165,8 +163,6 @@ There are three common bridges.
 3. Stories–Is there a story or an illustration that will help the person see the issue in another way?
 - Identify a common obstacle that keeps people from coming to Jesus.
 - What verses speak to the issue? What questions can you use to reframe the issue? What story or illustration could be used? Review the obstacles you have identified in conversation with others. Try to think of an appropriate bridge you could use next time someone brings up each issue. Gentle persuasion helps you build bridges for others who are stuck. _ 5.1 | MENTOR _ 5.2 | MENTOR
-
-## ag ge e
 
 As you explore other peoples’ spiritual journeys, you will discover a number who have come to know Christ, but who now appear to be struggling or headed in the wrong direction. What they need is help getting turned around. The Satisfied? booklet contains a message applicable for this situation. It communicates four key principles:
 
@@ -190,8 +186,6 @@ The apostle Paul’s relationship to the new believers in Thessalon-ica provides
 3. Write to them, or provide them something appropriate to read. (1 and 2 Thessalonians)
 4. Connect them with other believers. (1 Thessalonians 1:3; 3:6; 4:9, 10; 5:11, 12-15, 26-27)
 5. Have another Christian leader connect with them. (1 Thessalonians 3:1, 2) _ 5.3 | MENTOR _ 5.4 | MENTOR
-
-## ep pt ts s
 
 People grow spiritually in the context of relationships, and mentors can be the ones to guide new believers into these healthy com-munities of relationships. Followers of Christ need three primary relationships. They are:
 
@@ -229,17 +223,15 @@ Young believers need an active caregiver to help them grow.
 4. Unprepared–Galatians 5:16-26
 5. Undeveloped–Acts 2:42-47 These issues and passages can be discussed together with a young believer by using Life Concepts. You can download copies of Life Concepts from www.godsquad.com/Squadroom /Discipleship/lifeconcepts.htm or acquire them from a Campus Crusade staff member. Study and master one concept a week and prepare to share them with others. A mentor grounds new believers in essential Biblical concepts. _ 1.1 | MOTIVATION
 
-## im m
+im m
 
 Love compels witness – a love for God and a love for others. Those who love God, pursue his glory. Those who love others, seek their good. Seeking God’s glory and others’ good are both accomplished as we share the gospel. We glorify God when we make him known. When we genuinely love God, we want others to know him so that he will be honored and glorified by them. The other side of the coin is that nothing could be better for a person than to know God. So God’s glory and others' greatest good come together when we make God known. That is why love compels witness. _ 1.3 | MOTIVATION
 
-## le e
+le e
 
 The Great Commission begins with these words from Jesus: ”All authority in heaven and on earth has been given to me. Therefore go and make disciples of all nations…” (Matthew 28:18, 19). The early believers understood the implications of Jesus having “all authority.” They were unstoppable. When the local authorities commanded them to quit talking about Jesus, they replied, “Judge for yourselves whether it is right in God’s sight to obey you rather than God. For we cannot help speaking about what we have seen and heard” (Acts 4:19, 20).
 
 To be accurate, history reveals one way the lower authorities did stop those acting under Jesus’ command. They killed them. First it was Stephen (Acts 7:57-60). Then it was James (Acts 12:2). They were followed by countless others _ 1.2 | MOTIVATION
-
-## ti io on n
 
 Discuss John 17:1-5:
 
@@ -261,8 +253,6 @@ When Jesus saw the crowds, he experienced compassion for them because “they we
 - Why do we fail to recognize the real needs in others’ lives? Each day this week, ask God to show you the real needs of others, especially their need for the Shepherd.
 
 Compassion is love focused on a lost person's need. _ 1.4 | MOTIVATION
-
-## ng gt th h
 
 who were killed because of their faith in Christ. It became so common that martus, the Greek word for witness, began to bear the meaning of one who would give his life for what he believed and testified to. Martus is the root from which we get the English word martyr.
 

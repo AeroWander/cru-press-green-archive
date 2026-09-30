@@ -13,6 +13,6 @@ also_filed: ["Small Groups and Meetings/Posters and Publicity copy/Bible Study F
 
 Jesus wasn’t like Mr. Rogers or Ronald McDonald. He wasn’t like Santa Claus. He probably wasn’t even like any of the christians you know. But what was he like? Come and join the discussion.
 
-## check out a cru. bible study/discussion
+check out a cru. bible study/discussion
 
 DATE/TIME/PLACE

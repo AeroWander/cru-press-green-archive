@@ -18,7 +18,12 @@ Person of Lordship – filled with the Holy Spirit and walking by faith. (Ephesi
 
 All of us are in process of growing and developing as individuals and leaders. None of us have arrived, but still there are qualities that people must have in order to lead others. Titus 1 and 1 Timothy 3 gives us a list of the non-negotiable life-qualities that spiritual leaders should possess and be continuing to grow in. The attributes are a combination of character, maturity and track record. The list gives us a way of determining who is ready for leadership.
 
-Person of character – moral and ethical strength; integrity (2 Timothy 2:2): • Faithful – reliable, makes and keeps promises and commitments, completes tasks • Available – “here am I” spirit • Teachable – a learner, humbly open to new ideas and constructive criticism • Servant heart – a giver not a taker, puts other’s needs ahead of his own Listed below are some of the characteristics necessary for a person to be a leader and part of the leadership team on a local campus.
+Person of character – moral and ethical strength; integrity (2 Timothy 2:2):
+
+- Faithful – reliable, makes and keeps promises and commitments, completes tasks
+- Available – “here am I” spirit
+- Teachable – a learner, humbly open to new ideas and constructive criticism
+- Servant heart – a giver not a taker, puts other’s needs ahead of his own Listed below are some of the characteristics necessary for a person to be a leader and part of the leadership team on a local campus.
 
 ## Other Important Qualities of a Leader
 
@@ -28,4 +33,4 @@ Dynamic Determination–The tenacity to set and complete goals and get the job d
 
 Person of faith – believes God for God-sized things and willing to step outside of their personal comfort zone to see Him work. (Hebrews 11:6, Mark 10:27) Intellectual Flexibility –The ability to think outside the box and to adapt your way of thinking to new variables. It is an important contribution to problem solving.
 
-Person of vision – knows where he is going and able to motivate others to follow him. (Proverbs 29:18) Emotional Well-Being – Can give and minister from the context of their own emotional contentment. © 2010, CruPress, All Rights Reserved. CruPress.com
+Person of vision – knows where he is going and able to motivate others to follow him. (Proverbs 29:18) Emotional Well-Being – Can give and minister from the context of their own emotional contentment.

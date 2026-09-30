@@ -26,11 +26,9 @@ To accomplish all of these objectives often takes a couple days, so if possible 
 
 What follows is an article describing a pre-school year staff retreat. Even if your missional team is not comprised of Campus Crusade staff the principles and points are relatively transferable.
 
-## Building a Movement:
+## Building a Movement
 
 ## Orienting Your Team
-
-### Eric Swanson
 
 Perhaps one of the toughest jobs a team leader has to do is that of preparing their team for the school year. Yours is a difficult task--that of building a family and preparing and equipping an army. What you do with your team during the days preceding the school year will largely determine the quality of your team relationships and the preparation of your team for the task ahead. on your team who has given any real thought to your ministry over the summer. So make sure you are.
 
@@ -48,7 +46,7 @@ If there is one person who needs to be prepared for the year, it is you as the l
 
 ### What Should I Do with Them?
 
-Vision and motivation are the products of knowing where you are going (real needs) and the quality of your relationships (felt needs). After the team has a day or two to settle in you may want to immediately jump into the work that needs to be done. This way they’ll feel like they have accomplished something and will be less anxious during your social and fun times together. This will be the entry point from their vacation back into the ministry. If you have all your recreation and fun times up front, people tend to feel anxious over how much there will be to do after the fun stops. Getting to work will also provide something to think about and discuss during their free time or social times. Honor them by giving some closure. • • Minister to the team from the Word Get all printing done.
+Vision and motivation are the products of knowing where you are going (real needs) and the quality of your relationships (felt needs). After the team has a day or two to settle in you may want to immediately jump into the work that needs to be done. This way they’ll feel like they have accomplished something and will be less anxious during your social and fun times together. This will be the entry point from their vacation back into the ministry. If you have all your recreation and fun times up front, people tend to feel anxious over how much there will be to do after the fun stops. Getting to work will also provide something to think about and discuss during their free time or social times. Honor them by giving some closure. Minister to the team from the Word Get all printing done.
 
 You can count your time successful if the team have gotten to know each other, they know what they have needed to know, and are prepared for the first events of the year.
 
@@ -60,7 +58,7 @@ After a couple of days of work some of the best leaders will reserve a day or so
 
 1. Orientation to the team and work environment. Shortly after arrival, give each team member a call. Teammates should drop by and offer any assistance they can to help others moving in. For new team members someone needs to show them around and orient them to the campus and town. Where is the bank? Where’s the K Mart? Where do you get your car fixed? Where’s the golf course?
 
-The following items may serve as a partial checklist of what you need to do before the year begins: In orienting new members of your team, what will be most helpful for them is to hear from other teammates how they spend their time: what their typical day looks like, how they accomplish their ministry, responsibilities, when they arrive and leave campus, what they do are in their off hours, etc. This can be accomplished formally at a Missional Team meeting or retreat or casually in running errands those first few days. • • • • • • • • • • • Go over the campus plan that all of you worked on in the Spring.
+The following items may serve as a partial checklist of what you need to do before the year begins: In orienting new members of your team, what will be most helpful for them is to hear from other teammates how they spend their time: what their typical day looks like, how they accomplish their ministry, responsibilities, when they arrive and leave campus, what they do are in their off hours, etc. This can be accomplished formally at a Missional Team meeting or retreat or casually in running errands those first few days. Go over the campus plan that all of you worked on in the Spring.
 
 Go over the campus calendar and weekly schedule.
 
@@ -72,13 +70,13 @@ Have them submit their personal semester plan. Re-invite students to the leaders
 
 Make detailed plan of the first 2-4 weeks. Assign or review delegated responsibilities Meet with your Co-Director if you have one Ideally each new team member will have someone assigned to them who will be responsible to coach and orientat them. If they are new to the campus then it’s a good idea to have them tag along with their “coach” or another teammate for the first two weeks of the school year.
 
-The initial student leadership meeting or retreat is typically the best time to introduce a new staff, intern, or team member to the key leadership students involved in the ministry, and for you as the team leader to introduce them in a way that platforms them and sets them up for success. Do everything within your power to “sew” them into the existing fabric of the ministry. personal times together. Areas you may want to cover 2. Orientation to Team policies, norms and local distinctives. This is where you discuss: • “How things are done around here.” • When and where you have your meetings as a Missional Team • • • • • • • • • • Team retreats Vacation policy Campus hours Team Bible studies Weekly schedule Expectations in evangelism Preparation for your Team meetings Small group system Your vision and philosophy of ministry Your local values and distinctives--what makes your ministry distinct are: • • • • • • • • • • Spiritual background Short and long range goals and aspirations Spiritual history Hobbies Three people they admires most What motivates or demotivates them Family background Ministry strengths and weaknesses Work habits and preferences Spiritual gifts, temperament, etc.
+The initial student leadership meeting or retreat is typically the best time to introduce a new staff, intern, or team member to the key leadership students involved in the ministry, and for you as the team leader to introduce them in a way that platforms them and sets them up for success. Do everything within your power to “sew” them into the existing fabric of the ministry. personal times together. Areas you may want to cover 2. Orientation to Team policies, norms and local distinctives. This is where you discuss: · “How things are done around here.” · When and where you have your meetings as a Missional Team Team retreats Vacation policy Campus hours Team Bible studies Weekly schedule Expectations in evangelism Preparation for your Team meetings Small group system Your vision and philosophy of ministry Your local values and distinctives--what makes your ministry distinct are: Spiritual background Short and long range goals and aspirations Spiritual history Hobbies Three people they admires most What motivates or demotivates them Family background Ministry strengths and weaknesses Work habits and preferences Spiritual gifts, temperament, etc.
 
 The better you know your new team member the more effectively you can minister to and motivate them. You know you have been successful in orienting them when they feel like they know what is going on, know what they are expected to do, and that they are an integral part of your team.
 
 3. Job Orientation.
 
-This is where you define what it is you are trying to accomplish on your campus. This is probably the only thing you or your co-leader must do personally with new members of the team. It is essential that he or she hears this from you—the campus ministry is an extension of your vision and what God has entrusted to you. • • • • • • • • • Go over your campus plan, or at least review it individually to give time for any questions he might have. Always explain “why you do what you do.”
+This is where you define what it is you are trying to accomplish on your campus. This is probably the only thing you or your co-leader must do personally with new members of the team. It is essential that he or she hears this from you—the campus ministry is an extension of your vision and what God has entrusted to you. Go over your campus plan, or at least review it individually to give time for any questions he might have. Always explain “why you do what you do.”
 
 Go over their position focus. Don’t forget this important aspect of orientation.
 

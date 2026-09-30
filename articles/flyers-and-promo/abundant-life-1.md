@@ -11,15 +11,15 @@ source: "Small Groups and Meetings/Posters and Publicity copy/Weekly Meeting Pos
 also_filed: ["Small Groups and Meetings/Posters and Publicity copy/Weekly Meeting Posters —Abundant Life/Abundant Life 1 b_w.pdf"]
 ---
 
-### Jesus came, he told us, not to destroy life but that we may have it more abundantly,
+Jesus came, he told us, not to destroy life but that we may have it more abundantly,
 
 ## “life
 
 ## Life
 
-### to the
+to the
 
-## full.
+## Full.
 
 Paradoxically, we get this abundant life in ways we may not have counted on. We get it by investing in others, by taking courageous stands for justice, by ministering to the weak and needy, by pursuing God and not self.
 

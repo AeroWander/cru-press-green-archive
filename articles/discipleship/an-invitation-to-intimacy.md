@@ -15,8 +15,6 @@ also_filed: ["Discipleship/Basic Growth Concepts/Invitation to Intimacy.pdf"]
 
 The reason for the Critical Concept series is that there are important topics not covered in our Transferable Concepts that are, for any number of reasons, of critical concern to us today. Important concepts like this require more in-depth treatment, which is a discipleship challenge when so few are reading books. And so we have the Critical Concept series. Each article is roughly the length of a book chapter-about 16 pages. So it’s not a book, but it’s not a pamphlet either.
 
-### Order Online at Crupress.com
-
 Critical Concept Series
 
 ## White
@@ -91,7 +89,7 @@ Cast First we come to him with all our needs, and then we are invited to cast ou
 
 1 Peter 5:7 commands us: “Cast the whole of your care [all your anxieties, all your worries, all your concerns, once and for all] on Him; for He cares for you affectionately and cares about you watchfully” (Amplified Bible).
 
-I never cease to be amazed by this startling instruction. Did you notice what this verse is asking us to do, and why? God wants us to bring him everything that concerns us because he loves us. Amazing. And when we obey and do exactly as he asks, intimacy is deepened. But for many of us, this will be a whole new endeavor. We have become very comfortable in our prayer lives not really being honest with God about all the less-than-outstanding stuff in our lives. Many of us are uneasy praying in incomplete sentences. We like to be able to at least suggest a couple of ways the Lord could answer! But sometimes the problems at hand are too messy even to suggest possible solutions.
+I never cease to be amazed by this startling instruction. Did you notice what this verse is asking us to do, and why? God wants us to bring him everything that concerns us because he loves us. Amazing. And when we obey and do exactly as he asks, intimacy is deepened. But for many of us, this will be a whole new endeavor. We have become very comfortable in our prayer lives not really being honest with God about all the less-than-outstanding stuffin our lives. Many of us are uneasy praying in incomplete sentences. We like to be able to at least suggest a couple of ways the Lord could answer! But sometimes the problems at hand are too messy even to suggest possible solutions.
 
 One day, our daughter, Brooke, came up from her room in haste, asking for a pair of scissors. It was all about knots, the knots in her shoelace that would not come out. A job needed to be done, and scissors would provide the only solution. She was quite convinced there would be no other way to remedy the situation. I said, “Brooke, I’ve been doing knots for a while so let me give it a crack.” She reluctantly handed over the shoe, and I was able to undo the mess. Before long, the shoe was on her foot and she was out the door.
 
@@ -202,21 +200,21 @@ I get preoccupied with things that don’t really matter or last. I know that if
 
 In all that I am today, all that I try to do, all my encounters, reflections, even frustrations and failings, and especially in this time of prayer—in all of this may I place my life in your hands. Lord, I am yours. Make me what you will. Amen.
 
-Footnotes 1 Richard J. Foster, Prayer: Finding the Heart’s True Home, Harper, San Francisco, CA, 1992, p. 1.
+Footnotes 1 Richard J. Foster, Prayer: Finding the Heart’s True Home, Harper, San Francisco, CA, 1992, p.
 
-2 Philip Yancy, Reaching for the Invisible God, Zondervan Publishing House, Grand Rapids, MI, 2000, pp. 164-165. 3 Max Lucado, The Great House of God, Word Publishing, Dallas, TX, 1997, p. 90.
+2 Philip Yancy, Reaching for the Invisible God, Zondervan Publishing House, Grand Rapids, MI, 2000, pp. 164-165. 3 Max Lucado, The Great House of God, Word Publishing, Dallas, TX, 1997, p.
 
 4 C.S. Lewis, as quoted in Rebuilding Your Broken World, Oliver-Nelson Books, A Division of Thomas Nelson, Inc., Nashville, TN, 1988, p. xiii.
 
-5 Richard J. Foster, Prayer: Finding the Heart’s True Home, Harper, San Francisco, CA, 1992, p. 1.
+5 Richard J. Foster, Prayer: Finding the Heart’s True Home, Harper, San Francisco, CA, 1992, p.
 
 6 Random House Webster’s Dictionary, Fourth Edition, Ballantine Books, New York, NY, 2001.
 
-7 Bill Hybels, Too Busy Not to Pray: Slowing Down to Be with God, InterVarsity Press, Downers Grove, IL, 1988, p. 7. 8 O. Hallesby, Prayer, Augsburg Publishing House, Minneapolis, MN, 1931, p. 17.
+7 Bill Hybels, Too Busy Not to Pray: Slowing Down to Be with God, InterVarsity Press, Downers Grove, IL, 1988, p. 7. 8 O. Hallesby, Prayer, Augsburg Publishing House, Minneapolis, MN, 1931, p.
 
 9 Webster’s New Student Dictionary, American Book Company, New York, NY, 1964.
 
-10 Richard J. Foster and Gayle D. Beebe, Longings for God, InterVarsity Press, Downers Grove, IL, 2009, p. 151. 11 S.D. Gordon, Quiet Talks on Prayer, Destiny Images Publishers, Shippensburg, PA, 2003, p. 77 12 Sylvia Gunter, Living in His Presence: Prayer Essentials II, The Father’s Business, Birmingham, AL, p. 31.
+10 Richard J. Foster and Gayle D. Beebe, Longings for God, InterVarsity Press, Downers Grove, IL, 2009, p. 151. 11 S.D. Gordon, Quiet Talks on Prayer, Destiny Images Publishers, Shippensburg, PA, 2003, p. 77 12 Sylvia Gunter, Living in His Presence: Prayer Essentials II, The Father’s Business, Birmingham, AL, p.
 
 13 Told by Brennan Manning at U.S. Staff Conference, Campus Crusade for Christ, 1999.
 
@@ -224,7 +222,7 @@ The Author Barbara Francis has been on staff with Campus Crusade for Christ for 
 
 Critical Concept Series Vol. 2 Published by CruPress Design: Devon Hoernschemeyer Series Editor: Rick James CruPress is the publishing division of the Campus Ministry.
 
-To Order go to: www.CruPress.com Or call 1.800.827.2788 ©2009, CruPress All rights reserved.
+To Order go to: www.CruPress.com Or call 1.800.827.2788
 
 Scriptures taken from the Holy Bible, New International Version ®NIV ®©1973, 1978, 1984 by International Bible Society. Used by permission.
 

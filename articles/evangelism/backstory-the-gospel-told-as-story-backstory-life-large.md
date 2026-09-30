@@ -27,9 +27,7 @@ The booklet goes on to explain the backstory which, of course, is the gospel:
 
 As you can see, Backstory provides a broader more comprehensive explanation of the gospel and thus a more compelling case for Christ.
 
-## Order Online at Crupress.com
-
-## How to Share “Backstory”
+How to Share “Backstory”
 
 1. Read aloud the black pages, beginning with the white text (the summary statements), followed by the Bible passages.
 
@@ -41,9 +39,7 @@ If not, look to continue the conversation, explore why, and give them the bookle
 
 Remember, it’s a conversation, not a presentation. Ask questions and listen well!
 
-2. To facilitate discussion of the content on the black pages, use the questions (Q///) and other content on the opposing white pages. Besides listening well to their answers, feel free to share your answers.
-
-## Using Backstory with Soularium
+2. To facilitate discussion of the content on the black pages, use the questions (Q ) and other content on the opposing white pages. Besides listening well to their answers, feel free to share your answers.
 
 Backstory is a tool that allows you to communicate God’s story (the Gospel) through dialogue. Think of it as a conversational guide rather than a presentation.
 
@@ -73,21 +69,21 @@ backstory backstory There are seven billion people in the world. Seven billion s
 
 Intimacy
 
-Q/// On a scale from 1 to 10, how would you rate your desire to know God? Q/// Do you see yourself moving closer to, or further away from God? Intimacy OUGHTNESS. Instilled in us is a longing for the ideal world and perfect intimacy for which we were created. We sense that the evils of war and rape and death are alien to our existence. As Martin Luther King Jr. observed, we are confronted by an “eternal oughtness:” that the world is not as it ought to be, that unconditional love and perfect peace are forever elusive. From the beginning, relationships have been woven into the fabric of life. We were fashioned as works of art reflecting the image of our Creator: we think, we choose, we create, and we were designed to love—to experience intimacy with God and each other . . .
+Q On a scale from 1 to 10, how would you rate your desire to know God? Q Do you see yourself moving closer to, or further away from God? Intimacy OUGHTNESS. Instilled in us is a longing for the ideal world and perfect intimacy for which we were created. We sense that the evils of war and rape and death are alien to our existence. As Martin Luther King Jr. observed, we are confronted by an “eternal oughtness:” that the world is not as it ought to be, that unconditional love and perfect peace are forever elusive. From the beginning, relationships have been woven into the fabric of life. We were fashioned as works of art reflecting the image of our Creator: we think, we choose, we create, and we were designed to love—to experience intimacy with God and each other . . .
 
 In the beginning God created the heavens and the earth. So God created people in his own image; God patterned them after himself; male and female he created them. —genesis 1:1, 27 (NLT)
 
-### Q/// ought to be? As you observe the world what screams to you: this is not how things THE HUMAN CONDITION
+Q ought to be? As you observe the world what screams to you: this is not how things THE HUMAN CONDITION
 
 The Lord saw how great man’s wickedness on the earth had become, and that every inclination of the thoughts of his heart was only evil all the time. The Lord was grieved that he had made man on the earth, and his heart was filled with pain. —genesis 6:5-6
 
-### Betrayal Betrayal
+### Betrayal
 
 1] FALLEN. “All of us are unclean and all our righteous acts are like filthy rags” (isaiah 6 4 : 6). We were created for a relationship with God. But our hearts turned proud, and pride corrupted. We abandoned God and intimacy turned to alienation. Humanity is now fallen. None of us lives or loves as we ought. This is called sin.
 
 2] BROKEN. “Meaningless! Meaningless! Everything is meaningless! What is twisted cannot be straightened; what is lacking cannot be counted” (co m pil ati O N ecclesiastes 1- 2 ). Sin severed our relationship with God and every relationship contingent to it: people with people (war, racism), men with women (sexism, divorce), people with nature (waste, pollution), and people with themselves (shame, fear). Sin has led us to this separation. 3] UNFAITHFUL. “They exchanged the truth of God for a lie, and worshiped and served created things rather than the Creator” (romANs 1:25 ). Rather than return to God, we construct our own paths to redemption and replace God with every conceivable substitute: money, success, popularity, entertainment, possesions, sex, power, drugs . . .
 
-But intimacy was lost. Humanity turned from the source of life and chose to live without God. Now pain, selfishness, and a corrupted nature stain all our relationships. We experience the world as broken, life as lacking, and things not as they ought to be . . . If this account is true, it should seem intuitive. We should sense that God is there but distant from us; that the world is not as it ought to be; that evil pollutes our thoughts and actions; and that the pursuit of redemption is universal. © 2010, CruPress, All Rights Reserved. CruPress.comQ/// How have you personally sensed or experienced life’s brokenness?
+But intimacy was lost. Humanity turned from the source of life and chose to live without God. Now pain, selfishness, and a corrupted nature stain all our relationships. We experience the world as broken, life as lacking, and things not as they ought to be . . . If this account is true, it should seem intuitive. We should sense that God is there but distant from us; that the world is not as it ought to be; that evil pollutes our thoughts and actions; and that the pursuit of redemption is universal. Q How have you personally sensed or experienced life’s brokenness?
 
 Deliverer (messiah). Their message, preserved in Jewish Scripture, was validated as their many predictions came to pass.
 
@@ -107,7 +103,7 @@ Is there any hope? Actually, yes. Though we betrayed God, he did not abandon us.
 
 The Lord has sent this message to every land …‘Look, your Savior is coming . . . In that day he will remove the cloud of gloom, the shadow of death that hangs over the earth. He will swallow up death forever! The Sovereign Lord will wipe away all tears…The Lord has spoken!’ —isaiah 62:11; 25:7 (nLT)
 
-THROugh THE pROpHETs, God described the coming Messiah. Above are 2 of over 90 specific messianic prophecies found in Scripture, all written centuries before Jesus. Among other signs, the Messiah was to be born in Bethlehem and birthed of a virgin; only one person has ever fit such a description. Q/// Is there a time that you can remember experiencing God’s presence or direction? © 2010, CruPress, All Rights Reserved. CruPress.comHave you ever sensed God communicating to you? Q/// How is Jesus different from other religious figures? UNIQUENESS. THE cONcept OF “MessIAH” DIFFERs from that of a prophet, mystic, or sage. Messiah (MasHIAcH IN HEBREw) is humanity’s Deliverer, the go-between or bridge between God and man. In claiming to be the Messiah, Jesus claimed: Pursuit Pursuit
+THROugh THE pROpHETs, God described the coming Messiah. Above are 2 of over 90 specific messianic prophecies found in Scripture, all written centuries before Jesus. Among other signs, the Messiah was to be born in Bethlehem and birthed of a virgin; only one person has ever fit such a description. Q Is there a time that you can remember experiencing God’s presence or direction? Have you ever sensed God communicating to you? Q How is Jesus different from other religious figures? UNIQUENESS. THE cONcept OF “MessIAH” DIFFERs from that of a prophet, mystic, or sage. Messiah (MasHIAcH IN HEBREw) is humanity’s Deliverer, the go-between or bridge between God and man. In claiming to be the Messiah, Jesus claimed: Pursuit Pursuit
 
 He said to the paralytic, ”Take heart, son; your sins are forgiven.”—MATTHEw 9:2 1] FORGIVENEss. There’s no shortage of moral codes one might strive to live by. Jesus claimed to forgive the million ways we fall short of any and all moral standards. God did not send his son into the world to condemn the world, but to save it. —JOHN 3:17 (NLT) 2] RESTORATION. Jesus claimed to redeem and restore that which sin had destroyed. Why does [Jesus] talk like that? He’s blaspheming! Who can forgive sins but God alone? —MARk 2:7 3] SON OF GOD. From forgiving sin to granting eternal life, Jesus did what God alone can do. As C.S. Lewis observed, “a man who said the sorts of things Jesus said would not be a great moral teacher. Either this man was, and is, the Son of God: or else a madman.”
 
@@ -115,11 +111,9 @@ As pROMIsED, gOD sENT THE ONE who would rescue and restore us. His name was Jesu
 
 The Spirit of the Lord is on me, because he has anointed me to preach good news to the poor. He has sent me to proclaim freedom for the prisoners and recovery of sight
 
-### Q/// If God were to wipe away every wrong thing you’ve ever done, said, or thought—
+Q If God were to wipe away every wrong thing you’ve ever done, said, or thought—
 
-for the blind, to release the oppressed. —luke 4:18
-
-© 2010, CruPress, All Rights Reserved. CruPress.compast, present and future—how would you feel or respond? Q/// When you see the image of the cross what does it mean to you? Sacrifice Sacrifice life’s greatest mystery was revealed in love’s greatest act. Jesus, the author of life, died for us, taking upon himself our guilt and atoning for our sin. How can we be sure? God raised Jesus from the dead. He is alive today and offers life to all who would receive it . . .
+for the blind, to release the oppressed. —luke 4: past, present and future—how would you feel or respond? Q When you see the image of the cross what does it mean to you? Sacrifice Sacrifice life’s greatest mystery was revealed in love’s greatest act. Jesus, the author of life, died for us, taking upon himself our guilt and atoning for our sin. How can we be sure? God raised Jesus from the dead. He is alive today and offers life to all who would receive it . . .
 
 Christ died for our sins once for all time: the just dying for the unjust, in order that He might bring us to God. —1 peter 3:18**
 
@@ -135,19 +129,19 @@ Jesus’ DEATH is THE uLTIMATE demonstration of God’s love. He took upon himse
 
 And yet, along comes this idea called grace. Love interrupts the consequences of your actions. . . the point of the death of Christ is that Christ took on the sins of the
 
-### Q/// Given these definitions, how does Jesus’ life, death, and resurrection
+Q Given these definitions, how does Jesus’ life, death, and resurrection
 
 world, so that what we put out did not come back to us. That’s the point. —Bono
 
-© 2010, CruPress, All Rights Reserved. CruPress.comprovide the solution to our sin and separation from God? Q/// Which image best represents what you imagine when you think of eternal life? Why? Invitation Invitation Now God invites us to come back to him through trusting in Jesus. Forgiveness is a free and undeserved gift, received only through genuine faith in Jesus Christ. Receiving Christ opens the door to life in all of its fullness . . . LIFE EVERLASTING. Jesus DEscRIBED eternal life in relational terms. He said “eternal life is this: that we might fully know the one true God and Jesus Christ whom he sent.” Eternal life is an ever-growing, never stagnating relationship with God, as well as ourselves, others, and nature. Here’s also what Jesus said about eternal life:
+provide the solution to our sin and separation from God? Q Which image best represents what you imagine when you think of eternal life? Why? Invitation Invitation Now God invites us to come back to him through trusting in Jesus. Forgiveness is a free and undeserved gift, received only through genuine faith in Jesus Christ. Receiving Christ opens the door to life in all of its fullness . . . LIFE EVERLASTING. Jesus DEscRIBED eternal life in relational terms. He said “eternal life is this: that we might fully know the one true God and Jesus Christ whom he sent.” Eternal life is an ever-growing, never stagnating relationship with God, as well as ourselves, others, and nature. Here’s also what Jesus said about eternal life:
 
 I tell you the truth, whoever hears my word and believes him who sent me has eternal life and will not be condemned; he has crossed over from death to life. — JO H N 5 : 2 4 For my Father’s will is that everyone who looks to the son and believes in him shall have eternal life, and I will raise him up at the last day. — JO H N 6 : 4 0 God has given us eternal life, and this life is in his Son. He who
 
-### Q/// If eternal life is the restoration of perfect intimacy with God, then according to Jesus
+Q If eternal life is the restoration of perfect intimacy with God, then according to Jesus
 
 has the Son has life; he who does not have the Son of God
 
-### does not have life. —1 JOHN 5:11-12 © 2010, CruPress, All Rights Reserved. CruPress.comwhat is needed to have eternal life? Why?
+does not have life. —1 JOHN 5:11- what is needed to have eternal life? Why?
 
 rolls back, and all turns to silver glass. And then you see it. White shores. And beyond . . . a far green country under a swift sunrise. —gandalf, the return of the king
 
@@ -159,7 +153,7 @@ YOUR THOUGHTS? THIs is THE sTORy: from rebellion to reunion, our journey back to
 
 “Lord Jesus, I want to know you personally. I admit that I have sinned against God and am separated from him. Thank you for dying on the cross for my sins in order to bring me back to God. I ask you to be my Savior and Lord. Thank you for giving me eternal life and making me a part of the family of God. Take control of my life and make me the person you created me to be.”
 
-### A NEW STORY Take just a MOMENT and read the following passages:
+A NEW STORY Take just a MOMENT and read the following passages:
 
 God has given us eternal life, and this life is in His Son. He who has the Son has the life; he who does not have the Son of God does not have the life. These things I have written to you who believe in the name of the Son of God, in order that you may know that you have eternal life. —1 JOHN 5:11-13 By grace you have been saved through faith; and that not of yourselves, it is the gift of God; not as a result of works that no one should boast. —epHEsIANs 2:8,9 [Christ speaking] Behold, I stand at the door and knock; if any one hears My voice and opens the door, I will come in to him. —REVELATION 3:20 * Never will I leave you; never will I forsake you. —HEBREws 13:5 Yet to all who received him, to those who believed in his name, he gave the right to become children of God. —JOHN 1:12
 
@@ -171,4 +165,4 @@ DOES THIS PRAYER EXPRESS YOUR DESIRE? Like THE “I Do” OF a MARRIAge cEREMONy
 4. Check out StartingWithGod.com, and you’ll also find personal growth resources at CruPress.com.
 5. Last, look for opportunities to share with others your decision to trust Christ and follow him. BackStory Published by CruPress 100 Lake Hart Drive, 2500 Orlando, FL 32832-0100 CruPress is the publishing division of the Campus Ministry of Campus Crusade for Christ All Scripture quotations taken from the Holy Bible, New International Version® NIV® copyright ©1973, 1978, 1984 by International Bible Society. Used by permission of Zondervan Publishing House. All rights reserved. Where indicated (NLT), the New Living Translation was used, Copyright ©1996. Used by permission of Tyndale House Publishers, Inc. Wheaton, Illinois 60189. All rights reserved. * Revelation 3:20 taken from the New American Standard Bible (NASB), copyright © 1988. The Lockman Foundation. All rights reserved. ** 1 Peter 3:18 is a conflation of the NLT and NIV translations.
 
-To order more copies of BackStory go to CruPress.com ©2010 Cru Press, Campus Crusade for Christ, Inc. All rights reserved. No part of this publication may be reproduced, stored in a retrieval system, or transmitted, recording or otherwise, without the prior permission of CruPress. © 2010, CruPress, All Rights Reserved. CruPress.comISBN 1-57334-072-3 backstory backstory
+To order more copies of BackStory go to CruPress.com All rights reserved. No part of this publication may be reproduced, stored in a retrieval system, or transmitted, recording or otherwise, without the prior permission of CruPress. ISBN 1-57334-072-3 backstory backstory

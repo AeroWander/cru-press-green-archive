@@ -10,7 +10,7 @@ summary: "A first-person account by campus director Jim Sautner of launching an 
 source: "MTL/Line Up Resources/Fellowship.pdf"
 ---
 
-## Jim Sautner
+*Jim Sautner*
 
 2. Get staff and students to participate in “Operation Impact”. This stroke of genius had us asking local businesses for pledges as we picked up trash in the community. We might have raised $500.
 3. Call alumni. I did this very thing and saw about $300 of monthly support committed. Not bad, I thought.

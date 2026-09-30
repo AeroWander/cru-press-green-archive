@@ -16,7 +16,7 @@ What follows are the lessons, philosophy, and leaders guide to the Essentials se
 
 ## The Essentials of Spiritual Growth and Multiplication
 
-### STAFF STRATEGY TRAINING GUIDE TABLE OF CONTENTS What is the “Essentials” series? 1 Where and how was it developed? 1 What is the content? 3
+STAFF STRATEGY TRAINING GUIDE TABLE OF CONTENTS What is the “Essentials” series? 1 Where and how was it developed? 1 What is the content? 3
 
 How can you decide whether to use
 
@@ -24,19 +24,19 @@ How can you decide whether to use
 
 What advice can you give to support group leaders
 
-### once they have started their groups? 10
+once they have started their groups? 10
 
 What are some good guidelines to help group leaders
 
-### prepare for and have successful sessions? 12 Session preparation guidelines. 12 Session preparation checklist. 14
+prepare for and have successful sessions? 12 Session preparation guidelines. 12 Session preparation checklist. 14
 
 What are answers to some objections occasionally raised
 
-### concerning the “Essentials” approach? 15
+concerning the “Essentials” approach? 15
 
 What are some prayer requests to help launch
 
-### and support the “Essentials” groups? 17 Summary and final word 18 “ESSENTIALS” STAFF STRATEGY & TRAINING GUIDE
+and support the “Essentials” groups? 17 Summary and final word 18 “ESSENTIALS” STAFF STRATEGY & TRAINING GUIDE
 
 Steve Douglass June 2007
 
@@ -325,7 +325,7 @@ From time to time over the weeks, ask yourself:
 2. Who among the group members seems ready to be challenged to take his/her own group? (Plan a time to talk to the person about it. Let him/her take a part of one of your sessions and acquaint the person with the Small-Group Leaders Guide.)
 3. Are there some group members who seem like they don’t know Christ? (Pray and look for opportunities to share Christ with those people.)
 
-#### Session Preparation Checklist
+*Session Preparation Checklist*
 
 (This correlates with the Session Preparation Guidelines. They are placed in the latest Small Group Leader’s Guide revision on the pages before the Group Discussion Outlines.) PRAY  Have prayed for wisdom.  Have prayed for group members.
 
@@ -375,7 +375,7 @@ I remember when I first got involved with CCC. I was encouraged right away to mi
 
 What I found out later was that students all over the U.S. were similarly encouraged to get involved in ministry and multiplication as soon as possible. At one campus the assumption was that a new Christian would share his or her faith within a week of coming to Christ. David Garrison is a researcher and practitioner in the area of church planting movements. He has observed 10 principles that are always present in a successful church planting movements. One of the 10 is “rapid reproduction”. Let me quote a passage from his booklet “Church Planting Movements” (published by the International Mission Board of the Southern Baptist Convention): “Some have challenged the necessity of rapid reproduction for the life of the Church Planting Movement, but no one has questioned its evidence in every CPM. Most church planters involved in these movements contend that rapid reproduction is vital to the movement itself. They report that when reproduction rates slow down, the Church Planting Movement falters. Rapid reproduction communicates the urgency and importance of coming to faith in Christ. When rapid reproduction is taking place, you can be assured that the churches are unencumbered by non-essential elements and the laity are fully empowered to participate in this work of God.”
 
-#### “If someone isn’t lecturing, how will biblical truths be understood
+“If someone isn’t lecturing, how will biblical truths be understood
 
 #### Objection 3
 
@@ -428,7 +428,7 @@ My ultimate dream is that you will have the joy of seeing movements of spiritual
 
 It is a pleasure to serve the Lord with you.
 
-## The Essentials of Spiritual Growth and Multiplication Student Group Leaders Guide
+The Essentials of Spiritual Growth and Multiplication Student Group Leaders Guide
 
 ### Introduction
 
@@ -499,7 +499,7 @@ Help them understand some important ways to minister to others, so they can pass
 3. BUILD (Disciple) >> We can help people grow to be true followers of Jesus.
 4. SEND (Involve) >> We can help followers of Jesus minister to others.
 
-### Session Preparation Checklist
+*Session Preparation Checklist*
 
 (This correlates with the Session Preparation Guidelines in the Appendix.) 4 Walks >> Walk Assured PRAY:
 
@@ -518,11 +518,11 @@ APPLY:  Have in mind when and how to transition from HEAR to APPLY.  Be pr
 
 TELL:  Am committed to encourage people to do this despite their natural tendency not to.  Am looking for group members who “tell” easily. They may be good at leading their own group soon.
 
-### 4 Walks >> Walk Assured
+### 4 Walks · Walk Assured
 
 Group Discussion Outline CONNECT with needs:
 
-• Find out how they are doing. • Pray for wisdom from God for the session. • Start by stating: “Relationships thrive on acceptance and assurance.”
+- Find out how they are doing. • Pray for wisdom from God for the session. • Start by stating: “Relationships thrive on acceptance and assurance.”
 
 Then, surface experiences:
 
@@ -530,15 +530,18 @@ Then, surface experiences:
 
 “Tell us how you have experienced this.”
 
-### • Transition to the Bible by saying, “So it is in a relationship with God.”
+Transition to the Bible by saying, “So it is in a relationship with God.”
 
 HEAR what God says:
 
-### • Read (or tell) a Bible story/passage related to the topic: • Choices: Luke 15:11-24 (story); 1 John 5:11-13 • Commentary:
+Read (or tell) a Bible story/passage related to the topic:
+
+- Choices: Luke 15:11-24 (story); 1 John 5:11-13
+- Commentary:
 
 Luke 15:11-24 >> This is the story of the prodigal son. The father represents God. The rebellious son represents how we can be toward God sometimes. The father apparently was looking down the road in hopes his son would return. He had compassion, ran to meet the son and celebrated his return. That picture gives us assurance that God loves and accepts us and wants to have close fellowship with us. 1 John 5:11-13 >> These verses provide simple clarity that receiving Christ assures us that we have eternal life (with God).
 
-### • Discuss each passage using these questions, or the alternate questions to the left:
+Discuss each passage using these questions, or the alternate questions to the left:
 
 “What do you think this passage teaches us?”
 
@@ -548,29 +551,29 @@ Luke 15:11-24 >> This is the story of the prodigal son. The father represents Go
 
 APPLY that to life:
 
-### • State the main lesson: “Be sure of your personal relationship with God.” Have them
+State the main lesson: “Be sure of your personal relationship with God.” Have them
 
 write the “lesson learned” on their “mini-journal” handout.
 
-### • Discuss:
+### Discuss
 
 “Why don’t we always experience assurance in our personal relationship with God?” “What is one action you can take this week to begin to feel more assured?”
 
-### • Have them write down that specific “action to take.” Then in groups of two or three,
+Have them write down that specific “action to take.” Then in groups of two or three,
 
 have them share what action they plan to take. Finally, have them pray for one another.
 
-### • It may be appropriate to walk through the “Would You Like to Know God Personally?”
+It may be appropriate to walk through the “Would You Like to Know God Personally?”
 
 booklet at this point.
 
 TELL someone they know:
 
-• Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three,
+- Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three,
 
 have them share whom they plan to tell. Finally, have them pray for one another.
 
-### • Encourage them to tell those people in the next few days. Session Preparation Checklist
+Encourage them to tell those people in the next few days. Session Preparation Checklist
 
 (This correlates with the Session Preparation Guidelines in the Appendix.) 4 Walks >> Walk Forgiven PRAY:
 
@@ -588,15 +591,15 @@ Alternate questions to ask:  Luke 7:36-50 1. What are some differences in how
 
 TELL:  Am committed to encourage people to do this despite their natural tendency not to.  Am looking for group members who “tell” easily. They may be good at leading their own group soon.
 
-### 4 Walks >> Walk Forgiven
+### 4 Walks · Walk Forgiven
 
 Group Discussion Outline CONNECT with needs:
 
-### • Find out how they are doing. Ask also how their “action to take” and “person to tell”
+Find out how they are doing. Ask also how their “action to take” and “person to tell”
 
 went last week.
 
-### • Pray for wisdom from God for the session. • Start by stating: “Forgiveness gives a relationship a fresh start.”
+Pray for wisdom from God for the session. · Start by stating: “Forgiveness gives a relationship a fresh start.”
 
 Then, surface experiences:
 
@@ -604,21 +607,21 @@ Then, surface experiences:
 
 “Tell us how you have experienced this.”
 
-### • Transition to the Bible by saying, “So it is in a relationship with God.”
+Transition to the Bible by saying, “So it is in a relationship with God.”
 
 HEAR what God says:
 
-• Read (or tell) a Bible story/passage related to the topic: • Choices: Luke 7:36-50 (story); 1 John: 1:9-2:2; Ephesians 3:11,12; (Two of these
+- Read (or tell) a Bible story/passage related to the topic: • Choices: Luke 7:36-50 (story); 1 John: 1:9-2:2; Ephesians 3:11,12; (Two of these
 
 passages may be enough to cover in one session.)
 
-### • Commentary:
+### Commentary
 
 Luke 7:36-50 >> This is a story about an interaction between Jesus, a sinful woman and a self-righteous religious leader. After Jesus saw the woman’s sorrow over her sins, He forgave her of her sins. This should encourage people in the group who may feel that they have done so many bad things that God could never forgive them. 1 John 1:9-2:2 >> This passage clarifies that we should confess our sins to God. As we acknowledge the fact that Jesus paid the penalty for our sins, we can experience the joy of being forgiven by God.
 
 Ephesians 3:11,12 >> Because of Christ (and His death for our sins), we can approach God and have a close relationship with Him.
 
-### • Discuss each passage using these questions, or the alternate questions to the left:
+Discuss each passage using these questions, or the alternate questions to the left:
 
 “What do you think this passage teaches us?”
 
@@ -628,23 +631,23 @@ Ephesians 3:11,12 >> Because of Christ (and His death for our sins), we can appr
 
 APPLY that to life:
 
-### • State the main lesson: “Be sure you experience God’s forgiveness, so you can have
+State the main lesson: “Be sure you experience God’s forgiveness, so you can have
 
 a close relationship with Him.” Have them write the “lesson learned” on their “mini-journal” handout.
 
-### • Discuss:
+### Discuss
 
 “Why don’t we always experience the forgiveness that God offers us?” “What is one action you can take this week to experience that forgiveness?”
 
-### • Have them write down that specific “action to take.” Then in groups of two or three,
+Have them write down that specific “action to take.” Then in groups of two or three,
 
 have them share what action they plan to take. Finally, have them pray for one another. TELL someone they know:
 
-• Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three,
+- Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three,
 
 have them share whom they plan to tell. Finally, have them pray for one another.
 
-### • Encourage them to tell those people in the next few days. Session Preparation Checklist
+Encourage them to tell those people in the next few days. Session Preparation Checklist
 
 (This correlates with the Session Preparation Guidelines in the Appendix.) 4 Walks >> Walk Filled PRAY:
 
@@ -664,15 +667,15 @@ APPLY:  Have in mind when and how to transition from HEAR to APPLY.  Be pr
 
 TELL:  Am committed to encourage people to do this despite their natural tendency not to.  Am looking for group members who “tell” easily. They may be good at leading their own group soon.
 
-### 4 Walks >> Walk Filled
+### 4 Walks · Walk Filled
 
 Group Discussion Outline CONNECT with needs:
 
-### • Find out how they are doing. Ask also how their “action to take” and “person to tell”
+Find out how they are doing. Ask also how their “action to take” and “person to tell”
 
 went last week.
 
-### • Pray for wisdom from God for the session. • Start by stating: “Often we need help to do a difficult assignment.”
+Pray for wisdom from God for the session. · Start by stating: “Often we need help to do a difficult assignment.”
 
 Then, surface experiences:
 
@@ -680,15 +683,15 @@ Then, surface experiences:
 
 “Tell us how you have experienced this.”
 
-### • Transition to the Bible by saying, “So it is in a relationship with God.”
+Transition to the Bible by saying, “So it is in a relationship with God.”
 
 HEAR what God says:
 
-• Read (or tell) a Bible story/passage related to the topic: • Choices: Ephesians 3:16-20; Ephesians 5:18-21; Contrast Peter in John 18:15-18
+- Read (or tell) a Bible story/passage related to the topic: • Choices: Ephesians 3:16-20; Ephesians 5:18-21; Contrast Peter in John 18:15-18
 
 (story) versus Acts 2:14-22 (story); (Two of these passages may be enough to cover in one session.)
 
-### • Commentary:
+### Commentary
 
 Ephesians 3:16-20 >> This is a stunning statement of how much help God is willing to give us through the power of the Holy Spirit.
 
@@ -696,7 +699,7 @@ Ephesians 5:18-21 >> These verses give the command to be filled with the Holy Sp
 
 John 18:15-18 together with Acts 2:14-22 >> This shows a remarkable change in Peter’s courage within just a few weeks. Before being filled with the Holy Spirit, he denied Christ. After being filled, he preached with strong words to a large crowd.
 
-### • Discuss each passage using these questions, or the alternate questions to the left:
+Discuss each passage using these questions, or the alternate questions to the left:
 
 “What do you think this passage teaches us?”
 
@@ -706,29 +709,29 @@ John 18:15-18 together with Acts 2:14-22 >> This shows a remarkable change in Pe
 
 APPLY that to life:
 
-### • State the main lesson: “Be sure you are filled with the Holy Spirit, so you can have
+State the main lesson: “Be sure you are filled with the Holy Spirit, so you can have
 
 power for living.” Have them write the “lesson learned” on their “mini-journal” handout.
 
-### • Discuss:
+### Discuss
 
 “Why don’t we always seek to walk in the power of the Holy Spirit?” “What is one action you can take this week to live in the power of the Holy Spirit?”
 
-### • Have them write down that specific “action to take.” Then in groups of two or three,
+Have them write down that specific “action to take.” Then in groups of two or three,
 
 have them share what action they plan to take. Finally, have them pray for one another.
 
-### • It may be appropriate to walk through the “Satisfied?” (Spirit-filled Life) booklet at this
+It may be appropriate to walk through the “Satisfied?” (Spirit-filled Life) booklet at this
 
 point.
 
 TELL someone they know:
 
-• Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three, have
+- Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three, have
 
 them share whom they plan to tell. Finally, have them pray for one another.
 
-### • Encourage them to tell those people in the next few days. Session Preparation Checklist
+Encourage them to tell those people in the next few days. Session Preparation Checklist
 
 (This correlates with the Session Preparation Guidelines in the Appendix.) 4 Walks >> Walk Continually PRAY:
 
@@ -746,15 +749,15 @@ APPLY:  Have in mind when and how to transition from HEAR to APPLY.  Be pr
 
 TELL:  Am committed to encourage people to do this despite their natural tendency not to.  Am looking for group members who “tell” easily. They may be good at leading their own group soon.
 
-### 4 Walks >> Walk Continually
+### 4 Walks · Walk Continually
 
 Group Discussion Outline CONNECT with needs:
 
-### • Find out how they are doing. Ask also how their “action to take” and “person to tell”
+Find out how they are doing. Ask also how their “action to take” and “person to tell”
 
 went last week.
 
-### • Pray for wisdom from God for the session. • Start by stating: “A relationship with a person greatly benefits from frequent
+Pray for wisdom from God for the session. · Start by stating: “A relationship with a person greatly benefits from frequent
 
 interaction.”
 
@@ -764,15 +767,18 @@ Then, surface experiences:
 
 “Tell us how you have experienced this.”
 
-### • Transition to the Bible by saying, “So it is in a relationship with God.”
+Transition to the Bible by saying, “So it is in a relationship with God.”
 
 HEAR what God says:
 
-### • Read (or tell) a Bible story/passage related to the topic: • Choices: Philippians 4:4-9; Psalm 16:8,9 • Commentary:
+Read (or tell) a Bible story/passage related to the topic:
+
+- Choices: Philippians 4:4-9; Psalm 16:8,9
+- Commentary:
 
 Philippians 4:4-9 >> These verses contain encouragement toward very frequent inter-action with God: e.g. “rejoice always,” “in everything…present your requests to God.” Psalm 16:8,9 >> This verse gives insight into the prayer life of David: “I have set the Lord continually before me.” **In this discussion, you should be leading your group members to see how often during the day God would like to have them talk with Him.
 
-### • Discuss each passage using these questions, or the alternate questions to the left:
+Discuss each passage using these questions, or the alternate questions to the left:
 
 “What do you think this passage teaches us?”
 
@@ -782,25 +788,25 @@ Philippians 4:4-9 >> These verses contain encouragement toward very frequent int
 
 APPLY that to life:
 
-### • State the main lesson: “Relate to God all the time.” Have them write the “lesson learned”
+State the main lesson: “Relate to God all the time.” Have them write the “lesson learned”
 
 on their “mini-journal” handout.
 
-### • Discuss:
+### Discuss
 
 “Why don’t we continually relate to God?”
 
 “What is one action you can take this week to begin to do that more often?”
 
-### • Have them write down that specific “action to take.” Then in groups of two or three,
+Have them write down that specific “action to take.” Then in groups of two or three,
 
 have them share what action they plan to take. Finally, have them pray for one another. TELL someone they know:
 
-• Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three, have
+- Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three, have
 
 them share whom they plan to tell. Finally, have them pray for one another.
 
-• Encourage them to tell those people in the next few days. • Tell them how they will be helped by the next four sessions. (See page 7: “4 Talks”.) Session Preparation Checklist
+- Encourage them to tell those people in the next few days. • Tell them how they will be helped by the next four sessions. (See page 7: “4 Talks”.) Session Preparation Checklist
 
 (This correlates with the Session Preparation Guidelines in the Appendix.) 4 Talks >> Apply the Bible (Let God Talk to You)
 
@@ -820,15 +826,15 @@ APPLY:  Have in mind when and how to transition from HEAR to APPLY.  Be pr
 
 TELL:  Am committed to encourage people to do this despite their natural tendency not to.  Am looking for group members who “tell” easily. They may be good at leading their own group soon.
 
-### 4 Talks >> Apply the Bible (Let God Talk to You)
+### 4 Talks · Apply the Bible (Let God Talk to You)
 
 Group Discussion Outline CONNECT with needs:
 
-### • Find out how they are doing. Ask also how their “action to take” and “person to tell” went
+Find out how they are doing. Ask also how their “action to take” and “person to tell” went
 
 last week.
 
-### • Pray for wisdom from God for the session. • Start by stating: “It is one thing to hear about something; it is another to do something
+Pray for wisdom from God for the session. · Start by stating: “It is one thing to hear about something; it is another to do something
 
 about it.”
 
@@ -838,21 +844,21 @@ Then, surface experiences:
 
 “Tell us how you have experienced this.”
 
-### • Transition to the Bible by saying, “So it is in the Christian life.”
+Transition to the Bible by saying, “So it is in the Christian life.”
 
 HEAR what God says:
 
-• Read (or tell) a Bible story/passage related to the topic: • Choices: James 1:22; Luke 6:46-49 (story); Acts 2:41-47 (story); (Two of these
+- Read (or tell) a Bible story/passage related to the topic: • Choices: James 1:22; Luke 6:46-49 (story); Acts 2:41-47 (story); (Two of these
 
 passages may be enough to cover in one session.)
 
-### • Commentary:
+### Commentary
 
 James 1:22 >> This verse tells us clearly to apply what the Bible says. Luke 6:46-49 >> Jesus shows us the great value of putting into practice what He says: It gives our lives a strong, firm foundation.
 
 Acts 2:41-47 >> These verses show us the model of the Jerusalem church right after so many responded to Peter’s message. If you use this passage on this topic, emphasize their devotion to the apostles’ teaching versus their enjoyment of the fellow-ship. (You might consider saving this passage for the 4 Talks >> Fellowship session.)
 
-### • Discuss each passage using these questions, or the alternate questions to the left:
+Discuss each passage using these questions, or the alternate questions to the left:
 
 “What do you think this passage teaches us?”
 
@@ -860,25 +866,25 @@ Acts 2:41-47 >> These verses show us the model of the Jerusalem church right aft
 
 “How do you think this passage relates to the topic we discussed earlier: It is one thing to hear about something; it is another to do something about it?” APPLY that to life:
 
-### • State the main lesson: “Apply to your life daily what you learn from the Bible.” Have them
+State the main lesson: “Apply to your life daily what you learn from the Bible.” Have them
 
 write the “lesson learned” on their “mini-journal” handout.
 
-### • Discuss:
+### Discuss
 
 “Why don’t we always apply what we learn from the Bible?”
 
 “What is one action you can take this week to start applying the Bible to everyday life?”
 
-### • Have them write down that specific “action to take.” Then in groups of two or three, have
+Have them write down that specific “action to take.” Then in groups of two or three, have
 
 them share what action they plan to take. Finally, have them pray for one another. TELL someone they know:
 
-• Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three, have
+- Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three, have
 
 them share whom they plan to tell. Finally, have them pray for one another.
 
-### • Encourage them to tell those people in the next few days. Session Preparation Checklist
+Encourage them to tell those people in the next few days. Session Preparation Checklist
 
 (This correlates with the Session Preparation Guidelines in the Appendix.) 4 Talks >> Pray (Talk to God)
 
@@ -898,15 +904,15 @@ APPLY:  Have in mind when and how to transition from HEAR to APPLY.  Be pr
 
 TELL:  Am committed to encourage people to do this despite their natural tendency not to.  Am looking for group members who “tell” easily. They may be good at leading their own group soon.
 
-### 4 Talks >> Pray (Talk to God)
+### 4 Talks · Pray (Talk to God)
 
 Group Discussion Outline CONNECT with needs:
 
-### • Find out how they are doing. Ask also how their “action to take” and “person to tell”
+Find out how they are doing. Ask also how their “action to take” and “person to tell”
 
 went last week.
 
-### • Pray for wisdom from God for the session. • Start by stating: “Most people like to ‘talk things through’ with a friend.”
+Pray for wisdom from God for the session. · Start by stating: “Most people like to ‘talk things through’ with a friend.”
 
 Then, surface experiences:
 
@@ -914,17 +920,20 @@ Then, surface experiences:
 
 “Tell us how you have experienced this.”
 
-### • Transition to the Bible by saying, “So it is in the Christian life.”
+Transition to the Bible by saying, “So it is in the Christian life.”
 
 HEAR what God says:
 
-### • Read (or tell) a Bible story/passage related to the topic: • Choices: 1 Kings 3:5-14 (story); Nehemiah 1:4-11 (story) • Commentary:
+Read (or tell) a Bible story/passage related to the topic:
+
+- Choices: 1 Kings 3:5-14 (story); Nehemiah 1:4-11 (story)
+- Commentary:
 
 1 Kings 3:5-14 >> King Solomon has a conversation with God (via a dream). In this interaction we see a dialogue - - sort of “talking about things.” It conveys how prayer can be viewed as a conversation with God.
 
 Nehemiah 1:4-11 >> This represents the more normal prayer experience, where Nehemiah doesn’t hear God speak audibly. Yet, it also shows how Nehemiah “talks things through” with God, pleading his case on a particular concern.
 
-### • Discuss each passage using these questions, or the alternate questions to the left:
+Discuss each passage using these questions, or the alternate questions to the left:
 
 “What do you think this passage teaches us?”
 
@@ -934,25 +943,25 @@ Nehemiah 1:4-11 >> This represents the more normal prayer experience, where Nehe
 
 APPLY that to life:
 
-### • State the main lesson: “Talk things through with God whenever you can.” Have them
+State the main lesson: “Talk things through with God whenever you can.” Have them
 
 write the “lesson learned” on their “mini-journal” handout.
 
-### • Discuss:
+### Discuss
 
 “Why don’t we tend to talk things through with God?”
 
 “What is one action you can take this week to do that more?”
 
-### • Have them write down that specific “action to take.” Then in groups of two or three, have
+Have them write down that specific “action to take.” Then in groups of two or three, have
 
 them share what action they plan to take. Finally, have them pray for one another. TELL someone they know:
 
-• Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three, have
+- Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three, have
 
 them share whom they plan to tell. Finally, have them pray for one another.
 
-### • Encourage them to tell those people in the next few days. Session Preparation Checklist
+Encourage them to tell those people in the next few days. Session Preparation Checklist
 
 (This correlates with the Session Preparation Guidelines in the Appendix.) 4 Talks >> Witness (Talk to Non-Christians)
 
@@ -975,15 +984,15 @@ APPLY:  Have in mind when and how to transition from HEAR to APPLY.  Be pr
 
 TELL:  Am committed to encourage people to do this despite their natural tendency not to.  Am looking for group members who “tell” easily. They may be good at leading their own group soon.
 
-### 4 Talks >> Witness (Talk to Non-Christians)
+### 4 Talks · Witness (Talk to Non-Christians)
 
 Group Discussion Outline CONNECT with needs:
 
-### • Find out how they are doing. Ask also how their “action to take” and “person to tell” went
+Find out how they are doing. Ask also how their “action to take” and “person to tell” went
 
 last week.
 
-### • Pray for wisdom from God during the session. • Start by stating: “It is normal for word to spread when people who know about a subject
+Pray for wisdom from God during the session. · Start by stating: “It is normal for word to spread when people who know about a subject
 
 tell others.”
 
@@ -993,15 +1002,15 @@ Then, surface experiences:
 
 “Tell us how you have experienced this.”
 
-### • Transition to the Bible by saying, “So it is in the Christian life.”
+Transition to the Bible by saying, “So it is in the Christian life.”
 
 HEAR what God says:
 
-• Read (or tell) a Bible story/passage related to the topic: • Choices: Matthew 28:18-20; John 4:19-41 (story); Acts 4:1-13 (story); (Two of these
+- Read (or tell) a Bible story/passage related to the topic: • Choices: Matthew 28:18-20; John 4:19-41 (story); Acts 4:1-13 (story); (Two of these
 
 passages may be enough to cover in one session.)
 
-### • Commentary:
+### Commentary
 
 Matthew 28:18-20 >> Jesus exhorts us to pass the gospel on to others, as widely as possible. Knowing the message of Jesus Christ should motivate us to share it with others.
 
@@ -1009,7 +1018,7 @@ John 4:19-41 >> These verses show us the great impact of one woman’s witness t
 
 Acts 4:1-13 >> This passage documents how Peter stood up to the religious leaders in Jerusalem and proclaimed that salvation is found in Christ alone. The leaders took note of his courage.
 
-### • Discuss each passage using these questions, or the alternate questions to the left:
+Discuss each passage using these questions, or the alternate questions to the left:
 
 “What do you think this passage teaches us?”
 
@@ -1017,23 +1026,23 @@ Acts 4:1-13 >> This passage documents how Peter stood up to the religious leader
 
 “How do you think this passage relates to the topic we discussed earlier: It is normal for word to spread when people who know about a subject tell others?” APPLY that to life:
 
-### • State the main lesson: “Spread the word about Christ with your non-Christian friends and
+State the main lesson: “Spread the word about Christ with your non-Christian friends and
 
 acquaintances.” Have them write the “lesson learned” on their “mini-journal” handout.
 
-### • Discuss:
+### Discuss
 
 “What are some barriers to talking about Christ with non-Christians?” “What is one action you can take this week to have a spiritual conversation with someone who doesn’t know Christ?”
 
-### • Have them write down that specific “action to take.” Then in groups of two or three,
+Have them write down that specific “action to take.” Then in groups of two or three,
 
 have them share what action they plan to take. Finally, have them pray for one another. TELL someone they know:
 
-• Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three,
+- Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three,
 
 have them share whom they plan to tell. Finally, have them pray for one another.
 
-### • Encourage them to tell those people in the next few days. Session Preparation Checklist
+Encourage them to tell those people in the next few days. Session Preparation Checklist
 
 (This correlates with the Session Preparation Guidelines in the Appendix.) 4 Talks >> Fellowship (Talk to Christians)
 
@@ -1054,15 +1063,15 @@ APPLY:  Have in mind when and how to transition from HEAR to APPLY.  Be pr
 
 TELL:  Am committed to encourage people to do this despite their natural tendency not to.  Am looking for group members who “tell” easily. They may be good at leading their own group soon.
 
-### 4 Talks >> Fellowship (Talk to Christians)
+### 4 Talks · Fellowship (Talk to Christians)
 
 Group Discussion Outline CONNECT with needs:
 
-### • Find out how they are doing. Ask also how their “action to take” and “person to tell”
+Find out how they are doing. Ask also how their “action to take” and “person to tell”
 
 went last week.
 
-### • Pray for wisdom from God for the session. • Start by stating: “Relationships with friends provide support and encouragement.”
+Pray for wisdom from God for the session. · Start by stating: “Relationships with friends provide support and encouragement.”
 
 Then, surface experiences:
 
@@ -1070,15 +1079,15 @@ Then, surface experiences:
 
 “Tell us how you have experienced this.”
 
-### • Transition to the Bible by saying, “So it is in the Christian life.”
+Transition to the Bible by saying, “So it is in the Christian life.”
 
 HEAR what God says:
 
-• Read (or tell) a Bible story/passage related to the topic: • Choices: Hebrews 10:24,25; Acts 2:42-47 (story); Acts 1:12-15 (story); (Two of these
+- Read (or tell) a Bible story/passage related to the topic: • Choices: Hebrews 10:24,25; Acts 2:42-47 (story); Acts 1:12-15 (story); (Two of these
 
 passages may be enough to cover in one session.)
 
-### • Commentary:
+### Commentary
 
 Hebrews 10:24,25 >> These verses ask us, as Christians, to get together often to encourage one another.
 
@@ -1086,7 +1095,7 @@ Acts 2:42-47 >> This illustrates the daily close fellowship Christians enjoyed a
 
 Acts 1:12-15 >> This records that right after Jesus ascended into heaven, the eleven disciples, and many others, met together frequently for prayer and mutual encouragement.
 
-### • Discuss each passage using these questions, or the alternate questions to the left:
+Discuss each passage using these questions, or the alternate questions to the left:
 
 “What do you think this passage teaches us?”
 
@@ -1096,23 +1105,23 @@ Acts 1:12-15 >> This records that right after Jesus ascended into heaven, the el
 
 APPLY that to life:
 
-### • State the main lesson: “Form close relationships with true followers of Jesus, for support
+State the main lesson: “Form close relationships with true followers of Jesus, for support
 
 and encouragement.” Have them write the “lesson learned” on their “mini-journal” handout.
 
-### • Discuss:
+### Discuss
 
 “What can keep us from forming close relationships with Christians?” “What is one action you can take this week to begin to overcome those barriers?”
 
-### • Have them write down that specific “action to take.” Then in groups of two or three,
+Have them write down that specific “action to take.” Then in groups of two or three,
 
 have them share what action they plan to take. Finally, have them pray for one another. TELL someone they know:
 
-• Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three,
+- Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three,
 
 have them share whom they plan to tell. Finally, have them pray for one another.
 
-• Encourage them to tell those people in the next few days. • Tell them how they will be helped by the next four sessions. (See page 7: “4 Ministries”.) Session Preparation Checklist
+- Encourage them to tell those people in the next few days. • Tell them how they will be helped by the next four sessions. (See page 7: “4 Ministries”.) Session Preparation Checklist
 
 (This correlates with the Session Preparation Guidelines in the Appendix.) 4 Ministries >> Love PRAY:
 
@@ -1130,15 +1139,15 @@ APPLY:  Have in mind when and how to transition from HEAR to APPLY.  Be pr
 
 TELL:  Am committed to encourage people to do this despite their natural tendency not to.  Am looking for group members who “tell” easily. They may be good at leading their own group soon.
 
-### 4 Ministries >> Love
+### 4 Ministries · Love
 
 Group Discussion Outline CONNECT with needs:
 
-### • Find out how they are doing. Ask also how their “action to take” and “person to tell”
+Find out how they are doing. Ask also how their “action to take” and “person to tell”
 
 went last week.
 
-### • Pray for wisdom from God for the session. • Start by stating: “People who love us make an impact on our lives.”
+Pray for wisdom from God for the session. · Start by stating: “People who love us make an impact on our lives.”
 
 Then, surface experiences:
 
@@ -1146,45 +1155,45 @@ Then, surface experiences:
 
 “Tell us how you have experienced this.”
 
-### • Transition to the Bible by saying, “If we want to minister to people, we must start by
+Transition to the Bible by saying, “If we want to minister to people, we must start by
 
 loving them.”
 
 HEAR what God says:
 
-• Read (or tell) a Bible story/passage related to the topic: • Choices: John 13:34,35; Luke 10:25-37 (story); 1 Corinthians 13:4-8 (In verse 8, you
+- Read (or tell) a Bible story/passage related to the topic: • Choices: John 13:34,35; Luke 10:25-37 (story); 1 Corinthians 13:4-8 (In verse 8, you
 
 only need to read the first sentence: “Love never fails.”); (Two of these passages may be enough to cover in one session.)
 
-### • Commentary:
+### Commentary
 
 John 13:34,35 >> These verses command us to love. People will know we are followers of Christ by how we love others.
 
 Luke 10:25-37 >> The parable of the Good Samaritan is a story about loving a stranger. After being beaten and robbed, a man is left for dead along a road. A priest and a religious leader come across the man, but do not stop to help. Then, a Samaritan sees the man, takes him to an inn and pays for his care. During the time of Jesus, a Samaritan was often looked down upon and was not well accepted. With this parable, Jesus made the point that love should meet needs and not discriminate. 1 Corinthians 13:4-8 >> These verses give us a definition of love. If we ever need help knowing how to love another person, this passage shows us how.
 
-### • Discuss each passage using these questions, or the alternate questions to the left:
+Discuss each passage using these questions, or the alternate questions to the left:
 
 “What do you think this passage teaches us about loving others?” “How do you think this passage relates to the topic we discussed earlier: People who love us make an impact on our lives?”
 
 APPLY that to life:
 
-### • State the main lesson: “God wants us to love other people to help meet their needs
+State the main lesson: “God wants us to love other people to help meet their needs
 
 and to make an impact on their lives.” Have them write the “lesson learned” on their “mini-journal” handout.
 
-### • Discuss:
+### Discuss
 
 “What are some things that keep us from loving other people?” “What is one action you can take this week to be loving and kind to someone?”
 
-### • Have them write down that specific “action to take.” Then in groups of two or three,
+Have them write down that specific “action to take.” Then in groups of two or three,
 
 have them share what action they plan to take. Finally, have them pray for one another. TELL someone they know:
 
-• Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three,
+- Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three,
 
 have them share whom they plan to tell. Finally, have them pray for one another.
 
-### • Encourage them to tell those people in the next few days. Session Preparation Checklist
+Encourage them to tell those people in the next few days. Session Preparation Checklist
 
 (This correlates with the Session Preparation Guidelines in the Appendix.) 4 Ministries >> Win (Reach)
 
@@ -1203,31 +1212,31 @@ APPLY:  Have in mind when and how to transition from HEAR to APPLY.  Be pr
 
 TELL:  Am committed to encourage people to do this despite their natural tendency not to.  Am looking for group members who “tell” easily. They may be good at leading their own group soon.
 
-### 4 Ministries >> Win (Reach)
+### 4 Ministries · Win (Reach)
 
 Group Discussion Outline CONNECT with needs:
 
-### • Find out how they are doing. Ask also how their “action to take” and “person to tell”
+Find out how they are doing. Ask also how their “action to take” and “person to tell”
 
 went last week.
 
-### • Pray for wisdom from God for the session. • Start by stating: “People need to know God personally.”
+Pray for wisdom from God for the session. · Start by stating: “People need to know God personally.”
 
 Then, surface experiences:
 
 “Let me tell you how I have experienced this.” (Perhaps give your testimony.) “Tell us how you have experienced this.”
 
-### • Transition to the Bible by saying, “God uses people to show others how to know him
+Transition to the Bible by saying, “God uses people to show others how to know him
 
 personally.”
 
 HEAR what God says:
 
-• Read (or tell) a Bible story/passage related to the topic: • Choices: Acts 1:8; Matthew 4:18-22 (story); Matthew 5:14-16; (Two of these passages
+- Read (or tell) a Bible story/passage related to the topic: • Choices: Acts 1:8; Matthew 4:18-22 (story); Matthew 5:14-16; (Two of these passages
 
 may be enough to cover in one session.)
 
-### • Commentary:
+### Commentary
 
 Acts 1:8 >> In this verse, Jesus sent the apostles as witnesses throughout the land. However, they were not to begin until they were equipped with the power of the Holy Spirit. This also applies to us, as we are commanded to go and to tell others about Jesus Christ.
 
@@ -1235,29 +1244,29 @@ Matthew 4:18-22 >> Jesus called his first disciples while they were out fishing.
 
 Matthew 5:14-16 >> Once we truly accept Christ into our hearts, we cannot keep our faith hidden. God designed and called us to be a light so people will see Christ through us.
 
-### • Discuss each passage using these questions, or the alternate questions to the left:
+Discuss each passage using these questions, or the alternate questions to the left:
 
 “What do you think this passage teaches us about reaching others for Christ?” “How do you think this passage relates to the topic we discussed earlier: People need to know God personally (and whether we can help in that)?”
 
 APPLY that to life:
 
-### • State the main lesson: “We can help people come to know God.” Have them write the
+State the main lesson: “We can help people come to know God.” Have them write the
 
 “lesson learned” on their “mini-journal” handout.
 
-### • Discuss:
+### Discuss
 
 “What are some things that keep us from talking about Christ?” “What is one action you can take this week to share Christ with someone who doesn’t know Him?”
 
-### • Have them write down that specific “action to take.” Then in groups of two or three,
+Have them write down that specific “action to take.” Then in groups of two or three,
 
 have them share what action they plan to take. Finally, have them pray for one another. TELL someone they know:
 
-• Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three,
+- Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three,
 
 have them share whom they plan to tell. Finally, have them pray for one another.
 
-### • Encourage them to tell those people in the next few days. Session Preparation Checklist
+Encourage them to tell those people in the next few days. Session Preparation Checklist
 
 (This correlates with the Session Preparation Guidelines in the Appendix.) 4 Ministries >> Build (Disciple)
 
@@ -1276,15 +1285,15 @@ APPLY:  Have in mind when and how to transition from HEAR to APPLY.  Be pr
 
 TELL:  Am committed to encourage people to do this despite their natural tendency not to.  Am looking for group members who “tell” easily. They may be good at leading their own group soon.
 
-### 4 Ministries >> Build (Disciple)
+### 4 Ministries · Build (Disciple)
 
 Group Discussion Outline CONNECT with needs:
 
-### • Find out how they are doing. Ask also how their “action to take” and “person to tell”
+Find out how they are doing. Ask also how their “action to take” and “person to tell”
 
 went last week.
 
-### • Pray for wisdom from God for the session. • Start by stating: “People need to grow in their relationship with God.”
+Pray for wisdom from God for the session. · Start by stating: “People need to grow in their relationship with God.”
 
 Then, surface experiences:
 
@@ -1292,39 +1301,42 @@ Then, surface experiences:
 
 “Tell us how you have experienced this.”
 
-### • Transition to the Bible by saying, “God uses people to help Christians grow in their
+Transition to the Bible by saying, “God uses people to help Christians grow in their
 
 relationships with God.”
 
 HEAR what God says:
 
-### • Read (or tell) a Bible story/passage related to the topic: • Choices: 1 Thessalonians 2:7-13 (story); 2 Timothy 4:2 • Commentary:
+Read (or tell) a Bible story/passage related to the topic:
+
+- Choices: 1 Thessalonians 2:7-13 (story); 2 Timothy 4:2
+- Commentary:
 
 1 Thessalonians 2:7-13 >> In this passage, Paul shares about his relationship with the church in Thessalonica. He nurtured and cared for them, as a parent would for a child. He also says that he shared his life with them. Discipleship happens best as people experience life together.
 
 2 Timothy 4:2 >> We are to be prepared to share the word of God with others. Whether through encouragement or correction, we are to be ready to help people grow spiritually.
 
-### • Discuss each passage using these questions, or the alternate questions to the left:
+Discuss each passage using these questions, or the alternate questions to the left:
 
 “What do you think this passage teaches us about discipleship?” “How do you think this passage relates to the topic we discussed earlier: People need to grow in their relationships with God (and whether we can help in that)?” APPLY that to life:
 
-### • State the main lesson: “We can help people grow to be true followers of Jesus.” Have
+State the main lesson: “We can help people grow to be true followers of Jesus.” Have
 
 them write the “lesson learned” on their “mini-journal” handout.
 
-### • Discuss:
+### Discuss
 
 “What are some things that keep us from growing in our relationship with God?” “What is one action you can take this week to help another person grow in his or her relationship with God?”
 
-### • Have them write down that specific “action to take.” Then in groups of two or three,
+Have them write down that specific “action to take.” Then in groups of two or three,
 
 have them share what action they plan to take. Finally, have them pray for one another. TELL someone they know:
 
-• Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three,
+- Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three,
 
 have them share whom they plan to tell. Finally, have them pray for one another.
 
-### • Encourage them to tell those people in the next few days. Session Preparation Checklist
+Encourage them to tell those people in the next few days. Session Preparation Checklist
 
 (This correlates with the Session Preparation Guidelines in the Appendix.) 4 Ministries >> Send (Involve)
 
@@ -1342,15 +1354,15 @@ Alternate questions to ask:  Luke 10:1,2 1. How would you describe the proces
 
 TELL:  Am committed to encourage people to do this despite their natural tendency not to.  Am looking for group members who “tell” easily. They may be good at leading their own group soon.
 
-### 4 Ministries >> Send (Involve)
+### 4 Ministries · Send (Involve)
 
 Group Discussion Outline CONNECT with needs:
 
-### • Find out how they are doing. Ask also how their “action to take” and “person to tell”
+Find out how they are doing. Ask also how their “action to take” and “person to tell”
 
 went last week.
 
-### • Pray for wisdom from God for the session. • Start by stating: “It can be rewarding to be involved in ministering to people.”
+Pray for wisdom from God for the session. · Start by stating: “It can be rewarding to be involved in ministering to people.”
 
 Then, surface experiences:
 
@@ -1358,23 +1370,23 @@ Then, surface experiences:
 
 “Tell us how you have experienced this or have a desire to.”
 
-### • Transition to the Bible by saying, “Most often God uses people to motivate and equip
+Transition to the Bible by saying, “Most often God uses people to motivate and equip
 
 Christians to become involved in ministry.”
 
 HEAR what God says:
 
-• Read (or tell) a Bible story/passage related to the topic: • Choices: Luke 10:1,2 (story); Acts 11:19-26 (story); 2 Timothy 2:2; (Two of these
+- Read (or tell) a Bible story/passage related to the topic: • Choices: Luke 10:1,2 (story); Acts 11:19-26 (story); 2 Timothy 2:2; (Two of these
 
 passages may be enough to cover in one session.)
 
-### • Commentary:
+### Commentary
 
 Luke 10:1,2 >> During the time of Jesus’ ministry, He spread more of His message by sending people into different areas. In these verses, Jesus sent more than seventy people to go before him to the different towns to share the gospel. Acts 11:19-26 >> Followers of Christ were scattered by persecution and spread the gospel. Barnabas, an apostle of Jesus Christ, visited the church in Antioch and was encouraged by their growth. He then sought out Paul, and together they taught great numbers of people. This story illustrates how Barnabas influenced Paul to become involved with ministry.
 
 2 Timothy 2:2 >> This is a picture of spiritual multiplication. Our responsibility is to share with others what we are learning and they, in turn, pass it on.
 
-### • Discuss each passage using these questions, or the alternate questions to the left:
+Discuss each passage using these questions, or the alternate questions to the left:
 
 “What do you think this passage teaches us about becoming involved in ministering to others?”
 
@@ -1382,23 +1394,23 @@ Luke 10:1,2 >> During the time of Jesus’ ministry, He spread more of His messa
 
 APPLY that to life:
 
-### • State the main lesson: “We can help followers of Jesus minister to others.” Have them
+State the main lesson: “We can help followers of Jesus minister to others.” Have them
 
 write the “lesson learned” on their “mini-journal” handout.
 
-### • Discuss:
+### Discuss
 
 “What are some things that keep people from becoming involved in ministering to others?” “What is one action you can take this week to encourage a Christian to minister to others?”
 
-### • Have them write down that specific “action to take.” Then in groups of two or three,
+Have them write down that specific “action to take.” Then in groups of two or three,
 
 have them share what action they plan to take. Finally, have them pray for one another. TELL someone they know:
 
-• Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three,
+- Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three,
 
 have them share whom they plan to tell. Finally, have them pray for one another.
 
-• Encourage them to tell those people in the next few days. • Tell them how they will be helped by the next four sessions, if you choose to go on to Part 2.
+- Encourage them to tell those people in the next few days. • Tell them how they will be helped by the next four sessions, if you choose to go on to Part 2.
 
 ### Walks Talks Ministries
 
@@ -1531,7 +1543,7 @@ Help them trust God the Father to change their perspectives about Him.
 3. OBEY >> Do what pleases God.
 4. USE >> Use well what God gives you, for His purpose.
 
-### Session Preparation Checklist
+*Session Preparation Checklist*
 
 (This correlates with the Session Preparation Guidelines in the Appendix.) 4 Facts >> God PRAY:
 
@@ -1545,15 +1557,15 @@ APPLY:  Have in mind when and how to transition from HEAR to APPLY.  Be pr
 
 TELL:  Am committed to encourage people to do this despite their natural tendency not to.  Am looking for group members who “tell” easily. They may be good at leading their own group soon.
 
-### 4 Facts >> God
+### 4 Facts · God
 
 Group Discussion Outline CONNECT with needs:
 
-### • Find out how they are doing. Ask also how their “action to take” and “person to tell”
+Find out how they are doing. Ask also how their “action to take” and “person to tell”
 
 went last week.
 
-### • Pray for wisdom from God during the session. • Start by stating: “Sometimes things happen that seem beyond human power or
+Pray for wisdom from God during the session. · Start by stating: “Sometimes things happen that seem beyond human power or
 
 explanation.”
 
@@ -1563,15 +1575,15 @@ Then, surface experiences:
 
 “Tell us how you have experienced this.”
 
-### • Transition to the Bible by saying, “The life of Jesus on earth 2000 years ago contained
+Transition to the Bible by saying, “The life of Jesus on earth 2000 years ago contained
 
 many evidences that He was God—living beyond human power or explanation.” HEAR what God says:
 
-• Read (or tell) a Bible story/passage related to the topic: • Choices: Mark 1:29-34 (story); Mark 6:35-44 (story); Mark 16:1-8 (story); (Two of these
+- Read (or tell) a Bible story/passage related to the topic: • Choices: Mark 1:29-34 (story); Mark 6:35-44 (story); Mark 16:1-8 (story); (Two of these
 
 passages may be enough to cover in one session.)
 
-### • Commentary:
+### Commentary
 
 Mark 1:29-34 >> Jesus healed Simon’s mother-in-law and a large number of others as well. The demons mentioned apparently knew He was God.
 
@@ -1579,7 +1591,7 @@ Mark 6:35-44 >> Jesus miraculously multiplied the five loaves and two fish to be
 
 Mark 16:1-8 >> Jesus had died a few days before. Three women went to His tomb to honor Him with a proper burial. But, they were told that He had risen from the dead. Shortly afterwards, He appeared to one of the women.
 
-### • Discuss each passage using these questions, or the alternate questions to the left:
+Discuss each passage using these questions, or the alternate questions to the left:
 
 “What do you think this passage teaches us?”
 
@@ -1589,25 +1601,25 @@ Mark 16:1-8 >> Jesus had died a few days before. Three women went to His tomb to
 
 APPLY that to life:
 
-### • State the main lesson: “Jesus is God, so we should respect Him and listen to what He
+State the main lesson: “Jesus is God, so we should respect Him and listen to what He
 
 says.” Have them write the “lesson learned” on their “mini-journal” handout.
 
-### • Discuss:
+### Discuss
 
 “What are some things that keep us from treating Jesus with the respect He deserves?”
 
 “What is one action you can take this week to respect Jesus more?”
 
-### • Have them write down that specific “action to take.” Then in groups of two or three,
+Have them write down that specific “action to take.” Then in groups of two or three,
 
 have them share what action they plan to take. Finally, have them pray for one another. TELL someone they know:
 
-• Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three,
+- Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three,
 
 have them share whom they plan to tell. Finally, have them pray for one another.
 
-### • Encourage them to tell those people in the next few days. Session Preparation Checklist
+Encourage them to tell those people in the next few days. Session Preparation Checklist
 
 (This correlates with the Session Preparation Guidelines in the Appendix.) 4 Facts >> Man PRAY:
 
@@ -1621,15 +1633,15 @@ Alternate questions to ask:  Matthew 9:35-37 1. What are some human qualities
 
 TELL:  Am committed to encourage people to do this despite their natural tendency not to.  Am looking for group members who “tell” easily. They may be good at leading their own group soon.
 
-### 4 Facts >> Man
+### 4 Facts · Man
 
 Group Discussion Outline CONNECT with needs:
 
-### • Find out how they are doing. Ask also how their “action to take” and “person to tell” went
+Find out how they are doing. Ask also how their “action to take” and “person to tell” went
 
 last week.
 
-### • Pray for wisdom from God during the session. • Start by stating: “When we take time to get to know people, they sense we understand
+Pray for wisdom from God during the session. · Start by stating: “When we take time to get to know people, they sense we understand
 
 them better and they trust us more.”
 
@@ -1639,19 +1651,19 @@ Then, surface experiences:
 
 “Tell us how you have experienced this.”
 
-### • Transition to the Bible by saying, “This is an important reason Jesus came to live on
+Transition to the Bible by saying, “This is an important reason Jesus came to live on
 
 earth — so people would know He understands them and their problems.” HEAR what God says:
 
-• Read (or tell) a Bible story/passage related to the topic: • Choices: Matthew 9:35-37 (story); John 11:32-36 (story); Philippians 2:5-8; (Two of
+- Read (or tell) a Bible story/passage related to the topic: • Choices: Matthew 9:35-37 (story); John 11:32-36 (story); Philippians 2:5-8; (Two of
 
 these passages may be enough to cover in one session.)
 
-### • Commentary:
+### Commentary
 
 Matthew 9:35-37 >> Jesus traveled throughout the towns to help meet the needs of the people. He had compassion on them because they were helpless. John 11:32-36 >> Lazarus was very sick. His sister, Mary, sent word to Jesus to come and help. By the time Jesus arrived, Lazarus had died and was in the tomb for four days. Mary wept at the feet of Jesus and He was deeply moved. Jesus connected so much with Mary’s troubles that He wept also. He then raised Lazarus from the dead. Philippians 2:5-8 >> Jesus, whose very nature is God, did not allow His divinity to prevent Him from becoming a man and so experiencing what it was like to be human.
 
-### • Discuss each passage using these questions, or the alternate questions to the left:
+Discuss each passage using these questions, or the alternate questions to the left:
 
 “What do you think this passage teaches us?”
 
@@ -1661,23 +1673,23 @@ Matthew 9:35-37 >> Jesus traveled throughout the towns to help meet the needs of
 
 APPLY that to life:
 
-### • State the main lesson: “Jesus was also a human being, so we can know He
+State the main lesson: “Jesus was also a human being, so we can know He
 
 understands our problems and so we can trust Him more.” Have them write the “lesson learned” on their “mini-journal” handout.
 
-### • Discuss:
+### Discuss
 
 “What are some things that prevent us from completely trusting Jesus?” “What is one action you can take this week to help you trust Jesus more?”
 
-### • Have them write down that specific “action to take.” Then in groups of two or three,
+Have them write down that specific “action to take.” Then in groups of two or three,
 
 have them share what action they plan to take. Finally, have them pray for one another. TELL someone they know:
 
-• Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three,
+- Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three,
 
 have them share whom they plan to tell. Finally, have them pray for one another.
 
-### • Encourage them to tell those people in the next few days. Session Preparation Checklist
+Encourage them to tell those people in the next few days. Session Preparation Checklist
 
 (This correlates with the Session Preparation Guidelines in the Appendix.) 4 Facts >> Savior PRAY:
 
@@ -1691,15 +1703,15 @@ APPLY:  Have in mind when and how to transition from HEAR to APPLY.  Be pr
 
 TELL:  Am committed to encourage people to do this despite their natural tendency not to.  Am looking for group members who “tell” easily. They may be good at leading their own group soon.
 
-### 4 Facts >> Savior
+### 4 Facts · Savior
 
 Group Discussion Outline CONNECT with needs:
 
-### • Find out how they are doing. Ask also how their “action to take” and “person to tell” went
+Find out how they are doing. Ask also how their “action to take” and “person to tell” went
 
 last week.
 
-### • Pray for wisdom from God during the session. • Start by stating: “There are times people need serious help to get out of bad
+Pray for wisdom from God during the session. · Start by stating: “There are times people need serious help to get out of bad
 
 situations.”
 
@@ -1709,23 +1721,23 @@ Then, surface experiences:
 
 “Tell us how you have experienced this.”
 
-### • Transition to the Bible by saying, “Human beings are in a very bad situation due to their
+Transition to the Bible by saying, “Human beings are in a very bad situation due to their
 
 sin, and Jesus came to give them some serious help.”
 
 HEAR what God says:
 
-• Read (or tell) a Bible story/passage related to the topic: • Choices: John 8:3-11 (story); Romans 5:8; Ephesians 2:4-9; (Two of these passages
+- Read (or tell) a Bible story/passage related to the topic: • Choices: John 8:3-11 (story); Romans 5:8; Ephesians 2:4-9; (Two of these passages
 
 may be enough to cover in one session.)
 
-### • Commentary:
+### Commentary
 
 John 8:3-11 >> The Pharisees (religious leaders) brought a woman caught in adultery to Jesus. According to the law, they said that she should be stoned for her actions. Jesus pointed out that no person is without sin. Jesus challenged the Pharisees to kill the woman if they were without sin. No one could. Jesus did not condemn the woman, but challenged her to leave her life of sin.
 
 Romans 5:8 >> Jesus died on the cross for us because we are sinners. Ephesians 2:4-9 >> This passage shows us that because of God’s love and mercy, He sent Jesus Christ as our Savior. We are no longer dead in our sins, but have new life. This is an act of God’s grace, not of our own merit or deeds.
 
-### • Discuss each passage using these questions, or the alternate questions to the left:
+Discuss each passage using these questions, or the alternate questions to the left:
 
 “What do you think this passage teaches us?”
 
@@ -1733,27 +1745,27 @@ Romans 5:8 >> Jesus died on the cross for us because we are sinners. Ephesians 2
 
 “How do you think this passage relates to the topic we discussed earlier: There are times people need serious help to get out of bad situations?” APPLY that to life:
 
-### • State the main lesson: “Jesus died for our sins, so we can have a close relationship
+State the main lesson: “Jesus died for our sins, so we can have a close relationship
 
 with God.” Have them write the “lesson learned” on their “mini-journal” handout.
 
-### • Discuss:
+### Discuss
 
 “What are some things that prevent people from accepting Jesus as Savior?” “What is one action you can take this week to point a friend to Jesus as Savior (OR) to accept Him as Savior yourself?”
 
-### • It may be appropriate to walk through the “Would You Like to Know God Personally?”
+It may be appropriate to walk through the “Would You Like to Know God Personally?”
 
 booklet.
 
-### • Have them write down that specific “action to take.” Then in groups of two or three,
+Have them write down that specific “action to take.” Then in groups of two or three,
 
 have them share what action they plan to take. Finally, have them pray for one another. TELL someone they know:
 
-• Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three,
+- Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three,
 
 have them share whom they plan to tell. Finally, have them pray for one another.
 
-### • Encourage them to tell those people in the next few days. 41 Session Preparation Checklist
+Encourage them to tell those people in the next few days. 41 Session Preparation Checklist
 
 (This correlates with the Session Preparation Guidelines in the Appendix.) 4 Facts >> Servant PRAY:
 
@@ -1773,15 +1785,15 @@ APPLY:  Have in mind when and how to transition from HEAR to APPLY.  Be pr
 
 TELL:  Am committed to encourage people to do this despite their natural tendency not to.  Am looking for group members who “tell” easily. They may be good at leading their own group soon.
 
-### 4 Facts >> Servant
+### 4 Facts · Servant
 
 Group Discussion Outline CONNECT with needs:
 
-### • Find out how they are doing. Ask also how their “action to take” and “person to tell” went
+Find out how they are doing. Ask also how their “action to take” and “person to tell” went
 
 last week.
 
-### • Pray for wisdom from God during the session. • Start by stating: “People who are unselfish and serve make a powerful, positive impact
+Pray for wisdom from God during the session. · Start by stating: “People who are unselfish and serve make a powerful, positive impact
 
 on those around them.”
 
@@ -1791,17 +1803,17 @@ Then, surface experiences:
 
 “Tell us how you have experienced this.”
 
-### • Transition to the Bible by saying, “Jesus demonstrated that He was unselfish and
+Transition to the Bible by saying, “Jesus demonstrated that He was unselfish and
 
 sought to serve people.”
 
 HEAR what God says:
 
-• Read (or tell) a Bible story/passage related to the topic: • Choices: John 13:1-17 (story); Mark 1:40-42 (story); Ephesians 6:7,8; (Two of these
+- Read (or tell) a Bible story/passage related to the topic: • Choices: John 13:1-17 (story); Mark 1:40-42 (story); Ephesians 6:7,8; (Two of these
 
 passages may be enough to cover in one session.)
 
-### • Commentary:
+### Commentary
 
 John 13:1-17 >> Jesus gives a lesson in humility when he washes the feet of the disciples. Such a menial task was usually left to the servants. Here, Jesus sets an example that we should do for others what He has done.
 
@@ -1809,7 +1821,7 @@ Mark 1:40-42 >> A man with leprosy begged Jesus to make him clean. Touching a pe
 
 Ephesians 6:7,8 >> This passage challenges us to serve others as if we were serving God.
 
-### • Discuss each passage using these questions, or the alternate questions to the left:
+Discuss each passage using these questions, or the alternate questions to the left:
 
 “What do you think this passage teaches us?”
 
@@ -1817,23 +1829,23 @@ Ephesians 6:7,8 >> This passage challenges us to serve others as if we were serv
 
 “How do you think this passage relates to the topic we discussed earlier: People who are unselfish and serve make a powerful, positive impact on those around them?” APPLY that to life:
 
-### • State the main lesson: “Jesus lived His life on earth helping and serving others and
+State the main lesson: “Jesus lived His life on earth helping and serving others and
 
 asks us to do the same.” Have them write the “lesson learned” on their “mini-journal” handout.
 
-### • Discuss:
+### Discuss
 
 “What are some things that keep us from helping or serving others?” “What is one action you can take this week to help or serve someone else?”
 
-### • Have them write down that specific “action to take.” Then in groups of two or three,
+Have them write down that specific “action to take.” Then in groups of two or three,
 
 have them share what action they plan to take. Finally, have them pray for one another. TELL someone they know:
 
-• Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three,
+- Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three,
 
 have them share whom they plan to tell. Finally, have them pray for one another.
 
-• Encourage them to tell those people in the next few days. • Tell them how they will be helped by the next four sessions. (See page 35: “4 Helps”.) Session Preparation Checklist
+- Encourage them to tell those people in the next few days. • Tell them how they will be helped by the next four sessions. (See page 35: “4 Helps”.) Session Preparation Checklist
 
 (This correlates with the Session Preparation Guidelines in the Appendix.) 4 Helps >> Power PRAY:
 
@@ -1852,15 +1864,15 @@ Alternate questions to ask:  Galatians 5:16-23 1. How common are the acts of 
 
 TELL:  Am committed to encourage people to do this despite their natural tendency not to.  Am looking for group members who “tell” easily. They may be good at leading their own group soon.
 
-### 4 Helps >> Power
+### 4 Helps · Power
 
 Group Discussion Outline CONNECT with needs:
 
-### • Find out how they are doing. Ask also how their “action to take” and “person to tell” went
+Find out how they are doing. Ask also how their “action to take” and “person to tell” went
 
 last week.
 
-### • Pray for wisdom from God during the session. • Start by stating: “Daily life is challenging at times.”
+Pray for wisdom from God during the session. · Start by stating: “Daily life is challenging at times.”
 
 Then, surface experiences:
 
@@ -1868,23 +1880,23 @@ Then, surface experiences:
 
 “Tell us how you have experienced this.”
 
-### • Transition to the Bible by saying, “The Holy Spirit can give us power to cope with the
+Transition to the Bible by saying, “The Holy Spirit can give us power to cope with the
 
 daily challenges of life.”
 
 HEAR what God says:
 
-### • Read (or tell) a Bible story/passage related to the topic: • Choices: Galatians 5:16-23; Romans 8:11; Ephesians 3:16,20; (Two of these
+Read (or tell) a Bible story/passage related to the topic: · Choices: Galatians 5:16-23; Romans 8:11; Ephesians 3:16,20; (Two of these
 
 passages may be enough to cover in one session.)
 
-### • Commentary:
+### Commentary
 
 Galatians 5:16-23 >> The desires of the flesh and the Spirit are contradictory to each other. We do not do what we want to do to be obedient to Christ. However, if we live by the Spirit, we will have power to say “no” to the desires of our sinful nature. Romans 8:11 >> The Spirit of God, who raised Jesus Christ from the dead, lives inside of us. This gives us power in our daily lives.
 
 Ephesians 3:16,20 (used earlier in the 4 Walks Section) >> This passage gives an amazing statement of how much power is available to help us live.
 
-### • Discuss each passage using these questions, or the alternate questions to the left:
+Discuss each passage using these questions, or the alternate questions to the left:
 
 “What do you think this passage teaches us?”
 
@@ -1892,31 +1904,31 @@ Ephesians 3:16,20 (used earlier in the 4 Walks Section) >> This passage gives an
 
 APPLY that to life:
 
-### • State the main lesson: “Daily life can be difficult, but the Holy Spirit gives us power for
+State the main lesson: “Daily life can be difficult, but the Holy Spirit gives us power for
 
 living.” Have them write the “lesson learned” on their “mini-journal” handout.
 
-### • Discuss:
+### Discuss
 
 “What are some things that keep us from experiencing the power of the Holy Spirit in our daily challenges?”
 
 “What is one action you can take this week to overcome one of your life challenges through the power of the Holy Spirit?”
 
-### • Have them write down that specific “action to take.” Then in groups of two or three,
+Have them write down that specific “action to take.” Then in groups of two or three,
 
 have them share what action they plan to take. Finally, have them pray for one another.
 
-### • It may be appropriate to walk through the “Satisfied?” (Spirit-filled Life) booklet at this
+It may be appropriate to walk through the “Satisfied?” (Spirit-filled Life) booklet at this
 
 point.
 
 TELL someone they know:
 
-• Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three,
+- Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three,
 
 have them share whom they plan to tell. Finally, have them pray for one another.
 
-### • Encourage them to tell those people in the next few days. Session Preparation Checklist
+Encourage them to tell those people in the next few days. Session Preparation Checklist
 
 (This correlates with the Session Preparation Guidelines in the Appendix.) 4 Helps >> Truth PRAY:
 
@@ -1932,15 +1944,15 @@ APPLY:  Have in mind when and how to transition from HEAR to APPLY.  Be pr
 
 TELL:  Am committed to encourage people to do this despite their natural tendency not to.  Am looking for group members who “tell” easily. They may be good at leading their own group soon.
 
-### 4 Helps >> Truth
+### 4 Helps · Truth
 
 Group Discussion Outline CONNECT with needs:
 
-### • Find out how they are doing. Ask also how their “action to take” and “person to tell” went
+Find out how they are doing. Ask also how their “action to take” and “person to tell” went
 
 last week.
 
-### • Pray for wisdom from God during the session. • Start by stating: “Sometimes it is hard to know what is true and what is false.”
+Pray for wisdom from God during the session. · Start by stating: “Sometimes it is hard to know what is true and what is false.”
 
 Then, surface experiences:
 
@@ -1948,23 +1960,23 @@ Then, surface experiences:
 
 “Tell us how you have experienced this.”
 
-### • Transition to the Bible by saying, “The Holy Spirit can give us wisdom in discerning
+Transition to the Bible by saying, “The Holy Spirit can give us wisdom in discerning
 
 what is true in spiritual matters.”
 
 HEAR what God says:
 
-• Read (or tell) a Bible story/passage related to the topic: • Choices: 1 John 2:27; 1 Corinthians 2:10-12; John 16:13-15; (Two of these passages
+- Read (or tell) a Bible story/passage related to the topic: • Choices: 1 John 2:27; 1 Corinthians 2:10-12; John 16:13-15; (Two of these passages
 
 may be enough to cover in one session.)
 
-### • Commentary:
+### Commentary
 
 1 John 2:27 >> The anointing refers to the ministry of the Holy Spirit. The Spirit acts as our teacher and counselor to help us apply the truth of the Bible to daily living. 1 Corinthians 2:10-12 >> Only the Holy Spirit and Jesus Christ know the thoughts of the Father. Through the Spirit, we can have more than just human wisdom. We can know spiritual truths that come from God.
 
 John 16:13-15 >> Jesus is explaining the work of the Holy Spirit. The Spirit guides us into all truth and helps make the Father known to us.
 
-### • Discuss each passage using these questions, or the alternate questions to the left:
+Discuss each passage using these questions, or the alternate questions to the left:
 
 “What do you think this passage teaches us?”
 
@@ -1972,25 +1984,25 @@ John 16:13-15 >> Jesus is explaining the work of the Holy Spirit. The Spirit gui
 
 APPLY that to life:
 
-### • State the main lesson: “Sometimes it is hard to know what is true spiritually, but the
+State the main lesson: “Sometimes it is hard to know what is true spiritually, but the
 
 Holy Spirit can enlighten us.” Have them write the “lesson learned” on their “mini-journal” handout.
 
-### • Discuss:
+### Discuss
 
 “What are some confusing messages we receive concerning spiritual truth (e.g. The Da Vinci Code)?”
 
 “What is one action you can take this week to receive more spiritual wisdom from the Holy Spirit?”
 
-### • Have them write down that specific “action to take.” Then in groups of two or three,
+Have them write down that specific “action to take.” Then in groups of two or three,
 
 have them share what action they plan to take. Finally, have them pray for one another. TELL someone they know:
 
-• Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three,
+- Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three,
 
 have them share whom they plan to tell. Finally, have them pray for one another.
 
-### • Encourage them to tell those people in the next few days. Session Preparation Checklist
+Encourage them to tell those people in the next few days. Session Preparation Checklist
 
 (This correlates with the Session Preparation Guidelines in the Appendix.) 4 Helps >> Peace PRAY:
 
@@ -2008,15 +2020,15 @@ Alternate questions to ask:  Romans 8:5,6 1. In what ways can the mind of sin
 
 TELL:  Am committed to encourage people to do this despite their natural tendency not to.  Am looking for group members who “tell” easily. They may be good at leading their own group soon.
 
-### 4 Helps >> Peace
+### 4 Helps · Peace
 
 Group Discussion Outline CONNECT with needs:
 
-### • Find out how they are doing. Ask also how their “action to take” and “person to tell” went
+Find out how they are doing. Ask also how their “action to take” and “person to tell” went
 
 last week.
 
-### • Pray for wisdom from God during the session. • Start by stating: “Sometimes things overwhelm us emotionally.”
+Pray for wisdom from God during the session. · Start by stating: “Sometimes things overwhelm us emotionally.”
 
 Then, surface experiences:
 
@@ -2024,17 +2036,17 @@ Then, surface experiences:
 
 “Tell us how you have experienced this.”
 
-### • Transition to the Bible by saying, “In these kinds of situations, the Holy Spirit can give
+Transition to the Bible by saying, “In these kinds of situations, the Holy Spirit can give
 
 us peace.”
 
 HEAR what God says:
 
-• Read (or tell) a Bible story/passage related to the topic: • Choices: Romans 8:5,6; Acts 7:54-60 (story); Galatians 5:22; (Two of these passages
+- Read (or tell) a Bible story/passage related to the topic: • Choices: Romans 8:5,6; Acts 7:54-60 (story); Galatians 5:22; (Two of these passages
 
 may be enough to cover in one session.)
 
-### • Commentary:
+### Commentary
 
 Romans 8:5,6 >> This passage shows the stark contrast between relying on our flesh and relying on the power of the Holy Spirit. Our sinful nature breeds death, but the Spirit breeds life and peace.
 
@@ -2042,7 +2054,7 @@ Acts 7:54-60 >> Stephen was among several men elected by the early church to ser
 
 Galatians 5:22 (Part of a passage used earlier) >> The third part of the fruit (outcome) of being filled with the Holy Spirit is “peace.”
 
-### • Discuss each passage using these questions, or the alternate questions to the left:
+Discuss each passage using these questions, or the alternate questions to the left:
 
 “What do you think this passage teaches us?”
 
@@ -2050,23 +2062,23 @@ Galatians 5:22 (Part of a passage used earlier) >> The third part of the fruit (
 
 APPLY that to life:
 
-### • State the main lesson: “Sometimes things overwhelm us emotionally, but the Holy Spirit
+State the main lesson: “Sometimes things overwhelm us emotionally, but the Holy Spirit
 
 can give us peace.” Have them write the “lesson learned” on their “mini-journal” handout.
 
-### • Discuss:
+### Discuss
 
 “What prevents us from receiving peace through the Holy Spirit?” “What is one action you can take this week to experience more of that peace?”
 
-### • Have them write down that specific “action to take.” Then in groups of two or three,
+Have them write down that specific “action to take.” Then in groups of two or three,
 
 have them share what action they plan to take. Finally, have them pray for one another. TELL someone they know:
 
-• Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three,
+- Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three,
 
 have them share whom they plan to tell. Finally, have them pray for one another.
 
-### • Encourage them to tell those people in the next few days. Session Preparation Checklist
+Encourage them to tell those people in the next few days. Session Preparation Checklist
 
 (This correlates with the Session Preparation Guidelines in the Appendix.) 4 Helps >> Words PRAY:
 
@@ -2083,15 +2095,15 @@ Alternate questions to ask:  Luke 12:11,12 1. What is yet another role the Ho
 
 TELL:  Am committed to encourage people to do this despite their natural tendency not to.  Am looking for group members who “tell” easily. They may be good at leading their own group soon.
 
-### 4 Helps >> Words
+### 4 Helps · Words
 
 Group Discussion Outline CONNECT with needs:
 
-### • Find out how they are doing. Ask also how their “action to take” and “person to tell” went
+Find out how they are doing. Ask also how their “action to take” and “person to tell” went
 
 last week.
 
-### • Pray for wisdom from God during the session. • Start by stating: “Sometimes we want to help people in a tough situation, but we can’t
+Pray for wisdom from God during the session. · Start by stating: “Sometimes we want to help people in a tough situation, but we can’t
 
 seem to figure out what to say.”
 
@@ -2101,17 +2113,20 @@ Then, surface experiences:
 
 “Tell us how you have experienced this.”
 
-### • Transition to the Bible by saying, “The Holy Spirit can give us the right words to say in
+Transition to the Bible by saying, “The Holy Spirit can give us the right words to say in
 
 these situations.”
 
 HEAR what God says:
 
-### • Read (or tell) a Bible story/passage related to the topic: • Choices: Luke 12:11,12; 1 Corinthians 2:1-8,13 • Commentary:
+Read (or tell) a Bible story/passage related to the topic:
+
+- Choices: Luke 12:11,12; 1 Corinthians 2:1-8,13
+- Commentary:
 
 Luke 12:11,12 >> This passage encourages us that when we are in a position where we must defend our faith we can rely on the Holy Spirit to give us the words to say. 1 Corinthians 2:1-8,13 >> This passage is Paul’s testimony of the power of the Holy Spirit speaking through him. Paul told about his own lack of eloquence and words, his fears and lack of knowledge. He confessed that the only reason why the Corinthians grasped his message of the gospel was due to the power of the Holy Spirit speaking through him. The Holy Spirit can give us words to speak. Through the Spirit, we can express spiritual truths.
 
-### • Discuss each passage using these questions, or the alternate questions to the left:
+Discuss each passage using these questions, or the alternate questions to the left:
 
 “What do you think this passage teaches us?”
 
@@ -2119,23 +2134,23 @@ Luke 12:11,12 >> This passage encourages us that when we are in a position where
 
 APPLY that to life:
 
-### • State the main lesson: “Sometimes we don’t know what to say to minister to people, but
+State the main lesson: “Sometimes we don’t know what to say to minister to people, but
 
 the Holy Spirit can give us the words.” Have them write the “lesson learned” on their mini-journal” handout.
 
-### • Discuss:
+### Discuss
 
 “What prevents us from receiving from the Holy Spirit the right words to say to minister?” “What is one action you can take this week to find the right words to minister?”
 
-### • Have them write down that specific “action to take.” Then in groups of two or three,
+Have them write down that specific “action to take.” Then in groups of two or three,
 
 have them share what action they plan to take. Finally, have them pray for one another. TELL someone they know:
 
-• Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three,
+- Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three,
 
 have them share whom they plan to tell. Finally, have them pray for one another.
 
-• Encourage them to tell those people in the next few days. • Tell them how they will be helped by the next four sessions. (See page 35: “4 Attitudes”.) Session Preparation Checklist
+- Encourage them to tell those people in the next few days. • Tell them how they will be helped by the next four sessions. (See page 35: “4 Attitudes”.) Session Preparation Checklist
 
 (This correlates with the Session Preparation Guidelines in the Appendix.) 4 Attitudes >> Trust PRAY:
 
@@ -2152,15 +2167,15 @@ Alternate questions to ask:  Luke 5:17-26 1. What do you think was going thro
 
 TELL:  Am committed to encourage people to do this despite their natural tendency not to.  Am looking for group members who “tell” easily. They may be good at leading their own group soon.
 
-### 4 Attitudes >> Trust
+### 4 Attitudes · Trust
 
 Group Discussion Outline CONNECT with needs:
 
-### • Find out how they are doing. Ask also how their “action to take” and “person to tell” went
+Find out how they are doing. Ask also how their “action to take” and “person to tell” went
 
 last week.
 
-### • Pray for wisdom from God during the session. • Start by stating: “It is hard to stay friends with people unless you trust them.”
+Pray for wisdom from God during the session. · Start by stating: “It is hard to stay friends with people unless you trust them.”
 
 Then, surface experiences:
 
@@ -2168,15 +2183,15 @@ Then, surface experiences:
 
 “Tell us how you have experienced this.”
 
-### • Transition to the Bible by saying, “So it is in a relationship with God.”
+Transition to the Bible by saying, “So it is in a relationship with God.”
 
 HEAR what God says:
 
-• Read (or tell) a Bible story/passage related to the topic: • Choices: Luke 5:17-26 (story); Matthew 14:25-33 (story); Proverbs 3:5; (Two of these
+- Read (or tell) a Bible story/passage related to the topic: • Choices: Luke 5:17-26 (story); Matthew 14:25-33 (story); Proverbs 3:5; (Two of these
 
 passages may be enough to cover in one session.)
 
-### • Commentary:
+### Commentary
 
 Luke 5:17-26 >> This story shows friends of a paralytic taking extraordinary measures to put their friend in front of Jesus. The paralytic and his friends would have only done that if they believed (trusted) that Christ would do something in response. Their faith is rewarded beyond just the man’s healing.
 
@@ -2184,7 +2199,7 @@ Matthew 14:25-33 >> Peter, at least initially, demonstrates great trust in Chris
 
 Proverbs 3:5 >> This passage invites us to a wholehearted trust in God versus our own understanding.
 
-### • Discuss each passage using these questions, or the alternate questions to the left:
+Discuss each passage using these questions, or the alternate questions to the left:
 
 “What do you think this passage teaches us?”
 
@@ -2194,25 +2209,25 @@ Proverbs 3:5 >> This passage invites us to a wholehearted trust in God versus ou
 
 APPLY that to life:
 
-### • State the main lesson: “Trust God versus yourself.” Have them write the “lesson
+State the main lesson: “Trust God versus yourself.” Have them write the “lesson
 
 learned” on their “mini-journal” handout.
 
-### • Discuss:
+### Discuss
 
 “Why don’t we always trust God versus ourselves?”
 
 “What is one action you can take this week to start trusting God more?”
 
-### • Have them write down that specific “action to take.” Then in groups of two or three,
+Have them write down that specific “action to take.” Then in groups of two or three,
 
 have them share what action they plan to take. Finally, have them pray for one another. TELL someone they know:
 
-• Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three,
+- Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three,
 
 have them share whom they plan to tell. Finally, have them pray for one another.
 
-### • Encourage them to tell those people in the next few days. Session Preparation Checklist
+Encourage them to tell those people in the next few days. Session Preparation Checklist
 
 (This correlates with the Session Preparation Guidelines in the Appendix.) 4 Attitudes >> Love PRAY:
 
@@ -2228,15 +2243,15 @@ Alternate questions to ask:  Matthew 22:36-38 1. What are some other answers 
 
 TELL:  Am committed to encourage people to do this despite their natural tendency not to.  Am looking for group members who “tell” easily. They may be good at leading their own group soon.
 
-### 4 Attitudes >> Love
+### 4 Attitudes · Love
 
 Group Discussion Outline CONNECT with needs:
 
-### • Find out how they are doing. Ask also how their “action to take” and “person to tell” went
+Find out how they are doing. Ask also how their “action to take” and “person to tell” went
 
 last week.
 
-### • Pray for wisdom from God during the session. • Start by stating: “Love is a crucial element in causing a relationship to deepen over
+Pray for wisdom from God during the session. · Start by stating: “Love is a crucial element in causing a relationship to deepen over
 
 time.”
 
@@ -2246,21 +2261,21 @@ Then, surface experiences:
 
 “Tell us how you have experienced this.”
 
-### • Transition to the Bible by saying, “So it is in a relationship with God.”
+Transition to the Bible by saying, “So it is in a relationship with God.”
 
 HEAR what God says:
 
-• Read (or tell) a Bible story/passage related to the topic: • Choices: Matthew 22:36-38; John 21:15-17 (story); Deuteronomy 11:11-15 (story);
+- Read (or tell) a Bible story/passage related to the topic: • Choices: Matthew 22:36-38; John 21:15-17 (story); Deuteronomy 11:11-15 (story);
 
 (Two of these passages may be enough to cover in one session.)
 
-### • Commentary:
+### Commentary
 
 Matthew 22:36-38 >> Jesus makes clear that loving God is our number one priority. John 21:15-17 >> Jesus strongly emphasizes that priority with Peter (who had recently denied knowing Him).
 
 Deuteronomy 11:11-15 >> God tells the children of Israel what wonderful benefits they will receive if they love and serve Him wholeheartedly.
 
-### • Discuss each passage using these questions, or the alternate questions to the left:
+Discuss each passage using these questions, or the alternate questions to the left:
 
 “What do you think this passage teaches us?”
 
@@ -2268,25 +2283,25 @@ Deuteronomy 11:11-15 >> God tells the children of Israel what wonderful benefits
 
 “How do you think this passage relates to the topic we discussed earlier: Love is a crucial element in causing a relationship to deepen over time?” APPLY that to life:
 
-### • State the main lesson: “Love God with your whole heart and worship Him.” Have them
+State the main lesson: “Love God with your whole heart and worship Him.” Have them
 
 write the “lesson learned” on their “mini-journal” handout.
 
-### • Discuss:
+### Discuss
 
 “Why don’t we always love God with our whole heart?”
 
 “What is one action you can take this week to start loving God more?”
 
-### • Have them write down that specific “action to take.” Then in groups of two or three,
+Have them write down that specific “action to take.” Then in groups of two or three,
 
 have them share what action they plan to take. Finally, have them pray for one another. TELL someone they know:
 
-• Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three,
+- Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three,
 
 have them share whom they plan to tell. Finally, have them pray for one another.
 
-### • Encourage them to tell those people in the next few days. Session Preparation Checklist
+Encourage them to tell those people in the next few days. Session Preparation Checklist
 
 (This correlates with the Session Preparation Guidelines in the Appendix.) 4 Attitudes >> Obey PRAY:
 
@@ -2304,15 +2319,15 @@ APPLY:  Have in mind when and how to transition from HEAR to APPLY.  Be pr
 
 TELL:  Am committed to encourage people to do this despite their natural tendency not to.  Am looking for group members who “tell” easily. They may be good at leading their own group soon.
 
-### 4 Attitudes >> Obey
+### 4 Attitudes · Obey
 
 Group Discussion Outline CONNECT with needs:
 
-### • Find out how they are doing. Ask also how their “action to take” and “person to tell” went
+Find out how they are doing. Ask also how their “action to take” and “person to tell” went
 
 last week.
 
-### • Pray for wisdom from God during the session. • Start by stating: “When we love people, we try to find ways to please them.”
+Pray for wisdom from God during the session. · Start by stating: “When we love people, we try to find ways to please them.”
 
 Then, surface experiences:
 
@@ -2320,21 +2335,21 @@ Then, surface experiences:
 
 “Tell us how you have experienced this.”
 
-### • Transition to the Bible by saying, “So it is in a relationship with God.”
+Transition to the Bible by saying, “So it is in a relationship with God.”
 
 HEAR what God says:
 
-• Read (or tell) a Bible story/passage related to the topic. • Choices: John 14:23,24; Matthew 21:28-32 (story); Acts 5:27-33 (story); (Two of these
+- Read (or tell) a Bible story/passage related to the topic. • Choices: John 14:23,24; Matthew 21:28-32 (story); Acts 5:27-33 (story); (Two of these
 
 passages may be enough to cover in one session.)
 
-### • Commentary:
+### Commentary
 
 John 14:23,24 >> Jesus connects loving Him and obeying what He teaches. Matthew 21:28-32 >> Jesus clarifies that obedience involves following through, not just “saying yes.”
 
 Acts 5:27-33 >> The apostles show that they understand the importance of obeying God—even at considerable personal risk.
 
-### • Discuss each passage using these questions, or the alternate questions to the left:
+Discuss each passage using these questions, or the alternate questions to the left:
 
 “What do you think this passage teaches us?”
 
@@ -2344,25 +2359,25 @@ Acts 5:27-33 >> The apostles show that they understand the importance of obeying
 
 APPLY that to life:
 
-### • State the main lesson. “Do what pleases God.” Have them write the “lesson learned”
+State the main lesson. “Do what pleases God.” Have them write the “lesson learned”
 
 on their “mini-journal” handout.
 
-### • Discuss:
+### Discuss
 
 “Why don’t we always respond that way?”
 
 “What is one action you can take this week to begin to please God more?”
 
-### • Have them write down that specific “action to take.” Then in groups of two or three,
+Have them write down that specific “action to take.” Then in groups of two or three,
 
 have them share what action they plan to take. Finally, have them pray for one another. TELL someone they know:
 
-• Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three,
+- Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three,
 
 have them share whom they plan to tell. Finally, have them pray for one another.
 
-### • Encourage them to tell those people in the next few days. Session Preparation Checklist
+Encourage them to tell those people in the next few days. Session Preparation Checklist
 
 (This correlates with the Session Preparation Guidelines in the Appendix.) 4 Attitudes >> Use PRAY:
 
@@ -2381,15 +2396,15 @@ Alternate questions to ask:  Ephesians 2:10 1. From this verse what can we le
 
 TELL:  Am committed to encourage people to do this despite their natural tendency not to.  Am looking for group members who “tell” easily. They may be good at leading their own group soon.
 
-### 4 Attitudes >> Use
+### 4 Attitudes · Use
 
 Group Discussion Outline CONNECT with needs:
 
-### • Find out how they are doing. Ask also how their “action to take” and “person to tell” went
+Find out how they are doing. Ask also how their “action to take” and “person to tell” went
 
 last week.
 
-### • Pray for wisdom from God during the session. • Start by stating: “When we are given something, it is a nice compliment to the giver
+Pray for wisdom from God during the session. · Start by stating: “When we are given something, it is a nice compliment to the giver
 
 for us to use it.”
 
@@ -2399,15 +2414,15 @@ Then, surface experiences:
 
 “Tell us how you have experienced this.”
 
-### • Transition to the Bible by saying, “So it is in a relationship with God.”
+Transition to the Bible by saying, “So it is in a relationship with God.”
 
 HEAR what God says:
 
-• Read (or tell) a Bible story/passage related to the topic: • Choices: Ephesians 2:10; Ephesians 5:15,16; Matthew 25:14-30 (story); (Two of these
+- Read (or tell) a Bible story/passage related to the topic: • Choices: Ephesians 2:10; Ephesians 5:15,16; Matthew 25:14-30 (story); (Two of these
 
 passages may be enough to cover in one session.)
 
-### • Commentary:
+### Commentary
 
 Ephesians 2:10 >> This verse tells us that God has planned and prepared before-hand for us to do good things.
 
@@ -2415,7 +2430,7 @@ Ephesians 5:15,16 >> These verses clarify that it is our job to make the most of
 
 Matthew 25:14-30 >> This is one of the classic parables illustrating how pleasing and important it is to God that we make good use of what He gives us. The “master” in the story is a picture of God.
 
-### • Discuss each passage using these questions, or the alternate questions to the left:
+Discuss each passage using these questions, or the alternate questions to the left:
 
 “What do you think this passage teaches us?”
 
@@ -2423,25 +2438,25 @@ Matthew 25:14-30 >> This is one of the classic parables illustrating how pleasin
 
 “How do you think this passage relates to the topic we discussed earlier: When we are given something, it is a nice compliment to the giver for us to use it?” APPLY that to life:
 
-### • State the main lesson. “Use well what God gives you, for His purpose.” Have them
+State the main lesson. “Use well what God gives you, for His purpose.” Have them
 
 write the “lesson learned” on their “mini-journal” handout.
 
-### • Discuss:
+### Discuss
 
 “Why don’t we always use God’s gifts well?”
 
 “What is one action you can take this week to start doing that better?”
 
-### • Have them write down that specific “action to take.” Then in groups of two or three,
+Have them write down that specific “action to take.” Then in groups of two or three,
 
 have them share what action they plan to take. Finally, have them pray for one another. TELL someone they know:
 
-• Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three,
+- Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three,
 
 have them share whom they plan to tell. Finally, have them pray for one another.
 
-• Encourage them to tell those people in the next few days. • Encourage them to start their own groups to discuss the “Essentials of Spiritual Growth
+- Encourage them to tell those people in the next few days. • Encourage them to start their own groups to discuss the “Essentials of Spiritual Growth
 
 and Multiplication.”
 
@@ -2544,9 +2559,9 @@ Will share what was learned with someone else this week.
 
 CONNECT Be sure to have a good personal example ready to be able to tell how you have experienced the stated truth. This “lead” into the Bible discussion is intended to be a sharing of experiences not a debating of opinions. It should create a climate where most people acknowledge the truth from experience, so you can easily lead into the HEAR section with a statement like, “So it is in a relationship with God (or in the Christian life, etc.).” Part of connecting involves assessing where your group members are spiritually. If there are a number of non-Christians present, your whole session may contain more explanation and may need to be sensitive about prayer times, etc.
 
-HEAR Spend time reading over the possible Bible passages. Consider using the “alternate questions” listed in the Session Preparation Checklist on the page before each session in the Small-Group Leader’s Guide. These questions may be easier for you to use than the standard questions in the Group Discussion Outline. Ask yourself if there are other questions you would like to add or use instead. If, for example, your group consists mainly of non- Christians, you may need to ask questions which clarify or assure proper understanding, like: “Is there anything about this passage that isn’t making sense to you?” It should prove helpful to plan which questions you are going to use for a particular Bible passage. That will help you guide the discussion more easily. APPLY This should flow very directly from the HEAR discussions. For example, in the “Walk Assured” lesson you should be able to say something like: “We agreed in our discussion at the beginning of the session that ‘relationships thrive on acceptance and assurance’. That includes a relationship with God. We can see from our discussions related to the Bible that God does indeed love and accept people who have established a relationship with Him. So it is crucial to ‘be sure of your personal relationship with God’.”
+HEAR Spend time reading over the possible Bible passages. Consider using the “alternate questions” listed in the Session Preparation Checklist on the page before each session in the Small-Group Leader’s Guide. These questions may be easier for you to use than the standard questions in the Group Discussion Outline. Ask yourself if there are other questions you would like to add or use instead. If, for example, your group consists mainly of non-Christians, you may need to ask questions which clarify or assure proper understanding, like: “Is there anything about this passage that isn’t making sense to you?” It should prove helpful to plan which questions you are going to use for a particular Bible passage. That will help you guide the discussion more easily. APPLY This should flow very directly from the HEAR discussions. For example, in the “Walk Assured” lesson you should be able to say something like: “We agreed in our discussion at the beginning of the session that ‘relationships thrive on acceptance and assurance’. That includes a relationship with God. We can see from our discussions related to the Bible that God does indeed love and accept people who have established a relationship with Him. So it is crucial to ‘be sure of your personal relationship with God’.”
 
-### Session Preparation Guidelines (con’t)
+Session Preparation Guidelines (con’t)
 
 Then the next logical question is, “Why don’t we always experience assurance in our personal relationship with God?”
 

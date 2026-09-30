@@ -11,8 +11,6 @@ summary: "An article by Rick James surveying the Book of Acts as a missionary ha
 source: "Sending/Missions/Apostolic Ministry and the Book of Acts.pdf"
 ---
 
-## Rick James
-
 Many people think that A.D. means “after death” meaning after the death of Jesus Christ. It doesn’t. A.D. commences with the approximated year of Jesus’ birth, which means his death was roughly around the year A.D. 33. I just wanted you to have your bearings before we head back into the time machine, and it’s a nice piece of trivia to amaze and astound your friends. But they probably already know this, so at the very least it will simply keep you from looking stupid. by and through his empowerment. And so they were told to sit on their hands until they had been clothed in power and boldness by the Spirit of God. After Jesus uttered the Great Commission to his followers (Matt. 28), you would assume that he would have sent them packing and launched them out into the world with a sense of urgency “On your mark, get set, go” or “Don’t let the door hit you on your way out.” Instead he tells them to do nothing and go nowhere (those are my kind of commandments). They are instructed to wait in Jerusalem The descending of the Holy Spirit upon his disciples is called Pentecost and we read about in the Book of Acts, chapter 2:
 
 While he was eating with them, he gave them this command: “Do not leave Jerusalem, but wait for the gift my Father promised, which you have heard me speak about. (Acts 1:4)

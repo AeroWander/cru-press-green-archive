@@ -18,11 +18,9 @@ Community is not simply another ministry activity; it is the context for all min
 
 Will Walker’s book is probably the best apologetic written for why community is the matrix for spiritual growth. But the content goes well beyond theological reasoning, providing extremely practical how’s and why’s for living out our faith in community. Through excellent writing and reasoning, personal examples and stories, the book creates a hunger and desire for communal living. Content of Book: Why We Pursue Independence; Why We Need Community; Repentance; Community and the Word-Communal Quiet Times, Community and Confession; Group Prayer; Godly Speech and Conversation, and A Commitment to Live Communally.
 
-## Order Online at Crupress.com
-
 viii
 
-## imaginary friends
+## Imaginary friends
 
 From where I park, it’s a ten-minute walk down twenty-fourth Street to the UT campus. Sometimes I wish I had someone to talk to during those ten minutes. One morning I started to wonder why I couldn’t just talk to Jesus while I walked. He should be able to keep me company, right? So I tried it. It was an experiment in prayer.
 

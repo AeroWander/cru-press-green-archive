@@ -11,8 +11,6 @@ summary: "An apologetics article by John Vampatella rebutting moral relativism a
 source: "Evangelism/apologetic/Is Everything Relative_.pdf"
 ---
 
-## John Vampatella
-
 are fallacies. No such thing exists. It is up to the individual and/or society to determine the “rightness” or “wrongness” of something, and that can, and does, change from time to time.
 
 The logical conclusion of relativism is that everyone does what is right in his or her own eyes. Further, since there is no absolute gauge of what is morally right or wrong, no person has the right to (1) declare another’s moral code to be in error, or (2) to “impose” his own moral code on another. Sin, then, has no meaning, since what may be sin to you is not necessarily sin to me.

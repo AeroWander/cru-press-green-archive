@@ -16,7 +16,7 @@ Sooner or later, a critical mass of praying, fervent believers is gathered. Like
 
 Your prayer chain may not turn into a massive revival or last for 100 years, in fact, 24 hours would be quite an accomplishment and a rather visionary goal. The Moravians served as the example and inspiration for Peter Greig and the modern 24/7 prayer movement. After a visit to Herrnhut, the historic site of Zinzendorf ’s community, Greig figured, “If the Moravians could do a century of 24/7 prayer, we could at least try for a month in our church back home.” So, in September of 1999, they began their experiment and found they couldn’t stop praying after the month was up, continuing on until Christmas. Today there are thousands of 24/7 prayer rooms in over seventy countries and counting.
 
-## Some Basic How-to’s
+*Some Basic How-to’s*
 
 Whether you are forming a prayer chain for a specific event or a longer period of time, the following are some helpful suggestions.
 

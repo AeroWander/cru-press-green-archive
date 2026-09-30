@@ -11,8 +11,6 @@ summary: "An article by Tim Henderson explaining how disciplers should use The C
 source: "Discipleship/How to Disciple Others/How to Use The Compass.pdf"
 ---
 
-## Tim Henderson
-
 Often times in the Scriptures, God uses metaphors of journeys to describe both life in general and a relationship with Him. In Psalm 23, David describes life as a path on which God guides us, and death as a valley through which we walk. In Matthew 7, our Lord spoke of the small gate and narrow road that leads to life. And John said that he had no greater joy than to find his children walking in the truth (3 John 4). easy, but to make great discipleship possible. If you just glance over the material 10 minutes before a meeting, they’ll know it, and you’ll feel like a loser. (I know that of which I speak.) If, on the other hand, you will take the time to rigorously interact with what you learn here, and combine it with your own passions and experience, you’ll change their lives and they’ll love you forever. They may even name their kids after you and cry at your funeral. It’s worth it, so dig in. Like most trips, this one is more fun with a companion. And like all adventures into new places, you get more out of them if you can travel with someone who has been there before. It’s extremely likely that you were led to Christ by someone who had already “crossed over from death to life.” By God’s grace they were willing to come back and get you, and walk over that bridge again with you. The same goes if you have had the privilege of being discipled. Even a stud like Paul needed a Barnabas to guide him until he was ready to lead himself. Life in Christ is not meant to be experienced alone.
 
 ## Step One

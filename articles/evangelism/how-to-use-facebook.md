@@ -10,7 +10,7 @@ summary: "A brief article encouraging students to use Facebook (ads, profiles, b
 source: "Evangelism/traning/How to use facebook.pdf"
 ---
 
-## Everystudent.com
+Everystudent.com
 
 As evangelism is social networking it doesn’t take much imagination to recognize the gospel implications and opportunities presented through the social network of Facebook.
 

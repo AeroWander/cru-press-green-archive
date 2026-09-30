@@ -11,11 +11,11 @@ summary: "A leader's guide collection of five gospel-centered small-group Bible 
 source: "Small Groups and Meetings/Additional Small Group Material/Giftof copy 2.pdf"
 ---
 
-### “Gifts of God” Bible Studies Beauty•relationships•sex•alcohol•success Gifts of God Studies Tyler Zach
+“Gifts of God” Bible Studies Beauty•relationships•sex•alcohol•success Gifts of God Studies Tyler Zach
 
 God gives us many good gifts. But, these “good” things can become “god” things. These studies explore how we use things like alcohol, sex, beauty, and relationships to get approval, power, comfort, and security. Instead of dealing with our behavior at a surface level, the studies surfaces the root reasons behind our abuse of God’s gifts and why we look to them for fulfillment instead of God himself. These studies use a gospel-centered approach to five of the most relevant issues on campus, confronting the primary idols in the lives of today’s student with the good news of Jesus Christ.
 
-### STUDIES CAN ALSO BE FOUND ONLINE relationships Leader’s Guide
+### Studies Can Also Be Found Online Relationships Leader’s Guide
 
 BIG IDEA Relationships are a gift from God. But, we have sought after ultimate fulfillment in them. The Gospel confronts the way we try to pile the deepest longings of our heart onto one person instead of God himself. RELATIONSHIPS POP QUIZ SAY “To begin this study we are going to take a quick Relationships Pop Quiz. Let’s read through all the questions first and then flip the sheet upside-down to see the answers.” STATUS UPDATE: IN A RELATIONSHIP
 
@@ -27,11 +27,11 @@ How has a family, friend or dating relationship been a real gift to you? THE PRO
 
 SAY “Now we are going to read a story from Scripture that deals with the topic of relationships. Can I have one volunteer who would be willing to read this story? Please read loudly and slowly so that we can catch what is going on.”
 
-#### READ John 4:1-26
+#### Read John 4:1-26
 
 How does Jesus use the well in the story as a spiritual analogy with the Samaritan woman? The well in the story represents her spiritual thirst. Jesus showed her that she had been going after men to quench her spiritual thirst. What is the passage urging you to do? Jesus is urging the woman at the well to see that he is the living water that can truly satisfy. Likewise, we are urged to come to Jesus to quench our spiritual thirst instead of going to relationships or anything else in life that we think will ultimately fulfill us. What is the reward for doing it? We won’t have to keep going to other worldly sources to be satisfied. We can have eternal satisfaction right now through Jesus. SAY “Hopefully, after reading about this interaction between Jesus and the woman at the well, it has helped you to see that God also desires a relationship with you and me. He has put a deep desire in us to find fulfillment in a relationship with him. But the problem is that we often go to other sources to quench our spiritual thirst instead of God. Let’s move on to to next section to find out why.”
 
-### relationships leader’s guide cont.
+relationships leader’s guide cont.
 
 THE ROOT
 
@@ -53,7 +53,7 @@ What is your initial reaction to the Gospel message above? Potential follow-up q
 
 Which of these do you need to be empowered by the Holy Spirit to live out more fully? Potential follow-up question: Which of these areas have you struggled with in the past?
 
-#### SAY “Thanks for sharing. Let’s spend the last few minutes in prayer.”
+SAY “Thanks for sharing. Let’s spend the last few minutes in prayer.”
 
 #### Pray
 
@@ -91,7 +91,7 @@ God created us to be in relationship.
 
 After creating Adam he said, “It is not
 
-### relationships are a gift
+relationships are a gift
 
 good for man to be alone” (Gen. 2:18).
 
@@ -103,7 +103,7 @@ Contrary to gods in other religions, we see that the Christian God not only want
 
 From eternity past, God the Father has had a relationship with God the Son and God the Holy Spirit. The very nature of the Trinity proves that God is relational and has created us as relational beings since we are made in his image. When we interact with and serve those in relationship with us, we reflect the very nature of God.
 
-### the problem
+### The problem
 
 Relationships are a gift from God but we have sought after ultimate fulfillment in them rather than God.
 
@@ -137,9 +137,9 @@ secure about myself and my future when I’m in a committed relationship” or �
 
 While it is true that we seek to fulfill our spiritual thirst through multiple avenues, the culture (especially music and film) continues to tell us to pile the deepest longings of our heart onto one person. Ernest Becker says that this constant pursuit of fulfillment in one specific person is called “apocalyptic romance” which is “looking to sex and romance to give us the transcendence and sense of meaning we used to get from faith in God.”
 
-### “We maintain the fantasy that if we find our one true soul mate, everything wrong with us will be healed.”
+“We maintain the fantasy that if we find our one true soul mate, everything wrong with us will be healed.”
 
-#### - Pastor Tim Keller
+#### Pastor Tim Keller
 
 What we see on TV and what we listen to on the radio continues to feed this mythical fantasy. It’s quite ironic that many of the celebrities singing about romance are either single or divorced.
 
@@ -151,13 +151,13 @@ The problem is not relationships, but our pursuit of ultimate fulfillment in the
 
 How have you or your friends bought into the cultural myth that we can have meaning, be healed, made complete, or ultimately fulfilled with “the one?”
 
-### The Gospel confronts the way we pile the deepest longings of our
+The Gospel confronts the way we pile the deepest longings of our
 
 heart onto one person. Emily, a sorority girl, would write status updates on Facebook like “My boyfriend is the best,” “Love talking to my boyfriend into the wee hours of the morning” and “I love you.” Then about eight months into the relationship she told me, “We broke up a few days ago. I’m not dealing with it very well. I got hurt pretty bad. It’s going to take some time to recover.” What happened? Emily bet all of her chips on one guy and lost. The bad news is, like Emily, we too have been guilty of trying to quench our spiritual thirst in friends, family, or romantic relationships. We have forsaken God, the “fountain of living water” (Jer. 2:13). We’ve abandoned Jesus who is our “living water” (John 4:1-26) and gone to sources that leave us empty. Therefore, it would have been perfectly just for God to keep us at a distance forever.
 
-## solutionredeeming
+solutionredeeming
 
-### relationships:
+### Relationships
 
 You can’t redeem relationships without being in a relationship with God. Since Jesus said that no one comes to the Father except through him (John 14:6), the first step is to trust in Jesus who died to reconcile you to God (Rom. 5:10). Those who are in a relationship with God are sealed with the Holy Spirit (Eph. 1:13) who empowers you with the motivation and ability to redeem relationships in the following ways: return to God In the book of Revelation, God encouraged one of the churches for the great things they were doing but also said, “Yet I hold this against you: You have forsaken the love you had at first. Consider how far you have fallen!” (Rev. 2). Have you fallen or drifted from the love you once had for God? As you look at your life right now, would you say that God is the most important relationship to you? Are you sacrificing intimacy with God for the sake of spending all your time with one person? run to God God should be your highest pursuit. He is omnipresent (always there), omnipotent (all powerful), and omniscient (all knowing). Your loved ones are not!
 
@@ -169,7 +169,7 @@ But, the good news is that God sent Jesus into the world to reconcile our relati
 
 If you truly believe that - you can have eternal life. But don’t make a common mistake. Don’t presume that eternal life simply means getting a ticket to heaven. Eternal life means getting God himself. John 17:3 says “Now this is eternal life: that they may know you, the only true God, and Jesus Christ, whom you have sent.” The primary goal of the Christian life isn’t heaven, but a relationship with God through Jesus alone (1 Tim 2:5; John 14:6). What Emily needs to know and what you and I need to know is that we can pile all of the deepest longings of our hearts onto one person - Jesus. We can stop searching desperately for intimacy because “The One” relationship that matters has come to earth and found us. And he promises to never leave or forsake us if we are united with him (Matt. 28). What is your initial reaction to the Gospel message above?
 
-### alcohol Leader’s Guide
+### Alcohol Leader’s Guide
 
 BIG IDEA Alcohol is a gift from God. But, it is often an abused gift. The Gospel confronts both the way we use alcohol to get the happiness that only God can give and the way we use legalistic solutions to fix alcohol abuse. CHURCH HISTORY POP QUIZ SAY “To begin this study we are going to take a quick Church History Pop Quiz. Let’s read through all the questions first and then flip the sheet upside-down to see the answers.” JESUS CHRIST: KING OF THE BREWS
 
@@ -183,7 +183,7 @@ SAY “Now we are going to read a passage of Scripture that talks more about alc
 
 Different: When you fill yourself with alcohol you lose the ability to make good decisions. When you fill yourself with the Spirit, you can’t help but do only good things. Paul is setting up a contrast here of two different types of people. What words/phrases are associated with each side? (see grid below)
 
-### alcohol leader’s guide cont.
+alcohol leader’s guide cont.
 
 #### First Kind of Person Second Kind of Person
 
@@ -204,7 +204,7 @@ What is your initial reaction to the Gospel message above? Potential follow-up q
 
 Which of these do you need to be empowered by the Holy Spirit to live out more? Potential follow-up question: Which of these areas have you struggled with in the past?
 
-#### SAY “Thanks for sharing. Let’s spend the last few minutes in prayer.”
+SAY “Thanks for sharing. Let’s spend the last few minutes in prayer.”
 
 #### Pray
 
@@ -240,7 +240,7 @@ What surprises you about the Bible’s stance on alcohol?
 
 What was the stance on alcohol that your church or family had growing up?
 
-### alcohol is a gift
+alcohol is a gift
 
 money on and drink wine. Psalm 4:7 compares joy in the Lord to the abundance of wine. Psalm 104:14-15 credits God as the creator of wine that “makes a man’s heart glad.” Love is compared to wine repeatedly in the Song of Songs. Isa 25:6 says that the Lord will prepare a banquet with wine for his people. In addition, lack of wine is viewed as a judgment from God (Jer 48:33; Lam 2:12; Hos 2:9; Joel 1:10; Hag 2:16); and, conversely, its provision is viewed as a blessing from God (Gen 27:28; Deut 7:13; 11:14; Joel 2:19, 24; 3:18; Amos 9:13-14). Wallace says, “Why, if one didn’t know better, he might think that God actually wanted us to enjoy life!”
 
@@ -250,7 +250,7 @@ Jesus, rather than conforming to the legalists of his day, showed us that a pers
 
 Our sovereign God didn’t create alcohol by accident. He created it for us to drink with a joyful heart (Ecc 9:7).
 
-### the problem
+### The problem
 
 Alcohol is a gift from God, but it is often an abused gift. Here are some of the tragic consequences of alcohol abuse: Incest (Gen 19:32-35), Violence (Prov 4:17), Adultery (Rev 17:2), Mockery (Prov 20:1), Poverty (Prov 21:17), Murder (2 Sam 11:13-15), Gluttony (Prov 23:20-21), Madness (Jer 51:7), Sloth (Joel 1:5), Escapism (Hos 4:11), Depression (Luke 24:34).
 
@@ -278,7 +278,7 @@ Luther is right. Getting rid of the object won’t cure the need behind the obje
 
 with them I can finally get their acceptance” or “I’m willing to break the law to get this group’s approval.”
 
-#### Influence and Power. “Drinking with
+Influence and Power. “Drinking with
 
 this crowd will make me more popular.”
 
@@ -298,9 +298,9 @@ Growing up, in what ways have you been persuaded by the culture or the church no
 
 Being honest, if you drink, what do you think your biggest motivation is? What about those around you?
 
-### alcohol:
+### Alcohol
 
-## solutionredeeming
+solutionredeeming
 
 You can’t redeem alcohol without being redeemed yourself. So the first step is to trust in Jesus, who lived a perfect life and died to make you righteous before God (2 Cor 5:21). Those who are made righteous by God are sealed with the Holy Spirit (Eph 1:13), who empowers you with the motivation and ability to redeem alcohol in the following ways: respect authority God desires that we would respect authority, for our good and the good of our nation. Our country has created a legal drinking age because many teens think, "I can drink responsibly." But we all know that this hasn’t been the case. Thus, if you are under the drinking age, you shouldn’t drink. Romans 13:1 says, “Everyone must submit himself to the governing authorities, for there is no authority except that which God has established. The authorities that exist have been established by God.” This Bible study is intended for you to enjoy alcohol to the glory of God, but not at the expense of minimizing His glory by being unsubmissive to the law. use your conscience If you are over 21, act according to your conscience. If you have abused alcohol in the past, you might want to abstain for a period of time so that you don’t stumble back into your old habits. If you know that you don’t have the willpower to have just one or two, or if alcohol has led you down a path of sin before, hold off. don’t judge If you are over 21, Romans 14 tells those of you who have chosen to abstain not to judge your friends who don’t. The passage also exhorts the Christians who don’t abstain not to judge their friends who do. respect others If you are over 21, 1 Corinthians 10:23-33 says that you should seek the good of others and not cause anyone to stumble.
 
@@ -308,7 +308,7 @@ Ask yourself before hanging out with friends or going to a party: How will this 
 
 Which of these do you need to be empowered by the Holy Spirit to live out more?
 
-### The Gospel confronts the way we use alcohol to get happiness. The
+The Gospel confronts the way we use alcohol to get happiness. The
 
 more we drink to find comfort, the more uncomfortable our hangover is. The more we drink to get approval, the more we feel unapproved of in the morning after the regrets set in.
 
@@ -316,7 +316,7 @@ Only in Jesus will we get the happiness that we long for, without all the side e
 
 - Isaiah 25:6-9 The feast in heaven will be filled not with those who have made the gift of alcohol ultimate, but with those who have made Jesus ultimate and use alcohol as a way to heighten our fellowship with him. What is your initial reaction to the Gospel message above?
 
-### beauty Leader’s Guide
+### Beauty Leader’s Guide
 
 BIG IDEA Beauty is a gift from God. But, it is often a redefined and abused gift. The Gospel confronts both the way we use beauty to get the acceptance that only God can give and the way we use our moral performance to make ourselves beautiful enough for God.
 
@@ -330,25 +330,25 @@ When was the last time you experienced something beautiful? THE PROBLEM
 
 SAY “Now we are going to read a few passages of Scripture that talk more about beauty. Can I have five volunteers with a a Bible each read one of these passages? We are going to read through these passages quickly to get a clearer definition of beauty. The answers might come easy, but it will be very helpful to go over them.”
 
-#### READ Proverbs 31:30
+#### Read Proverbs 31:30
 
 How is the passage urging you to think differently about beauty? Physical beauty doesn’t mean much. It’s passing quickly. What is the passage urging you to do? Fear the Lord. What is the reward for doing it? You will be praised.
 
-#### READ 1 Peter 3:3-4
+#### Read 1 Peter 3:3-4
 
 How is the passage urging you to think differently about beauty? Though it is OK to wear make-up, jewelry, and nice clothes, your beauty should not primarily come through these external things. What is the passage urging you to do? Weigh your beauty first and foremost by looking at what’s on the inside. What is the reward for doing it? In God’s eyes gives, inner beauty has much worth.
 
-#### READ 1 Timothy 4:8
+#### Read 1 Timothy 4:8
 
 How is the passage urging you to think differently about beauty? Inner beauty has more value than outer beauty. What is the passage urging you to do? Enter into spiritual training more so than physical training. What is the reward for doing it? Godliness has value in both in this life and the next.
 
-### beauty leader’s guide cont.
+beauty leader’s guide cont.
 
-#### READ 1 Samuel 16:7
+#### Read 1 Samuel 16:7
 
 How is the passage urging you to think differently about beauty? People aren’t accepted or rejected by God because of their outer beauty, but because of their heart. What is the passage urging you to do? Look at the heart more than outward appearance.
 
-#### READ Proverbs 11:22
+#### Read Proverbs 11:22
 
 How is the passage urging you to think differently about beauty? It is silly to think that a gold ring could make something as unclean as a pig look more beautiful. In the same way, a woman’s physical beauty can not excuse her lack of discretion.
 
@@ -369,7 +369,7 @@ What is your initial reaction to the Gospel message above? Potential follow-up q
 
 Which of these do you need to be empowered by the Holy Spirit to live out more fully? Potential follow-up question: Which of these areas have you struggled with in the past?
 
-#### SAY “Thanks for sharing. Let’s spend the last few minutes in prayer.”
+SAY “Thanks for sharing. Let’s spend the last few minutes in prayer.”
 
 #### Pray
 
@@ -416,7 +416,7 @@ Even before make-up, hair gel for men, beauty treatments, and shopping malls exi
 
 The Psalmist says, “For you created my inmost being; you knit me together in my mother’s womb. I praise you because I am
 
-### beauty is a gift
+beauty is a gift
 
 fearfully and wonderfully made; your works are wonderful, I know that full well” (Psalm 139:13-14). Vicki Courtney, a writer for Focus on they Family says, “You were created in the image of God, and God doesn’t make junk! Like a snowflake, every person is unique. No two are the same. God sees you as a masterpiece.”
 
@@ -428,7 +428,7 @@ God is pro-beauty. Even something as small as a lily has a beauty that can surpa
 
 Beauty is a gift from God that should cause us to worship him with thankfulness in our hearts.
 
-### the problem
+### The problem
 
 Beauty is a gift from God, but we’ve abused this gift by redefining it. We’ve created an outward, one-dimensional version that we use to get acceptance.
 
@@ -478,13 +478,13 @@ At some level, all of us are guilty of using beauty to cover ourselves with appr
 
 We must ask ourselves, “Is there someone or something that can make us feel fully accepted without having to sacrifice all our time and money to that person or thing to get it?” Do you think such a solution exists? We’ll find out on the next page, but first... How have you experienced others around you using beauty to get approval, power, comfort, or control? How have you done this?
 
-### beauty:
+### Beauty
 
-## solutionredeeming
+solutionredeeming
 
 You can’t redeem beauty without being redeemed yourself. So the first step is to trust in Jesus, who lived a perfect life and died to make you righteous before God (2 Cor. 5:21). Those who are made righteous by God are sealed with the Holy Spirit
 
-### The Gospel confronts the way we use beauty to get acceptance. We
+The Gospel confronts the way we use beauty to get acceptance. We
 
 (Eph. 1:13), who empowers you with the motivation and ability to redeem beauty in can spend hundreds of hours on a treadmill or in the tanning booth and the following ways: spend thousands of dollars on beauty products and treatments and still have no guarantee that the world will accept us. If you try to attract someone who cares more about your outer beauty, you’ll have to spend your whole life maintaining your body to hold onto them. If you try to win God with your inner beauty, you’ll have to spend your whole life morally outperforming everyone else to hold onto him - which doesn’t work anyway because the Bible says that all of us are morally unclean despite our best efforts (Isa. 64:6). Having a nice body may get you into a night club or fraternity party and having a nice moral record may get you into a certain spiritual community, but neither of these are enough to get you into the gates of heaven. Pastor Tim Keller points out: “If we struggle to live up to others’ standard of beauty, how will we ever become beautiful enough for God’s standard?” In other words, in the end, is there any hope for us? The answer lies in the person and work of Jesus. spend less money According to a Newsweek examination of the most common beauty trends, by the time a 10-year-old is 50, she’ll have spent nearly $300,000 on just her hair and face. Cutting back on certain beauty products or treatments will allow you to use your time and money in a God-honoring way. You may also think about cutting back on brand name clothes, brand new cars, the latest technology, and anything else that you use to boost your appearance.
 
@@ -498,7 +498,7 @@ Deep down we all fear being physically and emotionally exposed for who we really
 
 What is your initial reaction to the Gospel message above?
 
-### sex Leader’s Guide
+### Sex Leader’s Guide
 
 BIG IDEA Sex is a gift from God. But, we abuse this gift by redefining its boundaries. The Gospel confronts both the way we pursue sex as life's highest pleasure and the way we reduce sex to either an appetite or procreation. SEX POP QUIZ SAY “To begin this study we are going to take a quick Sex Pop Quiz. Let’s read through all the questions first and then flip the sheet upside-down to see the answers.” WHAT YOU DON’T HEAR IN CHURCH
 
@@ -510,27 +510,27 @@ Growing up, what side of the sex as “God or Gross” spectrum did the people a
 
 SAY “Now we are going to read a few passages of Scripture that talk more about sex. Can I have five volunteers with a a Bible each read one of these passages? We are going to read through these passages quickly to get a clearer definition of beauty. The answers might come easy, but it will be very helpful to go over them.”
 
-#### READ Proverbs 5:18-19
+#### Read Proverbs 5:18-19
 
 How is the passage urging you to think differently about sex? Sex was designed for pleasure, not just procreation. What is the passage urging you to do? To be sexually satisfied with your spouse.
 
-#### READ Mark 10:6-9
+#### Read Mark 10:6-9
 
 How is the passage urging you to think differently about sex? Sex was meant for a man and woman. Also, sex unites a man and woman permanently in God’s eyes. What is the passage urging you to do? Refrain from homosexual relationships. Also, we should refrain from sex until a permanent commitment has been made.
 
-#### READ Matthew 5:27-28
+#### Read Matthew 5:27-28
 
 How is the passage urging you to think differently about sex? Sexual sin starts in the heart and isn’t just an outward action but an inward nature.
 
 What is the passage urging you to do? Pay attention to the sins of your heart, not just your outward actions.
 
-#### READ 1 Thessalonians 4:3-5
+#### Read 1 Thessalonians 4:3-5
 
 How is the passage urging you to think differently about sex? We shouldn’t have sex whenever, wherever. What is the passage urging you to do? This passage contrasts the self-controlled with those who lack self-control. We honor God by controlling our body’s lustful urges.
 
-### sex leader’s guide cont.
+sex leader’s guide cont.
 
-#### READ 1 Corinthians 10:13
+#### Read 1 Corinthians 10:13
 
 How is the passage urging you to think differently about sex? If you struggle with sexual temptation there is hope. God will alway offer you an escape door and will give you the power to walk through that door. What is the passage urging you to do? When you are tempted, remember God’s protection and look for the open door that he has promised.
 
@@ -553,7 +553,7 @@ What is your reaction to the Gospel message above? Potential follow-up questions
 
 Which of these do you need to be empowered by the Holy Spirit to live out more fully? Potential follow-up question: Which of these areas have you struggled with in the past?
 
-#### SAY “Thanks for sharing. Let’s spend the last few minutes in prayer.”
+SAY “Thanks for sharing. Let’s spend the last few minutes in prayer.”
 
 #### Pray
 
@@ -586,7 +586,7 @@ Contrary to popular belief, the Bible has a lot to say about sex. The book Song 
 
 The sexual imagery in this book is detailed and surprising. You’ll never think of cisterns, wells, trees, and fruit the same way again!
 
-### sex is a gift
+sex is a gift
 
 The Bible shows us that sex was authored by God himself. He didn’t fall off his throne in heaven when he saw Adam and Eve “figuring things out” for the first time. The God who created the Universe (with all its complex laws and formulas) also carefully designed the art of sex. He gave us this beautiful gift for the purpose of pleasure (Song of Sol.), children (Gen. 1), oneness (Gen. 1), comfort (2 Sam. 12:24), and protection (1 Cor. 7).
 
@@ -600,7 +600,7 @@ Why are we so infatuated with sex?
 
 The reason is that the human body is the apex of God’s creation here on earth. It should be no surprise then that sex (the powerful mingling of two souls and bodies) is the most sought after experience of our day.
 
-### the problem
+### The problem
 
 Sex is a gift from God, but we’ve abused this gift by redefining its boundaries.
 
@@ -628,7 +628,7 @@ We’ve redefined the boundaries that God has put around sex. We have moved the 
 
 “...boundaries are for our good - helping us to contain the power of sex so that it maximizes pleasure... When we don’t respect the power of sex and don’t get a handle on it, it spreads decay and destruction in our lives.”
 
-#### - Pastor Tim Keller
+#### Pastor Tim Keller
 
 First, moving the boundaries of sex minimizes pleasure. Ben Patterson says, “The pleasures of sex are heightened, not lessened by proper restraint, in the same way the Colorado River is made more powerful by the walls of the Grand Canyon. The very narrowness of the river’s channel there makes for a great river. Farther south, as the river flows through the deserts of California and Arizona, it is shallow, wide, and muddy, even stinky in spots. Wider boundaries diminish the river; sharper, stronger, and narrower boundaries strengthen it. Less is more.” Second, moving the boundaries of sex spreads decay and destruction. If a fish decided, for the sake of freedom, to live outside of the boundaries of water, it would start to break down and die. Additionally, if a person allowed their fire to spread beyond the fireplace, the house would start on fire and eventually burn down to the ground.
 
@@ -638,7 +638,7 @@ The boundary of marriage therefore was not created by God to diminish pleasure, 
 
 sex makes me feel wanted, loved, approved, and affirmed.”
 
-#### Power. “I feel powerful when I am able to
+Power. “I feel powerful when I am able to
 
 sleep with multiple guys/girls” or “I like to give or withhold sex to get what I want.”
 
@@ -646,7 +646,7 @@ sleep with multiple guys/girls” or “I like to give or withhold sex to get wh
 
 makes me feel closer to him/her” or “Looking at porn makes me feel less lonely” or “Having sex or looking at porn relieves my stress.”
 
-#### Security and control. “I think that
+Security and control. “I think that
 
 having sex will make him/her stay with me.” We lust after these things when we lack a relationship with God or have a weak one. Lust starts in the heart (Matt. 5) and grows as we ditch the promises of God. Lust causes us to use people. For example, men may give affection to get sex and women may give sex to get affection. In these examples, sex is used as a means to an end or an end in itself. Sex here is reduced to a commodity - an exchange of goods. The problem is that if the sex isn’t good enough or the affection purchased by sex isn’t strong enough, then the relationship could be off! Without a commitment, sex is a high risk activity because there is no guarantee that the one you’ve been emotionally and physically vulnerable with, will hold onto their independence.
 
@@ -654,13 +654,13 @@ If you are dating someone right now, don’t disrespect the power of sexual acti
 
 How have you experienced others around you stretching the boundaries of sex to get approval, power, comfort, or security? How have you done this?
 
-### sex:
+### Sex
 
-## solutionredeeming
+solutionredeeming
 
 You can’t redeem sex without being redeemed yourself. So the first step is to trust in Jesus, who lived a perfect life and died to make you righteous before God (2 Cor. 5:21). Those who are made righteous by God are sealed with the Holy Spirit
 
-### The Gospel confronts our views and practice of sex. If sex becomes our
+The Gospel confronts our views and practice of sex. If sex becomes our
 
 (Eph. 1:13), who empowers you with the motivation and ability to redeem sex in the ultimate pursuit, then we will be severely disappointed. That is why when we following ways: are trusting in sex as life’s highest pleasure, that is when we are the most unhappy. When sex doesn’t come through for us, we have to have more, jumping from one relationship (or porn site) to the next. Sex gets reduced to an appetite that we feed when we have urges. On the flip side, if sex is reduced to producing offspring, then we strip sex of its power to produce radical pleasure and oneness in the marriage bed. Both of these practices reduce sex to something far less than what it was intended to be. The Bible tells us very clearly that everyone who misuses the gift of sex will be judged. Those who engage in adultery, sex before marriage, pornography, rape, bestiality, voyeurism, incest, pedophilia, prostitution, and the like will not inherit the Kingdom of God (Gal. 5:19-21). Included in this group are those who might not have acted out their sexual fantasies, but who have lusted in their heart (Matt. 5:27). Ephesians 5:3 reminds us that “...there must not be even a hint of sexual immorality.” Not even a hint. don’t awaken love But, listen very closely to the good news. Even though the way out of the Kingdom is sexual immorality, the way back in isn’t to clean up your sex life. In one of the most remarkable stories in all of the Bible, the religious leaders drug a sexually immoral woman out in front of everyone to kill her as a punishment. Jesus stepped into the hostile situation, saved her from death, and told her that he didn’t condemn her (John 8). How did she get off the hook so easily? Because Jesus was on his way to die for her on the cross. Like the woman in the story, Jesus dies for us while we are in sexual sin, not after (Rom. 5:8). Jesus was even bold enough to say that prostitutes who repent will enter the Kingdom of God before the hypocritical religious leaders (Matt. 21:28-32). “Do not arouse or awaken love until it so desires (Song of Sol. 2:7).” Ben Patterson says, “She issues a call of restraint... Her message is that the experience of lovemaking is too powerful, too all-consuming, to stir up until the lovers are ready, until they have the commitment proper to sex.” Michael Lawrence says, “Foreplay is the one-way on-ramp onto the highway of sexual intercourse. In our cars, we are not meant to slow down on an on-ramp, and we are not meant to go backwards. That is not what on-ramps are designed for. They are meant to get the car up to speed. So it is with foreplay.” Even if you are not having intercourse with someone, things Even though sex is a great gift to the world, it is important to remember that like erotic kissing, petting, and dry sex are all Jesus lived a single life. This is something we shouldn’t overlook. As we look at “on-ramp” activities that awaken love and the life of Jesus, we see that sex is not the highest end a person’s life. Sex is a diminish its power before the right time. signpost that points beyond itself. Psalm 16:11 says, “...in [God’s] presence there is fullness of joy; at [His] right hand are pleasures forevermore.” Through Jesus we can receive unceasing pleasure from God. And those who do experience this kind of pleasure will be freed from using sex in all the wrong ways. Sex is a visible sign of two people becoming one flesh forever. It is a vulnerable, self-sacrificial act that communicates a heart of commitment to the other. The cross is our visible sign that God sent Jesus to die for us so that we might be one with him forever. On the cross, Jesus became vulnerable and self-sacrificial to prove his commitment to his unfaithful bride, the church. fasting and fleeing First, Jesus said that if something causes you to sin sexually, deal with it in a serious manner (Matthew 5:27-30). If you need to fast from a book, computer, TV, or dating relationship for the time being, then do so if it’s holding you back. Remember that getting rid of the object won’t cure your problem, but it will help you in that it will stop feeding your sinful desires. Second, we are to flee from sexual immorality (1 Cor. 6:18). In most cases (although not always), men will give into visual temptations that seek instant gratification (i.e. porn, one-night stands) and women will give into emotional temptations that build slowly (i.e. romance novels, fantasizing about men). Discern which things make you the most vulnerable and run! tell others You should tell others what you are doing with your alone time or boyfriend/girlfriend. James 5:16 says that confessing your sin to other Christians is the path of healing. Once they know, they can be praying that God would give you protection (from temptation) and the power (to change). Plus, they can continually remind you of the consequences of your actions as well as God’s amazing forgiveness toward you through Jesus.
 
@@ -668,7 +668,7 @@ Which of these do you need to be empowered by the Holy Spirit to live out more f
 
 What is your reaction to the Gospel message above?
 
-### the pursuit of worthiness success a gospel-centered Bible study
+the pursuit of worthiness success a gospel-centered Bible study
 
 Success
 
@@ -688,7 +688,7 @@ Name a few relatives who you have learned some valuable things from.
 
 Which questions were easier to answer? What do you think the point of the quiz was?
 
-### Q Chasing the American Dream
+### Chasing the American Dream
 
 In 1931, Historian James Truslow Adams popularized the phrase “American Dream” in his book Epic of America. He said, “life should be better and richer and fuller for everyone, with opportunity for each according to ability or achievement.” In our society, chasing the American dream usually means working as hard as possible now so that we can later receive a coveted social status, successful career, big salary, dream house with or without kids, and a comfortable retirement. Right now, there are over 118,000 books on Amazon.com on the topic of success that promise to help you attain the American Dream.
 
@@ -700,7 +700,7 @@ What is something that you really want to be successful at?
 
 In the beginning, Adam and Eve were told to “be fruitful and multiply” in their work and in the home (Gen. 1:28).
 
-### success is a gift
+success is a gift
 
 Right from the start, they were commanded by God to be productive!
 
@@ -712,7 +712,7 @@ It is promised for you that if you trust in God and obey his commands, He “wil
 
 Therefore, we should seek to find out what those things are and work hard for his glory alone - asking him for success along the way.
 
-### the problem
+### The problem
 
 Success is a gift from God that we’ve abused for the purpose of receiving self-praise and admiration.
 
@@ -746,7 +746,7 @@ It is easy to relate to Madonna’s struggle. We all strive for success to get s
 
 this award, then everyone will see what a success I am” or “If people see how successful of an athlete I am, people will start to talk about me” or “Since I’m talented in this one area, I need to show off my skills more so that people will notice me.”
 
-#### Influence and Power. “I love the
+Influence and Power. “I love the
 
 respect I get when I’m leading other people.” Emotional and physical comfort.
 
@@ -756,17 +756,17 @@ Security and control. “If I’m successful, people will finally listen to me a
 
 Isn’t it easy to relate to Madonna’s struggle to prove herself and be a “Somebody”? It’s disappointing to hear that even when a success like Madonna has climbed up one more rung on the ladder, the satisfaction eventually wears off. We never get to the point of perfect fulfillment. We always need more. So, we stay in the cycle of addiction.
 
-### “To be honest with you I’m a junkie. I’m addicted to success. There is no rehab for success - or I’d go check in right now.”
+“To be honest with you I’m a junkie. I’m addicted to success. There is no rehab for success - or I’d go check in right now.”
 
-#### - Rapper 50 Cent
+#### Rapper 50 Cent
 
 There is such a thing as rehab for drugs and alcohol. But, the bad news, as 50 Cent said, is that there isn’t a rehab for people addicted to success. The reality is that much of the world is addicted and we don’t know where to turn for help.
 
 How have you experienced people around you climbing the ladder of success? What reasons for pursuing success (listed above) do you resonate with in your own life?
 
-### success:
+### Success
 
-## solutionredeeming
+solutionredeeming
 
 You can’t redeem the world’s upside down view of success without being redeemed yourself. So the first step is to trust in Jesus, who lived a perfect life and died to make you righteous before God (2 Cor. 5:21). Those who are made righteous by God are sealed with the Holy Spirit (Eph. 1:13), who empowers you with the motivation and ability to redeem success in the following ways: take the right path “As long as he sought the Lord God gave him success” (2 Chron. 26:5). “Be careful to obey all the law... do not turn from it... that you may be successful wherever you go... meditate on it day and night.” (Josh. 1:7-8). “All Scripture is God-breathed and is useful... so that the servant of God may be thoroughly equipped for every good work” (2 Tim.
 
@@ -774,6 +774,6 @@ You can’t redeem the world’s upside down view of success without being redee
 
 15:10). Even though we aren’t saved through success, we still work hard since we were “created in Christ Jesus for good works” (Eph. 2:10). We should follow Paul’s example of working hard at the tasks God has given us - giving him all the credit along the way. Also, remember that suffering and sacrifice always goes along with true success. The path for Christians involves denying ourselves and taking up our crosses daily (Mark 8:34). Is the path you are on marked by self-sacrifice and suffering or comfort and isolation? do what you love The pursuit of success will be miserable if you are doing what others want you to do instead of doing what you were designed to do. Don’t let the fear of parents or money or any other selfish thing get in the way. If you are delighting in God, he will “give you the desires of your heart” (Psalm 37:4). Have the courage to follow those godly desires no matter how much money you will make or who disapproves. Because our identity and worth is in Jesus and his success, we can take risks and not be afraid of failure. Which of these do you need to be empowered by the Holy Spirit to live out more fully?
 
-### The Gospel confronts the way we pursue the praise and admiration
+The Gospel confronts the way we pursue the praise and admiration
 
 of others through our accomplishments. Pastor Tim Keller explains the futility of such a pursuit: “Many people pursue success as a way to overcome the sense that they are somehow ‘outsiders.’ If they attain it, they believe, it will open the doors into the clubs, into the social sets, into relationships with the connected and influential. Finally, they think, they will be accepted by all the people who really matter. Success promises to do that, but in the end in cannot deliver.” Both the irreligious and the religious are guilty of selfishly pursuing worthiness through our accomplishments. The irreligious use their success, which was made possible by the gifts given to them by God, not to bring him praise but themselves praise. And the religious do the same thing in a different way. They use their good deeds not to bring praise to God but rather to receive selfish praise from him and the Christian friends around them. The bad news is that in the end God will turn away those who either use their success to rob God of praise or use it to earn God’s praise. This includes even good religious people (Matt. 7:21-23), for “all our righteous acts are like filthy rags” (Isa. 64:6) when we try to make ourselves worthy enough for God with them. But, the good news is that when we admit our failures, God offers forgiveness (1 John 1:9). In the Parable of the Prodigal Son, the son returns home and says, “Father, I have sinned against heaven and against you. I am no longer worthy to be called your son.” Then the father clothed him with his robe and threw a huge feast (Luke 15). This is an illustration of what happens when we admit our sinful failures to God and are covered by the success of Jesus. The greatest accomplishment we could ever receive was not earned by us, but was purchased through the blood, sweat, and tears of Jesus. Keller says, “...the salvation of the world came not through climbing the success ladder, but through surrender, service, sacrifice, and death.” Jesus’ death on the cross is where our success begins. It was there that our failures were placed on him and his righteousness was imputed to us (2 Cor. 5:21). The power that success has over us is broken when we realize that we have been made worthy by Jesus and have nothing left to prove. When we have nothing left to prove, we can live sacrificial lives that look “unsuccessful” to the world around us and climb down the ladder to help those below us. Heaven will not be filled with people who have the most impressive resumes. Rather, it will be filled with people who cast the crown of their successes at the feet of Jesus crying out "Worthy are you, our Lord and God, to receive glory and honor and power” (Rev. 4:11). What is your initial reaction to the Gospel message above?

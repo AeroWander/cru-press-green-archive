@@ -13,6 +13,6 @@ also_filed: ["Small Groups and Meetings/Posters and Publicity copy/Bible Study F
 
 He’s not our cosmic Santa Claus. He’s not Pedro who will “make all our dreams come true” if we’ll just vote for him. He did say he came so that we could have a better life. But, what did he mean by that? Come and join the discussion.
 
-## check out a cru. bible study/discussion
+check out a cru. bible study/discussion
 
 DATE/TIME/PLACE

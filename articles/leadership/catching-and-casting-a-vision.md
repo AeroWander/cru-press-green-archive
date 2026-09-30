@@ -11,8 +11,6 @@ summary: "An article by Eric Swanson on the role of vision in campus ministry le
 source: "Launching a New Ministry/Ministry Leadership/Catching and Casting a Vision.pdf"
 ---
 
-## Eric Swanson
-
 is that magnet that attracts followers and resources.
 
 ## The Importance of Vision

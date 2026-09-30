@@ -12,7 +12,7 @@ source: "some time/week0.pdf"
 also_filed: ["some time/week 1.pdf"]
 ---
 
-## Ask Bible Study Series Week One: Paul's Distress Note to the Leader
+Ask Bible Study Series Week One: Paul's Distress Note to the Leader
 
 You will not be introducing SomeTime to your group during this study. You will be introducing SomeTime during your next gathering.
 
@@ -87,14 +87,6 @@ Give your group a moment to respond to this question. Then read Jeremiah 3:6-10 
 A recent study* polled unchurched, young adults: “If someone wanted to tell me what she or he believed about Christianity, I would be willing to listen." 89% agreed. Are you surprised by the 89% percent figure? Why or why not?
 
 11. Who do you think God might be prompting you to pray for? (Friends, classmates, co-workers, family?) Take a moment to ask God to give you compassion like Paul’s for those around you who don’t yet know Christ. Text yourself the names of a few people you will pray for this week.
-
-1.
-
-2.
-
-3.
-
-4.
 
 ## Reference Guide to Acts 17:13-33
 

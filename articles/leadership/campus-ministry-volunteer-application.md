@@ -17,7 +17,7 @@ Name ___________________________________________ Campus ________________________
 Spiritual Maturity 1. Share briefly when and how you became a Christian.
 
 2. Comment on the growth you’ve seen in your life over the last year. (Please list some specific areas in your life where you have grown personally).
-3. Have you ever been discipled by an individual? If so, please comment on this. © 2010, CruPress, All Rights Reserved. CruPress.com
+3. Have you ever been discipled by an individual? If so, please comment on this.
 4. What is your understanding of initiative evangelism? What is your attitude toward initiative evangelism?
 5. How would you describe your devotional life? (time with God in prayer, reading the Bible, etc.) Personal Maturity Because we are looking for ‘Key’ Leaders, it’s important these people are modeling a godly character and lifestyle. Your answers will be strictly confidential.
 1. What do you consider to be your greatest strengths? (Please be specific.)
@@ -29,4 +29,4 @@ Spiritual Maturity 1. Share briefly when and how you became a Christian.
 2. Comment on your ability to work with other people. Are you a “loner” or a “people gatherer”; “the life of the party,” etc.?
 3. What are qualities or characteristics that other people would use to describe you? How would people describe what it’s like to work with you?
 
-Please give the names and phone numbers of two references: a spiritual leader and a peer. name (leader)___________________________________ phone _____________________________ name (peer) ____________________________________ phone _____________________________ © 2010, CruPress, All Rights Reserved. CruPress.com
+Please give the names and phone numbers of two references: a spiritual leader and a peer. name (leader)___________________________________ phone _____________________________ name (peer) ____________________________________ phone _____________________________

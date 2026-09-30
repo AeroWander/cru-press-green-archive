@@ -11,7 +11,7 @@ summary: "An article by Steven L. Childers describing his own struggle with perf
 source: "MTL/MTL/MTL2/Recovering Pharisee2.pdf"
 ---
 
-## Steven L Childers
+Steven L Childers
 
 It’s a painfully common story. We begin the Christian life well, but gradually find ourselves increasingly experiencing little or no true spiritual transformation. The good news for Christians is that a divine remedy for our cold and hardened hearts is available! And that remedy is found in the transforming power of the Gospel, the goal of which is not just our regeneration but also our transformation into the image of Christ. Its purpose is not merely forgiveness but change into true worshippers of God and authentic lovers of people.
 

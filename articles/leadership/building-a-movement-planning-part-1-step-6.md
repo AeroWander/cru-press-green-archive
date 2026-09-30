@@ -26,8 +26,6 @@ If we were another ministry perhaps the critical elements would be worship, heal
 
 ## How Will We Go from Ten to Fifty?
 
-## Mike Tilley
-
 Ask yourself, “How will I go about it? How will our small group of 10 become a ministry of 50?” There are at least four critical path steps for building a community to transform your campus for Christ.
 
 ## Evangelism

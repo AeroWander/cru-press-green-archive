@@ -13,7 +13,7 @@ source: "Launching a New Ministry/Ethnic_ Contextualized Ministries/Prof 101-Fin
 
 ## Prof 101
 
-### Prof 101 Paul Gould
+Prof 101 Paul Gould
 
 Paul Gould outlines a vision for reaching the campus though reaching out to university professors. Why university professors? Consider:
 
@@ -23,7 +23,7 @@ Paul Gould outlines a vision for reaching the campus though reaching out to univ
 
 Recognizing the strategic importance of professors, several years ago the US Campus Ministry began to shift our mission toward reaching the whole campus—students and professors—with the great dream of being able to send the whole campus—students and professors—to change the world. In so many ways we are a better campus ministry with students and professors together.
 
-### Prof 101 Can Be Found at Cruprof.com
+Prof 101 Can Be Found at Cruprof.com
 
 ## Five Things You Need to Know About Professors
 
@@ -114,7 +114,7 @@ One of the greatest assets you bring to professors is your ability to listen to,
 - an engineering professor who specializes in electro-hydraulics
 - a philosophy professor who specializes in Kant’s Ethics. So, don’t buy the notion that if someone has a PhD, he or she knows everything.
 
-University professors are people—just like you and me. Sure, they have PhDs attached to their names. They have an expertise in one or a few specific areas of knowledge. But they have the same needs, desires, and struggles as you and I do. Perhaps they won’t wear their spiritual needs on their sleeve—but their spiritual needs are just the same as ours. The good news is that God can use you to reach non- Christian professors. Moreover, when working with Christian professors, you are the expert when it comes to under-standing the life of the spirit and how to disciple others in the ways of Jesus. You have much to offer professors:
+University professors are people—just like you and me. Sure, they have PhDs attached to their names. They have an expertise in one or a few specific areas of knowledge. But they have the same needs, desires, and struggles as you and I do. Perhaps they won’t wear their spiritual needs on their sleeve—but their spiritual needs are just the same as ours. The good news is that God can use you to reach non-Christian professors. Moreover, when working with Christian professors, you are the expert when it comes to under-standing the life of the spirit and how to disciple others in the ways of Jesus. You have much to offer professors:
 
 - your intimate walk with the Lord
 - your passion for reaching the lost
@@ -133,7 +133,7 @@ What motivates a person to become a professor in the first place? Two reasons of
 - autonomy
 - intellectual freedom Professors find the pursuit of knowledge a worthwhile endeavor. They believe in it. They also seek autonomy in doing their work, and they seek freedom of thought and expression.
 
-Professors are a bit different than the rest of us. We live increasingly in an age of video—video games, movies, You- Tube on demand and so on—all passive forms of gaining information. But professors are people of the book, the written word, who enjoy actively engaging with the world of ideas in order to learn and find truth.
+Professors are a bit different than the rest of us. We live increasingly in an age of video—video games, movies, You-Tube on demand and so on—all passive forms of gaining information. But professors are people of the book, the written word, who enjoy actively engaging with the world of ideas in order to learn and find truth.
 
 They read and write for a living. They teach others how to think. Some (not all!) enjoy contemplating a deep truth, or solving a puzzle, or writing a journal article more than engaging with pop culture or having a cup of coffee with a friend at Starbucks. This is an important fact that should not be overlooked.
 
@@ -210,7 +210,7 @@ Distinguished/Named Chair: A very few professors are distinguished or hold a “
 
 In general, the bigger or more prestigious universities will require the professors to be more focused on their research. The smaller, less prestigious universities will reward professors for excellent teaching.
 
-You will discover that there are a wide variety of professors. Some spend very little time with undergraduate stu- Earned Doctorates Awarded in 2008 Academic Institution Doctorates University of California at Berkeley 856 University of Texas at Austin 821 University of Wisconsin at Madison 740 University of Illinois at Urbana-Champaign 735 University of California at Los Angeles 724 Ohio State University 719 University of Michigan at Ann Arbor 716 University of Minnesota-Twin Cities 690 University of Florida 674 Harvard University 660 89% Rise in Number of non-tenure track faculty members since 1993; 20% Rise in number of tenure track faculty members since 1993 dents. Some don’t even like undergraduate students! But many professors love students and prefer actual teaching to the stress of research. These unique passions of the university professor provide many avenues for partner-ship with those professors who are Christian as well as many avenues to engage the spiritually-seeking professor with the love of Christ.
+You will discover that there are a wide variety of professors. Some spend very little time with undergraduate stu-Earned Doctorates Awarded in 2008 Academic Institution Doctorates University of California at Berkeley 856 University of Texas at Austin 821 University of Wisconsin at Madison 740 University of Illinois at Urbana-Champaign 735 University of California at Los Angeles 724 Ohio State University 719 University of Michigan at Ann Arbor 716 University of Minnesota-Twin Cities 690 University of Florida 674 Harvard University 660 89% Rise in Number of non-tenure track faculty members since 1993; 20% Rise in number of tenure track faculty members since 1993 dents. Some don’t even like undergraduate students! But many professors love students and prefer actual teaching to the stress of research. These unique passions of the university professor provide many avenues for partner-ship with those professors who are Christian as well as many avenues to engage the spiritually-seeking professor with the love of Christ.
 
 What an opportunity for us! If there is ever anyone in need of encouragement and a friendly face who will care for a person’s well-being instead of his or her performance, it is the university professor (especially those who are unten-ured). Professors might not realize this need, but it is real. The pressures of their jobs can foster isolation and discouragement.
 
@@ -218,7 +218,7 @@ It is important for Christian professors to realize they are not alone. At any u
 
 Biology studies living cells Mathematics studies of numbers & their relations Philosophy studies the good, the true & the beautiful Physics studies the fundamental laws of nature Sociology studies social processes Political Sci. studies government, leadership, and the process of decision-making in society Christian professors, although they might not know each other. One of the simplest ways you can serve Christian professors is by connecting them with other Christian professors at their own university.
 
-### Five: Professors Can Profess a Beautiful Christ and a God-bathed World
+Five: Professors Can Profess a Beautiful Christ and a God-bathed World
 
 Being a Christian professor in the secular academy provides a unique, yet challenging, platform for ministry. Christian professors need to understand their calling to the university in order to be missional in their role. Christian professors can make a significant impact for God within the university when they:
 
@@ -280,7 +280,7 @@ Remember, you know more about ministry than many professors. The questions you�
 7. Was there a Christian professor who made a profound impact on your life as a student?
 8. Have you found any interesting or surprising connections between your Christian faith and your academic discipline? What are they?
 
-When students were asked, “If you were summer pro- ject, how would you feel about a group of professors from your school joining in on the project for a week or so to labor alongside of you overseas?” 88% answered, “I’d like that” or “Incredible.”
+When students were asked, “If you were summer project, how would you feel about a group of professors from your school joining in on the project for a week or so to labor alongside of you overseas?” 88% answered, “I’d like that” or “Incredible.”
 
 “Involvement breeds commitment.” As you build trust with a professor invite them to connect with your CRU group in some fashion. Help them “turn the corner from getting to giving” by involving them in what you are already doing:
 

@@ -32,4 +32,4 @@ College is a transitional time. In most cases parents are still providing financ
 Living in this transitional time, therefore, requires wisdom and prayer, and both courage and humility. If you need to get your parents approval to go to a retreat or conference here are some general guidelines:
 
 6. Be lovingly persistent, but give them time to think about it and decide. This will communicate two things. First, it will show them you really want to go. Second, it will communicate that you respect them and are concerned about with what they think.
-1. Pray that your parents will have a positive response, and that you will respect their decision. (Ephesians. 6:1-3) © 2010, CruPress, All Rights Reserved. CruPress.com
+1. Pray that your parents will have a positive response, and that you will respect their decision. (Ephesians. 6:1-3)

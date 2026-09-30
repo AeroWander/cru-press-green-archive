@@ -11,7 +11,7 @@ summary: "An article by Tim Henderson on what to actually teach when discipling 
 source: "Discipleship/How to Disciple Others/The Right Content for Discipleship.pdf"
 ---
 
-## Tim Henderson Two Types of Disciplers
+## Two Types of Disciplers
 
 Planners – If you take it to the extreme, the planner is the person who plans everything out in absolute detail. Week One, Week Two, Week Three … You may be that disciplined, and that’s great. Just remain flexible and be eager to address questions your disciple may want to talk about that may not fit into your plans.
 

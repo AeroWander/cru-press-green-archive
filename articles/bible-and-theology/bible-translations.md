@@ -11,8 +11,6 @@ summary: "An article by Tom Hudzina explaining the differences between major cat
 source: "Discipleship/Basic Growth Concepts/Bible Translations.pdf"
 ---
 
-## Tom Hudzina
-
 For as long as I have been involved in any type of small group study where a Bible is either needed or preferred, it never fails that there’s another person with a Bible that says something slightly different from mine. While that can be confusing, it’s not half as confusing as walking through the Bible aisle of a Christian bookstore. All of the translations and all of the acronyms bleed together: KJV, NIV, NASB, ESV . . . CIA, FBI, CNN, ESPN. So let me clear up some of the confusion and explain why we have so many translations and what’s different about them.
 
 ## Formal Equivalence

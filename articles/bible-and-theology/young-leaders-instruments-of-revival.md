@@ -17,8 +17,6 @@ But it is more than a book on prayer. It is a book of stories; stories of great 
 
 This is not simply a reprint of an old classic. Fireseeds has been updated and expanded to include recent accounts of student revivals as well as stories from around the world and not simply the U.S. The new Fireseeds also recounts the contribution of women to these revivals as they are often overshadowed, and contains an additional chapter on the filling of the Spirit (including the Satisfied Prayer Experience). Last, the revised version opens with a foreword by Mark Gauthier, and a vision to trust God for movements everywhere. FIRESEEDS OF SPIRITUAL AWAKENING
 
-## Order Online at Crupress.com
-
 ## Awakened at sixteen; awakener at twenty-six
 
 “Though Josiah had these obstacles as a hindrance, there was one great obstacle which he did not have to overcome. He was not confirmed in sin. There is nothing so hardening to the heart, and so blinding to the eyes, and so searing to the conscience as sin. “Those who seek me early shall find me.” Men who seek late in life, if they truly seek, will find, but it will not be such easy work for them as it is for the young.”

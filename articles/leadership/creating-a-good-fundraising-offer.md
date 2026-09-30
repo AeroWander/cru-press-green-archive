@@ -14,7 +14,7 @@ CREATING A GOOD FUNDRAISING OFFER 1
 
 ## Creating a Good Fundraising Offer
 
-## U.S. Campus Ministry What Is a Good Offer?
+U.s. Campus Ministry What Is a Good Offer?
 
 It’s a statement that conveys the specific service, benefit or action that will be achieved for a specific dollar given. In other words, for a gift of $X, we will be able to do Y. It looks something like this: gift can be incorporated as part of the offer, it’s even more effective.
 

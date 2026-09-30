@@ -15,8 +15,6 @@ Postcards is the Users Guide for personal discipleship. While The Compass provid
 
 Here, for example, is a partial list of the topics covered: Habitual Sin, Authority Issues, Christian Counseling, Fasting, Theological Conflicts, Coaching Through Trials, Challenging to Conferences, Confronting Sin, Ministering Cross-Culturally, The Role of Faith, Difficulties in Sharing the Ministry of the Spirit, Selection, Conflict Resolution, Why Does Leadership Matter, Conducting Basic Follow-up... Postcards contains 47 articles on all critical issues of discipleship.
 
-### Order Online at Crupress.com
-
 
 
 ## Transformation Discipleship
@@ -121,6 +119,6 @@ Let’s fly and help others fly with a renewed emphasis on the gospel in our dis
 
 ### Over 50 Articles on Discipleship and Movement Building.
 
-## Cru.pre
+Cru.pre
 
-### Postcards from Corinth.
+Postcards from Corinth.

@@ -26,13 +26,17 @@ Next, make a list of people you used to know. People in this category could incl
 
 2. Who do I list?
 
-That’s a good question, I’m glad you asked! If building authentic relationships is key in reaching others for Christ, then where should we look to initiate relationships? Try thinking of people in three different categories: • People you know • People you used to know • People you would like to know There is a third group of people and we’ll call them, people you would like to know. Ask yourself, is there anyone on campus you would like to know? Is there a really smart person in your Chemistry class who also might be able to help get your grades above C-level? Get to know them, win them to Christ and bring home a better grade in a tough class. Not a bad deal for either one of you! Maybe there’s a popular person on campus or an athlete that you would like to know. Well, get to know them and share the gospel.
+That’s a good question, I’m glad you asked! If building authentic relationships is key in reaching others for Christ, then where should we look to initiate relationships? Try thinking of people in three different categories: · People you know · People you used to know · People you would like to know There is a third group of people and we’ll call them, people you would like to know. Ask yourself, is there anyone on campus you would like to know? Is there a really smart person in your Chemistry class who also might be able to help get your grades above C-level? Get to know them, win them to Christ and bring home a better grade in a tough class. Not a bad deal for either one of you! Maybe there’s a popular person on campus or an athlete that you would like to know. Well, get to know them and share the gospel.
 
 First, make a list of people you know who attend classes at your college or university. Think about people you know using the acronym PAGES.
 
 P - Are there people you know that share your similar political views?
 
-A - Are there people you know who are involved in 3. Pray for them for two weeks For two weeks, pray every day for the people you listed on your card: • Pray for them during your devotional time with the Lord © 2010, CruPress, All Rights Reserved. CruPress.com • Partner with a friend and pray for each other’s lists you and other students in your group confidence in sharing the message with their friends. • Pray for your lists during small group time Encourage others in your small group to do the same. This develops encouragement and accountability, and allows more students to be involved in praying for the friends.
+A - Are there people you know who are involved in 3. Pray for them for two weeks For two weeks, pray every day for the people you listed on your card:
+
+- Pray for them during your devotional time with the Lord
+- Partner with a friend and pray for each other’s lists you and other students in your group confidence in sharing the message with their friends.
+- Pray for your lists during small group time Encourage others in your small group to do the same. This develops encouragement and accountability, and allows more students to be involved in praying for the friends.
 
 Pray that God: will give you opportunities to share the gospel; that hearts will be receptive; and the gospel will penetrate hard hearts.
 
@@ -40,8 +44,8 @@ Pray that God: will give you opportunities to share the gospel; that hearts will
 
 Over the next two weeks, look for opportunities to care for the needs of the people on your list. Simply asking questions and listening goes a long way. Maybe you could invite your non-Christian friend to do something with you. The event is not important, but the fact that you are investing your life in someone else is what matters.
 
-Some Ideas • • • • • • • • Have lunch with them Go shopping together Watch a ball game or go to a game on your campus Get coffee or dinner out Eat together in the cafeteria Play video games Watch a movie together in your room or apartment If appropriate, invite them to your small group The goal is to deepen your relationship with your friend so that there is mutual trust and respect. It will allow you to communicate your love for them as a person before you share the gospel. Continue to develop depth with your friends throughout the six weeks.
+Some Ideas Have lunch with them Go shopping together Watch a ball game or go to a game on your campus Get coffee or dinner out Eat together in the cafeteria Play video games Watch a movie together in your room or apartment If appropriate, invite them to your small group The goal is to deepen your relationship with your friend so that there is mutual trust and respect. It will allow you to communicate your love for them as a person before you share the gospel. Continue to develop depth with your friends throughout the six weeks.
 
 ## Share
 
-The final two week period is designed to give you opportunities to share the gospel with your friends. Hopefully, a deeper relationship has been built, making discussion of spiritual issues less threatening to both parties. Think through how you want to share the gospel with your friend and what tools you want to use (personal testimony, gospel tract, or other). Have an evangelism training event at the beginning of the last two weeks to teach students in your movement how to share the gospel. This will give © 2010, CruPress, All Rights Reserved. CruPress.com
+The final two week period is designed to give you opportunities to share the gospel with your friends. Hopefully, a deeper relationship has been built, making discussion of spiritual issues less threatening to both parties. Think through how you want to share the gospel with your friend and what tools you want to use (personal testimony, gospel tract, or other). Have an evangelism training event at the beginning of the last two weeks to teach students in your movement how to share the gospel. This will give

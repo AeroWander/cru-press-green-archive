@@ -11,8 +11,6 @@ summary: "A closely related version of the 'Transformational Community' article 
 source: "Building Community/Community and Relationships/Transformational.pdf"
 ---
 
-## Mike Tilley
-
 Kennesaw State now held leadership positions. As part of the Atlanta Metro movement, these students were not only transforming their campus, they were influencing the city, with a view towards the world. And they had the opportunity to go to the world, through Atlanta’s Worldwide Student Network (WSN) partnership.
 
 God is raising up a network of student-led ministries at colleges across the U.S. and around the world. Our desire is to develop a ministry, on every campus, that is not merely a club but rather a transformational community. We envision a community where lost students are being transformed by the gospel.

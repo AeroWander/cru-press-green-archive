@@ -18,6 +18,6 @@ and drink and ambition when infinite joy is offered us. —CS Lewis.
 
 If we consider the rewards promised in the Gospels, it would seem that God finds our desires, not too strong, but too weak. Join the discussion about what it means to really live.
 
-## CRU. Bible Study/discussion
+CRU. Bible Study/discussion
 
 DATE/TIME/PLACE

@@ -11,19 +11,17 @@ summary: "A detailed leader's script by Bob Fuhs for walking someone through the
 source: "Evangelism/traning/Sharing HS Booklet.pdf"
 ---
 
-## Bob Fuhs
-
 Please note: A conversation about the Spirit-filled life using the Satisfied booklet is not a fast conversation. It’s more of a whole discipleship or follow-up appointment, rather than a 10-minute presentation. ways, and in the second they were depending on themselves.
 
 The following is how I generally present the Satisfied booklet.
 
-## Stage 1: Pre-booklet
+Stage 1: Pre-booklet
 
 You could also use the words on page 2 and ask them what words would they use to describe their life in scenario #1 as well as in scenario #2.The idea being that God wants us to experience a Christian life characterized by words like Growing, Forgiven, Intimate, Fulfilled, Joyful, Exciting, Dynamic and Vital.
 
 Begin the conversation like this: “Tell me about a time when you felt like things were really going well in your walk with God. What was that time like? What contributed to it going so well?” (Most people will talk about an experience that involved fellowship and community, Bible study, and being a part of a group that spurred them on.)
 
-## Stage 2: the Booklet Page 3
+## Stage 2: The Booklet Page 3
 
 Read the first paragraph on page 3. After you read it ask, “What do you think Jesus was talking about here in this passage?” (Hint: This is one of a couple times when you will ask a question that is answered in the next paragraph. Shhh. That will be our little secret.)
 
@@ -113,7 +111,7 @@ Congratulations! You did it! Please know that this is really just the first step
 
 Other strategies such as small dinner parties, golf tournaments and marathons or a-thons have been tried with some success over the years. It’s important to test all methods according to the “plumb line” established by the principle of friend raising. If the activity builds friends for the long term, then it should be done. If all the method does is raise funds for the here and now, it may seem like a good strategy, but understand the method will be equivalent to selling the goose that laid the golden eggs. The price we get for the goose now may look good, but we’re looking to develop a producer of eggs that will meet our needs for years to come. Resist the temptation for “get rich quick” schemes – no matter who is selling the idea.
 
-## 7. the Principle of Lifting
+## 7. The Principle of Lifting
 
 Simply acquiring more ministry partners who stay at the same giving level year after year is fine if our reservoir of names and potential ministry partners is unlimited, but for most of us, that’s not the case. If new funds must be developed for a project or ministry effort, one could continue to keep trying to find new ministry partners to “buy into the strategy” or one could take the wise approach and present the opportunity to those who already love us and give out of a joyful heart. Those are our current ministry partners.
 
@@ -121,7 +119,7 @@ Each 12 to 18 months, a ministry partner should be challenged to a higher giving
 
 Most people’s income grows each year and so does the amount they are able to give. Challenging a person to a higher giving level increases their involvement and commitment to our ministry and gives them greater avenues for making a successful investment.
 
-## 8. the Principle of the Critical Few
+## 8. The Principle of the Critical Few
 
 This principle was developed by Larry Johnston, President of McConkey/Johnston, Inc., consultants to non-profit organizations. Mr. Johnston has shared that “it is important to focus on what and who are really important in ministry. Since 20% of a ministry’s activities produce 80% of the results, it’s important that we focus on the critical few (Luke 10). Ministry leaders must direct their efforts at income-producing activities, or they will be burdened with “busy-ness.” In looking at one’s current or even potential financial partner base, it is most likely that 80% of the money comes from 20% of the partners. Since, as ministry leaders, we only have so much time to invest in the lives of current ministry partners (friend raising), we will want to identify those who have the greatest impact on our ministry. In this case, we want to invest relationally in those who are giving a majority of our budget. This does not mean that these people are of greater value in God’s eyes, nor should they be in our eyes, than the person who gives less, but possibly with greater sacrifice. But since our time is limited, our focus should be on those who can have the greatest impact.
 

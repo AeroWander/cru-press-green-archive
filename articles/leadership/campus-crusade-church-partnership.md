@@ -91,22 +91,22 @@ All students and volunteers are welcome to participate at any CCC conference, mi
 
 Conferences
 
-- Christmas Conference- Five days with a thousand or so college students from all the states within our region gathered together for a time of tremendous worship, fellowship, teaching, and outreach.
+- Christmas Conference-Five days with a thousand or so college students from all the states within our region gathered together for a time of tremendous worship, fellowship, teaching, and outreach.
 
-## MINISTRY PHILOSOPHY (the values that guide us)
+## Ministry Philosophy (the values that guide us)
 
 To turn lost students into Christ-centered laborers through the dual mean of evangelism and edification for the purpose of fulfilling the Great Commission in this generation, 1. We are committed to taking the initiative to share the gospel with non-believers in the power of the Holy Spirit and leaving the results to God.
 
 2. We are committed to enabling believers to live out the Lordship of Christ in their lives through the ministry of the Holy Spirit.
 3. We are committed to strong, biblical teaching; especially on having a heart for God, a heart for each other, a heart for the lost, and a heart for the world.
 - Fall Retreat- A conference each fall for the students to get away, focus on the Lord, and fellowship together.
-- Life Options- How do you make biblical decisions about career and life? What is God’s will for your life? These questions and many others are answered for graduating students who demonstrated a heart and capacity for ministry. This is an event for juniors and seniors over a weekend in early February.
+- Life Options-How do you make biblical decisions about career and life? What is God’s will for your life? These questions and many others are answered for graduating students who demonstrated a heart and capacity for ministry. This is an event for juniors and seniors over a weekend in early February.
 - Leadership Retreat - At the beginning of the school year we bring our key student leaders together to help them get focused on the task of reaching their campus for Christ. It is an opportunity to pray, plan, be developed and connect with students from other campuses.
 - Additional conferences are available to support contextualized ministries: Bridges International Students Conferences; Greek Conference; Athletes in Action Opportunities; Impact Conference (for African American students); Destino Conference (Hispanic students); and the Epic Conference for Asian American students.
 
 Missions Opportunities
 
-- Spring Break Trip- One week of intense evangelism and ministry on the beach, inner city, or internationally.
+- Spring Break Trip-One week of intense evangelism and ministry on the beach, inner city, or internationally.
 - Summer Projects- 100+ domestic and overseas summer mission trips for students. The students are trained and challenged like no other time in their life. Ministry Venues on Campus
 - Small Groups - This is a small group strategy that is evangelistic in structure. The goal is to grow students in their faith and meet them right where they are spiritually. Each group is a reflection of the movement as a whole.
 - Weekly Meeting - A weekly event that brings both believers and non-believers together for the purpose of building up Christians and reaching non-believers through body evangelism.

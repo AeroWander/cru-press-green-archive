@@ -76,13 +76,13 @@ The people that I already mentioned above would be great to ask advice from. Ema
 
 #### One of the most important things I can challenge
 
-#### you to do is get someone who can coach you on a
+you to do is get someone who can coach you on a
 
-#### weekly or monthly basis. Ask them to help you with
+weekly or monthly basis. Ask them to help you with
 
 leadership and practical advice for getting your ministry started. Give them permission to speak into your life spiritually. This will help you tremendously! Who could you ask to coach you in this process of starting your ministry?
 
-#### Reading is also extremely important. At the end of
+Reading is also extremely important. At the end of
 
 this resource there is an appendix with my personal “best of” list of books and websites that have been helpful. Leaders are readers!
 
@@ -118,13 +118,13 @@ In the battle for souls on campus we must use the weapons God’s given us. “F
 
 #### One thing that encourages me is that I don’t need
 
-#### to fight alone. I am not the greatest prayer warrior but I can
+to fight alone. I am not the greatest prayer warrior but I can
 
 at least get others praying for our ministry! I am convinced that many of the great things God has done are a direct result of the prayers of our ministry partners.
 
 Here are some practical things we do to mobilize prayer. One practical way we have mobilized prayer is through email prayer letters. We have over 400 people that we send our prayer letter with our current updates, stories and prayer requests. This is a great way to share what God is doing and get people praying on a consistent basis. The best tool we discovered for mobilizing prayer is our “text
 
-#### message prayer team.” We have 70+ people who I send
+message prayer team.” We have 70+ people who I send
 
 requests to 3-4 times a week. For example if I have a gospel appointment on campus I just shoot out a text using my “group text” app and they are able to pray on the spot. It is such a joy to send out another text after the appointment and celebrate when the student decides to become a follower of Jesus! This prayer team has served as a great encouragement during seasons of discouragement and spiritual warfare in our ministry. It is faith building to know we have a group of prayer warriors ready to “do work” on a moments notice. I would definitely recommend that you start your own text message prayer team.
 
@@ -156,13 +156,13 @@ We get as many “interested contacts” as possible.
 
 We sow broadly to find the students who are open to being involved in your ministry and “persons of peace.” (see Luke 10) One prayer goal we had is that God would give us 1,000 interested contacts to start inviting to Challenge and a relationship with Jesus. Last fall our team got over 500 interested contacts and ended up seeing 48 students pray to receive Christ!
 
-One great way to get contacts is to have an effective info-table on campus. We printed out an attractive banner, ordered postcard flyers for our large group meeting from gotprint.com and made a sign that said “Free Raffle for iPad” (we did one IPad for the first 2 weeks). Anytime a student walked by we would ask them if they wanted to sign up for a free raffle. When they came up to the table we simply asked "have you heard about Challenge yet?" we then explained a bit of what we are about and told them about the next fun event scheduled. We told them "If you are interested in more information you can check the box at the bottom." (We keep the raffle ticket minimal so they don't get overwhelmed. Just name, email, phone and the box to check.) This is how we got almost all of our new contacts when starting the ministry. We did this all day everyday for the first two weeks trying to ask every student who walked by to come to our table. We also had this table at our larger fun events such as our free BBQ on campus.
+One great way to get contacts is to have an effective info-table on campus. We printed out an attractive banner, ordered postcard flyers for our large group meeting from gotprint.com and made a sign that said “Free Raffle for Ipad” (we did one IPad for the first 2 weeks). Anytime a student walked by we would ask them if they wanted to sign up for a free raffle. When they came up to the table we simply asked "have you heard about Challenge yet?" we then explained a bit of what we are about and told them about the next fun event scheduled. We told them "If you are interested in more information you can check the box at the bottom." (We keep the raffle ticket minimal so they don't get overwhelmed. Just name, email, phone and the box to check.) This is how we got almost all of our new contacts when starting the ministry. We did this all day everyday for the first two weeks trying to ask every student who walked by to come to our table. We also had this table at our larger fun events such as our free BBQ on campus.
 
 There are other great ways to get interested contacts such as surveys and social networking. For more ideas check out “The First Two Weeks” “Reaching Freshman” “Freshman Evangelism Strategy” and “Publicity” by Crupress Green also read “4000 ways to Maximize the First 4 Weeks on Campus” by Brian Barela.
 
 #### Once we have the interested contacts we give
 
-#### them a personal call or text that same day inviting them
+them a personal call or text that same day inviting them
 
 to the next fun event. We then add them to a bulk text list and kept inviting them to every event for the first 4 weeks. We use a great app called “group text” that is worth checking out. We periodically sent them personal texts so they wouldn’t feel like it is only bulk texts from us. We added every new contact as a friend on facebook and to a google docs spread sheet to keep track of who is following up with them.
 
@@ -170,13 +170,13 @@ to the next fun event. We then add them to a bulk text list and kept inviting th
 
 member is then invited to every fun event or Bible study that we make on our group facebook page. (Be careful to let people know you are adding them so it doesn’t seem spammy.) I think a facebook group is more personal than a facebook page but both have pro’s and con’s. We make events for each of our fun events and encourage our students to "like”, comment, invite their friends to events and post them on their profile. Click this link to see a little about how we manage our facebook group.
 
-#### We throw a bunch of parties! I know this doesn’t sound
+We throw a bunch of parties! I know this doesn’t sound
 
 very spiritual but students are looking for fun ways to meet new people and if they don’t find it from our group they will find it somewhere else. We plan a fun event for every night of the first two weeks on campus! We spend a lot of time planning everything in advance for the first month on campus. We plan a mix of cheap and easy events as well as big events such as a free pizza bash and a free BBQ on campus. The first two weeks new students are constantly looking for things to do and love to be invited to something. The other benefit of doing socials everyday is that new people start building friendships with the people in your group. Many start to belong before they believe. Socials don’t need to be elaborate they just need to be fun ways for students to get to know each other. When we started our ministry we did simple events like sand volleyball by the dorms, walking to a frozen yogurt shop, bowling, game nights, ultimate Frisbee and other free or cheap events. It is essential that students hangout with each other in order to build an identity as a group. Now we raise about $3,000 for our "Fall Outreach" expenses to pull off all of our outreach and fun events. You may consider raising a little extra money to capitalize on this strategic time to reach students.
 
-#### Share the Gospel with as many students as
+Share the Gospel with as many students as
 
-#### possible. During the Fall Outreach we share the gospel with
+possible. During the Fall Outreach we share the gospel with
 
 everyone we possibly can using a simple tool we call “gospel appointments.” Gospel appointments have been a game changing evangelistic tool for us. You can read all about them on this post I wrote called “Outreach That You will Actually Do” you can also check out a video of some of our students sharing on how gospel appointments have been helpful for them.
 
@@ -184,7 +184,7 @@ everyone we possibly can using a simple tool we call “gospel appointments.” 
 
 blesses your efforts and students are accepting Jesus how will you plug these students into discipleship relationships and small groups?
 
-#### Work Hard! Our staff works about 70-80+hrs a week the
+Work Hard! Our staff works about 70-80+hrs a week the
 
 first four weeks on campus. If you think this is excessive ask any farmer about their work schedule during harvest time. Eternal destinies are at stake and “The harvest is plentiful!” (Matt 9:35-38). Check out this short blog post my brother David Worcester wrote encouraging us to work hard during “Harvest Time.”
 
@@ -220,7 +220,7 @@ David Garrison in his excellent book on “Church Planting Movements” listed 1
 
 Our relatively small college ministry of what was about 60 students has seen encouraging fruit this fall semester by sowing broadly on our highly unreached campus. Last fall semester we saw 48 people pray to receive Jesus as Savior and Lord! One goal for the first month of the fall semester was to get 1000 interested contacts through parties, a free raffle at our info table and servant evangelism. We fell way short of our goal but got over 500 interested contacts. We contacted each student through personal text messages and Facebook. Everyone who responded or came to one of our parties or large group meetings we set up what we call a “gospel appointment” with them. We shared the gospel with everyone we
 
-#### could. Gospel appointments are low-pressure relational
+could. Gospel appointments are low-pressure relational
 
 meetings where we explain the most important thing about our group. Which is obviously the Gospel! Our student leaders have responded well to this strategy and almost everyone of them personally led someone to faith in Christ.
 
@@ -288,7 +288,7 @@ God does promise to “bear much fruit” from your life if you abide in Christ.
 
 “What, after all, is Apollos? And what is Paul? Only servants, through whom you came to believe—as the Lord has assigned to each his task. I planted the seed, Apollos watered it, but God made it grow. So neither he who plants nor he who waters is anything, but only God, who makes things grow. The man who plants and the man who waters have one purpose, and each will be rewarded according to his own labor. For we are God’s fellow workers; you are God’s field, God’s building. By the grace God has given me, I laid a foundation as an expert builder, and someone else is building on it. But each one should be careful how he builds. For no one can lay any foundation other than the one already laid, which is Jesus Christ. If any man builds on this foundation using gold, silver, costly stones, wood, hay or straw, his work will be shown for what it is, because the Day will bring it to light. It will be revealed with fire, and the fire will test the quality of each man’s work. If what he has built survives, he will receive his reward. If it is burned up, he will suffer loss; he himself will be saved, but only as one escaping through the flames.” 1 Corinthians 3:5-15 I hope these tips have been helpful as you get started in this life changing and adventure of starting a new college ministry. Please send me an email at Paul@ChallengeCSUC.com with your feedback on this resource and any questions that you may have about starting a college ministry. I would love to serve you however I can
 
-#### Paul Worcester is the director of Challenge at Chico State
+#### Is the director of Challenge at Chico State
 
 in California. Paul’s passion is to equip people to effectively share Christ and multiply disciples to the ends of the earth. He has a beautiful wife Christy and one year old son Owen. You can connect with Paul on email Paul@ChallengeCSUC.com, Twitter or Facebook and check out his collaborative blog and resources site Engage The Mission.
 

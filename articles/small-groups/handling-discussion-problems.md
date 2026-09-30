@@ -19,13 +19,11 @@ The Ultimate Roadtrip was written to communicate all of the subtle, and not so s
 
 Chapter Topics: Lesson Preparation, Lesson Content, Creating Community, Groups With a Purpose, The Right Questions, Facilitating Life Change, Common Roadblocks and Problems, Incorporating Outreach, and Qualities of a Successful Group Leader. THE ULTIMATE ROADTRIP
 
-### Order Online at Crupress.com
-
-## maneuvering the potholes
+## Maneuvering the potholes
 
 9.1 Top Ten Discussion Problems
 
-## The crash of a small group discussion can be ugly. You may wonder what
+The crash of a small group discussion can be ugly. You may wonder what
 
 made you choose to lead a group. Leaders often struggle with the unex‑ pected because they don’t anticipate difficult situations and are unsure how to respond when they arise. You need to prepare for certain surprises. This chapter will examine some of the most common problems which come up in small groups. You’ve probably encountered most of them before, or if you haven’t, you likely will in the near future.
 

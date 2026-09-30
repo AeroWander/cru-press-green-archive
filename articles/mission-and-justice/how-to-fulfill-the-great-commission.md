@@ -13,7 +13,7 @@ source: "Discipleship/Basic Growth Concepts/Transferable Concepts/How to Help Fu
 also_filed: ["Sending/Missions/7. How to Help Fulfill the Great Commission copy.pdf"]
 ---
 
-## Dr. Bill Bright Transferable Concept Seven
+## Transferable Concept Seven
 
 Today I lay before you the greatest challenge ever given to man by the greatest person who has ever lived. No matter how wealthy, famous, brilliant, or powerful you may be, you will never give yourself to any cause that can compare with this life-changing, even world-changing, call of God. refer, of course, to the Great Commission of our Lord Jesus Christ, which He gave to His disciples and through them to us. He said:
 

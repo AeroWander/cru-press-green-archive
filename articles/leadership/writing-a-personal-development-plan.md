@@ -11,15 +11,13 @@ summary: "A guide by Carolyn Raye explaining how to write a personal development
 source: "MTL/Lead Your Team/Personal Development Plan.pdf"
 ---
 
-## By Carolyn Raye
+*By Carolyn Raye*
 
 A personal development plan (PDP) is a tool to help examine the key aspects of our lives and then to pursue growth or change where it is most needed. Here is a description of how and why to write a Personal Plan, including worksheets.
 
 INVESTIGATIVE BIBLE STUDY 1 PERSONAL DEVLOPMENT PLAN1
 
 ## Perspective for Writing a Personal Development Plan
-
-#### Carolyn Raye
 
 What is a Personal Development Plan?
 
@@ -67,7 +65,7 @@ Seek Accountability Who are you going to share this with? What are you going to 
 
 Make a clear and simple copy of your PDP so that you can incorporate it into you prayer life.
 
-## Personal Development Plan Worksheet
+*Personal Development Plan Worksheet*
 
 #### Date: __________________
 

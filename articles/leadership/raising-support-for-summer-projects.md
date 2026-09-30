@@ -18,7 +18,7 @@ The following strategy for raising support can be summarized in four words:
 
 1. NAMESTORM 2. WRITE 3. CALL 4. THANK As you place your trust in God and carefully implement each of these four steps, you will see success! I cant even describe how excited I am for you, knowing that your summer will be life-changing. May the Lord bless and keep you as you trust him for things way outside your comfort zone. Warmly in Christ, Mark Gauthier National Director U.S. Campus Ministry Campus Crusade for Christ
 
-## Step One: Namestorm
+Step One: Namestorm
 
 First, stop and take a moment to pray.
 
@@ -72,7 +72,7 @@ Now here is the fun part. The 25 students who come up with the most names will r
 
 This summer, I have an unbelievable opportunity to take part in a summer mission project sponsored by Campus Crusade. I will be going with approximately 60 other students to Lake Tahoe. A summer spent on a project like this can be invaluable. Few other environments can top this in developing spiritual leadership and ministry skills to equip me and others for campus outreach and ministry after college. There will be great opportunities to share my faith as vacationers and college students flood the area this summer. Our group will be involved with outreaches on the beach, on area campuses and in the community. At the same time I will be in a small group Bible study and discipleship ministry. My heart’s desire it to increase my understanding of God’s Word, deepen my relationship with Him, and be more burdened for reaching people with the Gospel. Truth be told, I am both very excited and nervous at the same time. I know my faith will be stretched as I do things I have never done before! In order to make all this possible, I need to develop a team of ministry partners… a group of people like you who would give to make my trip possible. As you might imagine raising the necessary funds will be one of my greatest steps of faith in preparation for the summer. I need a total of $4,000 by May 31 which covers room and board for the summer as well as transportation. Would you prayerfully consider joining my team by giving a gift of $100, $200, $300 or more? Of course whatever amount the Lord leads you to do is the right amount. All gifts are tax-deductible and checks should be made out to Campus Crusade for Christ. In order to know how close I am to reaching my goal, I will call you next week to see what you have decided and to answer any questions you might have.
 
-More than anything I need your prayers as I seek to follow the Lord by participating in this summer mission trip. Thank you for considering joining my team to help reach people for Christ at Lake Tahoe this summer. Thank-you, In writing your letter be sure to: • • • • • • • • • • • • Give your letter a specific date.
+More than anything I need your prayers as I seek to follow the Lord by participating in this summer mission trip. Thank you for considering joining my team to help reach people for Christ at Lake Tahoe this summer. Thank-you, In writing your letter be sure to: Give your letter a specific date.
 
 Your greeting should be personalized. If you use a form printed letter, hand-write the name instead of using “Dear friend.”
 
@@ -92,7 +92,10 @@ Be sure to ask each person for specific amounts (see sample letter); make sure t
 
 ## Step Three: Call
 
-The degree of your success in the letter-writing strategy depdends on your follow-up phone call. The follow-up phone call is critical for three reasons: • Most people suffer from information overload. Consequently, mail is easy to ignore or forget. • Your time frame. You have a lot of money to raise in a short period of time. A follow-up phone call will help you get decisions as quickly as possible. The best suggestion is to call one week after you’ve dropped the letter in the mail.
+The degree of your success in the letter-writing strategy depdends on your follow-up phone call. The follow-up phone call is critical for three reasons:
+
+- Most people suffer from information overload. Consequently, mail is easy to ignore or forget.
+- Your time frame. You have a lot of money to raise in a short period of time. A follow-up phone call will help you get decisions as quickly as possible. The best suggestion is to call one week after you’ve dropped the letter in the mail.
 
 Courtesy to your ministry partners. Many people will want to help you but won’t unless you call to answer any questions and to get their decision. Your phone call takes the burden of response off them and puts it on you.
 

@@ -11,7 +11,7 @@ summary: "A book chapter excerpt by Rick James (part of a work on the Great Comm
 source: "added/The One and Only Great Commission.pdf"
 ---
 
-## By Rick James
+By Rick James
 
 the family, and head back off to wherever. With no alternatives, Grace courageously ended the cycle: she grabbed the kids, pawned her wedding ring, moved into an apartment, and took on three jobs to support her family.
 
@@ -61,7 +61,7 @@ Conversely, it is the absence of a plot—whether in a book, movie, relationship
 
 But if it’s true—and it most certainly is— that we as believers have the true storyline of life, why are so many Christians sleeping through their Christian lives, wandering aimlessly, without purpose, motivation, or direction—all of the hallmarks of a missing plot? To answer this, we need to make a crucial distinction between the purpose of a story and the plot.
 
-## Purpose Vs. Plot
+Purpose Vs. Plot
 
 A plot, as we defined it, is “a series of causally related events involving conflict or tension, leading to a climax and resolution.” Plot is the story line, not the reason the author wrote the story.
 
@@ -69,7 +69,7 @@ What, for example, was the purpose of C. S. Lewis’s Chronicles of Narnia? Lewi
 
 To see the distinction between purpose and plot, let’s imagine a new TV series based on the successful drama “LOST:” a Christian version airing on TBN and starring Kirk Cameron. In the show, a plane crashes and survivors are stranded on a mysterious island. The purpose of the Christians on the island is the same as the purpose of Christians everywhere: to glorify God.
 
-So they cook to the glory of God, sing to the glory of God, fish to the glory of God, turn coconuts into iPads to the glory of God, and so on and so forth. On the whole it’s a purposeful little community, but as boring to watch as Teletubbies because there is no plot. Purpose, but not plot. Now, if we introduce into the story that the castaways must find a way off the island, rescue an indigenous tribe of headhunters who live on it, before a hurricane swallows up the island: well then I just might be able to sell the story to TBN. It has been my observation that Christians, generally speaking, have mistaken the purpose of the Christian life for the plot of the Christian life. We were created to glorify God, to love and serve him in everything we do. This is the purpose for which we are made, but this is not the plot for which we are made. And it is not until we engage in the plot that we experience a driving, motivating, eye-opening context for living on this planet.
+So they cook to the glory of God, sing to the glory of God, fish to the glory of God, turn coconuts into Ipads to the glory of God, and so on and so forth. On the whole it’s a purposeful little community, but as boring to watch as Teletubbies because there is no plot. Purpose, but not plot. Now, if we introduce into the story that the castaways must find a way off the island, rescue an indigenous tribe of headhunters who live on it, before a hurricane swallows up the island: well then I just might be able to sell the story to TBN. It has been my observation that Christians, generally speaking, have mistaken the purpose of the Christian life for the plot of the Christian life. We were created to glorify God, to love and serve him in everything we do. This is the purpose for which we are made, but this is not the plot for which we are made. And it is not until we engage in the plot that we experience a driving, motivating, eye-opening context for living on this planet.
 
 So, what is the plot? The plot of the Christian life, as it so happens, is identical to the plot of Scripture: the expansion of the kingdom of God in this world from chaos, over and against the power of sin, death, and Satan that oppose the purposes, plans, and reign of God. Now you could nuance a word or two or expand it a bit but this is the storyline.
 
