@@ -140,7 +140,7 @@ def shell(title, desc, depth, body, topic=None, scripts=""):
 </div></header>
 {body}
 <footer class="foot"><div class="foot-in"><a href="{up}index.html">{SITE_NAME}</a> · Articles, guides and studies for campus ministry</div></footer>
-<script>function alToggleTheme(){{var d=document.documentElement,c=d.dataset.theme||(matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light'),n=c==='dark'?'light':'dark';d.dataset.theme=n;try{{localStorage.setItem('al-theme',n)}}catch(e){{}}}}</script>
+<script>function alToggleTheme(){{var d=document.documentElement,c=d.dataset.theme||'light',n=c==='dark'?'light':'dark';d.dataset.theme=n;try{{localStorage.setItem('al-theme',n)}}catch(e){{}}}}</script>
 {scripts}
 </body>
 </html>

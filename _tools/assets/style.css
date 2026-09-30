@@ -13,15 +13,7 @@
   --t-leadership:#6a48a8; --t-life-and-character:#a93a6f; --t-mission-and-justice:#16757c; --t-flyers-and-promo:#5d636d;
   --tint:9%;
 }
-@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
-  --bg:#121412; --paper:#1b1e1b; --ink:#e9ebe6; --soft:#c5cac3; --muted:#949b93; --line:#2c302c; --line-2:#3a3f3a;
-  --brand:#7fc4a0; --brand-ink:#0f1a14; --brand-deep:#0f1a14; --brand-soft:#1d2e24; --mark:#6b5a12; --focus:#7fc4a0;
-  --hero-bg:linear-gradient(135deg,#0f1a14 0%,#16271d 60%,#1b3024 100%); --hero-ink:#eef3ee; --hero-muted:#a9bfb0;
-  --shadow:0 1px 2px rgba(0,0,0,.35);
-  --t-evangelism:#f08a5e; --t-discipleship:#7fc4a0; --t-bible-and-theology:#8fb2ef; --t-small-groups:#e6b04f;
-  --t-leadership:#b79cf0; --t-life-and-character:#ec8ab8; --t-mission-and-justice:#5fc6cc; --t-flyers-and-promo:#a9afb8;
-  --tint:14%;
-}}
+/* light by default; dark only when the reader picks it with the ◐ button */
 :root[data-theme="dark"]{
   --bg:#121412; --paper:#1b1e1b; --ink:#e9ebe6; --soft:#c5cac3; --muted:#949b93; --line:#2c302c; --line-2:#3a3f3a;
   --brand:#7fc4a0; --brand-ink:#0f1a14; --brand-deep:#0f1a14; --brand-soft:#1d2e24; --mark:#6b5a12; --focus:#7fc4a0;
