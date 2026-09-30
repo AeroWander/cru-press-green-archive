@@ -55,6 +55,13 @@ button,select,input{font:inherit;color:inherit}
 .bar-nav a:hover{background:var(--brand-soft);color:var(--ink)}
 .theme{border:1px solid var(--line-2);background:var(--paper);border-radius:10px;width:36px;height:36px;cursor:pointer;display:grid;place-items:center}
 
+/* phone search row in the sticky header (hidden on wider screens) */
+.bar-search{display:none;position:relative;align-items:center;max-width:1120px;margin:0 auto;padding:0 16px 10px}
+.bar-search svg{position:absolute;left:28px;color:var(--muted);pointer-events:none}
+.bar-search input{flex:1;min-width:0;border:1px solid var(--line-2);background:var(--paper);border-radius:12px;padding:10px 12px 10px 38px;font-size:16px;outline:none}
+.bar-search input:focus{border-color:var(--brand);box-shadow:0 0 0 3px color-mix(in srgb,var(--brand) 25%,transparent)}
+.bar-search input::-webkit-search-cancel-button{display:none}
+
 /* ---------- hero ---------- */
 .hero{background:var(--hero-bg);color:var(--hero-ink)}
 .hero-in{max-width:1120px;margin:0 auto;padding:48px 20px 40px}
@@ -243,6 +250,12 @@ mark{background:var(--mark);color:inherit;border-radius:3px;padding:0 1px}
   .pn .next{text-align:left}
 }
 @media (max-width:560px){.bar-nav{display:none}}
+@media (max-width:640px){
+  .bar-search{display:flex}
+  .home:not(.show-bar-search) .bar-search{display:none}
+  html{scroll-padding-top:124px}
+  .body h2,.body h3,.body h4{scroll-margin-top:128px}
+}
 @media (max-width:380px){.filter-grid{grid-template-columns:1fr}}
 @media print{.bar,.filters-band,.toc,.pn,.related,.foot,.theme{display:none}body{background:#fff}.hero-article{background:none}.body{font-size:12pt}}
 @media (prefers-reduced-motion:reduce){*{transition:none!important}}

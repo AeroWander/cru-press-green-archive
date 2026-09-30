@@ -216,6 +216,7 @@
     for (var k in FILTERS) { var on = !!FILTERS[k].value; FILTERS[k].classList.toggle("on", on); if (on) nFilters++; }
     el.filterCount.hidden = !nFilters; el.filterCount.textContent = nFilters;
     el.clearQ.hidden = !st.q;
+    if (document.activeElement !== barQ) barQ.value = el.q.value;
 
     document.body.classList.toggle("searching", !!(active || nFilters));
     if (!active && !nFilters) {
@@ -279,8 +280,13 @@
     if (scrollToResults) scrollToEl(el.section);
   }
 
+  // the header is taller on phones once the search row shows, so leave room for it
+  var phone = window.matchMedia("(max-width: 640px)"), bar = document.querySelector(".bar");
   function scrollToEl(node) {
-    requestAnimationFrame(function () { window.scrollTo(0, Math.max(0, node.getBoundingClientRect().top + window.scrollY - 64)); });
+    requestAnimationFrame(function () {
+      var extra = phone.matches && !document.body.classList.contains("show-bar-search") ? 54 : 0;
+      window.scrollTo(0, Math.max(0, node.getBoundingClientRect().top + window.scrollY - bar.offsetHeight - extra - 8));
+    });
   }
 
   function loadFullText() {
@@ -299,11 +305,20 @@
   }
 
   // ---------- events ----------
-  var timer;
-  el.q.addEventListener("input", function () {
+  var timer, barQ = $("bar-q");
+  function queryChanged() {
     clearTimeout(timer);
     timer = setTimeout(function () { shown = PAGE; writeHash(currentState(), false); run(false); }, 140);
-  });
+  }
+  el.q.addEventListener("input", queryChanged);
+  // phone header search mirrors the main box; it appears once the main box scrolls out of view
+  barQ.addEventListener("input", function () { el.q.value = barQ.value; queryChanged(); });
+  barQ.form.onsubmit = function () { barQ.blur(); if (!el.section.hidden) scrollToEl(el.section); return false; };
+  if ("IntersectionObserver" in window) {
+    new IntersectionObserver(function (es) {
+      document.body.classList.toggle("show-bar-search", !es[0].isIntersecting && es[0].boundingClientRect.top < 100);
+    }, { rootMargin: "-60px 0px 0px 0px" }).observe(document.querySelector(".searchbox"));
+  }
   el.q.addEventListener("keydown", function (e) {
     if (e.key === "Enter") { e.preventDefault(); el.q.blur(); if (!el.section.hidden) scrollToEl(el.section); }
     if (e.key === "Escape") { el.q.value = ""; writeHash(currentState(), false); run(false); }

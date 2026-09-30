@@ -120,8 +120,11 @@ HEAD_JS = ("<script>(function(){try{var t=localStorage.getItem('al-theme');"
            "if(t)document.documentElement.dataset.theme=t}catch(e){}})();</script>")
 
 
-def shell(title, desc, depth, body, topic=None, scripts=""):
+def shell(title, desc, depth, body, topic=None, scripts="", page=""):
     up = "../" * depth
+    # phones: a search field in the sticky header. On article pages it sends the query to the home page;
+    # on the home page app.js wires it to the main search box and shows it once that box scrolls away.
+    go = f"location.href='{up}index.html#q='+encodeURIComponent(this.q.value.trim());return false"
     tattr = f' data-topic="{topic}"' if topic else ""
     return f"""<!doctype html>
 <html lang="en"{tattr}>
@@ -135,13 +138,18 @@ def shell(title, desc, depth, body, topic=None, scripts=""):
 <link rel="stylesheet" href="{up}assets/style.css?v={VER}">
 {HEAD_JS}
 </head>
-<body>
+<body class="{page}">
 <a class="skip" href="#main">Skip to content</a>
 <header class="bar"><div class="bar-in">
 <a class="brand" href="{up}index.html"><span class="logo" aria-hidden="true"></span><span class="brand-name">{SITE_NAME}</span></a>
 <nav class="bar-nav"><a href="{up}index.html#browse">Topics</a><a href="{up}index.html#search">Search</a></nav>
 <button class="theme" type="button" aria-label="Switch light or dark mode" onclick="alToggleTheme()"><span aria-hidden="true">◐</span></button>
-</div></header>
+</div>
+<form class="bar-search" role="search" action="{up}index.html" onsubmit="{go}">
+<svg aria-hidden="true" viewBox="0 0 24 24" width="18" height="18"><circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" stroke-width="2"/><path d="M20 20l-4-4" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+<input id="bar-q" name="q" type="search" placeholder="Search the archive…" aria-label="Search the archive" autocomplete="off" enterkeyhint="search">
+</form>
+</header>
 {body}
 <footer class="foot"><div class="foot-in"><a href="{up}index.html">{SITE_NAME}</a> · Articles, guides and studies for campus ministry</div></footer>
 <script>function alToggleTheme(){{var d=document.documentElement,c=d.dataset.theme||'light',n=c==='dark'?'light':'dark';d.dataset.theme=n;try{{localStorage.setItem('al-theme',n)}}catch(e){{}}}}</script>
@@ -339,7 +347,7 @@ def main():
     os.remove(os.path.join(SITE, "assets", "home.html"))
     with open(os.path.join(SITE, "index.html"), "w", encoding="utf-8") as fh:
         fh.write(shell(SITE_NAME, f"{len(arts)} articles, guides and studies for campus ministry, searchable by topic, theme, audience, author and series.",
-                       0, body, scripts=f'<script src="assets/library.js?v={VER}"></script>\n<script src="assets/app.js?v={VER}"></script>'))
+                       0, body, page="home", scripts=f'<script src="assets/library.js?v={VER}"></script>\n<script src="assets/app.js?v={VER}"></script>'))
     print(f"Built {len(arts)} article pages -> {os.path.relpath(SITE, ROOT)}/")
 
 
