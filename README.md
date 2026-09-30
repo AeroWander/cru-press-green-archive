@@ -9,6 +9,7 @@ A mobile-friendly website for the article collection: 638 articles, guides and s
 | `articles/<topic>/<slug>.md` | **The articles.** One Markdown file each, filed by topic, with front matter (title, themes, audience, authors, series, summary…). This is the copy to edit. |
 | `site/` | **The website** built from `articles/`. Upload this folder to publish. Don't edit it by hand; it is rebuilt each time. |
 | `_tools/build.py` | Builds `site/` from `articles/`. |
+| `_tools/clean_articles.py` | Tidies article text left messy by the PDF conversion (footers, broken lists, fake headings). Already run; safe to run again after adding articles. |
 | `_tools/assets/` | Site design and behaviour: `style.css`, `app.js` (search), `home.html` (home page layout). |
 | `_tools/import_articles.py` | One-time import from `Resource App/Asset Text/`. It already ran. Running it again **wipes `articles/`**. |
 
