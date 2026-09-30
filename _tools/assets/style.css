@@ -169,15 +169,21 @@ mark{background:var(--mark);color:inherit;border-radius:3px;padding:0 1px}
 .chip:hover{border-color:var(--tc)}
 .note{font-size:14px;color:var(--soft);background:color-mix(in srgb,#e0a100 12%,var(--paper));border-radius:10px;padding:10px 14px;margin:0 0 22px}
 .note b{margin-right:6px}
-.toc{background:var(--paper);border:1px solid var(--line);border-radius:var(--radius);margin:0 0 30px;font-size:15px}
-.toc summary{cursor:pointer;padding:12px 18px;font-weight:700;list-style:none;display:flex;justify-content:space-between}
+.toc{background:var(--paper);border:1px solid var(--line);border-radius:var(--radius);margin:0 0 30px;font-size:15px;box-shadow:var(--shadow)}
+.toc summary{cursor:pointer;padding:12px 18px;font-weight:700;list-style:none;display:flex;align-items:baseline;gap:10px}
 .toc summary::-webkit-details-marker{display:none}
-.toc summary::after{content:"▾";color:var(--muted)}
+.toc summary small{font-weight:400;color:var(--muted);font-size:13px}
+.toc summary::after{content:"▾";color:var(--muted);margin-left:auto}
 .toc[open] summary{border-bottom:1px solid var(--line)}
-.toc ol{list-style:none;margin:0;padding:8px 18px 12px;columns:2;column-gap:28px}
-.toc li{break-inside:avoid;padding:3px 0}
-.toc li.l3{padding-left:14px;font-size:14px}
-.toc a{display:block;color:var(--soft);text-decoration:none;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.toc[open] summary::after{transform:rotate(180deg)}
+.toc-list{list-style:none;margin:0;padding:6px 0 8px}
+.toc-list>li{display:grid;grid-template-columns:28px minmax(0,1fr);align-items:baseline;padding:0 18px}
+.toc-list>li+li{border-top:1px solid color-mix(in srgb,var(--line) 60%,transparent)}
+.toc-n{grid-row:1;font-size:12px;font-weight:700;color:var(--tc);font-variant-numeric:tabular-nums}
+.toc-list>li>a{grid-column:2;padding:8px 0;font-weight:600;color:var(--ink)}
+.toc-sub{grid-column:2;list-style:none;margin:-2px 0 8px;padding:0 0 0 12px;border-left:2px solid color-mix(in srgb,var(--tc) 30%,transparent)}
+.toc-sub a{padding:3px 0;font-size:14px;color:var(--soft)}
+.toc a{display:block;text-decoration:none;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .toc a:hover{color:var(--tc);text-decoration:underline}
 .body{font:19px/1.72 var(--serif);color:var(--ink)}
 .body>*:first-child{margin-top:0}
@@ -232,7 +238,6 @@ mark{background:var(--mark);color:inherit;border-radius:3px;padding:0 1px}
   .res-head h2{font-size:1.25rem}
   .result a.r-link{padding:14px 14px}
   .body{font-size:18px;line-height:1.68}
-  .toc ol{columns:1}
   .pn{grid-template-columns:1fr}
   .pn .next{text-align:left}
 }

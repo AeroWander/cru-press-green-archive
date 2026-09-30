@@ -69,12 +69,15 @@ def hslug(s, used):
     return k
 
 
-def md_to_html(md):
+def md_to_html(md, skip_headings=()):
+    """skip_headings: lower-cased heading texts to leave out entirely (e.g. author names used as headings)."""
     out, toc, used = [], [], set()
     for block in re.split(r"\n\s*\n", md.strip()):
         lines = [l for l in block.split("\n") if l.strip()]
         if not lines: continue
         m = re.match(r"^(#{1,6})\s+(.*)$", lines[0])
+        if m and len(lines) == 1 and m.group(2).strip().lower() in skip_headings:
+            continue
         if m and len(lines) == 1:
             lvl = min(4, max(2, len(m.group(1))))
             text = m.group(2).strip()
@@ -158,7 +161,7 @@ def chip_link(label, key, value, depth):
 
 def article_page(a, related, series_nav):
     depth = 2
-    body_html, toc = md_to_html(a["body"])
+    body_html, toc = md_to_html(a["body"], {x.lower() for x in a.get("authors", [])})
     tname = TOPICS[a["topic"]][0]
     meta_bits = [f'{a["words"]:,} words', f'{reading_minutes(a["words"])} min read', a["type"]]
     if a.get("audience"): meta_bits.append("For " + ", ".join(a["audience"]).lower())
@@ -171,10 +174,10 @@ def article_page(a, related, series_nav):
         series = f'<p class="series-tag">Part of the series {link}</p>'
     chips = "".join(chip_link(t, "theme", t, depth) for t in a["themes"])
     note = f'<p class="note"><b>Note</b> {esc(a["note"])}</p>' if a.get("note") else ""
+    toc = toc_entries(toc, a["title"])
     toc_html = ""
     if len(toc) >= 3:
-        items = "".join(f'<li class="l{l}"><a href="#{h}" title="{esc(t.lstrip("-–• "))}">{inline(t.lstrip("-–• "))}</a></li>' for l, h, t in toc)
-        toc_html = f'<details class="toc"><summary>On this page</summary><ol>{items}</ol></details>'
+        toc_html = f'<details class="toc"><summary>On this page <small>{sum(1 for i, e in enumerate(toc) if e[0] == 2 or i == 0)} sections</small></summary>{toc_list(toc)}</details>'
     rel = ""
     if related:
         rel = '<section class="related"><h2>Related reading</h2><div class="cards">' + "".join(card(r, depth) for r in related) + "</div></section>"
@@ -212,6 +215,40 @@ def article_page(a, related, series_nav):
     scripts = ("<script>var t=document.querySelector('.toc');"
                "if(t&&matchMedia('(min-width:900px)').matches)t.open=true</script>")
     return shell(f'{a["title"]} · {SITE_NAME}', a["summary"][:160], depth, body, topic=a["topic"], scripts=scripts)
+
+
+def toc_entries(toc, title):
+    """Keep headings that read like headings: drop the article title repeated, chart debris
+    ("Aug. Sept. Oct. * @ #"), whole sentences, and repeats."""
+    out, seen = [], {title.lower()}
+    for lvl, hid, text in toc:
+        t = text.strip().lstrip("-–•* ").strip()
+        low = t.lower()
+        words = t.split()
+        if not t or low in seen or len(t) > 70 or len(words) > 10: continue
+        if re.search(r"[*@#%|=<>]", t) or sum(c.isalpha() for c in t) < 0.7 * len(t.replace(" ", "")): continue
+        if len(words) >= 4 and len({w.lower() for w in words}) < 0.75 * len(words): continue
+        seen.add(low)
+        out.append((lvl, hid, t))
+    return out
+
+
+def toc_list(toc):
+    """Numbered sections, each with its sub-sections nested beneath it."""
+    html_, n, open_sub = ["<ol class=\"toc-list\">"], 0, False
+    for lvl, hid, t in toc:
+        link = f'<a href="#{hid}" title="{esc(t)}">{inline(t)}</a>'
+        if lvl == 2 or n == 0:
+            if open_sub: html_.append("</ol>"); open_sub = False
+            if n: html_.append("</li>")
+            n += 1
+            html_.append(f'<li><span class="toc-n">{n}</span>{link}')
+        else:
+            if not open_sub: html_.append('<ol class="toc-sub">'); open_sub = True
+            html_.append(f"<li>{link}</li>")
+    if open_sub: html_.append("</ol>")
+    html_.append("</li></ol>")
+    return "".join(html_)
 
 
 def card(a, depth):
