@@ -8,6 +8,7 @@ audience: ["Graduating seniors"]
 series: "Extracts & Documents"
 words: 4734
 summary: "A Personal Development Plan worksheet for graduating seniors, adapted from the InTransition Groupzine, guiding them through eight life categories—spiritual, mission statement, personal growth, finances, relationships, ministry, decision-making, and vocation/calling. Combines reflection questions, self-assessments, and worksheets to help students plan their transition out of college with an eternal perspective."
+toc: false
 source: "added/All Callings/Eight Habits For the Transition.pdf"
 ---
 

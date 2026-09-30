@@ -9,6 +9,7 @@ series: "Postcards from Corinth"
 words: 42155
 summary: "An extended, unpublished book-length manuscript by longtime Campus Crusade staff member Jim Sylvester on ministry principles and movement building, opening with stories from ministry in Albania and at Bowling Green State University. Covers five truths God honors (his own glory over man's, grace over performance, faith over effort, love over duty, vision over purposeless activity), plus sections on movement-building cycles and personal discipleship. Note: the OCR text for this document is heavily garbled, with many words and connective phrases dropped throughout, making parts hard to read verbatim, though the overall argument and structure are discernible from headings."
 note: "1 of 149 pages had no text layer and were read with OCR; expect some recognition errors."
+toc: false
 source: "Discipleship/How to Disciple Others/Principles God Honors.pdf"
 ---
 

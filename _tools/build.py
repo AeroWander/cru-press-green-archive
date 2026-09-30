@@ -182,7 +182,7 @@ def article_page(a, related, series_nav):
         series = f'<p class="series-tag">Part of the series {link}</p>'
     chips = "".join(chip_link(t, "theme", t, depth) for t in a["themes"])
     note = f'<p class="note"><b>Note</b> {esc(a["note"])}</p>' if a.get("note") else ""
-    toc = toc_entries(toc, a["title"])
+    toc = toc_entries(toc, a["title"], a.get("authors", []), a.get("series", ""), a["words"]) if a.get("toc", True) else []
     toc_html = ""
     if len(toc) >= 3:
         toc_html = f'<details class="toc"><summary>On this page <small>{sum(1 for i, e in enumerate(toc) if e[0] == 2 or i == 0)} sections</small></summary>{toc_list(toc)}</details>'
@@ -225,19 +225,155 @@ def article_page(a, related, series_nav):
     return shell(f'{a["title"]} · {SITE_NAME}', a["summary"][:160], depth, body, topic=a["topic"], scripts=scripts)
 
 
-def toc_entries(toc, title):
-    """Keep headings that read like headings: drop the article title repeated, chart debris
-    ("Aug. Sept. Oct. * @ #"), whole sentences, and repeats."""
-    out, seen = [], {title.lower()}
+WORDS = set()
+if os.path.exists("/usr/share/dict/words"):
+    WORDS = {w.strip().lower() for w in open("/usr/share/dict/words", encoding="utf-8", errors="ignore")}
+SUFFIXES = ("ing", "ed", "es", "s", "ly", "ness", "ment", "ers", "er", "'s", "’s", "n")
+LABEL_WORDS = {"discuss", "commentary", "notes", "note", "questions", "question", "answer", "answers", "read", "it is",
+               "it is not", "to think about", "launch questions", "explore questions", "application", "leader", "leaders"}
+
+
+def is_word(w):
+    w = w.lower().strip("’'")
+    if not WORDS or w in WORDS or len(w) <= 2 and w in {"a", "i", "an", "as", "at", "be", "by", "do", "go", "he", "if", "in", "is", "it", "me", "my", "no", "of", "on", "or", "so", "to", "up", "us", "we"}:
+        return True
+    for suf in SUFFIXES:
+        if w.endswith(suf) and len(w) - len(suf) >= 3:
+            stem = w[: -len(suf)]
+            if stem in WORDS or stem + "e" in WORDS or (stem.endswith("i") and stem[:-1] + "y" in WORDS): return True
+    return False
+
+
+FIRST_NAMES = {"andrea", "bill", "bob", "cas", "dan", "eric", "jeff", "jerry", "jim", "john", "keith", "larry", "libby",
+               "lori", "marilyn", "mike", "paul", "phil", "rick", "scott", "steven", "tanya", "tim", "timothy", "tom", "will"}
+NAME_PREFIX = re.compile(r"^(?:by\s+|dr\.\s+)?([A-Z][a-z]+)\s+(?:[A-Z]\.?\s+)?([A-Z][a-z]+)\b[.,]?\s*")
+SMALL_OK = {"a", "i", "an", "as", "at", "be", "by", "do", "go", "he", "if", "in", "is", "it", "me", "my", "no", "of", "on",
+            "or", "so", "to", "up", "us", "we", "vs", "tv", "ii", "iv", "vi", "d", "s", "t"}
+LONE_WORDS = {"white", "papers", "next", "five", "you", "what", "great", "map", "think", "contents", "introduction!"}
+DROP_PHRASES = re.compile(r"excerpt|table of contents|subhead level|starter kit|teachers? notes|needs to be format|"
+                          r"leader[’'í]?s guide|^contents$|^chapter\s+(\d+|[a-z]+(\s[a-z]+)?)$|^part\s+\d+$", re.I)
+TITLE_SMALL = set("a an and as at but by for from in into nor of on or per the to vs via with".split())
+ACRONYMS = {"mtl", "wsn", "ijm", "usa", "aia", "tv", "dvd", "ad2000", "c456", "e2", "hiv", "aids"}
+
+
+def title_case(t):
+    out = []
+    for k, w in enumerate(t.split()):
+        core = re.sub(r"[^A-Za-z0-9]", "", w).lower()
+        if core in ACRONYMS: out.append(w.upper() if core != "ad2000" else "AD2000"); continue
+        lw = w.lower()
+        out.append(lw if k and core in TITLE_SMALL else re.sub(r"[a-z]", lambda m: m.group(0).upper(), lw, count=1))
+    return " ".join(out)
+
+
+def tidy_heading(t, authors_first):
+    """Repair headings that are fine apart from PDF artefacts. Returns the cleaned text ('' if nothing is left)."""
+    t = re.sub(r"(?<=[A-Za-z])í(?=(s|t|ll|re|ve|d|m)\b)", "’", t)             # mojibake apostrophe
+    t = re.sub(r"(?<=[A-Za-z)])\s*(>>|››|»)\s*(?=[A-Z])", " · ", t)            # "4 Walks >> Walk Assured"
+    t = re.sub(r"^([B-HJ-Z]) (?=[A-Z][a-z])", "", t)                            # stray letter: "Q Chasing the…"
+    t = re.sub(r"^([A-Z]) (?=\1[a-z’'])", "", t)                                 # drop-cap: "D Don’t"
+    w = t.split()
+    if len(w) >= 2 and len(w) % 2 == 0 and [x.lower() for x in w[:len(w)//2]] == [x.lower() for x in w[len(w)//2:]]:
+        t = " ".join(w[:len(w)//2])                                              # "Church Church"
+    t = re.sub(r"\b([A-Za-z]+)- ([a-z]+)\b", lambda m: m.group(1) + m.group(2) if is_word(m.group(1) + m.group(2)) else m.group(0), t)
+    m = NAME_PREFIX.match(t)                                                      # "Eric Swanson The Advantage of Teams"
+    if m and (m.group(1).lower() in FIRST_NAMES or m.group(1).lower() in authors_first):
+        t = t[m.end():]
+    t = re.sub(r"^(by|dr\.)\s+\S+\s+\S+\s*", "", t, flags=re.I) if re.match(r"^(by|dr\.)\s", t, re.I) else t
+    t = re.sub(r"(?<=[a-z]{3})\d\b", "", t).rstrip("]").strip(" -–—:")
+    t = re.sub(r"^(\w+) \1\b", r"\1", t, flags=re.I)                              # "Appendix Appendix C"
+    letters = [c for c in t if c.isalpha()]
+    weird = any(re.search(r"[a-z][A-Z]|[A-Z]{2}[a-z]+[A-Z]|^[a-z]+[A-Z]|^[A-Z]{2,}[a-z]{2,}", x) for x in t.split())
+    caps = sum(1 for x in t.split() if len(x) >= 3 and x.isupper())
+    if weird or (letters and caps >= 2 and caps >= 0.5 * len(t.split())):
+        t = title_case(t)
+    elif re.search(r"[a-z]", t):                                                  # "Justice Week EVENTS"
+        t = " ".join(x.capitalize() if len(x) >= 4 and x.isupper() and x.lower() not in ACRONYMS else x for x in t.split())
+    t = re.sub(r"(\d)(St|Nd|Rd|Th)\b", lambda m: m.group(1) + m.group(2).lower(), t)
+    t = re.sub(r"\b(Ii|Iii|Iv|Vi|Vii|Viii|Ix)\b(?=[.:\s])", lambda m: m.group(1).upper(), t)
+    t = re.sub(r"^((?:[A-Z]|\d{1,2}|[IVX]+)[.:)]\s+|[^:]{1,40}:\s*)(the|a|an|but)\b", lambda m: m.group(1) + m.group(2).capitalize(), t)
+    t = re.sub(r"(?<!the )(?<!U\.)\bUS\b", "Us", t)
+    return t[:1].upper() + t[1:] if t else t
+
+
+def good_heading(t, prior_words, raw):
+    """True when t reads like a real section heading rather than PDF debris. raw is the text before tidying."""
+    if not (2 < len(t) <= 64) or not re.match(r"[A-Z0-9“\"‘(]", t): return False     # starts mid-sentence
+    if re.search(r"[*@#%|=<>›»~_\\]|/{2,}|\.{3}|…", t): return False                 # symbols, chart marks
+    if re.search(r"\b(what|the|a|an|and|of|to|so|now|is|in|it) \1\b", t, re.I) or re.search(r",[A-Za-z]", t):
+        return False                                                                  # "What What", "So,what"
+    if re.search(r"\(con[’'t.]*\)|\bcont(inued|’d|'d)?\b", t, re.I): return False       # "(con't)" repeats
+    if DROP_PHRASES.search(t) or t.lower() in LONE_WORDS: return False
+    first = re.search(r"(?<![A-Za-z0-9])[A-Za-z]", t)                               # first word that starts with a letter
+    if first and first.group(0).islower(): return False                              # "8) going to work"
+    if re.search(r"[?.!]\s+[A-Z]{4,}$", raw): return False                           # "…tomb? ENDNOTES"
+    if t.count("“") != t.count("”") or t.count('"') % 2: return False                 # quote cut off mid-way
+    if re.search(r"\w- \w", t): return False                                         # "At- Tempts at Trans- Form"
+    if len(re.findall(r"[.!?](\s|$)", t)) >= 2 and not re.match(r"^\d+\.\s", t): return False   # several sentences
+    rw = raw.split()
+    if rw and len(rw[0]) >= 3 and rw[0].isupper() and sum(1 for x in rw if x.isalpha() and x.islower()) >= 3:
+        return False                                                                  # "AFTER THE FALL, humans became…"
+    if re.search(r"(?<![A-Za-z])(page|p\.)\s*\d+|[a-z?.,;:]\s+\d{1,3}$|\d+ \d+$", t, re.I) and not re.match(
+            r"(step|part|chapter|week|session|lesson|day|phase|stage|level|appendix|quarter|year|volume|rule|principle|acts|john|luke|mark|matthew|romans)\b", t, re.I):
+        return False                                                                  # page numbers
+    if re.search(r"[,;]$|\b(the|a|an|and|of|to|in|with|for|that|when|as|be|every|our|your|their|by|from|than|or|but)$", t, re.I): return False
+    if re.match(r"(of|and|or|but|to|with|than|as|in)\b", t, re.I): return False       # starts mid-phrase
+    if t.endswith(":") and (len(t.split()) <= 3 or t.rstrip(":").lower() in LABEL_WORDS): return False
+    if t.rstrip(":").lower() in LABEL_WORDS: return False
+    words = re.findall(r"[A-Za-z’']+", t)
+    if not words: return False
+    if sum(1 for w in words if len(w) <= 2 and w.lower() not in SMALL_OK) >= 2: return False   # "Get Tin G Bib Li Cal"
+    if any(len(w) == 1 and w.islower() and w != "a" for w in words[1:]): return False          # "Relationshi s"
+    if len(words) >= 5 and not re.search(r"[,:;?!.•—–-]", t) and sum(w.islower() for w in words) >= 0.6 * len(words):
+        return False                                                                  # captions run together
+    if sum(len(w) <= 2 for w in words) > max(1, len(words) // 2): return False
+    if sum(is_word(w) for w in words) < 0.8 * len(words): return False              # OCR noise, split words
+    if len(words) > 10: return False
+    lw = [w.lower() for w in words]
+    if len(lw) >= 2 and prior_words and all(w in prior_words for w in lw) and not re.search(r"\b(the|of|and|to|a|how|what|why)\b|[·:]", t, re.I):
+        return False                                                                  # earlier headings glued together
+    return True
+
+
+def toc_entries(toc, title, authors=(), series="", words=10**6):
+    """Headings for the 'On this page' box. Anything that doesn't read like a real heading is left out;
+    if most of an article's headings are debris, it gets no box at all (returns [])."""
+    if words < 400: return []
+    authors_first = {a.split()[0].lower() for a in authors if a.split()}
+    author_names = {a.lower() for a in authors}
+    series_stem = series.lower().rstrip("s")
+    out, seen, prior_words, short_distinct = [], {title.lower()}, set(), 0
     for lvl, hid, text in toc:
-        t = text.strip().lstrip("-–•* ").strip()
-        low = t.lower()
-        words = t.split()
-        if not t or low in seen or len(t) > 70 or len(words) > 10: continue
-        if re.search(r"[*@#%|=<>]", t) or sum(c.isalpha() for c in t) < 0.7 * len(t.replace(" ", "")): continue
-        if len(words) >= 4 and len({w.lower() for w in words}) < 0.75 * len(words): continue
+        raw = re.sub(r"\s+", " ", text.strip().lstrip("-–•* ").strip())
+        t = tidy_heading(raw, authors_first)
+        low = t.lower().rstrip(":. ")
+        if not low or low in seen or low in author_names: continue
         seen.add(low)
-        out.append((lvl, hid, t))
+        if len(t) <= 64: short_distinct += 1
+        if series_stem and len(series_stem) > 4 and low.startswith(series_stem): continue
+        if good_heading(t, prior_words, raw):
+            out.append((lvl, hid, t.rstrip(":")))
+            prior_words.update(w.lower() for w in re.findall(r"[A-Za-z’']+", t))
+    # hide the box when most short, distinct candidates were debris (long sentences don't count either way)
+    if short_distinct >= 4 and len(out) < 0.5 * short_distinct: return []
+    # one lone top-level heading over a pile of sub-headings reads badly; show them all at one level
+    if sum(1 for l, _, _ in out if l == 2) < 2: out = [(2, h, t) for _, h, t in out]
+    # "4 Walks · Walk Assured", "4 Walks · Walk Forgiven" → a "4 Walks" group with the sessions under it
+    grouped, parent = [], None
+    for lvl, hid, t in out:
+        if " · " in t:
+            head, rest = t.split(" · ", 1)
+            if head != parent:
+                # an earlier bare "4 Walks" overview entry is replaced by this group
+                grouped = [g for k, g in enumerate(grouped) if not (g[0] == 2 and g[2] == head and
+                           (k + 1 == len(grouped) or grouped[k + 1][0] == 2))]
+                grouped.append((2, hid, head)); parent = head
+            grouped.append((3, hid, rest))
+        else:
+            grouped.append((lvl, hid, t)); parent = None if lvl == 2 else parent
+    out = grouped
+    # very long lists: keep just the main sections when there are enough of them
+    if len(out) > 60 and sum(1 for l, _, _ in out if l == 2) >= 5: out = [e for e in out if e[0] == 2]
     return out
 
 

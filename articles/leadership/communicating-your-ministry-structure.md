@@ -8,6 +8,7 @@ audience: ["Student leaders", "Staff & team leaders"]
 authors: ["Tim Henderson"]
 words: 1525
 summary: "An article by Timothy Henderson describing a sample campus ministry organizational structure (used at Penn State Cru) and how to communicate it to student leaders. It explains four leadership \"lanes\"—Manager, Multiplier, Missionary, and Freshman team—along with Cru's identity statement and discipleship pathway (leadership groups, D-Time, small group and peer Bible studies, core values, and events)."
+toc: false
 source: "added/Communicating Your Ministry Structure.pdf"
 ---
 

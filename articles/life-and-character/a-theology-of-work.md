@@ -9,6 +9,7 @@ authors: ["Bob Thune"]
 series: "Postcards from Corinth"
 words: 3385
 summary: "A chapter excerpt from the InTransition Groupzine, by Bob Thune, arguing against the idea that only vocational ministry is a spiritual calling. It develops a biblical theology of work grounded in Genesis and Pauline texts, contending that all work, done for God's glory, is inherently spiritual, for graduating seniors entering the workforce."
+toc: false
 source: "Sending/Graduating Seniors/A Theology of Work.pdf"
 ---
 

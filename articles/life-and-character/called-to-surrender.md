@@ -8,6 +8,7 @@ audience: ["Students"]
 series: "Extracts & Documents"
 words: 2169
 summary: "The first of a three-part All Callings Bible study series on surrendering to Christ's lordship, built around the parable of the sower (Matthew 13) and a legacy-planning tool called \"The Five Things\" (kingdom vision, team, plan, ongoing equipping, coach). Includes reflection questions for readers assessing what kind of \"soil\" describes their own heart and how to leave a kingdom legacy."
+toc: false
 source: "added/All Callings/Called to Bear Fruit copy.pdf"
 ---
 

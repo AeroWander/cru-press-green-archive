@@ -7,6 +7,7 @@ themes: ["Weekly meetings", "Bible study & interpretation"]
 audience: ["Student leaders"]
 words: 3436
 summary: "A structured homiletics worksheet from an \"Institute of Biblical Studies\" for preparing a biblical talk, walking leaders through selecting and observing a passage, identifying its \"Fallen Condition Focus,\" writing a two-part Proposition (timeless principle plus application), dividing the passage into main points, and developing sub-points through explanation, illustration, and application."
+toc: false
 source: "godsquad/weekly meeting/Preparing a Talk.pdf"
 ---
 

@@ -46,7 +46,8 @@ Each article is filed under the topic of its first theme and also appears under 
 
 1. Edit or add a file in `articles/<topic>/`. Copy the front matter from an existing article. `title`, `topic`, `type`, `themes`, `audience`, `words` and `summary` are required.
 2. To move an article to another topic, move its file into that topic's folder.
-3. Rebuild:
+3. The "On this page" box is built from each article's headings. Headings that look like conversion debris are left out automatically. If an article's box still looks wrong, add `toc: false` to its front matter to hide it.
+4. Rebuild:
 
 ```bash
 python3 _tools/build.py

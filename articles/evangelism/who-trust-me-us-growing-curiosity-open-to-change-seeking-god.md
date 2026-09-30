@@ -7,6 +7,7 @@ themes: ["Personal evangelism & gospel conversations", "Missions & the Great Com
 audience: ["Student leaders", "Staff & team leaders"]
 words: 1075
 summary: "A fill-in worksheet and accompanying how-to guide for a missional team (students, graduates, or staff) to identify, pray for, and track up to twenty not-yet-Christian people they are trying to reach. It explains a six-stage \"Postmodern Sojourner's Continuum\" (from Trust Me/Us to Following Jesus) for charting each person's spiritual progress and gives step-by-step instructions for launching and using the map."
+toc: false
 source: "added/All Callings/Missional Map.pdf"
 ---
 

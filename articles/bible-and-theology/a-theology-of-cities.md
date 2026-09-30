@@ -9,6 +9,7 @@ authors: ["Timothy Keller"]
 series: "Timothy Keller"
 words: 6340
 summary: "An article excerpt by Timothy Keller laying out a biblical theology of the city, arguing that God designed cities as a tool for cultural development and refuge, corrupted but not negated by the Fall. It covers how sin distorts urban life, models for Christian presence in cities, and practical guidance for campus ministry in reaching and decoding a new campus."
+toc: false
 source: "added/A theology of Cities.pdf"
 ---
 
