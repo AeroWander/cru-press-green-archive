@@ -48,7 +48,8 @@ button,select,input{font:inherit;color:inherit}
 .logo{width:26px;height:26px;border-radius:7px;background:var(--brand);position:relative;flex:none}
 .logo::before,.logo::after{content:"";position:absolute;top:7px;width:7px;height:12px;background:var(--brand-ink);border-radius:1px 3px 3px 1px}
 .logo::before{left:5px;border-radius:3px 1px 1px 3px}.logo::after{right:5px}
-.brand{margin-right:auto}
+.brand{margin-right:auto;min-width:0;white-space:nowrap}
+.brand-name{overflow:hidden;text-overflow:ellipsis}
 .bar-nav{display:flex;gap:4px}
 .bar-nav a{color:var(--soft);text-decoration:none;padding:6px 10px;border-radius:8px;font-size:15px}
 .bar-nav a:hover{background:var(--brand-soft);color:var(--ink)}
@@ -241,6 +242,7 @@ mark{background:var(--mark);color:inherit;border-radius:3px;padding:0 1px}
   .pn{grid-template-columns:1fr}
   .pn .next{text-align:left}
 }
-@media (max-width:380px){.filter-grid{grid-template-columns:1fr}.bar-nav{display:none}}
+@media (max-width:560px){.bar-nav{display:none}}
+@media (max-width:380px){.filter-grid{grid-template-columns:1fr}}
 @media print{.bar,.filters-band,.toc,.pn,.related,.foot,.theme{display:none}body{background:#fff}.hero-article{background:none}.body{font-size:12pt}}
 @media (prefers-reduced-motion:reduce){*{transition:none!important}}

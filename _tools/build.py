@@ -138,7 +138,7 @@ def shell(title, desc, depth, body, topic=None, scripts=""):
 <body>
 <a class="skip" href="#main">Skip to content</a>
 <header class="bar"><div class="bar-in">
-<a class="brand" href="{up}index.html"><span class="logo" aria-hidden="true"></span>{SITE_NAME}</a>
+<a class="brand" href="{up}index.html"><span class="logo" aria-hidden="true"></span><span class="brand-name">{SITE_NAME}</span></a>
 <nav class="bar-nav"><a href="{up}index.html#browse">Topics</a><a href="{up}index.html#search">Search</a></nav>
 <button class="theme" type="button" aria-label="Switch light or dark mode" onclick="alToggleTheme()"><span aria-hidden="true">◐</span></button>
 </div></header>
