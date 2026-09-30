@@ -64,8 +64,13 @@ Then open http://localhost:8793. Opening `site/index.html` directly also works.
 
 ## Publishing
 
-`site/` is about 25 MB of static files. Any of these work:
+Live site: **https://aerowander.github.io/cru-press-green-archive/**
+Repository: https://github.com/AeroWander/cru-press-green-archive (public)
 
-- **Netlify Drop** (quickest): drag the `site` folder onto app.netlify.com/drop.
-- **GitHub Pages**: push the project to GitHub and serve the `site` folder (for example, with a Pages workflow that uploads `site/`).
-- **Cloudflare Pages** or any ordinary web host: upload the contents of `site/`.
+After editing articles, rebuild and publish in one step:
+
+```bash
+_tools/publish.sh
+```
+
+The script builds `site/` and pushes it to the repo's `gh-pages` branch, which GitHub Pages serves. The site updates a minute or two later. To save your article edits in the repo too, commit and push `main` as usual.
