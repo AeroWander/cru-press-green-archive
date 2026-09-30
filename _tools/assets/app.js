@@ -288,7 +288,7 @@
     loadingFT = true;
     el.ftStatus.textContent = "Loading article text…";
     var s = document.createElement("script");
-    s.src = "assets/fulltext.js";
+    s.src = "assets/fulltext.js" + ((document.querySelector('script[src*="app.js?v="]') || {}).src || "").replace(/^[^?]*/, "");
     s.onload = function () {
       fullText = { raw: window.FULLTEXT, norm: window.FULLTEXT.map(norm) };
       el.ftStatus.textContent = "Searching inside all " + A.length + " articles";

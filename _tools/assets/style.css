@@ -177,7 +177,7 @@ mark{background:var(--mark);color:inherit;border-radius:3px;padding:0 1px}
 .toc ol{list-style:none;margin:0;padding:8px 18px 12px;columns:2;column-gap:28px}
 .toc li{break-inside:avoid;padding:3px 0}
 .toc li.l3{padding-left:14px;font-size:14px}
-.toc a{color:var(--soft);text-decoration:none}
+.toc a{display:block;color:var(--soft);text-decoration:none;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .toc a:hover{color:var(--tc);text-decoration:underline}
 .body{font:19px/1.72 var(--serif);color:var(--ink)}
 .body>*:first-child{margin-top:0}

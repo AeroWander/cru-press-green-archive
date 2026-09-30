@@ -9,7 +9,7 @@ site/
 
 No dependencies beyond Python 3. Run:  python3 _tools/build.py
 """
-import html, json, os, re, shutil, sys
+import hashlib, html, json, os, re, shutil, sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from import_articles import TOPICS  # noqa: E402
@@ -19,6 +19,7 @@ ART = os.path.join(ROOT, "articles")
 SITE = os.path.join(ROOT, "site")
 ASSETS = os.path.join(ROOT, "_tools", "assets")
 SITE_NAME = "Cru Press Green Archive"
+VER = "0"  # set in main(): changes whenever the assets or articles change, so browsers fetch fresh copies
 
 TOPIC_BLURB = {
     "evangelism": "Sharing the gospel one-to-one and campus-wide: conversations, tools, outreaches and apologetics.",
@@ -128,7 +129,7 @@ def shell(title, desc, depth, body, topic=None, scripts=""):
 <meta name="description" content="{esc(desc)}">
 <meta name="theme-color" content="#1f3a2e">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%232f6b4f'/%3E%3Cpath d='M9 8h6a3 3 0 0 1 3 3v13a3 3 0 0 0-3-3H9zM23 8h-2a3 3 0 0 0-3 3v13a3 3 0 0 1 3-3h2z' fill='%23fff'/%3E%3C/svg%3E">
-<link rel="stylesheet" href="{up}assets/style.css">
+<link rel="stylesheet" href="{up}assets/style.css?v={VER}">
 {HEAD_JS}
 </head>
 <body>
@@ -172,7 +173,7 @@ def article_page(a, related, series_nav):
     note = f'<p class="note"><b>Note</b> {esc(a["note"])}</p>' if a.get("note") else ""
     toc_html = ""
     if len(toc) >= 3:
-        items = "".join(f'<li class="l{l}"><a href="#{h}">{inline(t)}</a></li>' for l, h, t in toc)
+        items = "".join(f'<li class="l{l}"><a href="#{h}" title="{esc(t.lstrip("-–• "))}">{inline(t.lstrip("-–• "))}</a></li>' for l, h, t in toc)
         toc_html = f'<details class="toc"><summary>On this page</summary><ol>{items}</ol></details>'
     rel = ""
     if related:
@@ -244,6 +245,12 @@ def main():
             meta.update(slug=f[:-3], topic=topic, body=body)
             arts.append(meta)
 
+    global VER
+    h = hashlib.sha1()
+    for f in sorted(os.listdir(ASSETS)): h.update(open(os.path.join(ASSETS, f), "rb").read())
+    for a in arts: h.update(json.dumps(a, sort_keys=True, ensure_ascii=False).encode())
+    VER = h.hexdigest()[:10]
+
     if os.path.isdir(SITE): shutil.rmtree(SITE)
     os.makedirs(os.path.join(SITE, "assets"))
     for f in os.listdir(ASSETS):
@@ -295,7 +302,7 @@ def main():
     os.remove(os.path.join(SITE, "assets", "home.html"))
     with open(os.path.join(SITE, "index.html"), "w", encoding="utf-8") as fh:
         fh.write(shell(SITE_NAME, f"{len(arts)} articles, guides and studies for campus ministry, searchable by topic, theme, audience, author and series.",
-                       0, body, scripts='<script src="assets/library.js"></script>\n<script src="assets/app.js"></script>'))
+                       0, body, scripts=f'<script src="assets/library.js?v={VER}"></script>\n<script src="assets/app.js?v={VER}"></script>'))
     print(f"Built {len(arts)} article pages -> {os.path.relpath(SITE, ROOT)}/")
 
 
