@@ -284,7 +284,7 @@
   var phone = window.matchMedia("(max-width: 640px)"), bar = document.querySelector(".bar");
   function scrollToEl(node) {
     requestAnimationFrame(function () {
-      var extra = phone.matches && !document.body.classList.contains("show-bar-search") ? 54 : 0;
+      var extra = phone.matches ? 54 : 0;  // the phone search row overlays the top of the page
       window.scrollTo(0, Math.max(0, node.getBoundingClientRect().top + window.scrollY - bar.offsetHeight - extra - 8));
     });
   }
@@ -316,8 +316,10 @@
   barQ.form.onsubmit = function () { barQ.blur(); if (!el.section.hidden) scrollToEl(el.section); return false; };
   if ("IntersectionObserver" in window) {
     new IntersectionObserver(function (es) {
-      document.body.classList.toggle("show-bar-search", !es[0].isIntersecting && es[0].boundingClientRect.top < 100);
-    }, { rootMargin: "-60px 0px 0px 0px" }).observe(document.querySelector(".searchbox"));
+      var e = es[0];
+      // show once the main box has scrolled up under the header; hide when it comes back down
+      document.body.classList.toggle("show-bar-search", !e.isIntersecting && e.boundingClientRect.top < 100);
+    }, { rootMargin: "-56px 0px 0px 0px", threshold: 0 }).observe(document.querySelector(".searchbox"));
   }
   el.q.addEventListener("keydown", function (e) {
     if (e.key === "Enter") { e.preventDefault(); el.q.blur(); if (!el.section.hidden) scrollToEl(el.section); }

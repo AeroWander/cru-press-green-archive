@@ -252,7 +252,15 @@ mark{background:var(--mark);color:inherit;border-radius:3px;padding:0 1px}
 @media (max-width:560px){.bar-nav{display:none}}
 @media (max-width:640px){
   .bar-search{display:flex}
-  .home:not(.show-bar-search) .bar-search{display:none}
+  /* home page: the row overlays the page instead of growing the header, so showing it never
+     shifts the layout (which used to bounce the main search box in and out of view) */
+  .home .bar-search{position:absolute;top:100%;left:0;right:0;max-width:none;padding-top:2px;
+    background:color-mix(in srgb,var(--bg) 96%,transparent);border-bottom:1px solid var(--line);
+    box-shadow:0 6px 14px rgba(28,32,29,.06);
+    opacity:0;transform:translateY(-10px);visibility:hidden;pointer-events:none;
+    transition:opacity .2s ease,transform .22s cubic-bezier(.2,.8,.2,1),visibility 0s linear .22s}
+  .home.show-bar-search .bar-search{opacity:1;transform:none;visibility:visible;pointer-events:auto;
+    transition:opacity .2s ease,transform .22s cubic-bezier(.2,.8,.2,1),visibility 0s}
   html{scroll-padding-top:124px}
   .body h2,.body h3,.body h4{scroll-margin-top:128px}
 }
