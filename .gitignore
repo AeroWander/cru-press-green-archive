@@ -2,3 +2,6 @@
 
 # Built by _tools/build.py (locally, and by the GitHub Pages workflow)
 site/
+
+# Re-extraction working files (rebuilt by _tools/reextract.py)
+_tools/cache/
