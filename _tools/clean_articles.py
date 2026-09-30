@@ -67,6 +67,7 @@ def fix_words(s):
         return m.group(0)
     s = re.sub(r"\b([A-Za-z]*)(ffi|ffl|fi|fl|ff) ([a-z]+)\b", ligature, s)
     s = re.sub(r"\s*/{3,}\s*", " ", s)                                                 # "Culture ////////"
+    s = s.replace("\ufffd", "")                                                          # "�" (unreadable glyph)
     s = re.sub(r"[ \t]{2,}", " ", s)
     return s
 
@@ -87,8 +88,31 @@ def clean_list_lines(lines):
         s2 = re.sub(r"^(\s*)[-*]\s+(?:•\s+)+", r"\1- ", s)                               # "- • Item"
         s2 = re.sub(r"^(\s*)•\s+", r"\1- ", s2)                                          # "• Item" → "- Item"
         if s2 != s: count("doubled bullets fixed")
+        m = re.match(r"^(\s*)- (.*)$", s2)
+        if m and " • " in m.group(2):                                                    # "- A • B • C" → three items
+            parts = [p.strip() for p in m.group(2).split(" • ") if p.strip()]
+            if len(parts) > 1 and all(len(p) < 300 for p in parts):
+                count("bullets on one line split into items")
+                out.extend(f"{m.group(1)}- {p}" for p in parts); continue
         out.append(s2)
     return out
+
+
+def reorder_numbered(lines):
+    """A block made only of numbered items (with wrapped lines) where each number appears once and together
+    they form a run like 1–7, but out of order — a two-column list read across. Put them back in order."""
+    items = []
+    for l in lines:
+        m = re.match(r"^\s*(\d{1,3})[.)]\s+", l)
+        if m: items.append([int(m.group(1)), [l]])
+        elif items and not UL.match(l): items[-1][1].append(l)
+        else: return lines
+    nums = [n for n, _ in items]
+    if len(nums) >= 3 and len(set(nums)) == len(nums) and sorted(nums) == list(range(min(nums), min(nums) + len(nums))) \
+            and nums != sorted(nums):
+        count("numbered lists put back in order")
+        return [l for _, ls in sorted(items) for l in ls]
+    return lines
 
 
 def split_inline_bullets(para):
@@ -168,8 +192,11 @@ def clean_body(body, meta):
             h = fix_heading(fix_words(lines[0]), authors_first, prior_words, author_names)
             if h: out.append(h)
             continue
+        if len(lines) == 1 and re.sub(r"^(?:by|dr\.?)\s+|[*_]", "", lines[0].strip(), flags=re.I).strip().lower() in author_names:
+            count("byline repeats removed"); continue                              # "Dr. Bill Bright" (shown under the title)
         lines = clean_list_lines(lines)
         if not lines: continue
+        lines = reorder_numbered(lines)
         text = "\n".join(fix_words(l) for l in lines)
         # a paragraph ending in a stray word-art letter or a fill-in number: "…get back in the race. f", "…meet those needs. 1."
         text2 = re.sub(r"(?<=[.!?”\"])\s+(?:[a-z]|\d{1,2}\.)$", "", text)

@@ -5,23 +5,23 @@ also_topics: []
 type: "Article"
 themes: ["Team leadership & coaching"]
 audience: ["Staff & team leaders"]
-words: 2338
+words: 2457
 summary: "A duplicate of the article \"Empowering Staff Through Staff Jobs\" (also filed as Alternate image staff jobs.md), proposing that campus ministry teams move from an outdated generalist structure to specialized staff roles (e.g., Director of Evangelism, Discipleship, Recruiting, Operations) to better develop and retain senior staff."
 source: "MTL/MTL/MTL2/Staff Jobs2.pdf"
 also_filed: ["MTL/MTL/MTL2/Alternate image staff jobs.pdf"]
 ---
 
-## Missional Team Leaders
+## Through Staff Jobs
 
-effectiveness. A business consultant who looked at our organizational structure observed that our structure was pre-industrial revolution--everyone is doing the same thing. There is no specialization--no division of labor.
+## Missional Team Leaders
 
 One of the ironies of Campus Crusade is the amount of work expected from the busiest person on the staff team--the team leader. He is expected to be a master of all trades and a jack at everything else. He not only is expected to minister, motivate and manage his team, but also is expected to think, plan, and come up with every good idea that the ministry is to have. He is the direction setter, strategy formulator, spokesperson and coach. On top of that, he is expected to be an expert administrator--handling the finances and submitting reports on time. It is ironic that the person who is the busiest is asked to do the most work. The result is that most directors are overworked while their staff are underchallenged and under developed. Why?
 
-Just think how different the situation is in a local church. When a pastor first begins in a small church, he is more or less a one man show. He does it all- -preaches, teaches, works with youth, answers the telephone, visits shut-ins, etc. If there is a job to be done, he does it. When the pastor or board hires another staff member, he or she is hired to do a specific job--different than the one the senior pastor is doing. When the youth pastor asks the senior pastor, “What should I do with the youth on Wednesday?” The senior pastor should respond, “I have no idea. That’s what you are being paid to figure out.” In other words, each person is added to the team to take on a responsibility for a different area of ministry. Although all of the staff are committed to the same mission, each staff makes his/her significant contribution in a specific area.
-
 ## Our Structure Is Obsolete
 
-In many ways, the organizational structure of many campus ministry team s is antiquated and obsolete. Our structure is based on a model from the 60’s and 70’s when staff were on campus for less than two years. We have one, maybe two, Team Leaders, who are in charge of everything. What do the staff do? Evangelism and discipleship, which translated means the same things students are doing...only more of it. All of the staff except for the team leaders have no position or do anything different than the students do. Sometimes the students do it with greater
+In many ways, the organizational structure of many campus ministry team s is antiquated and obsolete. Our structure is based on a model from the 60’s and 70’s when staff were on campus for less than two years. We have one, maybe two, Team Leaders, who are in charge of everything. What do the staff do? Evangelism and discipleship, which translated means the same things students are doing...only more of it. All of the staff except for the team leaders have no position or do anything different than the students do. Sometimes the students do it with greater effectiveness. A business consultant who looked at our organizational structure observed that our structure was pre-industrial revolution--everyone is doing the same thing. There is no specialization--no division of labor.
+
+Just think how different the situation is in a local church. When a pastor first begins in a small church, he is more or less a one man show. He does it all- -preaches, teaches, works with youth, answers the telephone, visits shut-ins, etc. If there is a job to be done, he does it. When the pastor or board hires another staff member, he or she is hired to do a specific job--different than the one the senior pastor is doing. When the youth pastor asks the senior pastor, “What should I do with the youth on Wednesday?” The senior pastor should respond, “I have no idea. That’s what you are being paid to figure out.” In other words, each person is added to the team to take on a responsibility for a different area of ministry. Although all of the staff are committed to the same mission, each staff makes his/her significant contribution in a specific area.
 
 ## The Problem with Our Present System
 
@@ -31,7 +31,10 @@ In many ways, the organizational structure of many campus ministry team s is ant
 4. Staff don’t “own” the ministry. They often are apathetic and seem willing to contribute only when the decision affects them. (Think of your last staff meeting for a current illustration).
 5. Staff are made team leaders and are expected to lead “leaders of leaders” (staff ) without ever having the opportunity to do so beforehand.
 6. We have allowed our structure to limit our leadership development. Assuming that a staff member wants to stay in a current location and his or her team leaders are also planning on staying, then after our basic training we have no real plan to develop senior staff.
-7. We expect too little from our staff. When secular companies are developing their future leaders they do not hesitate to entrust major responsibilities to recent graduates. These responsibilities develop their human resources. Many times our staff have had more ministry responsibilities on projects and on their campus than they have as full-time staff. What do all staff need?
+7. We expect too little from our staff. When secular companies are developing their future leaders they do not hesitate to entrust major responsibilities to recent graduates. These responsibilities develop their human resources. Many times our staff have had more ministry responsibilities on projects and on their campus than they have as full-time staff.
+
+What do all staff need?
+
 - A sense of achievement--a feeling that I am genuinely contributing to the cause.
 - Recognition--somebody cares and notices what I do.
 - Challenging work--not any student could do what I do.
@@ -100,8 +103,6 @@ The Director of Operations is primarily responsible for the financial and admini
 - More will be accomplished as staff assume responsibility for the ministry. One team leader remarked, “I used to dread Fridays because it meant doing all those reports. Now I enjoy them because the Operations Director compiles all the reports and hands me a summary of what is going on.”
 - You don’t have to “beat every drum” every week. You now have staff who can get excited about evangelism, discipleship, recruiting, etc.
 - If your staff are giving just one hour of think time/ week to this area of ministry, that is much more than you will.
-- Give time at each staff meeting (or as needed) for each “director” to train, update, or motivate the staff.
-- If you are hesitant to assign these jobs to your staff, what are your alternatives? Either you are doing these by yourself or these jobs aren’t getting done.
 
 ## What This System Does for the Staff
 
@@ -122,3 +123,5 @@ Your job as a team leader is much like that of a conductor. You don’t need to 
 - With your co-MTL assign staff jobs to all qualified staff.
 - Train your staff in writing a job description for his/ her job. Meet with each staff to get agreement on what the job is.
 - Make sure that you communicate that this is his/her job. He/she is expected to develop and grow into this job. He/she is to become the “resident expert.” It he/ she does not do it, it won’t get done.
+- Give time at each staff meeting (or as needed) for each “director” to train, update, or motivate the staff.
+- If you are hesitant to assign these jobs to your staff, what are your alternatives? Either you are doing these by yourself or these jobs aren’t getting done.

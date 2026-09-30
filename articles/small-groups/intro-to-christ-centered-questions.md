@@ -13,8 +13,6 @@ source: "Discipleship/Basic Growth Concepts/Studying scripture/Piper_Questions_c
 
 Using Christ-Centered Questions That Target the Heart
 
-Rick Hove
-
 I. Perspective
 
 A. Why ask questions that target the heart?

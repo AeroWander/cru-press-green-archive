@@ -71,7 +71,9 @@ One of the barriers to consistent Bible study is the sense that we already know 
 
 ## Action Points
 
-- Begin your own chapter of Book of the Month Club. Make a plan of what to study and when you will meet and discuss what you are learning. • Look for opportunities to teach what God is teaching you. “The best way to make something yours is to give it away.” • Read Living by the Book, by Howard Hendricks. This book contains many helpful tools for studying the Bible.
+- Begin your own chapter of Book of the Month Club. Make a plan of what to study and when you will meet and discuss what you are learning.
+- Look for opportunities to teach what God is teaching you. “The best way to make something yours is to give it away.”
+- Read Living by the Book, by Howard Hendricks. This book contains many helpful tools for studying the Bible.
 
 ## A Suggested Plan
 

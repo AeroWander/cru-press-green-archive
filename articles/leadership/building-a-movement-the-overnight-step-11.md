@@ -6,20 +6,30 @@ type: "Article"
 themes: ["Launching a new ministry", "Community & fellowship"]
 audience: ["Men", "Women"]
 series: "Building a Movement"
-words: 564
+words: 568
 summary: "Step 11 of 'Building a Movement,' a short article proposing single-sex 'Men's Night' or 'Women's Overnight' events between the start of the semester and the Fall Retreat as a lower-commitment step for students to build relationships and address topics like sex and dating that are harder to discuss in mixed groups."
 source: "Launching a New Ministry/Building a Movement/Men_s and Women_s.pdf"
 ---
 
+## Building a Movement: The Overnight Step 11
+
 ### Weeks Four, Five, and Six
 
-Between the beginning of the year and the Fall Retreat there isn’t necessarily an opportunity for those who want or need to get more involved to do so. However, when the Fall Retreat arrives, who wants to go away for an entire weekend with people you barely know? The strategy for having a Men’s or Women’s overnight some time between the start of the semester and the Fall Retreat is to provide a smaller step of involvement: an opportunity to get to know other men and women in the ministry before investing an entire weekend. Here’s a short article describing The Overnight.
+Between the beginning of the year and the Fall Retreat there isn’t necessarily an opportunity for those who want or need to get more involved to do so. However, when the Fall Retreat arrives, who wants to go away for an entire weekend with people you barely know?
 
-Men’s and Women’s Overnight
+The strategy for having a Men’s or Women’s overnight some time between the start of the semester and the Fall Retreat is to provide a smaller step of involvement: an opportunity to get to know other men and women in the ministry before investing an entire weekend.
+
+Here’s a short article describing The Overnight.
+
+# Men’s and Women’s Overnight
 
 ## Stutter-steps of Involvement
 
-There are three different reasons you may want to have a men’s or women’s overnight. The first is as it relates to the flow of the campus school year. Between the beginning of the year and the Fall Retreat there isn’t necessarily an opportunity for those who want or need to get more involved to do so. However, when the Fall Retreat arrives, who wants to go away for an entire weekend with people you barely know? The strategy for having a Men’s or Women’s Overnight some time between the start of the semester and the Fall Retreat is to provide a smaller step of involvement: an opportunity to get to know other men and women in the ministry before investing an entire weekend. as well as what it means to be a godly man or woman. Last, unless your ministry is at a Lumberjack school or a Convent, it’s probably comprised of both males and females. If a student is going to get more involved in the ministry they are ultimately going to need close, same-sex relationships and there’s no better place to instigate those relationships than at a Men’s Night or Women’s Brunch.
+There are three different reasons you may want to have a men’s or women’s overnight. The first is as it relates to the flow of the campus school year. Between the beginning of the year and the Fall Retreat there isn’t necessarily an opportunity for those who want or need to get more involved to do so. However, when the Fall Retreat arrives, who wants to go away for an entire weekend with people you barely know? The strategy for having a Men’s or Women’s Overnight some time between the start of the semester and the Fall Retreat is to provide a smaller step of involvement: an opportunity to get to know other men and women in the ministry before investing an entire weekend.
+
+as well as what it means to be a godly man or woman.
+
+Last, unless your ministry is at a Lumberjack school or a Convent, it’s probably comprised of both males and females. If a student is going to get more involved in the ministry they are ultimately going to need close, same-sex relationships and there’s no better place to instigate those relationships than at a Men’s Night or Women’s Brunch.
 
 The same reasoning can apply to the second semester. You need a stutter-step of involvement. If a student begins coming to your meetings or a small group but doesn’t end up going to the Big Break conference, how are they going to get connected?
 

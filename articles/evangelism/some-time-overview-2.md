@@ -6,16 +6,14 @@ type: "Article"
 themes: ["Personal evangelism & gospel conversations"]
 audience: ["Students"]
 series: "SomeTime"
-words: 413
+words: 449
 summary: "A guide within the SomeTime/CoJourners resource explaining how to explore a friend's spiritual journey through open-ended conversation rather than a scripted tool. It offers listening tips (focus, invite, ask permission) and a three-part question framework—past religious experiences, present spiritual attitudes, and future direction—for students having gospel conversations with friends."
 source: "some time/Overview copy 2.pdf"
 ---
 
-SOME TIME 1
+## Ask. Explore. Discover.
 
-## Some Time
-
-Ask Ask. Explore. Discover. Exploring the Faith Journeys of Your Friends Through Discussion
+## Exploring the Faith Journeys of Your Friends Through Discussion
 
 Imagine eating at Chipotle and enjoying a meaningful and significant conversation about the gospel with a friend who does not yet know Jesus. No tricks. No surprises. No awkwardness. Isn’t that what we want? Aren’t those the kinds of conversations we long to have with our friends?
 
@@ -29,7 +27,9 @@ Your first priority is to simply understand your friend’s experiences. Focus. 
 
 If you don’t understand something, ask further questions. And if you disagree with what your friend is saying, your first step is to seek to understand. (This is not a time to debate.)
 
-Learning to be a good listener is one of the most important skills you can learn. Listening keeps the door open for future conversations. For your friends, the experience of feeling listened to and understood can be incredibly powerful. *** Important Note: Before you explore the spiritual backstories of your friends, reflect on your own! (For some helpful questions, check out: http:// crupressgreen.com/preparing-your-personal-testimony)
+Learning to be a good listener is one of the most important skills you can learn. Listening keeps the door open for future conversations. For your friends, the experience of feeling listened to and understood can be incredibly powerful.
+
+*** Important Note: Before you explore the spiritual backstories of your friends, reflect on your own! (For some helpful questions, check out: http:// crupressgreen.com/preparing-your-personal-testimony)
 
 ## Listening Tips . . .
 
@@ -41,11 +41,15 @@ Ask – Ask permission to go beyond. (“Can I ask you about…?”)
 
 ## An Easy Approach . . . Explore Past Experiences
 
-What was your religious background as a child? What have you tried in your spiritual journey since? SOME TIME 2
+What was your religious background as a child?
+
+What have you tried in your spiritual journey since?
 
 ## Explore Present Attitudes: Where They Are
 
-Where are you now in your spiritual journey? How has your search left you feeling?
+Where are you now in your spiritual journey?
+
+How has your search left you feeling?
 
 ## Explore Future Direction: Where They Are Going
 

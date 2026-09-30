@@ -5,27 +5,20 @@ also_topics: []
 type: "Article"
 themes: ["Fundraising & support raising"]
 audience: ["Staff & team leaders"]
-words: 521
+words: 524
 summary: "A U.S. Campus Ministry guide explaining how to craft an effective fundraising \"offer\" — a clear statement connecting a specific gift amount to a specific outcome. Lists what makes an offer effective (simple, believable, urgent, tied to mission) and gives a step-by-step process for developing one, including using \"dollar handles,\" stories, and statistics to support the appeal."
 source: "MTL/Line Up Resources/Creating a Good Fundraising Offer2.pdf"
 ---
 
-CREATING A GOOD FUNDRAISING OFFER 1
+*Fundraising Offer*
 
-## Creating a Good Fundraising Offer
+U.S. Campus Ministry
 
-U.s. Campus Ministry What Is a Good Offer?
+## What Is a Good Offer?
 
-It’s a statement that conveys the specific service, benefit or action that will be achieved for a specific dollar given. In other words, for a gift of $X, we will be able to do Y. It looks something like this: gift can be incorporated as part of the offer, it’s even more effective.
+It’s a statement that conveys the specific service, benefit or action that will be achieved for a specific dollar given. In other words, for a gift of $X, we will be able to do Y. It looks something like this:
 
 Donor Contribution + Organizational Ministry = Beneficiary Helped
-
-## Questions to Help Develop the Offer
-
-- What’s the problem or opportunity?
-- How are we going to solve it?
-- What are the consequences of not acting?
-- How can you be involved?
 
 The “offer” is one of the most important elements in any fund development strategy.
 
@@ -43,7 +36,14 @@ There are several factors that contribute to a well-developed offer:
 - It has urgency – there’s a limited window of opportunity (time) to meet the need.
 - It states how it will make the beneficiary’s life better – it’s deserving
 - It’s something the donor has responded to in the past or would want to give to – something that makes the donor feel good about giving.
-- It’s a good bargain or investment. If a matching
+- It’s a good bargain or investment. If a matching gift can be incorporated as part of the offer, it’s even more effective.
+
+## Questions to Help Develop the Offer
+
+- What’s the problem or opportunity?
+- How are we going to solve it?
+- What are the consequences of not acting?
+- How can you be involved?
 
 ## How to Develop a Good Offer
 
@@ -61,9 +61,7 @@ There are several factors that contribute to a well-developed offer:
 - What are the consequences if the need isn’t met?
 3. Support your ask with valuable, pertinent facts and figures.
 4. Make your ask and build your case using a personal approach.
-
-CREATING A GOOD FUNDRAISING OFFER 2 5. Identify tangible “dollar handles” — specific gift amounts and what they will accomplish.
-
+5. Identify tangible “dollar handles” — specific gift amounts and what they will accomplish.
 - Instead of “Would you consider a gift of X, Y or Z?”
 - Your gift of A will bring about B, 2A will bring about 2B, etc.
 

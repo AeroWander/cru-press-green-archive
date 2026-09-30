@@ -6,7 +6,7 @@ type: "Article"
 themes: ["Ethnic & contextualized ministry", "Launching a new ministry"]
 audience: ["Staff & team leaders"]
 authors: ["Paul Gould"]
-words: 6636
+words: 6831
 summary: "An article by Paul Gould making the case for campus ministry with university professors, arguing they are influential, distinct in culture from students, time-pressed, and capable of representing a Christian worldview in the academy. It outlines five things to understand about professors and points readers to Cruprof.com and Faculty Commons for getting started."
 source: "Launching a New Ministry/Ethnic_ Contextualized Ministries/Prof 101-Final.pdf"
 ---
@@ -25,13 +25,19 @@ Recognizing the strategic importance of professors, several years ago the US Cam
 
 Prof 101 Can Be Found at Cruprof.com
 
+G O D & T H E
+
 ## Five Things You Need to Know About Professors
 
-The Hope Center 2001 W. Plano Parkway, Suite 2700 Plano, Texas 75075 Phone: 972.516.0516 www.cruprof.com U.S. Campus Ministries 100 Lake Hart Drive Orlando, Florida 32832 Phone: 407.826.2000 www.uscm.org
+The Hope Center 2001 W. Plano Parkway, Suite 2700 Plano, Texas 75075 Phone: 972.516.0516 www.cruprof.com
 
-## Prof 101
+U.S. Campus Ministries 100 Lake Hart Drive Orlando, Florida 32832 Phone: 407.826.2000 www.uscm.org
 
-Five Things You Need to Know About Professors by Paul Gould “Win the campus today, reach the world tomorrow” has been a dynamic rallying cry for Campus Crusade for Christ from the beginning. We’ve seen God work in powerful ways over the years. Students are coming to Christ, lives are changed and movements are growing. There is much to rejoice in as we consider how God has used Campus Crusade to influence the university. But, as always, there is work to be done and new challenges before us. Many students still haven’t heard the gospel and it seems that spiritual conversations are getting more difficult.
+# Prof 101
+
+Five Things You Need to Know About Professors by Paul Gould
+
+“Win the campus today, reach the world tomorrow” has been a dynamic rallying cry for Campus Crusade for Christ from the beginning. We’ve seen God work in powerful ways over the years. Students are coming to Christ, lives are changed and movements are growing. There is much to rejoice in as we consider how God has used Campus Crusade to influence the university. But, as always, there is work to be done and new challenges before us. Many students still haven’t heard the gospel and it seems that spiritual conversations are getting more difficult.
 
 I want to suggest a new frontier on campus that, I believe, could be one of the most exciting, challenging, and fruitful strategies for reaching the campus and changing our world for Christ: university professors.
 
@@ -41,9 +47,15 @@ Why university professors? Consider:
 - Professors are the permanent fixtures on a campus. Over a lifetime of teaching, each professor will influence thousands of students from many different ethnic and cultural backgrounds.
 - Professors have a unique voice—through their writing and research they ultimately shape the world.
 
-Recognizing the strategic importance of professors, several years ago the US Campus Ministry began to shift our mission toward reaching the whole campus—students and professors—with the great dream of being able to send the whole campus—students and professors—to change the world. In so many ways we are a better campus ministry with students and professors together.
+Recognizing the strategic importance of professors, several years ago the US Campus Ministry began to shift our mission toward reaching the whole campus—students and
 
-The Whole Campus to the Whole World campus What does working with professors look like in practice? Professors coming to CRU every week? Students hanging out in the dorm eating pizza late at night with a group of Christian professors? Probably not. We can’t expect professors to jump in and do everything that the student ministry is doing and vice-versa. Some things, many things, will need to remain “student only” or “professor only.” But we have many opportunities to leverage the assets of one group to help us with the other, and multiply our impact (I’ll suggest some at the end of this article). students & professors Professors are not like students. They are unique—in fact, they make up just one half of one percent of the population in America. As you begin to think about ministering to and alongside professors, here are five principles to help you understand what makes them tick:
+professors—with the great dream of being able to send the whole campus—students and professors—to change the world. In so many ways we are a better campus ministry with students and professors together.
+
+The Whole Campus to the Whole World campus
+
+What does working with professors look like in practice? Professors coming to CRU every week? Students hanging out in the dorm eating pizza late at night with a group of Christian professors? Probably not. We can’t expect professors to jump in and do everything that the student ministry is doing and vice-versa. Some things, many things, will need to remain “student only” or “professor only.” But we have many opportunities to leverage the assets of one group to help us with the other, and multiply our impact (I’ll suggest some at the end of this article).
+
+students & professors
 
 ### One: Professors are Influencers
 
@@ -59,7 +71,15 @@ Today universities have replaced synagogues as a center of cultural influence. O
 - They teach the future leaders of virtually every aspect of society—politicians, lawyers, businessmen, doctors, entertainers and so on.
 - They regularly influence our laws and public policy. The “experts” who offer their opinions on TV news-talk shows are usually professors.
 
-University professors are a powerful ½% of our population—an Archimedean lever that can move the world. The Potential Influence of Professors Professors move the world because they market ideas for a living. They live in the land of the conceptual more than the land of the committed. Professors’ ideas incubate at universities and then are released into our culture and shape our lives in many ways—some not so subtle—e.g., Professors open doors!
+University professors are a powerful ½% of our population—an Archimedean lever that can move the world.
+
+The Potential Influence of Professors
+
+Professors are not like students. They are unique—in fact, they make up just one half of one percent of the population in America. As you begin to think about ministering to and alongside professors, here are five principles to help you understand what makes them tick:
+
+Professors move the world because they market ideas for a living. They live in the land of the conceptual more than the land of the committed. Professors’ ideas incubate at universities and then are released into our culture and shape our lives in many ways—some not so subtle—e.g.,
+
+Professors open doors!
 
 “I had the privilege of serving as a local leader for 25 years at the University of Idaho; we led many summer project teams to Osaka, Japan between 1993 and 2007.
 
@@ -99,15 +119,21 @@ A common misperception exists that professors are all somewhat like Vizzini in T
 
 Another common misperception is that to engage a university professor we must be like Westley, who spent years studying and mastering all of the most difficult aspects of his craft. Our fear is that to influence professors, we must be prepared to meet them head on—to not only match them wit for wit, but to best them at their own game. None of these perceptions are accurate.
 
-Gone are the days of the “renaissance man”—the so-called “know it all” who has an encyclopedic knowledge of Regular People Too “When professors interact with others they are most inclined to talk about their research projects. While many are engaged in impressive research, what I find more fascinating is their personal lives, which often get ignored.
+Gone are the days of the “renaissance man”—the so-called “know it all” who has an encyclopedic knowledge of
+
+Regular People Too “When professors interact with others they are most inclined to talk about their research projects. While many are engaged in impressive research, what I find more fascinating is their personal lives, which often get ignored.
 
 As I talk with professors, in addition to asking questions about their research, I make it a point to ask personal questions.
 
 What I’ve discovered is that many professors carry a lot of pain and hurt. One professor shared about the immense grief he had been experiencing as a result of losing his son to leukemia. Another professor revealed that her husband had abruptly left her.
 
-At the core, professors are regular people and the best way to minister to them is to relate to them as you would a neighbor or co-worker rather than as the world’s authority on a particular subject matter.” –Brad, former MTL at Berkeley and current Faculty Commons staff at Duke University professors are people...their spiritual needs are just the same as ours.
+At the core, professors are regular people and the best way to minister to them is to relate to them as you would a neighbor or co-worker rather than as the world’s authority on a particular subject matter.” –Brad, former MTL at Berkeley and current Faculty Commons staff at Duke
 
-One of the greatest assets you bring to professors is your ability to listen to, care for, and befriend them. almost everything. There is simply too much knowledge in the world for one person to command all of it. Professors are specialists. Just like professional athletes, professors have invested years in specialized training in order to excel in their field. You wouldn’t expect Peyton Manning to be a star in golf and gymnastics as well as football. Similarly, professors are not experts in all areas of life. In stark contrast to the renaissance man, today’s university professors are usually specialists over a very narrow field of knowledge. For example, my professor friends include:
+University professors are people...their spiritual needs are just the same as ours.
+
+One of the greatest assets you bring to professors is your ability to listen to, care for, and befriend them.
+
+almost everything. There is simply too much knowledge in the world for one person to command all of it. Professors are specialists. Just like professional athletes, professors have invested years in specialized training in order to excel in their field. You wouldn’t expect Peyton Manning to be a star in golf and gymnastics as well as football. Similarly, professors are not experts in all areas of life. In stark contrast to the renaissance man, today’s university professors are usually specialists over a very narrow field of knowledge. For example, my professor friends include:
 
 - a physics professor who spends all her time studying condensed matter theory
 - a history professor who specializes in German history from 1930-1960
@@ -195,7 +221,11 @@ Ultimately, we can help professors understand that the most important thing is n
 - lectureships (the main responsibility is to teach)
 - adjunct positions (in which a professor teaches one or two classes on a part-time basis)
 
-Types of Professors Adjunct Professor/Lecturer: Adjuncts are often viewed as “hired guns;” professors employed to teach a class or two, or even full-time, but they aren’t in the tenure system. They are viewed as “second class” by those professors in the tenure system. Assistant Professor: These are professors trying to attain tenure. These professors are often stressed over whether their department will accept their work as good enough to reward them with tenure.
+PROF
+
+Types of Professors Adjunct Professor/Lecturer: Adjuncts are often viewed as “hired guns;” professors employed to teach a class or two, or even full-time, but they aren’t in the tenure system. They are viewed as “second class” by those professors in the tenure system.
+
+Assistant Professor: These are professors trying to attain tenure. These professors are often stressed over whether their department will accept their work as good enough to reward them with tenure.
 
 Associate Professor: These professors have achieved tenure—a life-long secure position in the university. It is easy to confuse “associate” with “assistant” but the difference is huge. Associate professors have “arrived,” they have tenure. Assistant professors are trying to earn this badge of honor.
 
@@ -210,13 +240,19 @@ Distinguished/Named Chair: A very few professors are distinguished or hold a “
 
 In general, the bigger or more prestigious universities will require the professors to be more focused on their research. The smaller, less prestigious universities will reward professors for excellent teaching.
 
-You will discover that there are a wide variety of professors. Some spend very little time with undergraduate stu-Earned Doctorates Awarded in 2008 Academic Institution Doctorates University of California at Berkeley 856 University of Texas at Austin 821 University of Wisconsin at Madison 740 University of Illinois at Urbana-Champaign 735 University of California at Los Angeles 724 Ohio State University 719 University of Michigan at Ann Arbor 716 University of Minnesota-Twin Cities 690 University of Florida 674 Harvard University 660 89% Rise in Number of non-tenure track faculty members since 1993; 20% Rise in number of tenure track faculty members since 1993 dents. Some don’t even like undergraduate students! But many professors love students and prefer actual teaching to the stress of research. These unique passions of the university professor provide many avenues for partner-ship with those professors who are Christian as well as many avenues to engage the spiritually-seeking professor with the love of Christ.
+You will discover that there are a wide variety of professors. Some spend very little time with undergraduate stu-
+
+PROF 89% Rise in Number of non-tenure track faculty members since 1993; 20% Rise in number of tenure track faculty members since 1993
+
+Earned Doctorates Awarded in 2008 Academic Institution Doctorates University of California at Berkeley University of Texas at Austin University of Wisconsin at Madison University of Illinois at Urbana-Champaign University of California at Los Angeles Ohio State University 719 University of Michigan at Ann Arbor University of Minnesota-Twin Cities 690 University of Florida 674 Harvard University 660 dents. Some don’t even like undergraduate students! But many professors love students and prefer actual teaching to the stress of research. These unique passions of the university professor provide many avenues for partner-ship with those professors who are Christian as well as many avenues to engage the spiritually-seeking professor with the love of Christ.
 
 What an opportunity for us! If there is ever anyone in need of encouragement and a friendly face who will care for a person’s well-being instead of his or her performance, it is the university professor (especially those who are unten-ured). Professors might not realize this need, but it is real. The pressures of their jobs can foster isolation and discouragement.
 
 It is important for Christian professors to realize they are not alone. At any university there are usually a number of Subject Matter of Some Academic Disciplines Discipline: Subject Matter:
 
-Biology studies living cells Mathematics studies of numbers & their relations Philosophy studies the good, the true & the beautiful Physics studies the fundamental laws of nature Sociology studies social processes Political Sci. studies government, leadership, and the process of decision-making in society Christian professors, although they might not know each other. One of the simplest ways you can serve Christian professors is by connecting them with other Christian professors at their own university.
+Biology studies living cells Mathematics studies of numbers & their relations Philosophy studies the good, the true & the beautiful Physics studies the fundamental laws of nature Sociology studies social processes Political Sci. studies government, leadership, and the process of decision-making in society
+
+Christian professors, although they might not know each other. One of the simplest ways you can serve Christian professors is by connecting them with other Christian professors at their own university.
 
 Five: Professors Can Profess a Beautiful Christ and a God-bathed World
 
@@ -251,7 +287,9 @@ You know the drawing you showed me where Christ is either on the outside of the 
 
 There are so many students like Jenny—searching for truth, aware in some vague way that something is not right, and looking to professors to point them in the right direction.
 
-Imagine a campus on which Christian professors actively seek ways to share their faith with students, and then (because these professors already have a relationship with you) Christian Voice Needed A Tibetan student shared with me that she’s taking a sociology of religion course because she wants to explore religion. Her story captures the experience of many students today. Raised in a global context, they arrive on campus with meaningful questions and an openness to be influenced by the answers they receive. Moreover, with the dominance of today’s scientific culture, students are turning to professors, as opposed to theologians or philosophers, in their desire to understand life and even religion. Consequently, providing a Christian voice in this context is not only strategic, but vital. –Brad, former MTL at Berkeley and current Faculty Commons staff at Duke they are able to immediately connect them to your ministry. What potential! I am convinced that if we want to reach the full scope of our ministry, we must partner with Christian professors.
+Imagine a campus on which Christian professors actively seek ways to share their faith with students, and then (because these professors already have a relationship with you)
+
+Christian Voice Needed A Tibetan student shared with me that she’s taking a sociology of religion course because she wants to explore religion. Her story captures the experience of many students today. Raised in a global context, they arrive on campus with meaningful questions and an openness to be influenced by the answers they receive. Moreover, with the dominance of today’s scientific culture, students are turning to professors, as opposed to theologians or philosophers, in their desire to understand life and even religion. Consequently, providing a Christian voice in this context is not only strategic, but vital. –Brad, former MTL at Berkeley and current Faculty Commons staff at Duke they are able to immediately connect them to your ministry. What potential! I am convinced that if we want to reach the full scope of our ministry, we must partner with Christian professors.
 
 Christian professors can influence the campus in so many different ways. Some professors, in fact, have very few students. God has uniquely gifted these men and women to make scholarly contributions through engaging the dominant ideas of the university with a robust Christian world-view. This extends the influence of their ministries far beyond the classroom and greatly influences our students through increasing their receptivity to the gospel. God can use you in the lives of these professors even though they don’t teach huge classes of undergraduates.
 
@@ -269,7 +307,9 @@ Professors are the fixtures within the university; as we influence them, equip t
 
 Build relational trust Professors will open up as they trust you. Take time to get to know them. Some professors aren’t the easiest to connect with. That’s OK; take an interest in them and allow God to use you in their lives.
 
-Remember, you know more about ministry than many professors. The questions you’ve asked students for years will be just as golden with professors as they’ve been with students. So, take a (spiritual) breath and step out in faith into the wonderful, challenging, and influential world of professors. A few questions to get you started:
+Remember, you know more about ministry than many professors. The questions you’ve asked students for years will be just as golden with professors as they’ve been with students. So, take a (spiritual) breath and step out in faith into the wonderful, challenging, and influential world of professors.
+
+A few questions to get you started:
 
 1. How would you describe your spiritual journey?
 2. Were you ever in a group like Campus Crusade for Christ as an undergraduate? What was your experience like?
@@ -306,4 +346,8 @@ For more information and resources on working with professors, check out the Fac
 
 Paul is on the executive leadership team of Faculty Commons, the faculty and graduate student ministry of Campus Crusade for Christ. Paul has served on staff since 1997 working with students and professors at Miami of Ohio and Purdue University. He has a PhD in Philosophy from Purdue University and a Masters in Philosophy of Religion and Ethics from Talbot School of Theology. He is the co-editor, along with William Lane Craig of The Two Tasks of the Christian Scholar: Redeeming The Soul, Redeeming the Mind (Crossway, 2007).
 
-Paul is married to his wife Ethel and has four young children. In his spare time you can usually find Paul hanging out with his family, hiking, mountain biking, watching a movie, or reading a good book on philosophy or theology. The Hope Center 2001 W. Plano Parkway, Suite 2700 Plano, Texas 75075 Phone: 972.516.0516 www.cruprof.com U.S. Campus Ministries 100 Lake Hart Drive Orlando, Florida 32832 Phone: 407.826.2000 www.uscm.org
+Paul is married to his wife Ethel and has four young children. In his spare time you can usually find Paul hanging out with his family, hiking, mountain biking, watching a movie, or reading a good book on philosophy or theology.
+
+The Hope Center 2001 W. Plano Parkway, Suite 2700 Plano, Texas 75075 Phone: 972.516.0516 www.cruprof.com
+
+U.S. Campus Ministries 100 Lake Hart Drive Orlando, Florida 32832 Phone: 407.826.2000 www.uscm.org

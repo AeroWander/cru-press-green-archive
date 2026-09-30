@@ -6,14 +6,18 @@ type: "Article"
 themes: ["Team leadership & coaching", "Launching a new ministry"]
 audience: ["Student leaders"]
 series: "Building a Movement"
-words: 814
+words: 821
 summary: "Step 4 of 'Building a Movement,' describing the student-led 'Servant Team' that runs specific ministry areas (prayer, worship, socials, tech, etc.) alongside the staff/volunteer missional team. Includes a sample Servant Team leader job description with character and involvement expectations, plus an application form covering spiritual history, gifting, and commitment to relational evangelism."
 source: "Launching a New Ministry/Building a Movement/Servant Team.pdf"
 ---
 
-## Step 4 First Week
+## Step 4
 
-In the structure of the church you have your elders and you have your deacons. In the world of campus ministry you typically have your missional team, comprised of staff and volunteers, and you have your Servant Team comprised of student leaders. part of the team, so select and challenge wisely. To that end, here is a sample Servant Team job description and application.
+## First Week
+
+In the structure of the church you have your elders and you have your deacons. In the world of campus ministry you typically have your missional team, comprised of staff and volunteers, and you have your Servant Team comprised of student leaders.
+
+part of the team, so select and challenge wisely. To that end, here is a sample Servant Team job description and application.
 
 In the case of a student led ministry the two are one in the same.
 
@@ -29,22 +33,30 @@ The success of a Servant Team will always be proportionate to the quality of stu
 
 #### Servant Team Leader
 
-Role: To give leadership and direction to a specific area of ministry:________________ Responsibilities:
+Role: To give leadership and direction to a specific area of ministry:________________
 
-1. Your team is responsible to develop and coordinate all ________________activities and events.
-2. As a servant team leader, you will be responsible for the delegation of appropriate tasks to team members and give oversight to all ______________events and activities. You will be expected to meet with your team on a regular basis for prayer and planning.
-3. You are responsible to help fellow servant team leaders remember the importance of having a dynamic _____________ ministry in Campus Crusade. Basically, you are the one to keep your fellow movement leaders thinking about the role of _____________and it’s importance to the overall movement as it relates to our mission of turning lost students into Christ centered laborers.
+#### Responsibilities
+
+Your team is responsible to develop and coordinate all ________________activities and events.
+
+As a servant team leader, you will be responsible for the delegation of appropriate tasks to team members and give oversight to all ______________events and activities. You will be expected to meet with your team on a regular basis for prayer and planning.
+
+You are responsible to help fellow servant team leaders remember the importance of having a dynamic _____________ ministry in Campus Crusade. Basically, you are the one to keep your fellow movement leaders thinking about the role of _____________and it’s importance to the overall movement as it relates to our mission of turning lost students into Christ centered laborers.
 
 #### Expectations
 
 #### Personal Character
 
-1. To model the life of the servant leader (Phil 2.5)
+To model the life of the servant leader (Phil 2.5)
+
 - Be others centered
 - Lead with a humble spirit
 - Live a life of sacrifice and unselfishness
-2. To live the Real Christian life through a commitment to daily time in the Word and prayer. (Psalm 1)
-3. Your leadership role will bring with it the inherent expectation of serving as Christ’s ambassador, (II Cor 5. 20) and willingness to spread everywhere the fragrance of the knowledge of Him. (II Cor 2.14) Therefore, it’s critical that you watch your life and doctrine closely (I Tim 4.16) and commit to a Christ centered life characterized by
+
+To live the Real Christian life through a commitment to daily time in the Word and prayer. (Psalm 1)
+
+Your leadership role will bring with it the inherent expectation of serving as Christ’s ambassador, (II Cor 5. 20) and willingness to spread everywhere the fragrance of the knowledge of Him. (II Cor 2.14) Therefore, it’s critical that you watch your life and doctrine closely (I Tim 4.16) and commit to a Christ centered life characterized by
+
 - The highest of moral character: to be above reproach (I Tim. 3.2a)
 - Moral purity in your relationships (I Cor 6.13)
 - Physical purity in your social habits with no use of alcohol or tobacco (I Cor 6.19)
@@ -53,8 +65,10 @@ Role: To give leadership and direction to a specific area of ministry:__________
 
 #### Personal involvement
 
-1. To be supportive of Campus Crusade’s approach to initiative relational evangelism and faithfully respond to opportunities to be involved in personal evangelism and discipleship.
-2. To be a regular participant in movement activities
+To be supportive of Campus Crusade’s approach to initiative relational evangelism and faithfully respond to opportunities to be involved in personal evangelism and discipleship.
+
+To be a regular participant in movement activities
+
 - Attend weekly meetings
 - Involved in small group Bible Studies
 - Seek to attend outreach events
@@ -64,13 +78,24 @@ Role: To give leadership and direction to a specific area of ministry:__________
 
 #### Campus Crusade Servant Team Application
 
-Name _______________________________ Phone number_______________________ email____________________ 1. How have you been involved with CCC and what impact has it had on your life?
+Name _______________________________
 
-2. When did you become a Christian?
-3. Please describe your walk with God over the past 12 months.
-4. Why do you desire to be a part of the servant team of Crusade?
-5. What spiritual gifts or strengths do you have that you would bring to the team?
-6. The mission of Campus Crusade for Christ is “to turn lost students into Christ centered laborers”. Do you agree with this focus? Please comment.
-7. In light of our mission, Crusade is committed to initiative relational evangelism. What is your understanding of this approach? Are you willing to be trained in this area?
-8. Please comment on how well you think you would work in a team context. Would you say you tend towards being more dominant or passive in a team situation? Do you enjoy working independently? Or alongside others?
-9. Any comments, questions, or concerns?
+Phone number_______________________ email____________________
+
+How have you been involved with CCC and what impact has it had on your life?
+
+When did you become a Christian?
+
+Please describe your walk with God over the past 12 months.
+
+Why do you desire to be a part of the servant team of Crusade?
+
+What spiritual gifts or strengths do you have that you would bring to the team?
+
+The mission of Campus Crusade for Christ is “to turn lost students into Christ centered laborers”. Do you agree with this focus? Please comment.
+
+In light of our mission, Crusade is committed to initiative relational evangelism. What is your understanding of this approach? Are you willing to be trained in this area?
+
+Please comment on how well you think you would work in a team context. Would you say you tend towards being more dominant or passive in a team situation? Do you enjoy working independently? Or alongside others?
+
+Any comments, questions, or concerns?

@@ -6,10 +6,18 @@ type: "Article"
 themes: ["Team leadership & coaching"]
 audience: ["Staff & team leaders"]
 authors: ["Eric Swanson"]
-words: 2292
+words: 2359
 summary: "An article by Eric Swanson on what distinguishes a genuine high-performance team from a mere \"working group\" or \"pseudo team,\" drawing on Katzenbach and Smith's The Wisdom of Teams. Lists traits of high-performance teams (shared goals, mutual accountability, shared leadership) and Kenneth Blanchard's four stages of team development (orientation, dissatisfaction, and beyond), aimed at ministry team leaders."
 source: "MTL/MTL/MTL2/Building Effective Teams.pdf"
 ---
+
+## Effective Teams
+
+Have you ever been a part of a team--an athletic team, a staff team, a summer project, etc. where everyone’s attitude and performance was absolutely necessary to the success of the team? You knew that what you were accomplishing was significant and could have never been accomplished unless everyone gave their best. Your team performance was far beyond what any individuals working alone could do. It would be complete arrogance to think that one person could accomplish what needed to be done. Fellow-teammates worked sacrificially and unselfishly toward the common goal. It may have been hard, but, boy, was it fun. It was a “once in a lifetime” team. You bonded together and you seemed to bring forth the best in each other. The goal and the work transcended your petty differences. When you look back at that team you feel a sense of deep satisfaction. If so, you have experienced the power and fulfillment of being a part of a team.
+
+## What Is a Team?
+
+Jon Katzenbach and Douglas Smith, in their book The Wisdom of Teams (HBS Press, 1993) define a team as “a small number of people with complimentary skills who are committed to a common purpose, performance goals and approach for which they hold themselves mutually accountable.” Think of how critical each word is to this definition.
 
 ## The Advantage of Teams
 
@@ -17,19 +25,15 @@ Teams bring together skills and experience that exceed those of any individual o
 
 Teams provide a sense of community and belonging. They share in the victories and defeats. Its enjoyable to work together.
 
-Have you ever been a part of a team--an athletic team, a staff team, a summer project, etc. where everyone’s attitude and performance was absolutely necessary to the success of the team? You knew that what you were accomplishing was significant and could have never been accomplished unless everyone gave their best. Your team performance was far beyond what any individuals working alone could do. It would be complete arrogance to think that one person could accomplish what needed to be done. Fellow-teammates worked sacrificially and unselfishly toward the common goal. It may have been hard, but, boy, was it fun. It was a “once in a lifetime” team. You bonded together and you seemed to bring forth the best in each other. The goal and the work transcended your petty differences. When you look back at that team you feel a sense of deep satisfaction. If so, you have experienced the power and fulfillment of being a part of a team.
+People learn to respect one another and one another’s abilities in the context of working as a team.
 
-People learn to respect one another and one another’s abilities in the context of working as a team. The greatest sense of accomplishment is not what you do by yourself but what you accomplish with other people. Michael Jordan, though arguably the finest basketball player for years, was not willing to retire from basketball (at least temporarily) until the Bulls won the World Championship.
+The greatest sense of accomplishment is not what you do by yourself but what you accomplish with other people. Michael Jordan, though arguably the finest basketball player for years, was not willing to retire from basketball (at least temporarily) until the Bulls won the World Championship.
 
 People do not mind hard work if it is meaningful and they are doing it with others they love and respect.
 
 ## Are You Really a Team?
 
 Not every staff team that works together is really a team, no matter what they call themselves. In The Wisdom of Teams, the authors studied fifty different teams in a variety of settings. They discovered the following types of “teams”:
-
-## What Is a Team?
-
-Jon Katzenbach and Douglas Smith, in their book The Wisdom of Teams (HBS Press, 1993) define a team as “a small number of people with complimentary skills who are committed to a common purpose, performance goals and approach for which they hold themselves mutually accountable.” Think of how critical each word is to this definition.
 
 ## Working Group
 
@@ -84,13 +88,17 @@ Teams just don’t happen. There are four basic things that you need to do if yo
 
 ## The Importance of Goals
 
-More than any single element, a strong performance challenge, along with specific and measurable goals serves as the catalyst to molding a team. Teamwork, team-building seminars and other efforts fail to galvanize a group of people like a strong performance challenge. Without specific team goals, team members become confused and revert only to what they like to do or want to do. Goals that motivate always contain a “stretch element” to them. In other words, they go beyond what you did last year and cannot be accomplished by simply plugging in last year’s methods and strategies.
+More than any single element, a strong performance challenge, along with specific and measurable goals serves as the catalyst to molding a team.
 
-When your goals are clear, you can discuss and focus on how you can achieve them or even modify them if necessary. This is part of what it means to be effective. The right kind of goals are motivating. People are excited by the opportunity to be a part of such a challenge and languish at the thought of being left out. Real teams flourish on achieving results-- on winning, not just playing. Goals allow a team to know where it stands--it is either fulfilling its goals or it is not. Your job is to help your team do what God wants done and what they came on staff to do. Most staff would rather fail at attempting something great than to succeed at something mediocre that just feels like failure. To be effective you don’t have to have the same goals every quarter. However you do need one thing that you are together trusting God to do that you together are working toward. Your first quarter goal might focus on exposures and evangelism. Your second quarter goal might be built around the number of students you want to bring to the Christmas Conference or number of students you want leading groups. Your third quarter goal might center on students that you will send on projects. It’s not that you abandon other activities during these times but you really form your team around accomplishing these few goals. Without specific goals you will not have the team you could have. as coach. You cannot “win” without skilled players. Learn to recognize the value in the contribution of others. To effectively develop your staff you must really know your staff. Development is seen in how you develop your weakest staff person. A team, like a chain, is only as strong as its weakest link. Your staff need new skills to take on new responsibilities in order to accomplish greater tasks. People don’t grow on their own any more than children, raised by their peers can become successful adults. You must recognize, affirm and develop others and help them accomplish the agreed upon tasks.
+Teamwork, team-building seminars and other efforts fail to galvanize a group of people like a strong performance challenge. Without specific team goals, team members become confused and revert only to what they like to do or want to do. Goals that motivate always contain a “stretch element” to them. In other words, they go beyond what you did last year and cannot be accomplished by simply plugging in last year’s methods and strategies.
+
+When your goals are clear, you can discuss and focus on how you can achieve them or even modify them if necessary. This is part of what it means to be effective. The right kind of goals are motivating. People are excited by the opportunity to be a part of such a challenge and languish at the thought of being left out. Real teams flourish on achieving results-- on winning, not just playing. Goals allow a team to know where it stands--it is either fulfilling its goals or it is not. Your job is to help your team do what God wants done and what they came on staff to do. Most staff would rather fail at attempting something great than to succeed at something mediocre that just feels like failure.
+
+To be effective you don’t have to have the same goals every quarter. However you do need one thing that you are together trusting God to do that you together are working toward. Your first quarter goal might focus on exposures and evangelism. Your second quarter goal might be built around the number of students you want to bring to the Christmas Conference or number of students you want leading groups. Your third quarter goal might center on students that you will send on projects. It’s not that you abandon other activities during these times but you really form your team around accomplishing these few goals. Without specific goals you will not have the team you could have.
 
 ## Team Leaders
 
 Teams work because of dedicated leaders. Without leadership on a team there is chaos. The task is the composite of many but the leader is the one who must guide the process toward completion. People stay on a team because they feel significant and because they are winning. The leader’s job is to help those on the team to contribute significantly and to let them know when and how they are winning. Leading a team is a difficult task. Your job requires that you lead the charge. You must assume responsibility before the Lord for two things:
 
 1. The accomplishment of your objectives. This is where you exercise your role as vision caster, change agent and direction setter. Just as too much leadership will stifle a team so will too little leadership. If they could do it on their own they wouldn’t need you! During the Orientation Stage the team leader must be very directive in respect to what needs to be done. Teams falter at this juncture for a lack of clear purpose and direction than for any other reason. Remember, leadership is not inherently evil! Don’t mistake leadership for legalism. As teams mature, the role of a leader moves to that of a coach and encourager. The team leader never gives up control--he simply must learn to share control if the group is really to become a team. Empower your team by providing resources and then getting out of the way.
-2. The shepherding and development of those on your team. This is where you are exercising your role
+2. The shepherding and development of those on your team. This is where you are exercising your role as coach. You cannot “win” without skilled players. Learn to recognize the value in the contribution of others. To effectively develop your staff you must really know your staff. Development is seen in how you develop your weakest staff person. A team, like a chain, is only as strong as its weakest link. Your staff need new skills to take on new responsibilities in order to accomplish greater tasks. People don’t grow on their own any more than children, raised by their peers can become successful adults. You must recognize, affirm and develop others and help them accomplish the agreed upon tasks.

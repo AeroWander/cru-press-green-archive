@@ -6,26 +6,30 @@ type: "Article"
 themes: ["Movement building & growth", "Vision & strategic planning"]
 audience: ["Staff & team leaders", "Student leaders"]
 authors: ["Bob Fuhs"]
-words: 3039
+words: 3115
 summary: "An article by Bob Fuhs, a campus ministry staff veteran, laying out principles for growing a campus movement from a handful of students to hundreds. Drawing on his experience at UCLA and the University of Minnesota, he argues the key driver is systematically reaching incoming freshmen every year, and covers additional principles on timing, resilience to rejection, and patience, aimed at student and staff campus ministry leaders."
 source: "added/From 2 to 200.pdf"
 ---
 
-student on your campus? Would you like to raise up lifetime laborers who go into every nation and occupation more concerned about making disciples than making money? Read on my friend…read on. Eleven years ago, when I was 31, I learned how to play basketball for the first time. I had watched others play, so I understood that the point was to put the ball in the hoop, but I couldn’t have told you the first thing about how to play.
+## From 20 to 200
+
+Eleven years ago, when I was 31, I learned how to play basketball for the first time. I had watched others play, so I understood that the point was to put the ball in the hoop, but I couldn’t have told you the first thing about how to play.
+
+For many campus leaders, that’s what it’s like when you are asked to build a campus movement. Maybe you’ve seen a movement on another campus, or you have a vague idea that it’s about seeing changed lives, but you’re really not sure how to go about it. Maybe you’re a volunteer and you’ve started to gather some Christian students with a heart to reach their campus and they are looking for some advice, but you’re not quite sure what to tell them besides pray and read the Bible.
+
+This article is designed to distill some of the foundational principles of building a campus movement. I will share seven principles that make up an effective strategy for taking a campus movement from 20 to 200 and beyond. These are principles that have found as much success on the west coast as the east coast, in the Midwest and the South. Many have even tried them overseas and the Lord has brought tremendous results.
+
+So, are you burdened with getting the Gospel to every student on your campus? Would you like to raise up lifetime laborers who go into every nation and occupation more concerned about making disciples than making money? Read on my friend…read on.
 
 ## Principle 1: Reach the Freshman Class Year After Year
 
 History has shown that students are way more likely to get involved in a campus movement their freshman year than any other year. One campus ministry veteran observed, “Well over 50% of the freshmen who get involved with Cru will do so within the first six weeks of the school year.”
 
-For many campus leaders, that’s what it’s like when you are asked to build a campus movement. Maybe you’ve seen a movement on another campus, or you have a vague idea that it’s about seeing changed lives, but you’re really not sure how to go about it. Maybe you’re a volunteer and you’ve started to gather some Christian students with a heart to reach their campus and they are looking for some advice, but you’re not quite sure what to tell them besides pray and read the Bible.
-
 I know of no other way to grow a movement in size apart from systematically and strategically reaching out to freshmen.
 
 If you fail to reach a freshman class, you pay for it for five years. You pay for it in terms of having no sophomores to help run movement activities, then no juniors to lead out in evangelism and discipleship and no seniors to send into a lifetime of fruitful ministry. Just as a football coach knows that he always must be recruiting the next class of players, you as the Missional Team Leader need to be thinking about the next class of freshmen.
 
-This article is designed to distill some of the foundational principles of building a campus movement. I will share seven principles that make up an effective strategy for taking a campus movement from 20 to 200 and beyond. These are principles that have found as much success on the west coast as the east coast, in the Midwest and the South. Many have even tried them overseas and the Lord has brought tremendous results.
-
-So, are you burdened with getting the Gospel to every One mistake many leaders in campus ministry make is to entrust the reaching of freshmen to the sophomore class. It seems logical…they were recently freshmen themselves, they want to help the movement grow, and they have a lot of energy. But, sophomores still need training and development to do a good job and generally do not realize the time and effort it takes to reach a freshman class. The best class to entrust the freshman outreach to is the junior class. When well trained, they have the experience and the maturity to see success.
+One mistake many leaders in campus ministry make is to entrust the reaching of freshmen to the sophomore class. It seems logical…they were recently freshmen themselves, they want to help the movement grow, and they have a lot of energy. But, sophomores still need training and development to do a good job and generally do not realize the time and effort it takes to reach a freshman class. The best class to entrust the freshman outreach to is the junior class. When well trained, they have the experience and the maturity to see success.
 
 As you are seeking to raise up two or three healthy freshman classes in a row, your second year will become the most taxing. The temptation is to focus on the sophomores, but you need to go after another freshman class. And, as a result of having more students involved, you will likely need to assume more ministry management duties. The second year really going after freshmen can feel like pushing a huge ball up a hill. But, once you crest the hill, the momentum takes over and a real movement begins!
 
@@ -41,13 +45,17 @@ Until you have students who are able to go after the freshman class as well or e
 
 This might mean other areas of the ministry seem to suffer, and that’s okay. I have seen staff take whole days off campus to plan events and meetings when they really need to take those hours to reach the next freshman class. There is no reason to take several days off campus to plan a talk for a meeting of 50 students. When you don’t really have a movement yet, you need to be involved predominantly in activities that will get you there.
 
-Once you see some genuine momentum develop, things will change, but not before. After you take two to three healthy freshman classes in a row, you will find yourself and your top leaders moving from “player” to “coach.” Of course, your movement never stops going after reaching freshmen and getting to new places with the Gospel, but the people directly involved in that venture will change over time. Great ideas abound for how to reach out to and involve freshmen. We did freshman surveys at the start of the year, we had special freshman events, we spent time in the dorms meeting as many freshmen as we could. Over time you will discover the most effective way to reach the maximum number of freshmen on your campus.
+Once you see some genuine momentum develop, things will change, but not before. After you take two to three healthy freshman classes in a row, you will find yourself and your top leaders moving from “player” to “coach.” Of course, your movement never stops going after reaching freshmen and getting to new places with the Gospel, but the people directly involved in that venture will change over time.
+
+Great ideas abound for how to reach out to and involve freshmen. We did freshman surveys at the start of the year, we had special freshman events, we spent time in the dorms meeting as many freshmen as we could. Over time you will discover the most effective way to reach the maximum number of freshmen on your campus.
 
 PRINcIPle 2: BEGIN WITH THE END IN MIND, THEN START AT THE BEGINNING
 
 As the saying goes, “If you aim for nothing, you’ll hit it every time.” One mistake campus leaders make is to think in vague terms about what it will take to reach their scope. They say, “We need movements.” Or, “We need more student leaders.” That’s good, but it won’t be helpful unless you are as specific as possible. How many movements? Two? Seventeen? How many leaders? A gazillion?
 
-The leader needs to ask, “Exactly how many leaders and movements will we need to get the gospel to the whole scope?” On a larger campus you might decide that would take 200 juniors and 150 seniors who love Jesus and are committed to spiritual multiplication. To have 150 seniors means you probably need them to be 200 strong as sophomores. To have 200 sophomores, you have to win a freshman class that totals 400 (assuming a 50% attrition rate). Now you can plan accordingly. If your goal is to someday have 400 freshmen in small groups, what is it going to take to get there? It will probably take about 80 students leading freshman small groups and owning target areas. Now you can plan for and pray towards having 80 leaders in the junior and senior classes. Once you do, you are 4 years away from getting the Gospel to the whole scope. This chart illustrates the progression:
+The leader needs to ask, “Exactly how many leaders and movements will we need to get the gospel to the whole scope?” On a larger campus you might decide that would take 200 juniors and 150 seniors who love Jesus and are committed to spiritual multiplication. To have 150 seniors means you probably need them to be 200 strong as sophomores. To have 200 sophomores, you have to win a freshman class that totals 400 (assuming a 50% attrition rate).
+
+Now you can plan accordingly. If your goal is to someday have 400 freshmen in small groups, what is it going to take to get there? It will probably take about 80 students leading freshman small groups and owning target areas. Now you can plan for and pray towards having 80 leaders in the junior and senior classes. Once you do, you are 4 years away from getting the Gospel to the whole scope. This chart illustrates the progression:
 
 Of course, reaching the scope will require more than one movement. So, part of your plan will be to develop leaders to reach every pocket of your scope, including faculty, ethnic students, international students, and possibly even local high school students.
 
@@ -67,7 +75,9 @@ How many cycles you have depends on how your campus is structured. Schools on th
 
 PRINcIPle 4: If HE’s juST NOT THAT INTO you, THAT’s OKAy BEcauSE OTHERS WIll BE
 
-A few years ago there was a popular book about relationships called He’s Just Not That Into You. The book identified the telltale signs a man really isn’t into a particular woman, so she can just cut him loose. The Scriptures record several “he’s just not that into you” moments in the life and ministry of Jesus. Some people just weren’t that into Him (See John chapter 6). The same is true of your movement-some students just won’t be into it. That’s okay, because others will be.
+A few years ago there was a popular book about relationships called He’s Just Not That Into You. The book identified the telltale signs a man really isn’t into a particular woman, so she can just cut him loose.
+
+The Scriptures record several “he’s just not that into you” moments in the life and ministry of Jesus. Some people just weren’t that into Him (See John chapter 6). The same is true of your movement-some students just won’t be into it. That’s okay, because others will be.
 
 You might want to think of your movement like a bus, and there’s a sign on the bus that says where it’s going. That sign might read, “Movements everywhere, so that everyone knows someone who truly follows Jesus,” or “Winning the Campus Today to reach the World Tomorrow,” or possibly even, “Great Commission Fulfillment or Bust!”
 
@@ -83,16 +93,22 @@ For me, this meant I was regularly asking my student leaders and staff about tho
 
 In his book Good To Great, Jim Collins says that leaders need to “confront the brutal facts.” Proverbs 27:23 says, “Know well the condition of your flocks and give attention to your herds.” For the Missional Team Leader this means being willing to do an honest assessment of where you are as a movement. As you do this honest assessment, you will be able to diagnose where you are and where you need to be.
 
-Many leaders are afraid of reality because they see it as a litmus test of their leadership. They fear that people will think they are doing a bad job, or-gasp!-won’t like them as a leader. Or they just don’t want to admit when things are not as they ought to be. When we first came to Minnesota, there had been lots of staff turnover and the movement was struggling to find its purpose. There were about 150 students coming out to the weekly meeting, mostly because there was a really good worship band and some fun students.
+Many leaders are afraid of reality because they see it as a litmus test of their leadership. They fear that people will think they are doing a bad job, or-gasp!-won’t like them as a leader. Or they just don’t want to admit when things are not as they ought to be.
+
+When we first came to Minnesota, there had been lots of staff turnover and the movement was struggling to find its purpose. There were about 150 students coming out to the weekly meeting, mostly because there was a really good worship band and some fun students.
 
 At one staff meeting, we asked, “Which students really get what this movement is all about? Who really gets our mission, vision and values?” Out of that 150, we could only think of one student who got it, and it was because he had gone on a Cru summer project the previous summer. Since reality is our friend, we didn’t beat ourselves up over it, or berate the students for not being more committed. We rolled up our sleeves and got to work, only with much more clarity about what had to be done next.
 
-Bob Fuhs and his wife Jill are the Los Angeles City Focus Directors for Campus Crusade for Christ. The have been on staff for 16 and 18 years respectively and have led movements in Wisconsin, Minnesota, and California. Contact the author at Bob.Fuhs’at’uscm.org Being committed to reality as your friend means that you can keep a positive attitude. John Maxwell says, “The positive attitude of a leader, coupled with a positive growth atmosphere in the organization enables people to accomplish great things.” Your job as a leader is to stay positive, even when you know you have a long way to go.
+Being committed to reality as your friend means that you can keep a positive attitude. John Maxwell says, “The positive attitude of a leader, coupled with a positive growth atmosphere in the organization enables people to accomplish great things.” Your job as a leader is to stay positive, even when you know you have a long way to go.
 
 To embrace time as your friend, you realize that your scope will not be reached overnight. If a leader does not embrace time as their friend, they will try to make things happen too quickly. Or, when things aren’t happening quickly enough, they will scrap their plan and try another. When that doesn’t work, they try another. This leads to followers with “strategy whiplash.”
 
-Jim Collins puts it this way, “Breakthrough results come about by a series of good decisions diligently executed and accumulated one on top of another.” It has also been said, “You will see less happen in one year than you would ever think, but you will see more happen in five years than you would ever dream.” As a leader, you need to take the long view of things. Be patient, growth will happen. Keep trusting the Lord and working hard, but it will probably be slower than you think.
+Jim Collins puts it this way, “Breakthrough results come about by a series of good decisions diligently executed and accumulated one on top of another.” It has also been said, “You will see less happen in one year than you would ever think, but you will see more happen in five years than you would ever dream.”
+
+As a leader, you need to take the long view of things. Be patient, growth will happen. Keep trusting the Lord and working hard, but it will probably be slower than you think.
 
 ## In Conclusion…
 
 It has been said, “Methods are many, principles are few. Methods always change, principles never do.” The hope in presenting this information is to equip you, the campus ministry leader with some principles to help you grow your movement from 20 to 200 and beyond. As you apply these principles, by faith in the power of the Holy Spirit, I trust you will see God do amazing things. As the Apostle Paul says, “For at the proper time we will reap a harvest if we do not give up.” (Galatians 6:9)
+
+Bob Fuhs and his wife Jill are the Los Angeles City Focus Directors for Campus Crusade for Christ. The have been on staff for 16 and 18 years respectively and have led movements in Wisconsin, Minnesota, and California. Contact the author at Bob.Fuhs’at’uscm.org

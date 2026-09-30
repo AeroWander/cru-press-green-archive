@@ -11,8 +11,6 @@ summary: "A book chapter excerpt by Rick James (part of a work on the Great Comm
 source: "added/The One and Only Great Commission.pdf"
 ---
 
-By Rick James
-
 the family, and head back off to wherever. With no alternatives, Grace courageously ended the cycle: she grabbed the kids, pawned her wedding ring, moved into an apartment, and took on three jobs to support her family.
 
 The story might have ended here—not a happy ending, but not a bad one considering her life to this point. But life keeps going so the story must.

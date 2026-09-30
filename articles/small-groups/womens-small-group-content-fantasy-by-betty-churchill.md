@@ -5,26 +5,34 @@ also_topics: ["life-and-character"]
 type: "Article"
 themes: ["Small groups", "Sexual purity"]
 audience: ["Women", "Small-group leaders"]
-words: 8405
+words: 8490
 summary: "Chapter excerpt from Fantasy providing a leader's guide of eight women's small-group Bible studies (topics include unmet needs, sexual purity, forgiveness, self-worth, worry, believing lies, community/accountability, and commitment), each with related articles, a Scripture passage, and discussion questions for group facilitators to use."
 source: "Building Community/Men and Women/Women/Small Groups.pdf"
 ---
+
+Women’s Small Group Content
+
+## Fantasy by Betty Churchill • Chapter Excerpt
 
 Fantasy is a collection of insights from several contributing writers, about all the stuff women talk about and some they don’t, but should. Sex, dating, relationships, the “m” word (not marriage, the other one), but, of course, we talk about marriage, too, as well as the beautiful people, the need to be in control and how God, Jesus and the Spirit fit into it all.
 
 Like its male counterpart, Flesh, Fantasy is divided into three sections: small group discussion material, topical articles, and a month of daily devotionals.
 
-Partial List of Topics: Masturbation, How Far is Too Far, The Role of Fathers, Confession-Forgiveness, Community, Filling of the Spirit, Cosmetic Surgery, Worship, Singleness, Faith, Homosexuality, Why Wait?, Body/Self Image, and Pornography. Contributions by Henry Cloud and Shellie R. Warren
+Partial List of Topics: Masturbation, How Far is Too Far, The Role of Fathers, Confession-Forgiveness, Community, Filling of the Spirit, Cosmetic Surgery, Worship, Singleness, Faith, Homosexuality, Why Wait?, Body/Self Image, and Pornography.
 
-“Get Your Group On”…(Trying too hard)… “Groupies”…(Too retro)… “Groupers”…(That’s a type of fish and it’s too close to “gropers”, which is interesting, but inappropriate) so…
+Contributions by Henry Cloud and Shellie R. Warren
 
-## Small Groups
+“Get Your Group On”…(Trying too hard)… “Groupies”…(Too retro)…“Groupers”…(That’s a type of fish and it’s too close to “gropers”, which is interesting, but inappropriate) so…
+
+# Small Groups
 
 (how very uninspired)
 
 I’m going to guess that it would not be too difficult for you to gather a bunch of women to talk about men, sex, and dating on a regular basis. You may already have a group that does just that—your Bible study or roommates or sorority sisters—whatever. Why not be intentional about your discussions?
 
-I truly believe that experiencing life as God intended it is impossible on your own. Apart from a collection of people who are committed to following Christ and living life together, we miss out on opportunities to grow and express our faith. We need each other to love, serve, encourage, speak truth, and spur one another on. These studies are intended for you to do just that with a group of friends. If you don’t have a community, this is your chance to create one. Start taking applications now. I know it may seem overwhelming to start your own small group, but as I’ve often said, women’s small-group success is when you laugh really hard and/or somebody cries. That won’t take much, I promise. My hope is that these studies give you some structure and permission to get into each others’ lives while each of you falls more in love with Jesus in the process. Now, I also realize that there are quite a few questions for each study, and women being women, you may not get to all of them in the time allowed. So I’d suggest that whoever is facilitating the group go through ahead of time and pick out the questions she wants to be sure to cover, based on the needs of your group. There are answers in the back, but due to limited time, space, and caffeine drained from thousands of glasses of iced tea, they are brief. Many answers leave quite a bit of room for further discussion and additional passages and resources. So feel free to expound upon what we’ve started.
+I truly believe that experiencing life as God intended it is impossible on your own. Apart from a collection of people who are committed to following Christ and living life together, we miss out on opportunities to grow and express our faith. We need each other to love, serve, encourage, speak truth, and spur one another on. These studies are intended for you to do just that with a group of friends. If you don’t have a community, this is your chance to create one. Start taking applications now. I know it may seem overwhelming to start your own small group, but as I’ve often said, women’s small-group success is when you laugh really hard and/or somebody cries. That won’t take much, I promise. My hope is that these studies give you some structure and permission to get into each others’ lives while each of you falls more in love with Jesus in the process.
+
+Now, I also realize that there are quite a few questions for each study, and women being women, you may not get to all of them in the time allowed. So I’d suggest that whoever is facilitating the group go through ahead of time and pick out the questions she wants to be sure to cover, based on the needs of your group. There are answers in the back, but due to limited time, space, and caffeine drained from thousands of glasses of iced tea, they are brief. Many answers leave quite a bit of room for further discussion and additional passages and resources. So feel free to expound upon what we’ve started.
 
 These studies are loosely tied to the articles, but not all the articles are connected to a study. So be sure you don’t miss any juicy little nugget of wisdom or insight offered by our oh-so-wise contributors.
 
@@ -32,9 +40,13 @@ Lastly, I have this thought: the Bible would be whole lot different if it had be
 
 So, my point is this: …I don’t really have one. Just that.
 
+Small Groups
+
 ### Study 1: Quenched Wants and Needs
 
-Related Articles: Why Should You, What Bride Magazine Won’t Tell you When you think about life right now, and then five, ten, or fifteen years down the road, what do you hope for and dream about? What do you want in order to be fulfilled in your life? What are the things that each of your dreams has in common? Why do you think you share those things in common?
+Related Articles: Why Should You, What Bride Magazine Won’t Tell you
+
+When you think about life right now, and then five, ten, or fifteen years down the road, what do you hope for and dream about? What do you want in order to be fulfilled in your life? What are the things that each of your dreams has in common? Why do you think you share those things in common?
 
 Read John 4:3-29.
 
@@ -55,12 +67,16 @@ Read John 4:3-29.
 
 ### Study 2: Sex Offenders Purity
 
-Related Articles: I Gave My Word to Stop at Third, Adam Bomb, My Own Worst Enemy, The M Word When it comes to the physical aspect of a dating relationship, how far is too far? What is the general consensus about this among your peers? What are some of the reasons or thinking you’ve heard others give for determining their standards in this area?
+Related Articles: I Gave My Word to Stop at Third, Adam Bomb, My Own Worst Enemy, The M Word
+
+When it comes to the physical aspect of a dating relationship, how far is too far? What is the general consensus about this among your peers? What are some of the reasons or thinking you’ve heard others give for determining their standards in this area?
 
 Read Matthew 5:27-28.
 
 1. What is Jesus trying to communicate, exactly? Is thinking about it just as bad as doing it?
-2. Reversing the gender roles and applying Jesus’s teaching to women, what does lust usually look like for women? When, and/or in what situations, are you tempted to lust?
+
+Small Groups 2. Reversing the gender roles and applying Jesus’s teaching to women, what does lust usually look like for women? When, and/or in what situations, are you tempted to lust?
+
 3. This passage is addressing adultery—having sex with another person’s spouse. Do you think the same principle would apply to fornication—sex outside marriage?
 4. What do you think is the intent behind Jesus’s clarifying of the law, expanding His listeners’ understanding of the definitions?
 
@@ -87,11 +103,15 @@ Read 1 Thessalonians 4:1-12.
 15. In dating relationships, what levels of physical involvement do you think are clearly off-limits? What do you think is allowable? What are some of the gray areas?
 16. How have you arrived at your standard?
 17. Paul speaks about greeting other Christians with a “holy kiss” (Romans 16:16; 1 Corinthians 16:20). Some have suggested the principle of the holy kiss for dating relationships—showing physical affection with a commitment to not cause sexual arousal. It moves away from a standard of “What can I get away with?” or “How can I avoid all contact?” and asks, rather, “How can I physically express affection without sexually arousing either myself or my partner?” How do you feel about this as a guideline?
-18. For you, personally, what are your reasons for pursuing sexual purity? Set aside a page in your journal and write out your guidelines, your reasons for wanting to remain sexually pure, and a prayer of commitment.
+18. For you, personally, what are your reasons for pursuing sexual purity? Set aside a page in your journal and write out your guidelines, your reasons
+
+Small Groups for wanting to remain sexually pure, and a prayer of commitment.
 
 ### Study 3: Getting Back Together Forgiveness and Restoration
 
-Related Articles: The Beauty of Forgiveness, The Place of Faith, Spirit Filled Of all of the sins we commit, nothing makes us feel more guilty than sexual sin. Why do you think that is?
+Related Articles: The Beauty of Forgiveness, The Place of Faith, Spirit Filled
+
+Of all of the sins we commit, nothing makes us feel more guilty than sexual sin. Why do you think that is?
 
 Read John 8:1-11.
 
@@ -115,12 +135,19 @@ Often, because of our past sin, we feel that God can’t use us to minister to o
 13. What are the essential components of confessing our sin? If we are forgiven due to Christ’s death, why do we need to confess our sins?
 14. What role does faith play in feeling forgiven?
 15. Rationalizing, vowing to never commit the same sin again, and berating ourselves all are human attempts to feel forgiven. How?
-16. How is each a betrayal of faith? . It takes great courage for Peter to hear the painful truth from Jesus. It has been said that courage, or the lack of it, is what keeps us from repenting, growing in holiness, and feeling forgiven. Do you agree? If so, why? What was the most painful truth you’ve had to hear about yourself?
+16. How is each a betrayal of faith?
+
+Small Groups 17. It takes great courage for Peter to hear the painful truth from Jesus. It has been said that courage, or the lack of it, is what keeps us from repenting, growing in holiness, and feeling forgiven. Do you agree? If so, why? What was the most painful truth you’ve had to hear about yourself?
+
 18. Earlier, you wrote a list of things you were ashamed of. How has that list affected your relationship with God? Take that list and, if you haven’t already done so, go through the process of confession: Talk to God and own the sin; acknowledge that it was wrong. Thank God for His forgiveness. Turn from it and let it go. Ask the Spirit to be in control of this area of your life so that you might “leave your life of sin” (verse 11). After praying through those steps, write 1 John 1:9 across the paper, then tear it up and throw it away.
 
 ### Study 4: Bride by Design Self Worth
 
-Related Articles: M.A.C. and the Knife, Body Temple If you could create the perfect soul mate for yourself, what would he be like and look like? Read Colossians 1:16.
+Related Articles: M.A.C. and the Knife, Body Temple
+
+If you could create the perfect soul mate for yourself, what would he be like and look like?
+
+Read Colossians 1:16.
 
 1. What do you think it means that you were created by Christ, through Him, and for Him?
 2. What are the things that are uniquely you? What do you wish were different about your body or your personality and nature?
@@ -136,13 +163,15 @@ Read Psalm 139:13-16.
 9. Verse 14 says, “I know that full well” (another version says I know that “in my soul”), speaking of the fact that all God’s works are wonderful. What do you think it means to know something full well, or in your soul, as opposed to just knowing it?
 10. Does knowing in your soul that your body is a wonderful creation by Christ and for Him influence how you care for your body? Your eating habits? Rest? Exercise?
 
-. Is there any freedom or comfort or hope in the fact that all your days have been planned specifically for you before one of them came to be?
+Small Groups 11. Is there any freedom or comfort or hope in the fact that all your days have been planned specifically for you before one of them came to be?
 
 12. Take time to do exactly what verse 14 speaks of—praise God because you are fearfully and wonderfully made. In your journal, make a list of those things that are uniquely you—physically, personality, giftedness, even weaknesses and write a prayer of thanksgiving for those things. Take note of how God has used those things to build character, draw you to Himself, or help others.
 
 Study 5: Gripes, Complaints, and Compliments Worry and Distraction
 
-Related Articles: Waiting Room, All Worship Describe your relationship with God.
+Related Articles: Waiting Room, All Worship
+
+Describe your relationship with God.
 
 Read Luke 10:38-42.
 
@@ -162,16 +191,17 @@ Read Luke 10:38-42.
 11. Briefly read through Luke 11:1-13. It is not accidental that Luke puts this story next. What things do you see in Jesus’s teaching on prayer that could help Martha regain a proper focus?
 12. List some practical ways for you to deal with distractions and maintain your connection with Jesus.
 
+Small Groups
+
 ### Study 6: Lies that Bind Believing Lies
 
-Related Articles: Conflicts of Interest, God Fathers Have you ever believed something that later on you found out was not true? Had you made decisions or acted on that false information? Describe the situation.
+Related Articles: Conflicts of Interest, God Fathers
+
+Have you ever believed something that later on you found out was not true? Had you made decisions or acted on that false information? Describe the situation.
 
 Read Luke 4:1-13.
 
 1. Why does Satan choose this time to attack Jesus?
-2. When are you most vulnerable to believing lies?
-3. Jesus is tempted to meet His needs in a way that God had not sanctioned (verses 3-4). What area is the most difficult for you to wait on God and not provide for yourself?
-4. The temptation to take a shortcut to the cross was a real one (verses 5-6). Satan never shoots blanks. Write out five lies you are most prone to believe about yourself and others.
 5. Sometimes women’s lies follow familiar patterns. Nancy Leigh DeMoss lists these lies as some of the most common women believe:
 - God doesn’t love me.
 - God should fix my problems.
@@ -186,18 +216,25 @@ Read Luke 4:1-13.
 
 Which of these are you most prone to believe?
 
-6. What are some Scripture passages to combat the lies you believe?
-7. Jesus audibly speaks the scriptural truth in response to Satan’s lies (verse 8). Do you think there is any value in quoting Scripture and speaking the truth out loud or in a group? If so, what is it?
-8. When you shared what lies you believe, why do you think it made you feel better?
 9. The truth of Scripture is obviously the major way we combat lies. How else can we use truth as a defense?
 10. Sometimes believing a lie is a journey that starts with small steps that move away from the truth. In what ways do you begin to migrate from the truth?
 11. Jesus is tempted by Satan to ask God to prove His love and faithfulness, yet Jesus sees this as testing God (verse 9). Why?
 12. One of the most common lies we believe is that God doesn’t really love me as an individual. What are some legitimate ways to seek assurance of God’s love for you, and what are not?
+2. When are you most vulnerable to believing lies?
+3. Jesus is tempted to meet His needs in a way that God had not sanctioned (verses 3-4). What area is the most difficult for you to wait on God and not provide for yourself?
+4. The temptation to take a shortcut to the cross was a real one (verses 5-6). Satan never shoots blanks. Write out five lies you are most prone to believe about yourself and others.
+6. What are some Scripture passages to combat the lies you believe?
+7. Jesus audibly speaks the scriptural truth in response to Satan’s lies (verse 8). Do you think there is any value in quoting Scripture and speaking the truth out loud or in a group? If so, what is it?
+8. When you shared what lies you believe, why do you think it made you feel better?
 13. Spend some time journaling ways that you know that God loves you personally as well as addressing any of the other lies that you struggle with.
+
+Small Groups
 
 ### Study 7: Group Date Community and Accountability
 
-Related Articles: Love Story, part 2 Share something vulnerable about yourself that you have never shared with anyone before. Afterward, discuss: How did that feel? What were the risks involved?
+Related Articles: Love Story, part 2
+
+Share something vulnerable about yourself that you have never shared with anyone before. Afterward, discuss: How did that feel? What were the risks involved?
 
 We know from Mark’s account that when Jesus sent the disciples out to preach, heal, and cast out demons, He sent them out in pairs (Mark 6:7). Jesus knew the wisdom of community.
 
@@ -218,11 +255,15 @@ Read Ecclesiastes 4:9-12.
 13. Do you tend to be more grace oriented or more truth oriented?
 14. Hebrews 10:24 says, “Let us consider how we may spur one another on toward love and good deeds.”
 
-Who could you spur on? List three things you could do that would spur a friend on to love and good deeds. . Are you part of a healthy community of Christ followers? What is your part in creating and maintaining that community?
+Who could you spur on? List three things you could do that would spur a friend on to love and good deeds.
+
+Small Groups 15. Are you part of a healthy community of Christ followers? What is your part in creating and maintaining that community?
 
 ### Study 8: Love Connection Commitment
 
-Related Articles: Love Story, part 1 How would you define love?
+Related Articles: Love Story, part 1
+
+How would you define love?
 
 Read Luke 9:57-62.
 
@@ -238,7 +279,9 @@ Read Luke 9:57-62.
 10. Stagnancy is the death knell of a relationship. In what ways have you felt your marriage to Christ becoming stagnant? How have you tried to introduce life and passion into your relationship with Him?
 11. Sometimes married couples renew their vows in the course of their relationship. Reread the passages and review the things you’ve learned about Jesus and His character and nature throughout this study. As you’ve learned more about who He is and what a marriage commitment involves, write your own vows to recommit to your relationship with Him. Sign and date it.
 
-������������������������ Study 1: Quenched Satisfaction
+Small Groups
+
+### Study 1: Quenched Satisfaction
 
 Opening questions: Share some of your own examples to get the group going. Our dreams share common threads because we have similar core needs and desires.
 
@@ -255,7 +298,7 @@ Opening questions: Share some of your own examples to get the group going. Our d
 11. Share as a group.
 12. Jesus is extremely honest and genuinely interested in this woman’s life and well-being. He is not put off by her sin. He engages in her attempts at sidetracking the discussion.
 
-184 Small Groups Answer Guide . Have the group share. Don’t be afraid to ask “Why?” as people share their thoughts.
+Small Groups Answer Guide . Have the group share. Don’t be afraid to ask “Why?” as people share their thoughts.
 
 This is really the heart of the study, as it is meant to diagnose where people are getting their “water” and what their “water” is.
 
@@ -277,7 +320,10 @@ Opening questions: These are just to get the group going; they are not looking f
 10. Someday a man with whom you’ve been intimate may get married and belong to another. Sexual immorality, from this perspective, is like robbery—taking something that doesn’t belong to you.
 11. Discuss. (It might be nothing more than a kiss.)
 12. This is just for discussion. There are pros and cons to engaging an ex-boyfriend on this issue. It might be best left alone.
-13. The phrase contains a warning and an exhortation to be holy. This imperative to be holy, coupled with Paul’s reminder that God gives us His Holy Spirit, seems to be a reminder that we are to remember that the Spirit indwells our bodies, Answer Guide making sexual impurity unthinkable (hopefully). Also, it is the Spirit who gives us the power to remain pure.
+13. The phrase contains a warning and an exhortation to be holy. This imperative to be holy, coupled with Paul’s reminder that God gives us His Holy Spirit, seems to be a reminder that we are to remember that the Spirit indwells our bodies,
+
+Small Groups Answer Guide making sexual impurity unthinkable (hopefully). Also, it is the Spirit who gives us the power to remain pure.
+
 14. It is how God designed sex, and therefore, how it works best. Sex is a degree of intimacy best protected by the commitments of marriage. It also reflects our relationship with God, which is purity and intimacy reserved for God alone.
 15. Give people the freedom to discuss this. Basically, anything that begins to cause sexual arousal is stepping over the line of lust.
 16. This is for discussion, but look to see whether people have used the Scriptures to inform their standard.
@@ -298,7 +344,7 @@ Opening question: Part of the answer may be cultural: sexual sins bring the most
 8. Have the group share. Sometimes there are creative ideas that help us to digest God’s forgiveness.
 9. Jesus tells her to leave her life of sin because He knows how destructive it is both for her and for others involved. He doesn’t hate sin for the sake of hating it; He hates sin because it’s so damaging to those He loves.
 
-186 Small Groups Answer Guide . There is clearly a time when we come to Christ and leave our old life behind. This does not mean we never fall back into such sins. But the trajectory of our new life as a whole moves in a different direction.
+Small Groups Answer Guide . There is clearly a time when we come to Christ and leave our old life behind. This does not mean we never fall back into such sins. But the trajectory of our new life as a whole moves in a different direction.
 
 11. Jesus repeats the question three times because Peter denied him three times. This is an opportunity for confession, to repeat “I love you” for every time he had denied it. It is important to see that Jesus is helping Peter to feel forgiven and restored, not rubbing salt in a wound.
 12. Just prior to his betrayal, Peter claimed that even if all the disciples would fall away, he would not (Matt 26:33). Peter was claiming a greater level of commitment. Here, Jesus is reminding him that his true failure was not the denial but the pride that precipitated it.
@@ -314,8 +360,10 @@ Opening question: Part of the answer may be cultural: sexual sins bring the most
 Opening question: The first question is to identify with Christ in His abilities—to be able to create a person who would connect with you and accomplish your purposes.
 
 1. As far as being created by Him and through Him, there is evidence through this and other passages that Jesus’s primary role in Creation was to carry out the plans and direction of the Father (John 1:3; 1 Corinthians 8:6; Hebrews 1:12). As far as being for Him, the sole reason for our existence is to glorify Christ (in other words, it’s not about you; it’s all about Him).
-2. We all have things that we like about ourselves and things we wish we could change. Go around and share one of each. Be careful to distinguish between things that are physical characteristics, personality, gifts, and so on, and things that really are sin issues. For example, someone may wish she wasn’t so critical all the time. Really, that’s not so much a personality thing as a sin habit. It may actually be that she has the gift of prophecy or discernment but she has not learned to use that gift in the power of the Spirit. Answer Guide
-3. Discuss. There are no right answers.
+2. We all have things that we like about ourselves and things we wish we could change. Go around and share one of each. Be careful to distinguish between things that are physical characteristics, personality, gifts, and so on, and things that really are sin issues. For example, someone may wish she wasn’t so critical all the time. Really, that’s not so much a personality thing as a sin habit. It may actually be that she has the gift of prophecy or discernment but she has not learned to use that gift in the power of the Spirit.
+
+Small Groups Answer Guide 3. Discuss. There are no right answers.
+
 4. Maybe a person tends to be loud and gregarious. She could use that to gather people to help build community. Maybe a person has bad acne scars or some other imperfection. Those are the types of things that God allows so that He can meet you in your personal pain to connect with Him more intimately and He can be more manifest in your character.
 5. A bridegroom delights in every aspect of his bride—in her appearance, her quirkiness, her gifts and personality, her imperfections, her character. He longs to be with her, to look at her. He carries a picture with him always. He delights in showing her off. He wants to talk with her, share his life with her, and be a part of her life. He wants to know everything about her and be known by her.
 6. The answers should be the same as above. Discuss whether it is easy or difficult to believe that’s true.
@@ -335,7 +383,7 @@ Opening question: Let the group discuss. If people are having a hard time descri
 3. Discuss.
 4. As in the story of Lazarus, Martha does not settle for the status quo. She initiates and gets things done. Marthas accomplish a lot. The negatives can be having a lack of sensitivity and being prone to become too busy and driven.
 
-188 Small Groups Answer Guide 5. There are no right answers. You’re simply looking for people to identify when and how they experience stress and worry.
+Small Groups Answer Guide 5. There are no right answers. You’re simply looking for people to identify when and how they experience stress and worry.
 
 6. Discuss.
 7. The emphasis upon many things is in contrast to the one thing she has failed to do: spend time with Jesus. Jesus plainly tells her she has focused on the wrong thing.
@@ -355,7 +403,10 @@ Opening questions: Discuss as a group.
 4. Have people share with the group.
 5. Discuss. You might ask follow-up questions: In what ways do these lies affect you? On a scale from 1 to 10, how powerfully do you feel them?
 6. Have the group share. (You might spend some time before the study writing down some passages to common lies.)
-7. You aren’t looking for a “correct” answer. It might be a new idea for some that may be of Answer Guide benefit. There also may be some biblical support in that “faith comes through hearing the word of God” and that many times the Scriptures encourage the public reading of Scripture. (Romans 10:17)
+7. You aren’t looking for a “correct” answer. It might be a new idea for some that may be of
+
+Small Groups Answer Guide benefit. There also may be some biblical support in that “faith comes through hearing the word of God” and that many times the Scriptures encourage the public reading of Scripture. (Romans 10:17)
+
 8. An application of truth is bringing falsehood out of the darkness and into the light. In essence, that’s what took place. Lies lose power when they are exposed.
 9. Speak truthfully. Don’t manipulate. Be honest about our lives and feelings. Confess our sins to others. Avoid falsehood of any kind.
 10. Have everyone share.
@@ -375,7 +426,10 @@ Opening questions: as the leader be prepared to share first and create a comfort
 6. Among other things, other Christians can point us to the truth of God and are able to pray for us. Christian community is a place where we are encouraged to walk with God and where we are known by others. It is also a place where we get and give encouragement and learn about God.
 7. This is just an exercise. People might end up saying all kinds of ridiculous things, which is quite all right. It still serves the point that there is enjoyment and life in being known.
 8. Among other things, it involves biblical teaching, encouragement, honesty, and prayer.
-9. The focus of 1 John 1:9 is confessing to God and being cleansed. The focus of James 5:16 is confessing to others and getting better. 190 Small Groups Answer Guide . All of us will have to give an account someday before God. Relationships of accountability are ones where we’ve chosen to “give account to,” to agree to disclose our lives in total honesty. These relationships provide strength, prayer, help, and encouragement and ultimately enable us to give a good account before God.
+9. The focus of 1 John 1:9 is confessing to God and being cleansed. The focus of James 5:16 is confessing to others and getting better.
+
+Small Groups Answer Guide . All of us will have to give an account someday before God. Relationships of accountability are ones where we’ve chosen to “give account to,” to agree to disclose our lives in total honesty. These relationships provide strength, prayer, help, and encouragement and ultimately enable us to give a good account before God.
+
 11. E-mail or IM one another at night to keep each other accountable while on the computer. Meet regularly to discuss sexual struggles. Decide together on certain practices and standards to guard purity.
 12. Grace is expressing unconditional forgiveness. Truth means we ask difficult question, such as “What will you do differently so that this doesn’t happen again?” Truth is upholding standards, while grace grants forgiveness if standards are violated.
 13. People will tend more to one side or the other.
@@ -390,8 +444,10 @@ Opening question: Start your discussion with defining love, both as the world de
 2. Discuss and share.
 3. The obvious answer is the cross. Jesus gave His own life in exchange for ours. As marriage is for the long haul, so His commitment to us is an eternal commitment. Once we become a Christ follower, we are sealed with the Holy Spirit and cannot be lost (John 10:28-29). He chose us. He can only act in our best interests. He gives good gifts. Read Ephesians 1 and make a list of all that He’s done on our behalf. Have people share how they’ve experienced these things personally in their lives.
 4. Keeping His word, His commandments— basically, obedience.
-5. He and the Father will make their home with you and He will disclose Himself to you and the Father will love you. I don’t think that’s implying a conditional love on the Father’s part; I think it’s more about our experience of the Father’s love. In an experiential sense, the more we take steps of obedience out of love for the Father and Jesus, the more we understand their character and heart and the more we recognize their involvement in our lives. God does make Himself known to us more and more. Answer Guide
-6. Often people want to find a religion or something that meets their need and makes them feel good about themselves more than they want to find truth. As in dating, they want to keep their options open in case something better comes along. There is little or no commitment involved. Marriage, on the other hand, is a commitment based on love for the spouse. It is not about having needs met as much as it is about giving your life to another person.
+5. He and the Father will make their home with you and He will disclose Himself to you and the Father will love you. I don’t think that’s implying a conditional love on the Father’s part; I think it’s more about our experience of the Father’s love. In an experiential sense, the more we take steps of obedience out of love for the Father and Jesus, the more we understand their character and heart and the more we recognize their involvement in our lives. God does make Himself known to us more and more.
+
+Small Groups Answer Guide 6. Often people want to find a religion or something that meets their need and makes them feel good about themselves more than they want to find truth. As in dating, they want to keep their options open in case something better comes along. There is little or no commitment involved. Marriage, on the other hand, is a commitment based on love for the spouse. It is not about having needs met as much as it is about giving your life to another person.
+
 7. Dating is much more tentative and uncertain. There is a fear that the other person will leave you or fail you or hurt you. It feels more performance driven. You have to earn the other’s love and admiration. It’s an emotional roller coaster based on circumstances. Dating tends to be self -focused
 - is this right for me. Marriage is about sacrifice, giving yourself to another. A healthy marriage is secure. There’s freedom to completely be yourself. There will be hurts and disappointment, but not with fear of abandonment. You know that you will work things out. Marriage is more stable and consistent in spite of circumstances.
 8. Discuss and share.
@@ -399,4 +455,4 @@ Opening question: Start your discussion with defining love, both as the world de
 10. Discuss and share. Suggestions: Take a day with the Lord—just go somewhere with your Bible, pen, and journal and spend an extended period of time praying, worshiping, reading the Word, studying, journaling, and so on. Add variety to your daily time with the Lord: one day, write your own psalm; another, spend time meditating on a passage and journaling about how it applies to your life; another, go on a prayer walk. Have someone that you consistently talk to about your relationship with the Lord. If you are not doing so already, start praying for some specific things and keep track of how God answers. Share your ideas.
 11. This is a culmination of this study. I hope that through these articles and study times you have fallen more in love with Jesus and want to love Him by honoring Him with every area of your life, especially the areas of sexual purity and dating relationships. Hopefully, you’ve built enough community in your group that you each feel the freedom to share your vows with each other. You may want to come up with vows as a group and sign them together.
 
-192 Small Groups Answer Guide
+Small Groups Answer Guide

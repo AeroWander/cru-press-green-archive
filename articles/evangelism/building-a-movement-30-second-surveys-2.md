@@ -6,18 +6,24 @@ type: "Article"
 themes: ["Evangelism tools", "Outreach events & campaigns"]
 audience: ["Student leaders"]
 series: "Building a Movement"
-words: 3723
+words: 3995
 summary: "A how-to article on using short dinner-line and freshman surveys as an evangelism and contact-gathering tool during the first weeks of a school year. It explains how to design surveys (including sample questionnaires like QuEST and the One Minute Survey), gives campus examples (smoking questionnaires, freshman interviews, war surveys, prize incentives), and stresses timely follow-up to convert survey respondents into Bible study contacts."
 source: "godsquad/first six weeks/30-Second_Surveys.pdf"
 ---
 
-### Step 8 First Few Weeks
+## Building a Movement: 30-Second Surveys
+
+### Step 8
+
+### First Few Weeks
 
 Perhaps the most significant activity of these first few weeks is the Dinner-line/Freshman Survey.
 
 These are typically done in dinner lines at the various dining halls on campus. Though they take only a minute or so for a student to fill out as they wait in line, they provide a means for you to locate all of the incoming Christians as well as those Freshmen most open to hearing the gospel.
 
-Over the course of several days you can do hundreds, even thousands of these surveys, the result of which should be a couple hundred ‘hot contacts.” A hot contact is a person who has indicated that the spiritual area of life is very important to them; that they are potentially interested in a Bible Study; and provided some kind of contact information on the survey for you to get back in touch.
+Over the course of several days you can do hundreds, even thousands of these surveys, the result of which should be a couple hundred ‘hot contacts.”
+
+A hot contact is a person who has indicated that the spiritual area of life is very important to them; that they are potentially interested in a Bible Study; and provided some kind of contact information on the survey for you to get back in touch.
 
 If these contacts are personally followed-up within a week or two with a visit or phone call inviting them out to a Bible Study or Weekly Meeting, you can see some significant growth in your ministry in a very short time.
 
@@ -39,7 +45,11 @@ Surveys are most effectively used by individuals who see them as a way to build 
 
 Second, we ask about their values in light of the behavior just mentioned.
 
-Third, we ask, “What beliefs support their values?” Fourth, we ask, “Where do their beliefs come from?” There is no need to stick with the same survey week after week. It is very possible to design your survey to help you obtain information you want regarding your target audience. Each month of the year you could focus on a different survey topic (home life, aspirations, dating, stress, etc.) and have an evangelistic talk at the end of the month related to that topic.
+Third, we ask, “What beliefs support their values?”
+
+Fourth, we ask, “Where do their beliefs come from?”
+
+There is no need to stick with the same survey week after week. It is very possible to design your survey to help you obtain information you want regarding your target audience. Each month of the year you could focus on a different survey topic (home life, aspirations, dating, stress, etc.) and have an evangelistic talk at the end of the month related to that topic.
 
 Then, we transition by talking about what the Bible says about morality. We ask, “Would you mind hearing a brief presentation about being a true moral person?”
 
@@ -47,36 +57,64 @@ We then look to share a simple gospel presentation like “Knowing God Personall
 
 One ministry leader described their survey strategy this way:
 
-Our desire is to see what students are talking about There are an endless number of topics and current events on which to base your surveys. Here are a handful of ideas, tried on various campuses, to help stimulate your thinking. little booklet that explains the first steps of being the spiritual leader you were meant to be.” Smoking Questionnaire The ministry in Cincinnati Metro came up with a smoking questionnaire, used to approach smokers gathered for a “smoke break.” The survey included questions like why they smoked and how many cigarettes they smoked. The last question would turn the topic toward spiritual issues. One staff member commented, “It’s great because we found that most students don’t like the fact that they smoke. So the survey created a need in them.”
+Our desire is to see what students are talking about
 
-Freshmen Interviews Each year, Campus Crusade receives the freshmen list from Virginia Tech administration. Campus Crusade sends out a letter (approved by the university) to invite every freshman to complete a 12-question interview. Someone from Campus Crusade then sets up an appointment for the interview. Of the 12 questions, the last four are spiritually related. “We just listen and try to set up a second appointment to talk about the gospel,” says a staff member. For the last question, one might add, “We would love to talk more. Would you be willing to hear more about a relationship with God?” 100 Conversations At Dartmouth College, Campus Crusade led a two-week outreach called “100 Conversations.” The outreach was a simple challenge for the students to initiate with their peers and request a 45-minute, 12-question, spiritual perspective and interview with them. The interview discusses topics such as religious background, impressions of Christians, and the relevancy of God to deep needs.
+There are an endless number of topics and current events on which to base your surveys. Here are a handful of ideas, tried on various campuses, to help stimulate your thinking.
+
+Smoking Questionnaire The ministry in Cincinnati Metro came up with a smoking questionnaire, used to approach smokers gathered for a “smoke break.” The survey included questions like why they smoked and how many cigarettes they smoked. The last question would turn the topic toward spiritual issues. One staff member commented, “It’s great because we found that most students don’t like the fact that they smoke. So the survey created a need in them.”
+
+100 Conversations At Dartmouth College, Campus Crusade led a two-week outreach called “100 Conversations.” The outreach was a simple challenge for the students to initiate with their peers and request a 45-minute, 12-question, spiritual perspective and interview with them. The interview discusses topics such as religious background, impressions of Christians, and the relevancy of God to deep needs.
+
+Pencils Attached to Surveys At Southwest Missouri State, students filled out Campus Crusade surveys that registered them to win a $200 gift certificate to the mall. Pencils were attached to every survey to prevent students from having to wait in line. The winner for the gift certificate was announced at the weekly meeting. Other times during the year, Campus Crusade staff members reward students who complete a 15-minute survey with a $2 gift certificate to a local icecream shop.
+
+little booklet that explains the first steps of being the spiritual leader you were meant to be.”
+
+Freshmen Interviews Each year, Campus Crusade receives the freshmen list from Virginia Tech administration. Campus Crusade sends out a letter (approved by the university) to invite every freshman to complete a 12-question interview. Someone from Campus Crusade then sets up an appointment for the interview. Of the 12 questions, the last four are spiritually related. “We just listen and try to set up a second appointment to talk about the gospel,” says a staff member. For the last question, one might add, “We would love to talk more. Would you be willing to hear more about a relationship with God?”
 
 War Survey At Western Kentucky, one student developed a War Survey to find out what students were thinking about the war. The survey had questions like, “What do you think of it?” “Does your religious faith cause you to think a certain way about the war?”
 
-Pencils Attached to Surveys At Southwest Missouri State, students filled out Campus Crusade surveys that registered them to win a $200 gift certificate to the mall. Pencils were attached to every survey to prevent students from having to wait in line. The winner for the gift certificate was announced at the weekly meeting. Other times during the year, Campus Crusade staff members reward students who complete a 15-minute survey with a $2 gift certificate to a local icecream shop. Posting Results In Campus Newspaper To assess the spiritual climate on their campus, students at Ohio University surveyed 5,000 students in one week. Then a week before “Faith Week,” the college newspaper wrote an article posting the results of the survey.
+Posting Results In Campus Newspaper To assess the spiritual climate on their campus, students at Ohio University surveyed 5,000 students in one week. Then a week before “Faith Week,” the college newspaper wrote an article posting the results of the survey.
 
-Attached are some examples of printed surveys . . . Four-Question Men’s Survey At Boise State, one staff member designed a four-question survey just for men. The idea is not to rush through each question, but to engage in dialogue.
+Attached are some examples of printed surveys . . .
+
+Four-Question Men’s Survey At Boise State, one staff member designed a four-question survey just for men. The idea is not to rush through each question, but to engage in dialogue.
 
 1. What’s your definition of a man?
-2. Why is it that males lead in all areas of negative social behavior?” Between 80-90% of all crime is male related: drunk driving, domestic violence, divorce. The idea of the second question is to get the student thinking about sin.
+2. Why is it that males lead in all areas of negative social behavior?” Between 80-90% of all crime is male related: drunk driving, domestic violence, divorce. The idea of the A N D second question is to get the student thinking about sin.
 3. Do you think it is the responsibility for the man to initiate spiritual leadership with their wives or girlfriends?
 4. If so, then what does this spiritual leadership look like?
 
 If the timing is right, you can transition with this, “Another thing I share with people is a
 
-1. STUDENT LEADERSHIP QUESTIONNAIRE What motivated you to become an RA? 2. What qualities do you think make an individual a leader? 3. As a leader, what do you hope to accomplish in your lifetime? 4. People often follow the example set by others. Is there someone who has served as a model leader for you? (Who? How?) 5. In your opinion, what are the major problems confronting students today? 6. From your perspective, what do you feel are some solutions to these problems? As a Christian organization the following questions are of special interest to us. 7. Do you feel that the spiritual aspect is important to the overall development of an individual? (Why or why not?) 8. What qualities of leadership do you think Christ exemplified? 9. Do you think Jesus Christ offers anything to students today? If so, what? 10. What are some suggestions you could give us as far as helping meet students’ need specifically in the spiritual area of life? 11. Are you familiar with the information we share with a student who has indicated a desire to know more about Christ?
+### Student Leadership Questionnaire
 
-1 What three words would you use to describe your life? 1 What three words would you use to describe your life? 2 What single thing do you want to make absolutely sure
+### 1. What motivated you to become an RA?
+
+### 2. What qualities do you think make an individual a leader?
+
+3. As a leader, what do you hope to accomplish in your lifetime?
+
+4. People often follow the example set by others. Is there someone who has served as a model leader for you? (Who? How?)
+
+5. In your opinion, what are the major problems confronting students today?
+
+6. From your perspective, what do you feel are some solutions to these problems?
+
+As a Christian organization the following questions are of special interest to us. 7. Do you feel that the spiritual aspect is important to the overall development of an individual? (Why or why not?)
+
+### 8. What qualities of leadership do you think Christ exemplified?
+
+9. Do you think Jesus Christ offers anything to students today? If so, what?
+
+10. What are some suggestions you could give us as far as helping meet students’ need specifically in the spiritual area of life?
+
+11. Are you familiar with the information we share with a student who has indicated a desire to know more about Christ?
+
+Life
+
+1 What three words would you use to describe your life? 2 What single thing do you want to make absolutely sure
 
 you do during your lifetime, if at all possible?
-
-2 What single thing do you want to make absolutely sure
-
-you do during your lifetime, if at all possible?
-
-3 What happens after death? Clarifying Questions: If they believe in
-
-heaven, ask if they also believe in hell. If they believe in some form of continuing existence, ask who or what determines what a person will experience.
 
 3 What happens after death? Clarifying Questions: If they believe in
 
@@ -86,6 +124,20 @@ heaven, ask if they also believe in hell. If they believe in some form of contin
 
 a Christian, but I don’t know how.” What would you tell your friend? Assume your friend wants you to answer the question, not be sent to a priest, minister or someone else.
 
+5 On a scale from 1 to 10, rate your desire to know God.
+
+(1 is low/10 is high)
+
+Life
+
+1 What three words would you use to describe your life? 2 What single thing do you want to make absolutely sure
+
+you do during your lifetime, if at all possible?
+
+3 What happens after death? Clarifying Questions: If they believe in
+
+heaven, ask if they also believe in hell. If they believe in some form of continuing existence, ask who or what determines what a person will experience.
+
 4 Your best friend comes to you and says, “I want to become
 
 a Christian, but I don’t know how.” What would you tell your friend? Assume your friend wants you to answer the question, not be sent to a priest, minister or someone else.
@@ -94,15 +146,15 @@ a Christian, but I don’t know how.” What would you tell your friend? Assume 
 
 (1 is low/10 is high)
 
-5 On a scale from 1 to 10, rate your desire to know God.
+is a nationally sponsored Campus Crusade for Christ research project.Copyright 2005, Campus Crusade for Christ, Inc.><Qu EST (Questions Exploring Students’ Thinking)is a nationally sponsored Campus Crusade for Christ research project.><Copyright 2005, Campus Crusade for Christ, Inc.
 
-(1 is low/10 is high)
+Qu EST (Questions Exploring Students’ Thinking)
 
-Qu EST (Questions Exploring Students’ Thinking) is a nationally sponsored Campus Crusade for Christ research project.
+# on life and God.
 
-Copyright 2005, Campus Crusade for Christ, Inc. is a nationally sponsored Campus Crusade for Christ research project.
+QuEST (Questions Exploring Students’ Thinking) is a nationally sponsored Campus Crusade for Christ research project. QuEST interviews explore the spiritual journeys of students, gathering information about their thoughts
 
-QuEST (Questions Exploring Students’ Thinking) is a nationally sponsored Campus Crusade for Christ research project. QuEST interviews explore the spiritual journeys of students, gathering information about their thoughts on life and God.
+Life
 
 Using Qu EST is as easy as 1-2-3! 1 What three words would you use to describe your life?
 
@@ -110,156 +162,177 @@ BEFORE THE Qu EST INTERVIEW
 
 2 What single thing do you want to make absolutely sure
 
-you do during your lifetime, if at all possible? PRAY In Colossians 4:2-4, Paul wrote, “Devote yourselves to prayer, being watchful and thankful. And pray for us, too, that God may open a door for our message, so that we may proclaim the mystery of Christ, for which I am
+PRAY you do during your lifetime, if at all possible? In Colossians 4:2-4, Paul wrote, “Devote yourselves to prayer, being watchful and thankful. And pray for us, too, that God may open a door for
 
 3 What happens after death? Clarifying Questions: If they believe in
 
-in chains. Pray that I may proclaim it clearly, as I should” (NIV). Pray for God to open doors for significant conversations. heaven, ask if they also believe in hell. If they believe in some form of continuing existence, ask who or what determines what a person will experience.
+our message, so that we may proclaim the mystery of Christ, for which I am in chains. Pray that I may proclaim it clearly, as I should” (NIV). Pray for God to open doors for significant conversations. heaven, ask if they also believe in hell. If they believe in some form of continuing existence, ask who or what determines what a person PREPARE will experience.
 
-PREPARE Reproduce both sides of the QuEST forms.
+Reproduce both sides of the QuEST forms.
 
 4 Your best friend comes to you and says, “I want to become
 
-a Christian, but I don’t know how.” What would you tell your friend? Assume your friend wants you to answer the question, not be sent to a priest, minister or someone else. DURING THE Qu EST INTERVIEW
+DURING THE Qu EST INTERVIEW a Christian, but I don’t know how.” What would you tell your friend? Assume your friend wants you to answer the question, not INTRODUCE When initiating an informal interview, a sample introduction could be: be sent to a priest, minister or someone else. “Hi, my name is _______. I’m involved with ______. We are helping with a
 
 5 On a scale from 1 to 10, rate your desire to know God.
 
+national research project called QuEST. QuEST explores students’ thoughts about life and spiritual issues. Would you be willing to help us out and give us your thoughts?”
+
 (1 is low/10 is high)
 
-INTRODUCE When initiating an informal interview, a sample introduction could be: “Hi, my name is _______. I’m involved with ______. We are helping with a national research project called QuEST. QuEST explores students’ thoughts about life and spiritual issues. Would you be willing to help us out and give us your thoughts?”
+INTERVIEW
 
-INTERVIEW Use the front of the QuEST form as an interview. Use possible answers as a prompt only if needed.
+is a nationally sponsored Campus Crusade for Christ research project.><Copyright 2005, Campus Crusade for Christ, Inc.
 
-Qu EST (Questions Exploring Students’ Thinking) Copyright 2005, Campus Crusade for Christ, Inc. is a nationally sponsored Campus Crusade for Christ research project.
+Use the front of the QuEST form as an interview. Use possible answers as a prompt only if needed.
 
-(continued on back)
-
-### Campus Crusade for Christ – One Minute Survey
-
-Name _________________________________________ Phone ____________________________________ E-mail ____________________________________________________________________________________ 1. How important is the spiritual part of life to you? not at all somewhat very 2. What best describes your religious beliefs? _____ Atheist ______ Buddhist _______ Muslim _____ Non-religious ______ Christian ( ) _______ Hindu _____ Jewish ______ Other ( )
-
-3. Would you be interested in talking with someone about how you can have a personal relationship with God? YES _________ NO _________ MAYBE ________ 4. Would you be interested in attending a small group bible study with other students here? YES _________ NO _________ 5. Are you a Christian who can help us launch a new Campus Crusade for Christ ministry here? _____ Yes I am – please call me _____ I might be interested in coming _____ Nope…not for me
+Qu EST (Questions Exploring Students’ Thinking) (continued on back)
 
 ### Campus Crusade for Christ – One Minute Survey
 
-Name _________________________________________ Phone ____________________________________ E-mail ____________________________________________________________________________________ 1. How important is the spiritual part of life to you? not at all somewhat very 2. What best describes your religious beliefs? _____ Atheist ______ Buddhist _______ Muslim _____ Non-religious ______ Christian ( ) _______ Hindu _____ Jewish ______ Other ( )
+Name _________________________________________ Phone ____________________________________
 
-3. Would you be interested in talking with someone about how you can have a personal relationship with God? YES _________ NO _________ MAYBE ________ 4. Would you be interested in attending a small group bible study with other students here? YES _________ NO _________ 5. Are you a Christian who can help us launch a new Campus Crusade for Christ ministry here? _____ Yes I am – please call me _____ I might be interested in coming _____ Nope…not for me
+E-mail ____________________________________________________________________________________
+
+How important is the spiritual part of life to you? not at all somewhat very
+
+2. What best describes your religious beliefs? _____ Atheist ______ Buddhist _______ Muslim _____ Non-religious ______ Christian ( ) _______ Hindu _____ Jewish ______ Other ( )
+3. Would you be interested in talking with someone about how you can have a personal relationship with God? YES _________ NO _________ MAYBE ________
+4. Would you be interested in attending a small group bible study with other students here? YES _________ NO _________
+5. Are you a Christian who can help us launch a new Campus Crusade for Christ ministry here? _____ Yes I am – please call me _____ I might be interested in coming _____ Nope…not for me
+
+### Campus Crusade for Christ – One Minute Survey
+
+Name _________________________________________ Phone ____________________________________
+
+E-mail ____________________________________________________________________________________
+
+How important is the spiritual part of life to you? not at all somewhat very
+
+2. What best describes your religious beliefs? _____ Atheist ______ Buddhist _______ Muslim _____ Non-religious ______ Christian ( ) _______ Hindu _____ Jewish ______ Other ( )
+3. Would you be interested in talking with someone about how you can have a personal relationship with God? YES _________ NO _________ MAYBE ________
+4. Would you be interested in attending a small group bible study with other students here? YES _________ NO _________
+5. Are you a Christian who can help us launch a new Campus Crusade for Christ ministry here? _____ Yes I am – please call me _____ I might be interested in coming _____ Nope…not for me
 
 [ 6 Easy Questions ]
 
-This questionnaire is designed to measure the degree of spiritual interest in students’ lives. For our purpose, ‘spiritual’ is defined as a person’s own relationship with God and not necessarily his or her involvement in any organization or institution. One intention of the Campus Crusade for Christ student group on this campus is to promote an awareness of the spiritual dimension of life. We would appreciate the opportunity to meet you in the next few weeks to discuss some ideas about the Christian life.
+This questionnaire is designed to measure the degree of spiritual interest in students’ lives. For our purpose, ‘spiritual’ is defined as a person’s own relationship with God and not necessarily his or her involvement in any organization or institution.
+
+One intention of the Campus Crusade for Christ student group on this campus is to promote an awareness of the spiritual dimension of life. We would appreciate the opportunity to meet you in the next few weeks to discuss some ideas about the Christian life.
 
 1. Year in school (circle one): fr so jr sr | Grad.
 2. At present, how important is your spiritual life? Very Somewhat Not
 3. The Bible is relevant to my life:
 
-Always Sometimes Never 4) I would like to know how I can know God personally. Yes Maybe No Already do 5) I would like to know about the LifeSkills or small groups. Yes Maybe No 6) I would like to know more about the weekly fellowship meeting of Campus Crusade for Christ.
+Always Sometimes Never
 
-Yes Maybe No Name _______________________________ Phone ________________ Res. Hall/Address ____________________________________________ Email Address __________________________ Greek chapter ________ Athletic team ________________ Best time to call: _______ am | pm sponsored by Campus Crusade for Christ.
+4. I would like to know how I can know God personally. Yes Maybe No Already do
+5. I would like to know about the LifeSkills or small groups. Yes Maybe No
+6. I would like to know more about the weekly fellowship meeting of Campus Crusade for Christ.
+
+Yes Maybe No
+
+Name _______________________________ Phone ________________
+
+Res. Hall/Address ____________________________________________
+
+Email Address __________________________ Greek chapter ________
+
+Athletic team ________________ Best time to call: _______ am | pm sponsored by Campus Crusade for Christ.
 
 [ 6 Easy Questions ]
 
-This questionnaire is designed to measure the degree of spiritual interest in students’ lives. For our purpose, ‘spiritual’ is defined as a person’s own relationship with God and not necessarily his or her involvement in any organization or institution. One intention of the Campus Crusade for Christ student group on this campus is to promote an awareness of the spiritual dimension of life. We would appreciate the opportunity to meet you in the next few weeks to discuss some ideas about the Christian life.
+This questionnaire is designed to measure the degree of spiritual interest in students’ lives. For our purpose, ‘spiritual’ is defined as a person’s own relationship with God and not necessarily his or her involvement in any organization or institution.
+
+One intention of the Campus Crusade for Christ student group on this campus is to promote an awareness of the spiritual dimension of life. We would appreciate the opportunity to meet you in the next few weeks to discuss some ideas about the Christian life.
 
 1. Year in school (circle one): fr so jr sr | Grad.
 2. At present, how important is your spiritual life? Very Somewhat Not
 3. The Bible is relevant to my life:
 
-Always Sometimes Never 4) I would like to know how I can know God personally. Yes Maybe No Already do 5) I would like to know about the LifeSkills or small groups. Yes Maybe No 6) I would like to know more about the weekly fellowship meeting of Campus Crusade for Christ.
+Always Sometimes Never
 
-Yes Maybe No Name _______________________________ Phone ________________ Res. Hall/Address ____________________________________________ Email Address __________________________ Greek chapter ________ Athletic team ________________ Best time to call: _______ am | pm sponsored by Campus Crusade for Christ.
+4. I would like to know how I can know God personally. Yes Maybe No Already do
+5. I would like to know about the LifeSkills or small groups. Yes Maybe No
+6. I would like to know more about the weekly fellowship meeting of Campus Crusade for Christ.
+
+Yes Maybe No
+
+Name _______________________________ Phone ________________
+
+Res. Hall/Address ____________________________________________
+
+Email Address __________________________ Greek chapter ________
+
+Athletic team ________________ Best time to call: _______ am | pm sponsored by Campus Crusade for Christ.
 
 How would you complete the following statements? How would you complete the following statements? Note to interviewer: Do not show the possible answers. They are for recording purposes only. Note to interviewer: Do not show the possible answers. They are for recording purposes only.
 
-1 The most important thing to me in life right now is:
+1 The most important thing to me in life right now is: 1 The most important thing to me in life right now is:
 
-Good relationships Setting myself up to get a good job Being fulfilled Being a kind and loving person Finding a life partner God, spiritual things Other ____________
-
-### 2 In my spiritual journey I’ve tried
-
-Meditation Buddhism Christianity Prayer Wicca Islam Hinduism Atheism Nothing Other ____________
-
-### 3 This search left me feeling
-
-Satisfied Disappointed Fulfilled Confused Empty Still searching Other ____________
-
-### 4 Currently, the importance of my spiritual life is
-
-High Somewhat Not at all
-
-5 On a scale from 1 to 10 (1 is low/10 is high), my desire to
-
-know God is____________.
-
-1 The most important thing to me in life right now is:
-
-Good relationships Setting myself up to get a good job Being fulfilled Being a kind and loving person Finding a life partner God, spiritual things Other ____________
+Good relationships Setting myself up to get a good job Good relationships Setting myself up to get a good job Being fulfilled Being a kind and loving person Being fulfilled Being a kind and loving person Finding a life partner God, spiritual things Finding a life partner God, spiritual things Other ____________ Other ____________
 
 ### 2 In my spiritual journey I’ve tried
 
-Meditation Buddhism Christianity Prayer Wicca Judaism Islam Hinduism Atheism Nothing Other ____________
+Meditation Buddhism Christianity Prayer Meditation Buddhism Christianity Prayer Wicca Islam Hinduism Wicca Judaism Islam Hinduism Atheism Nothing Other ____________ Atheism Nothing Other ____________
 
 ### 3 This search left me feeling
 
-Satisfied Disappointed Fulfilled Confused Empty Still searching Other ____________
+Satisfied Disappointed Fulfilled Satisfied Disappointed Fulfilled Confused Empty Still searching Confused Empty Still searching Other ____________ Other ____________
 
 ### 4 Currently, the importance of my spiritual life is
 
-High Somewhat Not at all
+High Somewhat Not at all High Somewhat Not at all
 
-5 On a scale from 1 to 10 (1 is low/10 is high), my desire to
+5 On a scale from 1 to 10 (1 is low/10 is high), my desire to 5 On a scale from 1 to 10 (1 is low/10 is high), my desire to
 
-know God is____________.
+know God is____________. know God is____________.
 
-Qu EST (Questions Exploring Students’ Thinking) Copyright 2005, Campus Crusade for Christ, Inc. is a nationally sponsored Campus Crusade for Christ research project.
+is a nationally sponsored Campus Crusade for Christ research project.><Copyright 2005, Campus Crusade for Christ, Inc. is a nationally sponsored Campus Crusade for Christ research project.><Copyright 2005, Campus Crusade for Christ, Inc.
 
-Qu EST (Questions Exploring Students’ Thinking) Copyright 2005, Campus Crusade for Christ, Inc. is a nationally sponsored Campus Crusade for Christ research project.
+Qu EST (Questions Exploring Students’ Thinking) Qu EST (Questions Exploring Students’ Thinking)
 
-QuEST (Questions Exploring Students’ Thinking) is a nationally sponsored Campus Crusade for Christ research project. QuEST interviews explore the spiritual journeys of students, gathering information about their thoughts on life and God.
+QuEST (Questions Exploring Students’ Thinking) is a nationally sponsored Campus Crusade for Christ research project. QuEST interviews explore the spiritual journeys of students, gathering information about their thoughts
 
 Using Qu EST is as easy as 1-2-3!
 
 How would you complete the following statements? Note to interviewer: Do not show the possible answers. They are for recording purposes only. BEFORE THE Qu EST INTERVIEW
 
->< 1 The most important thing to me in life right now is:
+1 The most important thing to me in life right now is:
 
-Good relationships Setting myself up to get a good job Being fulfilled Being a kind and loving person Finding a life partner God, spiritual things Other ____________
+PRAY In Colossians 4:2-4, Paul wrote, “Devote yourselves to prayer, beingwatchful and thankful. And pray for us, too, that God may open a door for Good relationships Setting myself up to get a good job Being fulfilled Being a kind and loving person our message, so that we may proclaim the mystery of Christ, for which I am Finding a life partner God, spiritual things in chains. Pray that I may proclaim it clearly, as I should” (NIV). Pray for God Other ____________
 
 ### 2 In my spiritual journey I’ve tried
 
-Meditation Buddhism Christianity Prayer Wicca Judaism Islam Hinduism Atheism Nothing Other ____________
+to open doors for significant conversations.
+
+PREPARE Meditation Buddhism Christianity Prayer Reproduce both sides of the QuEST forms.
+
+Wicca Judaism Islam Hinduism
 
 ### 3 This search left me feeling
 
-Satisfied Disappointed Fulfilled Confused Empty Still searching Other ____________
+Atheism Nothing Other ____________ DURING THE Qu EST INTERVIEW Satisfied Disappointed Fulfilled Confused Empty Still searching INTRODUCE Other ____________ When initiating an informal interview, a sample introduction could be:
 
 ### 4 Currently, the importance of my spiritual life is
 
-High Somewhat Not at all
+“Hi, my name is _______. I’m involved with ______. We are helping with a national research project called QuEST. QuEST explores students’ thoughts High Somewhat Not at all about life and spiritual issues. Would you be willing to help us out and give
 
 5 On a scale from 1 to 10 (1 is low/10 is high), my desire to
 
+us your thoughts?”
+
 know God is____________.
 
-PRAY In Colossians 4:2-4, Paul wrote, “Devote yourselves to prayer, being watchful and thankful. And pray for us, too, that God may open a door for our message, so that we may proclaim the mystery of Christ, for which I am in chains. Pray that I may proclaim it clearly, as I should” (NIV). Pray for God to open doors for significant conversations. PREPARE Reproduce both sides of the QuEST forms.
+INTERVIEW
 
-DURING THE Qu EST INTERVIEW INTRODUCE When initiating an informal interview, a sample introduction could be: “Hi, my name is _______. I’m involved with ______. We are helping with a national research project called QuEST. QuEST explores students’ thoughts about life and spiritual issues. Would you be willing to help us out and give us your thoughts?”
+is a nationally sponsored Campus Crusade for Christ research project.><Copyright 2005, Campus Crusade for Christ, Inc.
 
-INTERVIEW Use the front of the QuEST form as an interview. Use possible answers as a Qu EST (Questions Exploring Students’ Thinking) Copyright 2005, Campus Crusade for Christ, Inc. is a nationally sponsored Campus Crusade for Christ research project.
+Use the front of the QuEST form as an interview. Use possible answers as a prompt only if needed.
 
-prompt only if needed. (continued on back)
+Qu EST (Questions Exploring Students’ Thinking)
 
-We’d like your Opinion...
-
-... on relationships...
-
-1. Are you exclusively dating someone now? __yes __no If so, are you content with that relationship? __yes __no __maybe
-2. What is the most important component in a healthy dating relation-ship? __unconditional love __trust __honesty __companionship __great sex __commitment
-3. Have you ever been in a relationship where someone has loved you in a way that was completely unselfish and unconditional? __yes __no
-4. Do you believe that a person is capable of giving complete, perfect, and unconditional love? __yes __no __maybe
-5. If we (Campus Crusade for Christ) were to hold a discussion group type meeting in your dorm on relationships, dating, love, would you be interested in attending? __yes __no __maybe
-6. If you could know God (who IS able to love you unconditionally and perfectly) personally, would you be interested? __yes __no __maybe Name ____________________________ Phone ________________ Res. Hall/Address _________________________________________ Email Address _______________________ Greek chapter ________ Athletic team ______________ Best time to call: _______ am | pm sponsored by Campus Crusade for Christ.
+(continued on back)
 
 We’d like your Opinion...
 
@@ -270,7 +343,34 @@ We’d like your Opinion...
 3. Have you ever been in a relationship where someone has loved you in a way that was completely unselfish and unconditional? __yes __no
 4. Do you believe that a person is capable of giving complete, perfect, and unconditional love? __yes __no __maybe
 5. If we (Campus Crusade for Christ) were to hold a discussion group type meeting in your dorm on relationships, dating, love, would you be interested in attending? __yes __no __maybe
-6. If you could know God (who IS able to love you unconditionally and perfectly) personally, would you be interested? __yes __no __maybe Name ____________________________ Phone ________________ Res. Hall/Address _________________________________________ Email Address _______________________ Greek chapter ________ Athletic team ______________ Best time to call: _______ am | pm sponsored by Campus Crusade for Christ.
+6. If you could know God (who IS able to love you unconditionally and perfectly) personally, would you be interested? __yes __no __maybe
+
+Name ____________________________ Phone ________________
+
+Res. Hall/Address _________________________________________
+
+Email Address _______________________ Greek chapter ________
+
+Athletic team ______________ Best time to call: _______ am | pm sponsored by Campus Crusade for Christ.
+
+We’d like your Opinion...
+
+... on relationships...
+
+1. Are you exclusively dating someone now? __yes __no If so, are you content with that relationship? __yes __no __maybe
+2. What is the most important component in a healthy dating relation-ship? __unconditional love __trust __honesty __companionship __great sex __commitment
+3. Have you ever been in a relationship where someone has loved you in a way that was completely unselfish and unconditional? __yes __no
+4. Do you believe that a person is capable of giving complete, perfect, and unconditional love? __yes __no __maybe
+5. If we (Campus Crusade for Christ) were to hold a discussion group type meeting in your dorm on relationships, dating, love, would you be interested in attending? __yes __no __maybe
+6. If you could know God (who IS able to love you unconditionally and perfectly) personally, would you be interested? __yes __no __maybe
+
+Name ____________________________ Phone ________________
+
+Res. Hall/Address _________________________________________
+
+Email Address _______________________ Greek chapter ________
+
+Athletic team ______________ Best time to call: _______ am | pm sponsored by Campus Crusade for Christ.
 
 ### How’s Your Love Life?
 
@@ -282,7 +382,15 @@ A survey on relationships.
 4. Do you think marriage should be for life? __yes __no __maybe
 5. Do you think spirituality affects sex and dating relationships? __yes __no __maybe
 6. Would you be interested in receiving more information about sex and dating, and how the spiritual dimension of life affects these two areas? __yes __no __maybe
-7. Would you be interested in receiving information about an on-campus Bible study? __yes __no __maybe Name ____________________________ Phone ________________ Res. Hall/Address _________________________________________ Email Address _______________________ Greek chapter ________ Athletic team ______________ Best time to call: _______ am | pm sponsored by Campus Crusade for Christ.
+7. Would you be interested in receiving information about an on-campus Bible study? __yes __no __maybe
+
+Name ____________________________ Phone ________________
+
+Res. Hall/Address _________________________________________
+
+Email Address _______________________ Greek chapter ________
+
+Athletic team ______________ Best time to call: _______ am | pm sponsored by Campus Crusade for Christ.
 
 ### How’s Your Love Life?
 
@@ -294,4 +402,12 @@ A survey on relationships.
 4. Do you think marriage should be for life? __yes __no __maybe
 5. Do you think spirituality affects sex and dating relationships? __yes __no __maybe
 6. Would you be interested in receiving more information about sex and dating, and how the spiritual dimension of life affects these two areas? __yes __no __maybe
-7. Would you be interested in receiving information about an on-campus Bible study? __yes __no __maybe Name ____________________________ Phone ________________ Res. Hall/Address _________________________________________ Email Address _______________________ Greek chapter ________ Athletic team ______________ Best time to call: _______ am | pm sponsored by Campus Crusade for Christ.
+7. Would you be interested in receiving information about an on-campus Bible study? __yes __no __maybe
+
+Name ____________________________ Phone ________________
+
+Res. Hall/Address _________________________________________
+
+Email Address _______________________ Greek chapter ________
+
+Athletic team ______________ Best time to call: _______ am | pm sponsored by Campus Crusade for Christ.

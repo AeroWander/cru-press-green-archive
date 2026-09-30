@@ -6,25 +6,21 @@ type: "Article"
 themes: ["Small groups", "Personal evangelism & gospel conversations", "Bible study & interpretation"]
 audience: ["Small-group leaders"]
 series: "SomeTime"
-words: 1372
+words: 1413
 summary: "A near-duplicate leader's guide for the first session of the SomeTime Bible study series, based on Acts 17:13-33 (Paul in Athens), covering the same review, discussion, and idolatry-focused application questions as the \"week 1\" version, ending with a prompt for the group to pray for specific friends."
 source: "some time/week0.pdf"
 also_filed: ["some time/week 1.pdf"]
 ---
 
-Ask Bible Study Series Week One: Paul's Distress Note to the Leader
+## ASK
+
+## Bible Study Series Week One: Paul's Distress
+
+## Note to the Leader
 
 You will not be introducing SomeTime to your group during this study. You will be introducing SomeTime during your next gathering.
 
-1. What stood out to you from this passage?
-2. When Paul was in Athens, what did Paul see that ignited the events of this passage?
-- A city full of idols.
-
 Also, do not skip the last question: “Who do you think God might be prompting you to pray for?” Highlight it. Star it. Circle it. It’s really important that your group begins praying for friends, co-workers, classmates, or family.
-
-3. What did Paul feel when he saw Athens with all its idols?
-- He felt deeply troubled, greatly distressed, provoked.
-- His emotions were a complex mix of indignation and compassion.
 
 ## Connect
 
@@ -38,6 +34,12 @@ Introduction: The book of Acts can be viewed as an extension of the Gospel of Lu
 
 Read Acts 17:13-33 (See “Reference Guide” on the last page for further meaning of main terms.)
 
+1. What stood out to you from this passage?
+2. When Paul was in Athens, what did Paul see that ignited the events of this passage?
+- A city full of idols.
+3. What did Paul feel when he saw Athens with all its idols?
+- He felt deeply troubled, greatly distressed, provoked.
+- His emotions were a complex mix of indignation and compassion.
 4. Why do you think Paul felt the way he did?
 - The Athenians simply didn’t know the real, true God who loved them and died for them (v22-23)
 - Paul longed for the Athenians to worship God in truth (v23-31).
@@ -96,6 +98,8 @@ Epicureanism: A school of philosophy advanced by Epicurus that considered happin
 
 Stoicism: A school of philosophy founded by Zeno. Stoics taught that the practice of virtue was the first duty of man, and that the only real things are those that bodily senses can perceive. Stoics were materialists. As far as religious belief was concerned, they were pantheists, holding that all things come from God and will be at last absorbed into him again. (Personal immortality was not part of Stoic philosophy.) They were also fatalists, holding that the universe is governed by absolutely fixed laws, and that the private needs of individuals are of no concern to Providence. The way for the individual to be happy was to bring himself into harmony with the course of the universe.
 
-Idle Babbler: This term was originally used in reference to birds picking up seed. Athenians applied this name to those who made their living by picking up and selling scraps found in the market place. Here it is applied to Paul as a "fellow with scraps of learning." Areopagus (Or “the Council of the Areopagus”): This was a court named after the hill on which it had once met. Paul was not formally tried before this court (which several centuries earlier had condemned Socrates), but he was informally required to give an account of his teaching.
+Idle Babbler: This term was originally used in reference to birds picking up seed. Athenians applied this name to those who made their living by picking up and selling scraps found in the market place. Here it is applied to Paul as a "fellow with scraps of learning."
+
+Areopagus (Or “the Council of the Areopagus”): This was a court named after the hill on which it had once met. Paul was not formally tried before this court (which several centuries earlier had condemned Socrates), but he was informally required to give an account of his teaching.
 
 - Stetzer, Stanley & Hayes, Lost and Found, (2009) page 36

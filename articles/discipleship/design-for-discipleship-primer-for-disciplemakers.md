@@ -15,8 +15,6 @@ This 20-page, full-color booklet thoroughly, thoughtfully, and biblically explai
 
 ## Discipleship
 
-By Keith Davy
-
 A s Ch r ist’s fol low er s, we have a job to do. Jesus made that clear for us before he left. In his last moments with the first followers, he gave these instructions: “All authority in heaven and on earth has been given to me. Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, and teaching them to obey everything I have commanded you. And surely I am with you always, to the very end of the age” (Matthew 28:18-20). At the heart of these three sentences is a clear and simple assignment: “Go and make disciples of all nations.”
 
 Disciple making is the work that Christ, with unrivaled authority, has commanded to be done.

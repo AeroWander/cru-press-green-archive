@@ -522,7 +522,9 @@ TELL:  Am committed to encourage people to do this despite their natural tend
 
 Group Discussion Outline CONNECT with needs:
 
-- Find out how they are doing. • Pray for wisdom from God for the session. • Start by stating: “Relationships thrive on acceptance and assurance.”
+- Find out how they are doing.
+- Pray for wisdom from God for the session.
+- Start by stating: “Relationships thrive on acceptance and assurance.”
 
 Then, surface experiences:
 
@@ -569,7 +571,8 @@ booklet at this point.
 
 TELL someone they know:
 
-- Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three,
+- Ask whom they know who might be interested in hearing about what they are learning.
+- Have them write the name after “person to tell.” Then, in groups of two or three,
 
 have them share whom they plan to tell. Finally, have them pray for one another.
 
@@ -611,7 +614,8 @@ Transition to the Bible by saying, “So it is in a relationship with God.”
 
 HEAR what God says:
 
-- Read (or tell) a Bible story/passage related to the topic: • Choices: Luke 7:36-50 (story); 1 John: 1:9-2:2; Ephesians 3:11,12; (Two of these
+- Read (or tell) a Bible story/passage related to the topic:
+- Choices: Luke 7:36-50 (story); 1 John: 1:9-2:2; Ephesians 3:11,12; (Two of these
 
 passages may be enough to cover in one session.)
 
@@ -643,7 +647,8 @@ Have them write down that specific “action to take.” Then in groups of two o
 
 have them share what action they plan to take. Finally, have them pray for one another. TELL someone they know:
 
-- Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three,
+- Ask whom they know who might be interested in hearing about what they are learning.
+- Have them write the name after “person to tell.” Then, in groups of two or three,
 
 have them share whom they plan to tell. Finally, have them pray for one another.
 
@@ -687,7 +692,8 @@ Transition to the Bible by saying, “So it is in a relationship with God.”
 
 HEAR what God says:
 
-- Read (or tell) a Bible story/passage related to the topic: • Choices: Ephesians 3:16-20; Ephesians 5:18-21; Contrast Peter in John 18:15-18
+- Read (or tell) a Bible story/passage related to the topic:
+- Choices: Ephesians 3:16-20; Ephesians 5:18-21; Contrast Peter in John 18:15-18
 
 (story) versus Acts 2:14-22 (story); (Two of these passages may be enough to cover in one session.)
 
@@ -727,7 +733,8 @@ point.
 
 TELL someone they know:
 
-- Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three, have
+- Ask whom they know who might be interested in hearing about what they are learning.
+- Have them write the name after “person to tell.” Then, in groups of two or three, have
 
 them share whom they plan to tell. Finally, have them pray for one another.
 
@@ -802,11 +809,13 @@ Have them write down that specific “action to take.” Then in groups of two o
 
 have them share what action they plan to take. Finally, have them pray for one another. TELL someone they know:
 
-- Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three, have
+- Ask whom they know who might be interested in hearing about what they are learning.
+- Have them write the name after “person to tell.” Then, in groups of two or three, have
 
 them share whom they plan to tell. Finally, have them pray for one another.
 
-- Encourage them to tell those people in the next few days. • Tell them how they will be helped by the next four sessions. (See page 7: “4 Talks”.) Session Preparation Checklist
+- Encourage them to tell those people in the next few days.
+- Tell them how they will be helped by the next four sessions. (See page 7: “4 Talks”.) Session Preparation Checklist
 
 (This correlates with the Session Preparation Guidelines in the Appendix.) 4 Talks >> Apply the Bible (Let God Talk to You)
 
@@ -848,7 +857,8 @@ Transition to the Bible by saying, “So it is in the Christian life.”
 
 HEAR what God says:
 
-- Read (or tell) a Bible story/passage related to the topic: • Choices: James 1:22; Luke 6:46-49 (story); Acts 2:41-47 (story); (Two of these
+- Read (or tell) a Bible story/passage related to the topic:
+- Choices: James 1:22; Luke 6:46-49 (story); Acts 2:41-47 (story); (Two of these
 
 passages may be enough to cover in one session.)
 
@@ -880,7 +890,8 @@ Have them write down that specific “action to take.” Then in groups of two o
 
 them share what action they plan to take. Finally, have them pray for one another. TELL someone they know:
 
-- Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three, have
+- Ask whom they know who might be interested in hearing about what they are learning.
+- Have them write the name after “person to tell.” Then, in groups of two or three, have
 
 them share whom they plan to tell. Finally, have them pray for one another.
 
@@ -957,7 +968,8 @@ Have them write down that specific “action to take.” Then in groups of two o
 
 them share what action they plan to take. Finally, have them pray for one another. TELL someone they know:
 
-- Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three, have
+- Ask whom they know who might be interested in hearing about what they are learning.
+- Have them write the name after “person to tell.” Then, in groups of two or three, have
 
 them share whom they plan to tell. Finally, have them pray for one another.
 
@@ -1006,7 +1018,8 @@ Transition to the Bible by saying, “So it is in the Christian life.”
 
 HEAR what God says:
 
-- Read (or tell) a Bible story/passage related to the topic: • Choices: Matthew 28:18-20; John 4:19-41 (story); Acts 4:1-13 (story); (Two of these
+- Read (or tell) a Bible story/passage related to the topic:
+- Choices: Matthew 28:18-20; John 4:19-41 (story); Acts 4:1-13 (story); (Two of these
 
 passages may be enough to cover in one session.)
 
@@ -1038,7 +1051,8 @@ Have them write down that specific “action to take.” Then in groups of two o
 
 have them share what action they plan to take. Finally, have them pray for one another. TELL someone they know:
 
-- Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three,
+- Ask whom they know who might be interested in hearing about what they are learning.
+- Have them write the name after “person to tell.” Then, in groups of two or three,
 
 have them share whom they plan to tell. Finally, have them pray for one another.
 
@@ -1083,7 +1097,8 @@ Transition to the Bible by saying, “So it is in the Christian life.”
 
 HEAR what God says:
 
-- Read (or tell) a Bible story/passage related to the topic: • Choices: Hebrews 10:24,25; Acts 2:42-47 (story); Acts 1:12-15 (story); (Two of these
+- Read (or tell) a Bible story/passage related to the topic:
+- Choices: Hebrews 10:24,25; Acts 2:42-47 (story); Acts 1:12-15 (story); (Two of these
 
 passages may be enough to cover in one session.)
 
@@ -1117,11 +1132,13 @@ Have them write down that specific “action to take.” Then in groups of two o
 
 have them share what action they plan to take. Finally, have them pray for one another. TELL someone they know:
 
-- Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three,
+- Ask whom they know who might be interested in hearing about what they are learning.
+- Have them write the name after “person to tell.” Then, in groups of two or three,
 
 have them share whom they plan to tell. Finally, have them pray for one another.
 
-- Encourage them to tell those people in the next few days. • Tell them how they will be helped by the next four sessions. (See page 7: “4 Ministries”.) Session Preparation Checklist
+- Encourage them to tell those people in the next few days.
+- Tell them how they will be helped by the next four sessions. (See page 7: “4 Ministries”.) Session Preparation Checklist
 
 (This correlates with the Session Preparation Guidelines in the Appendix.) 4 Ministries >> Love PRAY:
 
@@ -1161,7 +1178,8 @@ loving them.”
 
 HEAR what God says:
 
-- Read (or tell) a Bible story/passage related to the topic: • Choices: John 13:34,35; Luke 10:25-37 (story); 1 Corinthians 13:4-8 (In verse 8, you
+- Read (or tell) a Bible story/passage related to the topic:
+- Choices: John 13:34,35; Luke 10:25-37 (story); 1 Corinthians 13:4-8 (In verse 8, you
 
 only need to read the first sentence: “Love never fails.”); (Two of these passages may be enough to cover in one session.)
 
@@ -1189,7 +1207,8 @@ Have them write down that specific “action to take.” Then in groups of two o
 
 have them share what action they plan to take. Finally, have them pray for one another. TELL someone they know:
 
-- Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three,
+- Ask whom they know who might be interested in hearing about what they are learning.
+- Have them write the name after “person to tell.” Then, in groups of two or three,
 
 have them share whom they plan to tell. Finally, have them pray for one another.
 
@@ -1232,7 +1251,8 @@ personally.”
 
 HEAR what God says:
 
-- Read (or tell) a Bible story/passage related to the topic: • Choices: Acts 1:8; Matthew 4:18-22 (story); Matthew 5:14-16; (Two of these passages
+- Read (or tell) a Bible story/passage related to the topic:
+- Choices: Acts 1:8; Matthew 4:18-22 (story); Matthew 5:14-16; (Two of these passages
 
 may be enough to cover in one session.)
 
@@ -1262,7 +1282,8 @@ Have them write down that specific “action to take.” Then in groups of two o
 
 have them share what action they plan to take. Finally, have them pray for one another. TELL someone they know:
 
-- Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three,
+- Ask whom they know who might be interested in hearing about what they are learning.
+- Have them write the name after “person to tell.” Then, in groups of two or three,
 
 have them share whom they plan to tell. Finally, have them pray for one another.
 
@@ -1332,7 +1353,8 @@ Have them write down that specific “action to take.” Then in groups of two o
 
 have them share what action they plan to take. Finally, have them pray for one another. TELL someone they know:
 
-- Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three,
+- Ask whom they know who might be interested in hearing about what they are learning.
+- Have them write the name after “person to tell.” Then, in groups of two or three,
 
 have them share whom they plan to tell. Finally, have them pray for one another.
 
@@ -1376,7 +1398,8 @@ Christians to become involved in ministry.”
 
 HEAR what God says:
 
-- Read (or tell) a Bible story/passage related to the topic: • Choices: Luke 10:1,2 (story); Acts 11:19-26 (story); 2 Timothy 2:2; (Two of these
+- Read (or tell) a Bible story/passage related to the topic:
+- Choices: Luke 10:1,2 (story); Acts 11:19-26 (story); 2 Timothy 2:2; (Two of these
 
 passages may be enough to cover in one session.)
 
@@ -1406,11 +1429,13 @@ Have them write down that specific “action to take.” Then in groups of two o
 
 have them share what action they plan to take. Finally, have them pray for one another. TELL someone they know:
 
-- Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three,
+- Ask whom they know who might be interested in hearing about what they are learning.
+- Have them write the name after “person to tell.” Then, in groups of two or three,
 
 have them share whom they plan to tell. Finally, have them pray for one another.
 
-- Encourage them to tell those people in the next few days. • Tell them how they will be helped by the next four sessions, if you choose to go on to Part 2.
+- Encourage them to tell those people in the next few days.
+- Tell them how they will be helped by the next four sessions, if you choose to go on to Part 2.
 
 ### Walks Talks Ministries
 
@@ -1579,7 +1604,8 @@ Transition to the Bible by saying, “The life of Jesus on earth 2000 years ago 
 
 many evidences that He was God—living beyond human power or explanation.” HEAR what God says:
 
-- Read (or tell) a Bible story/passage related to the topic: • Choices: Mark 1:29-34 (story); Mark 6:35-44 (story); Mark 16:1-8 (story); (Two of these
+- Read (or tell) a Bible story/passage related to the topic:
+- Choices: Mark 1:29-34 (story); Mark 6:35-44 (story); Mark 16:1-8 (story); (Two of these
 
 passages may be enough to cover in one session.)
 
@@ -1615,7 +1641,8 @@ Have them write down that specific “action to take.” Then in groups of two o
 
 have them share what action they plan to take. Finally, have them pray for one another. TELL someone they know:
 
-- Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three,
+- Ask whom they know who might be interested in hearing about what they are learning.
+- Have them write the name after “person to tell.” Then, in groups of two or three,
 
 have them share whom they plan to tell. Finally, have them pray for one another.
 
@@ -1655,7 +1682,8 @@ Transition to the Bible by saying, “This is an important reason Jesus came to 
 
 earth — so people would know He understands them and their problems.” HEAR what God says:
 
-- Read (or tell) a Bible story/passage related to the topic: • Choices: Matthew 9:35-37 (story); John 11:32-36 (story); Philippians 2:5-8; (Two of
+- Read (or tell) a Bible story/passage related to the topic:
+- Choices: Matthew 9:35-37 (story); John 11:32-36 (story); Philippians 2:5-8; (Two of
 
 these passages may be enough to cover in one session.)
 
@@ -1685,7 +1713,8 @@ Have them write down that specific “action to take.” Then in groups of two o
 
 have them share what action they plan to take. Finally, have them pray for one another. TELL someone they know:
 
-- Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three,
+- Ask whom they know who might be interested in hearing about what they are learning.
+- Have them write the name after “person to tell.” Then, in groups of two or three,
 
 have them share whom they plan to tell. Finally, have them pray for one another.
 
@@ -1727,7 +1756,8 @@ sin, and Jesus came to give them some serious help.”
 
 HEAR what God says:
 
-- Read (or tell) a Bible story/passage related to the topic: • Choices: John 8:3-11 (story); Romans 5:8; Ephesians 2:4-9; (Two of these passages
+- Read (or tell) a Bible story/passage related to the topic:
+- Choices: John 8:3-11 (story); Romans 5:8; Ephesians 2:4-9; (Two of these passages
 
 may be enough to cover in one session.)
 
@@ -1761,7 +1791,8 @@ Have them write down that specific “action to take.” Then in groups of two o
 
 have them share what action they plan to take. Finally, have them pray for one another. TELL someone they know:
 
-- Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three,
+- Ask whom they know who might be interested in hearing about what they are learning.
+- Have them write the name after “person to tell.” Then, in groups of two or three,
 
 have them share whom they plan to tell. Finally, have them pray for one another.
 
@@ -1809,7 +1840,8 @@ sought to serve people.”
 
 HEAR what God says:
 
-- Read (or tell) a Bible story/passage related to the topic: • Choices: John 13:1-17 (story); Mark 1:40-42 (story); Ephesians 6:7,8; (Two of these
+- Read (or tell) a Bible story/passage related to the topic:
+- Choices: John 13:1-17 (story); Mark 1:40-42 (story); Ephesians 6:7,8; (Two of these
 
 passages may be enough to cover in one session.)
 
@@ -1841,11 +1873,13 @@ Have them write down that specific “action to take.” Then in groups of two o
 
 have them share what action they plan to take. Finally, have them pray for one another. TELL someone they know:
 
-- Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three,
+- Ask whom they know who might be interested in hearing about what they are learning.
+- Have them write the name after “person to tell.” Then, in groups of two or three,
 
 have them share whom they plan to tell. Finally, have them pray for one another.
 
-- Encourage them to tell those people in the next few days. • Tell them how they will be helped by the next four sessions. (See page 35: “4 Helps”.) Session Preparation Checklist
+- Encourage them to tell those people in the next few days.
+- Tell them how they will be helped by the next four sessions. (See page 35: “4 Helps”.) Session Preparation Checklist
 
 (This correlates with the Session Preparation Guidelines in the Appendix.) 4 Helps >> Power PRAY:
 
@@ -1924,7 +1958,8 @@ point.
 
 TELL someone they know:
 
-- Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three,
+- Ask whom they know who might be interested in hearing about what they are learning.
+- Have them write the name after “person to tell.” Then, in groups of two or three,
 
 have them share whom they plan to tell. Finally, have them pray for one another.
 
@@ -1966,7 +2001,8 @@ what is true in spiritual matters.”
 
 HEAR what God says:
 
-- Read (or tell) a Bible story/passage related to the topic: • Choices: 1 John 2:27; 1 Corinthians 2:10-12; John 16:13-15; (Two of these passages
+- Read (or tell) a Bible story/passage related to the topic:
+- Choices: 1 John 2:27; 1 Corinthians 2:10-12; John 16:13-15; (Two of these passages
 
 may be enough to cover in one session.)
 
@@ -1998,7 +2034,8 @@ Have them write down that specific “action to take.” Then in groups of two o
 
 have them share what action they plan to take. Finally, have them pray for one another. TELL someone they know:
 
-- Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three,
+- Ask whom they know who might be interested in hearing about what they are learning.
+- Have them write the name after “person to tell.” Then, in groups of two or three,
 
 have them share whom they plan to tell. Finally, have them pray for one another.
 
@@ -2042,7 +2079,8 @@ us peace.”
 
 HEAR what God says:
 
-- Read (or tell) a Bible story/passage related to the topic: • Choices: Romans 8:5,6; Acts 7:54-60 (story); Galatians 5:22; (Two of these passages
+- Read (or tell) a Bible story/passage related to the topic:
+- Choices: Romans 8:5,6; Acts 7:54-60 (story); Galatians 5:22; (Two of these passages
 
 may be enough to cover in one session.)
 
@@ -2074,7 +2112,8 @@ Have them write down that specific “action to take.” Then in groups of two o
 
 have them share what action they plan to take. Finally, have them pray for one another. TELL someone they know:
 
-- Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three,
+- Ask whom they know who might be interested in hearing about what they are learning.
+- Have them write the name after “person to tell.” Then, in groups of two or three,
 
 have them share whom they plan to tell. Finally, have them pray for one another.
 
@@ -2146,11 +2185,13 @@ Have them write down that specific “action to take.” Then in groups of two o
 
 have them share what action they plan to take. Finally, have them pray for one another. TELL someone they know:
 
-- Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three,
+- Ask whom they know who might be interested in hearing about what they are learning.
+- Have them write the name after “person to tell.” Then, in groups of two or three,
 
 have them share whom they plan to tell. Finally, have them pray for one another.
 
-- Encourage them to tell those people in the next few days. • Tell them how they will be helped by the next four sessions. (See page 35: “4 Attitudes”.) Session Preparation Checklist
+- Encourage them to tell those people in the next few days.
+- Tell them how they will be helped by the next four sessions. (See page 35: “4 Attitudes”.) Session Preparation Checklist
 
 (This correlates with the Session Preparation Guidelines in the Appendix.) 4 Attitudes >> Trust PRAY:
 
@@ -2187,7 +2228,8 @@ Transition to the Bible by saying, “So it is in a relationship with God.”
 
 HEAR what God says:
 
-- Read (or tell) a Bible story/passage related to the topic: • Choices: Luke 5:17-26 (story); Matthew 14:25-33 (story); Proverbs 3:5; (Two of these
+- Read (or tell) a Bible story/passage related to the topic:
+- Choices: Luke 5:17-26 (story); Matthew 14:25-33 (story); Proverbs 3:5; (Two of these
 
 passages may be enough to cover in one session.)
 
@@ -2223,7 +2265,8 @@ Have them write down that specific “action to take.” Then in groups of two o
 
 have them share what action they plan to take. Finally, have them pray for one another. TELL someone they know:
 
-- Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three,
+- Ask whom they know who might be interested in hearing about what they are learning.
+- Have them write the name after “person to tell.” Then, in groups of two or three,
 
 have them share whom they plan to tell. Finally, have them pray for one another.
 
@@ -2237,9 +2280,9 @@ HEAR:
 
 Alternate questions to ask:  Matthew 22:36-38 1. What are some other answers Jesus might have given besides “Love the Lord your God...?” [For example, “Be Holy” or “Obey God”.] 2. What may be some reasons Christ chose the “love God” answer?  John 21:15-17 1. [Point out that this is the last recorded personal conversation between Jesus and Peter before Christ ascended to heaven.] 2. Why do you think Jesus kept asking Peter if he loved Him?
 
-3. What impact do you think this conversation had on Peter later in his life?  Deuteronomy 11:11-15
 1. What were the benefits God promised the children of Israel if they loved and served Him wholeheartedly?
 2. What might those benefits look like today, if we do the same? APPLY:  Have in mind when and how to transition from HEAR to APPLY.  Be prepared to encourage people to a specific action step. (Have an example in mind.)
+3. What impact do you think this conversation had on Peter later in his life?  Deuteronomy 11:11-15
 
 TELL:  Am committed to encourage people to do this despite their natural tendency not to.  Am looking for group members who “tell” easily. They may be good at leading their own group soon.
 
@@ -2265,7 +2308,8 @@ Transition to the Bible by saying, “So it is in a relationship with God.”
 
 HEAR what God says:
 
-- Read (or tell) a Bible story/passage related to the topic: • Choices: Matthew 22:36-38; John 21:15-17 (story); Deuteronomy 11:11-15 (story);
+- Read (or tell) a Bible story/passage related to the topic:
+- Choices: Matthew 22:36-38; John 21:15-17 (story); Deuteronomy 11:11-15 (story);
 
 (Two of these passages may be enough to cover in one session.)
 
@@ -2297,7 +2341,8 @@ Have them write down that specific “action to take.” Then in groups of two o
 
 have them share what action they plan to take. Finally, have them pray for one another. TELL someone they know:
 
-- Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three,
+- Ask whom they know who might be interested in hearing about what they are learning.
+- Have them write the name after “person to tell.” Then, in groups of two or three,
 
 have them share whom they plan to tell. Finally, have them pray for one another.
 
@@ -2339,7 +2384,8 @@ Transition to the Bible by saying, “So it is in a relationship with God.”
 
 HEAR what God says:
 
-- Read (or tell) a Bible story/passage related to the topic. • Choices: John 14:23,24; Matthew 21:28-32 (story); Acts 5:27-33 (story); (Two of these
+- Read (or tell) a Bible story/passage related to the topic.
+- Choices: John 14:23,24; Matthew 21:28-32 (story); Acts 5:27-33 (story); (Two of these
 
 passages may be enough to cover in one session.)
 
@@ -2373,7 +2419,8 @@ Have them write down that specific “action to take.” Then in groups of two o
 
 have them share what action they plan to take. Finally, have them pray for one another. TELL someone they know:
 
-- Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three,
+- Ask whom they know who might be interested in hearing about what they are learning.
+- Have them write the name after “person to tell.” Then, in groups of two or three,
 
 have them share whom they plan to tell. Finally, have them pray for one another.
 
@@ -2418,7 +2465,8 @@ Transition to the Bible by saying, “So it is in a relationship with God.”
 
 HEAR what God says:
 
-- Read (or tell) a Bible story/passage related to the topic: • Choices: Ephesians 2:10; Ephesians 5:15,16; Matthew 25:14-30 (story); (Two of these
+- Read (or tell) a Bible story/passage related to the topic:
+- Choices: Ephesians 2:10; Ephesians 5:15,16; Matthew 25:14-30 (story); (Two of these
 
 passages may be enough to cover in one session.)
 
@@ -2452,11 +2500,13 @@ Have them write down that specific “action to take.” Then in groups of two o
 
 have them share what action they plan to take. Finally, have them pray for one another. TELL someone they know:
 
-- Ask whom they know who might be interested in hearing about what they are learning. • Have them write the name after “person to tell.” Then, in groups of two or three,
+- Ask whom they know who might be interested in hearing about what they are learning.
+- Have them write the name after “person to tell.” Then, in groups of two or three,
 
 have them share whom they plan to tell. Finally, have them pray for one another.
 
-- Encourage them to tell those people in the next few days. • Encourage them to start their own groups to discuss the “Essentials of Spiritual Growth
+- Encourage them to tell those people in the next few days.
+- Encourage them to start their own groups to discuss the “Essentials of Spiritual Growth
 
 and Multiplication.”
 

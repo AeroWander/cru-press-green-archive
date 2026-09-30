@@ -6,20 +6,22 @@ type: "Article"
 themes: ["Knowing God & doctrine"]
 audience: []
 authors: ["Rick James"]
-words: 1597
+words: 1643
 summary: "An article by Rick James on the doctrine of Christ's Second Coming as a source of motivation and urgency for Christian living. Discusses being spiritually 'ready,' staying focused against sin and complacency, and drawing near to God as the day approaches, citing passages like Luke 12, 1 Timothy 6, 1 Peter 1, and Hebrews 10."
 source: "Discipleship/Mature Teaching/The Return of Christ.pdf"
 ---
 
-and anticipation of the Lord’s return. This urgency propelled them to heroic efforts in spreading the gospel.
-
-Biblical teaching to the soul is a lot like basic vitamins to the body. Often we can go awhile without a specific vitamin without feeling the effects, but eventually we begin to experience a lack of energy and motivation. Similarly the teaching of Christ’s return is a central biblical theme that is meant to provide great comfort, motivation and encouragement for Christians. As Christians, we can only go so long without “encouraging each other with these words” before we begin to feel the motivational effects.
+## Of Jesus Christ
 
 In 1 Thessalonians 4:18 after concluding a discussion on the Second Coming of Christ, Paul says, “Encourage each other with these words.” At different stages in the history of the Christian church there has been great focus on the teaching of the Second Coming of Jesus. Sometimes the teachings have been taken to excess. Jesus clearly states that no one will know the exact time and date of His return; “It is not for you to know the times or dates the father has set (Acts 1:7).” Yet it has not been uncommon for certain teachers to actually give dates and times.
 
-As we look at the teaching of Christ’s return in Scripture, we see three themes emerge.
-
 There have been some unfortunate ramifications of this kind of errant teaching. One of those is that many Christians, with a desire to separate themselves from such fanatics, avoid the topic altogether. As a result they do not follow Paul’s injunction “to encourage each other with these words.” While the reaction is understandable it is not without effect. When we fail to keep in the forefront of our thinking that Christ may return at any moment, we can loose a sense of anticipation, hope, urgency and eternal perspective: we can become mired in the here-and-now.
+
+As we look at the Spiritual lives of Christians who have made some of the greatest impact for Christ’s kingdom, such as the Apostle Paul, often we find their lives were marked with a great sense of urgency and anticipation of the Lord’s return. This urgency propelled them to heroic efforts in spreading the gospel.
+
+Biblical teaching to the soul is a lot like basic vitamins to the body. Often we can go awhile without a specific vitamin without feeling the effects, but eventually we begin to experience a lack of energy and motivation. Similarly the teaching of Christ’s return is a central biblical theme that is meant to provide great comfort, motivation and encouragement for Christians. As Christians, we can only go so long without “encouraging each other with these words” before we begin to feel the motivational effects.
+
+As we look at the teaching of Christ’s return in Scripture, we see three themes emerge.
 
 ## Be Ready
 
@@ -27,7 +29,7 @@ In Luke 12:40 it says, “You also must be ready, for the Son of Man will come a
 
 A helpful way to gauge your readiness would be to ask yourself, “If I knew Jesus was going to return a year from now, how would I live my life differently?” There really should be no need for radical changes if you are living in a state of readiness.
 
-As we look at the Spiritual lives of Christians who have made some of the greatest impact for Christ’s kingdom, such as the Apostle Paul, often we find their lives were marked with a great sense of urgency In our culture most people think that they will live to age 90 or even 100. When we have this attitude we tend to lose a sense of urgency in living our Christian life. Living the Christian life is a lot like running a race. When we think about living to age 90, it puts the finish line a long way off. We begin to plan for the “long haul” and think about ways to make the journey as comfortable as possible. The nearness of Christ’s return puts the finish line squarely in front of us, and urges us to pick up the pace and throw off any encumbrances that may slow us down from getting to our goal.
+In our culture most people think that they will live to age 90 or even 100. When we have this attitude we tend to lose a sense of urgency in living our Christian life. Living the Christian life is a lot like running a race. When we think about living to age 90, it puts the finish line a long way off. We begin to plan for the “long haul” and think about ways to make the journey as comfortable as possible. The nearness of Christ’s return puts the finish line squarely in front of us, and urges us to pick up the pace and throw off any encumbrances that may slow us down from getting to our goal.
 
 ## A Practical Example
 
@@ -37,7 +39,7 @@ I 1 Timothy 6: 13-14 gives us a picture of how this effects our motivation. In t
 
 There is a second reason that many Christians may not be “ready” for the return of Christ. This reason doesn’t deal as much with accumulating too much comfort or wealth, but rather with a turning aside to sin.
 
-In 1 Peter 1:13, Peter is concerned that Christians, in the face of trials and persecution, will turn back to old habit patterns of sin they had lived in as unbelievers. He says, “Set your hope fully on the grace to be given you when Jesus Christ is revealed.” If picturing the finish line of our Christian life at the age of 90 causes us to slow our pace down and make the journey comfortable, it can also cause us to turn aside and take frequent “water breaks” in streams of sin we used to drink from as nonbelievers.
+In 1 Peter 1:13, Peter is concerned that Christians, in the face of trials and persecution, will turn back to old habit patterns of sin they had lived in as unbelievers. He says, “Set your hope fully on the grace to be given O F you when Jesus Christ is revealed.” If picturing the finish line of our Christian life at the age of 90 causes us to slow our pace down and make the journey comfortable, it can also cause us to turn aside and take T H E frequent “water breaks” in streams of sin we used to drink from as nonbelievers.
 
 Peter realizes these Christians are experiencing stress and will be tempted to turn to sin for relief and comfort. What Peter is trying to get them to do is focus on the finish line (Christ’s return) and the comfort they will receive at His Coming. Peter is basically saying, “Don’t look to sin for comfort and relief, but focus on the finish line and the comfort you will receive when you cross it.”
 
@@ -51,7 +53,9 @@ I In Hebrews 10: 25, it says “Let us not give up meeting together, as some are
 
 ## As You See That Day Approaching
 
-Jesus clearly taught that no one would know the day or hour of His return. But passages like Hebrews 10:25 suggest that Christians will have a sense of that Day’s approaching. In 1 Thessalonians 5:4 Paul says concerning the Lord’s return, that, “This Day should not surprise you like a thief.” Christians should have a growing awareness that Christ’s return is immanent. Jesus was asked on one occasion what would be the signposts of his return. Rather than discouraging the question, He gave several signposts that believers might reference with a growing awareness that the hour was drawing near.
+Jesus clearly taught that no one would know the day or hour of His return. But passages like Hebrews 10:25 suggest that Christians will have a sense of that Day’s approaching. In 1 Thessalonians 5:4 Paul says concerning the Lord’s return, that, “This Day should not surprise you like a thief.” Christians should have a growing awareness that Christ’s return is immanent.
+
+Jesus was asked on one occasion what would be the signposts of his return. Rather than discouraging the question, He gave several signposts that believers might reference with a growing awareness that the hour was drawing near.
 
 In Matthew 24:14, we read of one of the major signposts, “And this gospel of the kingdom will be preached in the whole world as a testimony to all nations and then the end will come.” What is exciting to realize is that while in 2,000 years this has not occurred, there is great reason to assume that all nations of the world will hear the gospel within this generation. For example, in just the last 30 years, over 6.5 billion people have seen the Jesus Film (the gospel of Luke put to film by Campus Crusade for Christ). This is just one of many significant events that are going on around the world that is bringing Christ’s words to their fulfillment. While we can not know the day or hour, where we stand in history related to this signpost is extremely significant, and should prod us to pick up the pace.
 
@@ -62,3 +66,5 @@ It is always enjoyable for me to watch the NBA playoffs, as some of the greatest
 This is the sense and motivation of “all the more” that we only get as we keep our eyes on “that Day approaching.”
 
 As the gospel makes its final lap around the globe, we as Christians should have a sense of anticipation that causes us to pick up the pace of our Christian lives and ministry. There should be a feeling of leaning in toward the tape to finish the race. It is this “all the more,” and alertness that Christians need right now. The motivation for this exerted effort comes from “encouraging one another with these words” concerning the return of Christ.
+
+O F T H E

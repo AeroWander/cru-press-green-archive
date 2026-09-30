@@ -7,32 +7,46 @@ themes: ["Sexual purity", "Small groups"]
 audience: ["Men", "Small-group leaders"]
 authors: ["Rick James"]
 series: "Flesh (Rick James)"
-words: 8034
+words: 7962
 summary: "A seven-week men's small group Bible study drawn from Rick James' book 'Flesh,' with discussion questions and a leader's guide for each week covering forgiveness (Peter's restoration in John 21), lust (David and Bathsheba), temptation, sex, spiritual growth, seeking help, and truth. Designed for men's accountability groups to work through purity issues in community using James 5:16 as its foundation."
 source: "Building Community/Men and Women/Men/Men_s Small group.pdf"
 ---
 
+### Men’s Small Group Study
+
+### Flesh by Rick James • Article Excerpt
+
 AN UNBREAKABLE HABIT OF PURITY IN A PORNOGRAPHIC WORLD. Sexual immorality and pornography have become the defining issues and obstacles to spiritual growth and ministry on campus.
 
-Flesh (for men) deals fearlessly with lust, sex and pornography in a clear, comprehensive manner and in a way that supports the Campus Ministry’s spiritual Growth Model. Written in a straightforward, gracious and humorous style, Flesh does not stir up guilt but helps the reader to develop an unbreakable habit of purity. Flesh is divided into three sections: small group discussion material, topical articles, and a month of daily devotionals. Partial List of Topics Covered: Temptation, Confession, Community, Filling of the Spirit, Faith, Accountability, Pornography, Worship, Truth-Scripture, Habitual Sin, Homosexuality, Masturbation, and Sanctification-How We Grow.
+Flesh (for men) deals fearlessly with lust, sex and pornography in a clear, comprehensive manner and in a way that supports the Campus Ministry’s spiritual Growth Model. Written in a straightforward, gracious and humorous style, Flesh does not stir up guilt but helps the reader to develop an unbreakable habit of purity.
+
+Flesh is divided into three sections: small group discussion material, topical articles, and a month of daily devotionals.
+
+Partial List of Topics Covered: Temptation, Confession, Community, Filling of the Spirit, Faith, Accountability, Pornography, Worship, Truth-Scripture, Habitual Sin, Homosexuality, Masturbation, and Sanctification-How We Grow.
 
 FLESH
 
 james 5:16 GR oUPS
 
-Therefore confess your sins to each other and pray for each other so that you may be healed. The prayer of a righteous man is powerful and effective. James 5:16 If you are already involved in a men’s small group, see if the members would be willing to take a seven-week detour to cover these critical topics. If you don’t have a small group, pull together a handful of Christian friends, and either lead the Bible study yourself, or ask someone else to lead it. Then, devote the next seven weeks to the study of purity, to the Scriptures, and to developing relationships of accountability with other men. For Christian men, purity is not a personal issue—it’s a relational one. Purity must be worked out in community with other men. Answers to the studies are in the back of the book.
+Therefore confess your sins to each other and pray for each other so that you may be healed. The prayer of a righteous man is powerful and effective. James 5:16
 
-on to the studies
+If you are already involved in a men’s small group, see if the members would be willing to take a seven-week detour to cover these critical topics. If you don’t have a small group, pull together a handful of Christian friends, and either lead the Bible study yourself, or ask someone else to lead it. Then, devote the next seven weeks to the study of purity, to the Scriptures, and to developing relationships of accountability with other men. For Christian men, purity is not a personal issue—it’s a relational one. Purity must be worked out in community with other men. Answers to the studies are in the back of the book.
 
-Week One
+on to the studies’
+
+### Flesh...
 
 ## Forgiven
+
+Week One
 
 1. Of all of the sins we commit, nothing makes us feel more guilty than sexual sin. Why do you think that is?
 
 No matter how we’ve sexually transgressed, we must all agree that nothing is worse than what Peter did. He out rightly denied Jesus, even after being warned. We can only imagine the sin “hangover” Peter felt from that failure. As a result, there is much we can learn about forgiveness from the account of Peter’s restoration.
 
-Read all of John 21:15-24 When they had finished eating, Jesus said to Simon Peter, “Simon son of John, do you truly love me more than these?” “Yes, Lord,” he said, “you know that I love you.” Jesus said, “Feed my lambs.” Again Jesus said, “Simon son of John, do you truly love me?” He answered, “Yes, Lord, you know that I love you.” Jesus said, “Take care of my sheep.” The third time he said to him, “Simon son of John, do you love me?” Peter was hurt because Jesus asked him the third time, “Do you love me? He said, “Lord, you know all things; you know that I love you.” Jesus said, “Feed my sheep”
+Read all of John 21:15-24
+
+When they had finished eating, Jesus said to Simon Peter, “Simon son of John, do you truly love me more than these?” “Yes, Lord,” he said, “you know that I love you.” Jesus said, “Feed my lambs.” Again Jesus said, “Simon son of John, do you truly love me?” He answered, “Yes, Lord, you know that I love you.” Jesus said, “Take care of my sheep.” The third time he said to him, “Simon son of John, do you love me?” Peter was hurt because Jesus asked him the third time, “Do you love me? He said, “Lord, you know all things; you know that I love you.” Jesus said, “Feed my sheep”
 
 (vv. 15-17).
 
@@ -42,53 +56,81 @@ Read all of John 21:15-24 When they had finished eating, Jesus said to Simon Pet
 5. What role does faith play in feeling forgiven?
 6. Rationalizing, vowing to never commit the same sin again, and berating ourselves: all are human attempts to feel forgiven. How?
 
-020 f h...
-
 week one - forgiven 7. How is each a betrayal of faith?
 
-9. What and why is Jesus telling him this? had said, “Lord, who is going to betray you?”) When Peter saw him, he asked, “Lord, what about him?”
-8. It took great courage for Peter to hear the painful truth from Jesus. It has been said that courage, or the lack of it, is what keeps us from repentance, growing in holiness, and feeling forgiven. Why? Do you agree? What was the most painful truth you’ve had to hear about yourself? Jesus answered, “If I want him to remain alive until I return, what is that to you? You must follow me” (vv. 20-22).
-10. In what way do you think this would have been encouraging to Peter?
-13. Why is comparison an enemy of forgiveness?
-11. Is there any application of this for us?
-14. Whose spiritual life puts you under the pile? “I tell you the truth, when you were younger you dressed yourself and went where you wanted; but when you are old you will stretch out your hands, and someone else will dress you and lead you where you do not want to go.” Jesus said this to indicate the kind of death by which Peter would glorify God. Then he said to him, “Follow me” (vv. 18-19).
-12. Peter has an advantage in that he could see Jesus’ face, which must have aided in his feeling forgiven. Who incarnates—or is Jesus’ face—for you when you don’t feel forgiven?
-15. What struggles do you have that others might not have to deal with?
-16. What two things can you do, that you are not doing, to aid in receiving God’s forgiveness? Peter turned and saw that the disciple whom Jesus loved was following them. (This was the one who had leaned back against Jesus at the supper and week one - forgiven f
+8. It took great courage for Peter to hear the painful truth from Jesus. It has been said that courage, or the lack of it, is what keeps us from repentance, growing in holiness, and feeling forgiven. Why? Do you agree? What was the most painful truth you’ve had to hear about yourself?
 
-LUSTWeek two
+“I tell you the truth, when you were younger you dressed yourself and went where you wanted; but when you are old you will stretch out your hands, and someone else will dress you and lead you where you do not want to go.” Jesus said this to indicate the kind of death by which Peter would glorify God. Then he said to him, “Follow me” (vv. 18-19).
+
+9. What and why is Jesus telling him this?
+10. In what way do you think this would have been encouraging to Peter?
+11. Is there any application of this for us?
+12. Peter has an advantage in that he could see Jesus’ face, which must have aided in his feeling forgiven. Who incarnates—or is Jesus’ face—for you when you don’t feel forgiven?
+
+Peter turned and saw that the disciple whom Jesus loved was following them. (This was the one who had leaned back against Jesus at the supper and had said, “Lord, who is going to betray you?”)
+
+When Peter saw him, he asked, “Lord, what about him?”
+
+Jesus answered, “If I want him to remain alive until I return, what is that to you? You must follow me” (vv. 20-22).
+
+13. Why is comparison an enemy of forgiveness?
+14. Whose spiritual life puts you under the pile?
+15. What struggles do you have that others might not have to deal with?
+16. What two things can you do, that you are not doing, to aid in receiving God’s forgiveness? week one - forgiven
+
+### Flesh...
+
+LUSTWeek twoto lust. In his book “Not Even a Hint,” Joshua
 
 Read 2 Samuel 11:1-4.
 
 In the spring, at the time when kings go off to war, David sent Joab out with the king’s men and the whole Israelite army. They destroyed the Ammonites and besieged Rabbah. But David remained in Jerusalem. One evening David got up from his bed and walked around on the roof of the palace. From the roof he saw a woman bathing. The woman was very beautiful, and David sent someone to find out about her. The man said, “Isn’t this Bathsheba, the daughter of Eliam and the wife of Uriah the Hittite?” Then David sent messengers to get her. She came to him, and he slept with her. (She had purified herself from her uncleanness.) Then she went back home.
 
-1. We all have different things that spark our minds to lust. In his book “Not Even a Hint,” Joshua Harris calls them “lust triggers.” What do you think might have been some of David’s lust triggers?
+1. We all have different things that spark our minds
+
+Harris calls them “lust triggers.” What do you think might have been some of David’s lust triggers?
+
 2. Fill in some of your lust triggers:
 
-When I hear the music of … When I am feeling particularly … During this time of day … When I hang out here … When I find myself … After I have just … 3. Is there a lust trigger that you tolerate and make little attempt to guard against? In other words, do you have an allowable form of lust? What is it?
+When I hear the music of …
 
+When I am feeling particularly …
+
+During this time of day …
+
+When I hang out here …
+
+When I find myself …
+
+After I have just …
+
+3. Is there a lust trigger that you tolerate and make little attempt to guard against? In other words, do you have an allowable form of lust? What is it?
 4. What have you chosen to believe about yourself, your situation, or God that makes you allow yourself this freedom?
 5. What is the difference between a godly desire for sex, and lust?
-6. John Piper makes the statement that, “The fires of lust’s pleasures must be fought with the fire of God’s pleasures.” What does he mean by this? 022 f h...
+6. John Piper makes the statement that, “The fires of lust’s pleasures must be fought with the fire of God’s pleasures.” What does he mean by this?
 
 week two - lust 7. What have you done along these lines?
 
-10. Discuss from your own experience the merits, and liabilities of both.
-13. Do you think such a standard is attainable?
 8. Scripture never mentions masturbation. Do you think we elevate it to a greater sin than is may be? What principles are mentioned in scripture that masturbation would violate?
-11. How do women’s lusts differ from men, or do you think there’s no difference?
-14. What is the most effective thing you have done to guard yourself against lust?
 9. If it were possible to masturbate without lusting, would it still be sin? Why?
-12. Dr. Al Mohler once said, “Men are tempted to give themselves to pornography—women are tempted to commit pornography.” Discuss what you think he meant by this.
-15. What are the potential problems with making a major covenant or commitment to stop sinning in an area?
 
 Lowell Seashore in his program, “Lust-Free Living” suggests a tapering down approach in order to stop masturbating. Stage one is to disconnect lust from masturbating. You continue masturbating with a strict discipline of guarding your thoughts. In stage two, you look to cut back on the amount of times you masturbate. Stage three is cutting it out altogether. In contrast, others have stressed a cold turkey approach.
 
+10. Discuss from your own experience the merits, and liabilities of both.
+11. How do women’s lusts differ from men, or do you think there’s no difference?
+12. Dr. Al Mohler once said, “Men are tempted to give themselves to pornography—women are tempted to commit pornography.” Discuss what you think he meant by this.
+
+But among you there must not be even a hint of sexual immorality, or of any kind of impurity, or of greed, because these are improper for God’s holy people. Ephesians. 5:3
+
+In seeing victory over lust and masturbation, most Christians agree for the need to make a clear commitment to the standard of “not even a hint,” because lust always wants more.
+
+13. Do you think such a standard is attainable?
+14. What is the most effective thing you have done to guard yourself against lust?
+15. What are the potential problems with making a major covenant or commitment to stop sinning in an area?
 16. In light of that, what would be a godly commitment?
+17. In your own words, write down your own commitment. week two - lust
 
-But among you there must not be even a hint of sexual immorality, or of any kind of impurity, or of greed, because these are improper for God’s holy people. Ephesians. 5:3 In seeing victory over lust and masturbation, most Christians agree for the need to make a clear commitment to the standard of “not even a hint,” because lust always wants more.
-
-17. In your own words, write down your own commitment. week two - lust f
+### Flesh...
 
 Week three
 
@@ -107,56 +149,63 @@ In Ephesians 6:11 it says, “Put on the full armor of God so that you can take 
 
 No temptation has seized you except what is common to man. And God is faithful; he will not let you be tempted beyond what you can bear. But when you are tempted, he will also provide a way out so that you can stand up under it.
 
-1 Corinthians 10:13 024 f h...
+1 Corinthians 10:13
 
 week three - tempted 8. According to this verse, not only does God not tempt us, but he provides a means of escape to avoid difficult temptation. If he provides a means of escape, does this mean he doesn’t think we can endure it? Are certain temptations, if not avoided, beyond our capacity to decline?
 
-10. Why is it critical to remember “that no temptation has seized us,” except temptations common to other men?
-13. In explaining the ritual of temptation, James uses the metaphor of giving birth. In this metaphor, what do you think he means by conception?
 9. When, and how, did God recently provide an escape for you?
+10. Why is it critical to remember “that no temptation has seized us,” except temptations common to other men?
 11. In 1:13 and 17, James conveys God’s goodness and care for his children, because at the root of temptation can be a distrust of this truth. Read Genesis 3:1-6 and record what truths Adam and Eve were tempted to distrust.
+12. In the midst of temptation, list four lies you are prone to believe about God.
+1. _______________________________________
+2. _______________________________________
+3. _______________________________________
+4. _______________________________________
+13. In explaining the ritual of temptation, James uses the metaphor of giving birth. In this metaphor, what do you think he means by conception?
 
 Notice that sin does not happen until after conception. Temptation, in and of itself, does not constitute sin. We shouldn’t feel we have sinned simply because we are tempted.
 
 14. What temptations make you feel guilty, simply for being tempted?
-12. In the midst of temptation, list four lies you are prone to believe about God.
-1. _ ______________________________________
-2. _ ______________________________________
-3. _ ______________________________________
-4. _
-15. James 1:16 says, “Don’t be deceived.” What have you learned in this study that would keep you from being deceived? What will you do differently as a result? ______________________________________ week three - tempted f
+15. James 1:16 says, “Don’t be deceived.” What have you learned in this study that would keep you from being deceived? What will you do differently as a result? week three - tempted
 
-3. What are the specific challenges of our culture to remaining pure until marriage? Do you think we have it better, worse, or the same as others? What is the most difficult of all these factors?
-5. What insights do these passages give you with regard to I Thessalonians 4:3-6?
+### Flesh...
 
 sexWeek four
 
 1. Read I Thessalonians 4:1-12. Where are the two occurrences of the phrase “more and more” found? What does this tell you about Paul’s primary purpose in writing these words?
-6. How does sexual immorality wrong or steal from another brother (or sister)?
+2. Read verses 3-5 and define the following words: Sanctified __________________________________ Sexual immorality ___________________________ Passionate lust ______________________________ Heathen ___________________________________
+3. What are the specific challenges of our culture to remaining pure until marriage? Do you think we have it better, worse, or the same as others? What is the most difficult of all these factors?
 4. Honoring God by controlling our bodies is a consistent theme in Paul’s letters. Look up the following verses and record what they say on this issue:
 
-Romans 6:19 _ 2. Read verses 3-5 and define the following words: Sanctified _ _________________________________ ______________________________ Romans 12:1 _ ______________________________ I Corinthians 6:13-20 _ _______________________ 7. Imagine you were married, and were having a discussion with your spouse concerning his or her sexual involvement before marriage. At what level of physical involvement would you begin to feel that someone had taken, or stolen, something from you?
+Romans 6:19 _______________________________ Romans 12:1 _______________________________ I Corinthians 6:13-20 ________________________ Philippians 1:20-24 _ ________________________
 
-Sexual immorality _ __________________________ Passionate lust _ _____________________________ Heathen _ __________________________________ Philippians 1:20-24 _ ________________________ 026 f h...
+5. What insights do these passages give you with regard to I Thessalonians 4:3-6?
+6. How does sexual immorality wrong or steal from another brother (or sister)?
+7. Imagine you were married, and were having a discussion with your spouse concerning his or her sexual involvement before marriage. At what level of physical involvement would you begin to feel that someone had taken, or stolen, something from you?
 
 weeek four - sex 8. How important do you feel it is to go back and apologize to people you have sexually wronged?
 
-10. Read 4:6-8. What further motivations to remain sexually pure do you see here? In verse 8, why do you think Paul adds the parenthetical phrase “who gives you His Spirit?”
-13. How have you arrived at this standard? Long engagements are fairly common in our culture, which bring its own complexity. One result is that engaged couples can easily begin to slide into roles, responsibilities, privileges and intimacy that are proper only when that person belongs to you.
+Long engagements are fairly common in our culture, which bring its own complexity. One result is that engaged couples can easily begin to slide into roles, responsibilities, privileges and intimacy that are proper only when that person belongs to you.
+
 9. How have you witnessed this in relationships you have observed or experienced?
+10. Read 4:6-8. What further motivations to remain sexually pure do you see here? In verse 8, why do you think Paul adds the parenthetical phrase “who gives you His Spirit?”
+11. Why do you think God wants us to remain sexually pure until marriage?
+12. In dating relationships, what levels of physical involvement do you think are clearly off limits? What do you think is allowable? What are some of the gray areas?
+13. How have you arrived at this standard?
 
 Greet one another with a holy kiss. All the churches of Christ send greetings.
 
-Romans 16:16 11. Why do you think God wants us to remain sexually pure until marriage?
+Romans 16:16
 
 All the brothers here send you greetings. Greet one another with a holy kiss 1 Corinthians. 16:20.
 
-12. In dating relationships, what levels of physical involvement do you think are clearly off limits? What do you think is allowable? What are some of the gray areas?
-14. Some have suggested using the principle of the “Holy Kiss”—showing physical affection with a commitment to not cause sexual arousal. It moves away from a standard of “What can I get away with?” or “How can I avoid all contact,” and says rather, “How can I physically express affection without sexually arousing either myself or partner.” How do you feel about this as a guideline? week four - sex f
+14. Some have suggested using the principle of the “Holy Kiss”—showing physical affection with a commitment to not cause sexual arousal. It moves away from a standard of “What can I get away with?” or “How can I avoid all contact,” and says rather, “How can I physically express affection without sexually arousing either myself or partner.” How do you feel about this as a guideline? week four - sex
+
+### Flesh...
+
+grown __________________________________________ __________________________________________
 
 Week five
-
-## Grown
 
 In this study we’ll examine how God makes us holy, and shed light on the question: What’s God’s part in the process, and what’s ours?
 
@@ -184,27 +233,37 @@ Therefore, my dear friends, as you have always obeyed—not only in my presence,
 8. What else, besides sin, can hinder our sensitivity to God’s Spirit?
 8. Philippians 2:12-13 says, “to work out” our salvation. Why isn’t this contrary to our salvation being by God’s grace alone?
 
-028 f h...
-
 week five - grown 9. We work out (take what God is doing on the inside and put it on the outside) our salvation by habitually making choices, which, over time, change our character. How would you define what a person’s character is?
 
+10. In what area of your life have you begun making a new series of choices? What new habits have been created?
+11. The question is often asked why God doesn’t immediately make us holy. How would you answer that question?
 12. In the Scriptures, clearing our lives of sin is similar to the process the Israelites went through in clearing the Promised Land. Read the following passages and write down what insight they give to the last question:
 
-Exodus 23:27,29 _ Another reason for the great struggle for holiness is that God wants to teach us how to spiritually fight in partnership with him: “These are the nations the LORD left to test all those Israelites who had not experienced any of the wars in Canaan (he did this only to teach warfare to the descendants of the Israelites who had not had previous battle experience)” (Judges 3:1-2). __________________________ 14. In your struggle for sexual purity, what are some of the lessons you’ve learned about fighting this spiritual war?
+Exodus 23:27,29 _ __________________________
 
-10. In what area of your life have you begun making a new series of choices? What new habits have been created?
+Deuteronomy 6:10-12 _______________________
 
-Deuteronomy 6:10-12 _ ______________________ Deuteronomy 8:17 _ _________________________ 15. If there is one component more important than others, it is found in Romans 6:12. Look at the verse, and then answer why it is so crucial.
+Deuteronomy 8:17 __________________________
 
-11. The question is often asked why God doesn’t immediately make us holy. How would you answer that question?
 13. If you could see anything change in your life immediately, what would it be? Why do you think you have not seen victory yet?
-16. Give a passage that affirms the hope that one day the sanctification process will be complete. week five - grown f
 
-Week six
+Another reason for the great struggle for holiness is that God wants to teach us how to spiritually fight in partnership with him: “These are the nations the LORD left to test all those Israelites who had not experienced any of the wars in Canaan (he did this only to teach warfare to the descendants of the Israelites who had not had previous battle experience)” (Judges 3:1-2).
+
+14. In your struggle for sexual purity, what are some of the lessons you’ve learned about fighting this spiritual war?
+15. If there is one component more important than others, it is found in Romans 6:12. Look at the verse, and then answer why it is so crucial.
+16. Give a passage that affirms the hope that one day the sanctification process will be complete. week five - grown
+
+### Flesh...
 
 ## Help
 
-The focus of the study is biblical community and accountability. Before we look at community, let’s look at its opposite: isolation. Read Mark 5:2-13: When Jesus got out of the boat, a man with an evil spirit came from the tombs to meet him. This man lived in the tombs, and no one could bind him any more, not even with a chain. For he had often been chained hand and foot, but he tore the chains apart and broke the irons on his feet. No one was strong enough to subdue him. Night and day among the tombs and in the hills he would cry out and cut himself with stones. When he saw Jesus from a distance, he ran and fell on his knees in front of him. He shouted at the top of his voice, “What do you want with me, Jesus, Son of the Most High God? Swear to God that you won’t torture me!” For Jesus had said to him, “Come out of this man, you evil spirit!” Then Jesus asked him, “What is your name?”
+Week six
+
+The focus of the study is biblical community and accountability. Before we look at community, let’s look at its opposite: isolation. Read Mark 5:2-13:
+
+When Jesus got out of the boat, a man with an evil spirit came from the tombs to meet him. This man lived in the tombs, and no one could bind him any more, not even with a chain. For he had often been chained hand and foot, but he tore the chains apart and broke the irons on his feet. No one was strong enough to subdue him. Night and day among the tombs and in the hills he would cry out and cut himself with stones. When he saw Jesus from a distance, he ran and fell on his knees in front of him. He shouted at the top of his voice,
+
+“What do you want with me, Jesus, Son of the Most High God? Swear to God that you won’t torture me!” For Jesus had said to him, “Come out of this man, you evil spirit!” Then Jesus asked him, “What is your name?”
 
 “My name is Legion,” he replied, “for we are many.” And he begged Jesus again and again not to send them out of the area.
 
@@ -218,25 +277,30 @@ A large herd of pigs was feeding on the nearby hillside. The demons begged Jesus
 6. In your experience, do media outlets (movies, music, computers, etc) relieve isolation or increase it?
 7. The opposite of isolation is accountability and community. On a scale from 1 to 10, how would you rate your experience of community? Of isolation?
 
-030 f h...
-
 week six - help 8. How would you define Christian community?
 
-11. What is different about this passage from 1 John 1:9?
-14. What sorts of things might you do to hold one another accountable?
 9. The reason we need community is that we all need to be known. Speaking of which, share one thing with the group that you have never told anyone else about yourself.
+
+In the area of sexual immorality, one of the great benefits of community is found in this verse:
+
+Therefore, confess your sins to each other and pray for each other so that you may be healed. James 5:16
+
+10. How does confessing our sins to others lead to healing?
+11. What is different about this passage from 1 John 1:9?
 
 The 12-step Alcoholics Anonymous program was founded on Christian principles. Most people who make it through the program cite Step 5 as the most critical step. It states: “Admitted to God, to ourselves and to another human being the exact nature of our wrongs.”
 
-15. It has been said that a true accountability partner models both “grace and truth.” What do you think this means? Who models this for you? In the area of sexual immorality, one of the great benefits of community is found in this verse: Therefore, confess your sins to each other and pray for each other so that you may be healed. James 5:16
 12. Step 5 is essentially James 5:16. With whom can you, or do you, share the exact nature of your wrongs?
+13. The term used for Christian friendships that help one another in the area of sexual purity is “accountability.” What does accountability mean?
+14. What sorts of things might you do to hold one another accountable?
+15. It has been said that a true accountability partner models both “grace and truth.” What do you think this means? Who models this for you?
 16. Do you tend to be more grace or more truth oriented?
-10. How does confessing our sins to others lead to healing?
 
 In Hebrews 10:24 it says, “And let us consider how we may spur one another on toward love and good deeds.”
 
-13. The term used for Christian friendships that help one another in the area of sexual purity is “accountability.” What does accountability mean?
-17. Who could you spur on? List three things you could do that would spur a friend on to love and good deeds? week six - help f
+17. Who could you spur on? List three things you could do that would spur a friend on to love and good deeds? week six - help
+
+### Flesh...
 
 Week seven
 
@@ -245,68 +309,91 @@ Week seven
 The power of lust is a lie. Yet, with Christ in our hearts, we cannot endure the pain of outright rebellion. So, to do the unthinkable, we conceal ideas under layers of lies, smuggling in lust dressed in rationales, justifications and outright lies.
 
 1. Write out five justifications for giving in momentarily to sex or pornography.
-1. _ ______________________________________
-2. _ ______________________________________
-3. _ ______________________________________
-4. _ ______________________________________
-5. _ ______________________________________
+1. _______________________________________
+2. _______________________________________
+3. _______________________________________
+4. _______________________________________
+5. _______________________________________
 2. When the word “truth” is used in the Bible it can have different shades of meaning. What does truth mean in each of these passages:
 
 Then you will know the truth, and the truth will set you free.
 
-John 8:32 _ _________________________________ An instructor of the foolish, a teacher of infants, because you have in the law the embodiment of knowledge and truth.
+John 8:32 __________________________________
+
+An instructor of the foolish, a teacher of infants, because you have in the law the embodiment of knowledge and truth.
 
 Romans 2:20_ ______________________________ Love does not delight in evil but rejoices with the truth.
 
-1 Corinthians. 13:6_ _________________________ Instead, speaking the truth in love, we will in all things grow up into him who is the Head, that is, Christ. Ephesians 4:15_ _____________________________ Surely you heard of him and were taught in him in accordance with the truth that is in Jesus. Ephesians 4:21_ _____________________________ 3. As a lifestyle, where are you most prone to exaggerate or stretch the truth? With whom? Why?
+1 Corinthians. 13:6_ _________________________ Instead, speaking the truth in love, we will in all things grow up into him who is the Head, that is, Christ. Ephesians 4:15______________________________ Surely you heard of him and were taught in him in accordance with the truth that is in Jesus. Ephesians 4:21______________________________
 
+3. As a lifestyle, where are you most prone to exaggerate or stretch the truth? With whom? Why?
 4. In John 8:32 it says, “Then you will know the truth, and the truth will set you free.” Can you think of a time when speaking or telling the truth brought with it a sense of freedom?
 5. Why does truth make us feel free?
 
 “But what about you?” he asked. “Who do you say I am?” Peter answered, “You are the Christ.” Jesus warned them not to tell anyone about him. He then began to teach them that the Son of Man must suffer many things and be rejected by the elders, chief priests and teachers of the law, and that he must be killed and after three days rise again. He spoke plainly about this, and Peter took him aside and began to rebuke him. But when Jesus turned and looked at his disciples, he rebuked Peter. “Get behind me, Satan!”
 
-Mark 8:29-33 6. What is it about Peter’s words that would be a temptation to Jesus?
+Mark 8:29-33
 
+6. What is it about Peter’s words that would be a temptation to Jesus?
 7. Notice Jesus does not respond with Scripture, but how does he use truth as a weapon?
-
-032 f h...
 
 week seven - truth 8. Think of two ways you could use the power of total truth and honesty to help you fight against lust and pornography.
 
-1. _ ______________________________________
-2. _ ______________________________________
-9. Vulnerability is one form of truth. Write down a precise summary of the truth of your sexual temptation, history, struggle, failure and success. Now you have a choice whether you want to read this to the group right now or not, but it should not be a choice of whether or not you keep this to yourself. Disclosing the truth will set you free. The Truth of Scripture
-10. What is different about the truth of Scripture from the general truthfulness we have been talking about? In Joshua Harris’ book, “Not Even a Hint” he says, “Part of sin is dissatisfaction with God. Lust’s power comes from the promise it gives that something besides God can make us happy. What this means is the only way to overcome the power of lust in our lives is by finding better promises.”
+1. _______________________________________
+2. _______________________________________
+9. Vulnerability is one form of truth. Write down a precise summary of the truth of your sexual temptation, history, struggle, failure and success.
+
+Now you have a choice whether you want to read this to the group right now or not, but it should not be a choice of whether or not you keep this to yourself. Disclosing the truth will set you free.
+
+The Truth of Scripture
+
+10. What is different about the truth of Scripture from the general truthfulness we have been talking about?
+
+In Joshua Harris’ book, “Not Even a Hint” he says, “Part of sin is dissatisfaction with God. Lust’s power comes from the promise it gives that something besides God can make us happy. What this means is the only way to overcome the power of lust in our lives is by finding better promises.”
+
 11. Can you think of better promises found in Scripture?
 12. What passages have you memorized related to your battle against lust? How has it helped and what passage has been most helpful? How do you memorize them?
 
 Consequently, faith comes from hearing the message, and the message is heard through the word of Christ.
 
-Romans 10:17 13. Scripture is not clear on this point, but some have suggested that during temptation it is more powerful to say aloud the Scripture than simply think it. This is hard to deny or confirm. What do you think?
+Romans 10:17
+
+13. Scripture is not clear on this point, but some have suggested that during temptation it is more powerful to say aloud the Scripture than simply think it. This is hard to deny or confirm. What do you think?
 
 Flee from sexual immorality. All other sins a man commits are outside his body, but he who sins sexually sins against his own body. Do you not know that your body is a temple of the Holy Spirit, who is in you, whom you have received from God? You are not your own; you were bought at a price. Therefore honor God with your body.
 
-1 Corinthians 6:18-20 14. Scripture is not magic. Speaking it out loud doesn’t make lust go away. What does determine, or enhance, the efficacy of Scripture?
+1 Corinthians 6:18-20
 
-15. What is one thing you will do this week to utilize truth in your fight against lust? week seven - truth f
+14. Scripture is not magic. Speaking it out loud doesn’t make lust go away. What does determine, or enhance, the efficacy of Scripture?
+15. What is one thing you will do this week to utilize truth in your fight against lust? week seven - truth
 
-ForgIveNLEADER’S GUIDE
+### Flesh...
+
+# ForgIveNLEADER’S GUIDE
 
 1. Part of the answer may be cultural: sexual sins bring the most condemnation. It might be physical, something about the raw and fleshly nature of the act. And last, sex involves a very deep part of us. Failure in this area seems to go right to our core.
 2. Jesus repeats the question three times because Peter denied him three times. This is an opportunity for confession, to repeat, “I love you” for every time he had denied it. It is important to see that Jesus is helping Peter to feel forgiven and restored, not rubbing salt in a wound.
 3. If you look at the account, just prior to his betrayal, Peter claims that even if all the disciples fall away, he would not. Peter was claiming a greater level of commitment. Here, Jesus is reminding him that his true failure was not the denial but the pride that precipitated it.
-4. The essential components include: acknowledging that we have sinned, acknowledging that Jesus’ death has paid for our sin and that all is forgiven and then turning from a path of sin to God in repentance. While sin does not hinder our relationship with God, just like in a family, it hinders fellowship.
-5. We can confess our sin, but if we don’t trust in God’s Word and his incredible mercy, we will still feel he is angry with us. We must believe that what the Bible says is true. 130 leader’s guide - forgiven 6. Read the article “The Place of Faith” for a detailed answer. All are human ways to aid us in feeling forgiven: trusting in our ability to obey in the future; minimizing the sin so it will be easier for God to forgive; or berating ourselves to help pay for the sin. These are alternatives to faith, which chooses to believe that we are forgiven no matter what we’ve done because of Christ.
+6. Read the article “The Place of Faith” for a detailed answer. All are human ways to aid us in feeling forgiven: trusting in our ability to obey in the future; minimizing the sin so it will be easier for God to forgive; or berating ourselves to help pay for the sin. These are alternatives to faith, which chooses to believe that we are forgiven no matter what we’ve done because of Christ.
 7. See question six.
 8. A major reason we do not grow in holiness is because we don’t have the courage to hear painful truth about ourselves from God, our conscience or others. When we filter out hurtful truth, we spare ourselves pain. But, that pain is the needed fuel of repentance. Repentance, in turn, leads to growth. True repentance also helps us to feel forgiven. See the article called “Forgiven.”
-9. Jesus is telling Peter that he will have a second chance to prove his allegiance and love through martyrdom and that the next time he won’t fail.
-10. It’s a lot like a half-time pep talk from a football coach, saying, “There’s a whole second half of this game to play. Put the failure behind you and get back on the field, because we’re going to win this game.”
-11. No matter how many times we fail, God gives us a second chance. God doesn’t want us sidelined from the Christian life because of a moral failure.
+
+second chance. God doesn’t want us sidelined from the Christian life because of a moral failure.
+
 12. Discuss who provides accountability in the sexual area for each member of the group.
 13. Comparing ourselves to others becomes the basis for our forgiveness, not God’s forgiveness and mercy. This is what fueled the judgmental hearts of the Pharisees.
 14. Discuss as a group.
 15. The point you want to bring out here is that everyone has a different race to run. No one knows how difficult certain areas might be for others, nor how easy. No one knows the background or emotional make-up of others, which all factor into our outward spiritual performance.
-16. Look for people to make two solid action points. At the end of your time, you might give an opportunity to anyone struggling to feel forgiven to share his sin and struggle with the group. Then have the group pray for the individual. This might really minister to that person. f h...
+4. The essential components include: acknowledging that we have sinned, acknowledging that Jesus’ death has paid for our sin and that all is forgiven and then turning from a path of sin to God in repentance. While sin does not hinder our relationship with God, just like in a family, it hinders fellowship.
+5. We can confess our sin, but if we don’t trust in God’s Word and his incredible mercy, we will still feel he is angry with us. We must believe that what the Bible says is true.
+9. Jesus is telling Peter that he will have a second chance to prove his allegiance and love through martyrdom and that the next time he won’t fail.
+10. It’s a lot like a half-time pep talk from a football coach, saying, “There’s a whole second half of this game to play. Put the failure behind you and get back on the field, because we’re going to win this game.”
+11. No matter how many times we fail, God gives us a
+16. Look for people to make two solid action points.
+
+At the end of your time, you might give an opportunity to anyone struggling to feel forgiven to share his sin and struggle with the group. Then have the group pray for the individual. This might really minister to that person.
+
+leader’s guide - forgiven
 
 Lustleader’s Guide
 
@@ -314,10 +401,13 @@ In preparation for the study, read the articles “I’m Bored” and “Plan of
 
 1. Some of David’s list triggers included walking on the roof, spying on women bathers, being alone and being bored.
 2. Share some of your own examples to get the group going. Feel free to add more categories.
+
+passion toward God. We replace lust with greater worship and experience of God.
+
 3. Try to bring out the fact that most people have one or two areas where they let their guard down and allow their minds to fantasize.
 4. At the heart of these tiny sins is usually some form of rationalization. We tell ourselves, “It’s much better than other things I could be doing. I’m not having sex. God knows I’m a man.”
 5. Lust literally means “over passion” and refers to thinking through the activity to the point where you feel compelled to act out in some way. A normal desire is to want to have sex. Lust is actually fantasizing about it.
-6. We will never see success against lust if our battle plan is simply to stop. Our desires need godly alternatives. We must fan to flame our passion toward God. We replace lust with greater worship and experience of God.
+6. We will never see success against lust if our battle plan is simply to stop. Our desires need godly alternatives. We must fan to flame our
 7. Share some ways you have experienced intimacy with God. Read the chapter on worship for helpful information on questions six and seven.
 8. This is probably true: Our guilt on this issue seems out of proportion with the biblical emphasis.
 9. Yes. Sex was meant to unite two lives and get us into the heart and mind of another. Masturbation and the guilt we feel afterward increase the focus on ourselves. Furthermore, masturbation seems to lead to lust, even though it is possible to masturbate without lusting. Read the article on masturbation for more on this topic.
@@ -328,7 +418,11 @@ In preparation for the study, read the articles “I’m Bored” and “Plan of
 14. Discuss as a group.
 15. You can be trusting in your own resolve or willpower to bring it about. You can also set yourself up for great guilt if you fail.
 16. A godly commitment would be to fight, persevere and never give in to lust. Though the battle may take a while, we can commit to never making a truce with lust. See the article called “My Mind’s Made Up” for more on this.
-17. Share what you have written and ask others to share their commitments. leader’s guide - lust f
+17. Share what you have written and ask others to share their commitments.
+
+leader’s guide - lust
+
+### Flesh...
 
 Temptationleader’s Guide
 
@@ -338,10 +432,8 @@ As preparation, read the article “When Tempted.”
 2. This is just for discussion. Satan is probably more involved at crucial junctures, like when we are just beginning to pursue purity.
 3. You might look at the story of Nehemiah. As Nehemiah attempts to rebuild the wall, he is attacked at the beginning of the venture, the middle, and the end. These are the most strategic times of any project. Other strategic times are when we are physically or emotionally weak or vulnerable.
 4. This is just for discussion. For the discerning, a greater degree of attraction, “coincidence” or oppressiveness may be felt.
-5. Physical attraction is normal, healthy and from God. Evil desires are plans to take for ourselves that which God has not given, or plans to act out and satisfy our lust. Lust is “overpassion,” going beyond simple attraction to the point of fantasizing. 132 f h...
-
-leader’s guide - temptation 6. You might share some examples to encourage the group to be vulnerable.
-
+5. Physical attraction is normal, healthy and from God. Evil desires are plans to take for ourselves that which God has not given, or plans to act out and satisfy our lust. Lust is “overpassion,” going beyond simple attraction to the point of fantasizing.
+6. You might share some examples to encourage the group to be vulnerable.
 7. You’d blame God for your failure and be angry at him for having placed you in the tempting situation.
 8. We never have to sin, but the clear implication of this verse is that the way God makes this possible is by keeping us out of certain temptations where we don’t have the resources or capacity to say, “No.”
 9. Discuss examples from your own lives.
@@ -353,6 +445,8 @@ leader’s guide - temptation 6. You might share some examples to encourage the 
 15. Look for people to have some kind of action point for this question.
 
 Close the study by asking if there are specific temptations the group could pray about together.
+
+leader’s guide - temptation
 
 SexLEADER’S GUIDE
 
@@ -369,7 +463,11 @@ SexLEADER’S GUIDE
 11. It is how God designed sex and therefore how it works best. It is a degree of intimacy best protected by the commitments of marriage. It also reflects our relationship with God, which is purity and intimacy reserved for God alone. Reading the article “An Original Design” may be helpful for this question.
 12. Give people the freedom to discuss this. Basically, anything that begins to cause sexual arousal is stepping over the line of lust. Read the article “Just How Far” for more insight on this issue.
 13. This is for discussion, but you want to see that people have used the Scriptures to inform their standard.
-14. This issue is discussed in “Just How Far,” so you should probably read it over before the study. You might want to copy the article and give it out to the group to take home and read. leader’s guide - sex f
+14. This issue is discussed in “Just How Far,” so you should probably read it over before the study. You might want to copy the article and give it out to the group to take home and read.
+
+leader’s guide - sex
+
+### Flesh...
 
 Growleader’s Guide
 
@@ -388,7 +486,7 @@ Growleader’s Guide
 13. Discuss as a group.
 14. You’re looking to see if people have begun to grow in their understanding of the balance between God’s part and our part and the many nuances of the partnership. Make sure to read the article “The Way We Grow.”
 15. We must never cease in the battle for our holiness and never tolerate areas of sin in our life. It is okay to fail, but it is not okay not to fight or to passively allow sin to control our lives.
-16. Here is one reference of hope: “Dear friends, now we are children of God, and what we will be has not yet been made known. But we know that when he appears, we shall be like him, for we shall see him as he is” (I John 3:2). You can find others. 134 f h...
+16. Here is one reference of hope: “Dear friends, now we are children of God, and what we will be has not yet been made known. But we know that when he appears, we shall be like him, for we shall see him as he is” (I John 3:2). You can find others.
 
 leader’s guide - grow
 
@@ -412,7 +510,13 @@ In preparation for the study, read over the article “Blood Brothers.”
 14. E-mail or I.M. one another at night to keep each other accountable while on the computer. Meet regularly to discuss sexual struggles. Decide together on certain practices and standards to guard purity.
 15. Grace is expressing unconditional forgiveness. Truth means we ask difficult questions like “What will you do differently so that this doesn’t happen again?” Truth is upholding standards, while grace grants forgiveness if they are broken.
 16. People will tend more to one side or the other.
-17. Have the group share what they’ve listed. Application: Have the group sign up for Covenant Eyes at www.covenanteyes.com. This is a Christian ministry, with software that automatically forwards a log of the websites you’ve visited to two friends. Ask the individuals in your group to select two friends to be their accountability partners. leader’s guide - help f
+17. Have the group share what they’ve listed.
+
+Application: Have the group sign up for Covenant Eyes at www.covenanteyes.com. This is a Christian ministry, with software that automatically forwards a log of the websites you’ve visited to two friends. Ask the individuals in your group to select two friends to be their accountability partners.
+
+leader’s guide - help
+
+### Flesh...
 
 Truthleader’s Guide
 
@@ -430,6 +534,6 @@ Truthleader’s Guide
 12. Discuss.
 13. You aren’t looking for a correct answer. It might be a new idea for some that may be of benefit.
 14. Scripture’s efficacy might be enhanced by meditating on the truth of what it is saying, choosing to act in faith on what it says and growing in our maturity in Christ. (Over time, we grow in our knowledge and trust of God and the truth of Scripture.)
-15. Have people share their points of application. 136 f h...
+15. Have people share their points of application.
 
 leader’s guide - truth

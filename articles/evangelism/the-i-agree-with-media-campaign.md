@@ -5,16 +5,18 @@ also_topics: []
 type: "Article"
 themes: ["Outreach events & campaigns"]
 audience: ["Student leaders"]
-words: 12762
+words: 13040
 summary: "A campus-ministry informational packet describing the “I Agree With” media campaign, in which a selected Christian student publishes a statement of faith in the school newspaper while posters and t-shirts pose the question “Do you agree with...?” It walks student leaders through goals, planning schedule, team structure, casting vision, spiritual preparation, communications, flyers, t-shirts, finances, and a timeline for running the week-long outreach."
 source: "Evangelism/outreach/I_Agree_With.pdf"
 ---
 
-“I Agree with” weeks began sweeping across college campuses in fall 1999 beginning at Humboldt State University, and then University of Arizona, stretching throughout the west coast, and east as far as Penn State University. The concept was born when Humboldt State decided to change a traditional Christmas ad, which they ran every year. The ad concludes with “If you have any questions about this incredible event, please ask one of us.” And then typically, it’s followed with the names of Christian students and faculty. community on that campus wears brightly colored t-shirts stating “I Agree With …”, and signs and flyers are posted throughout the campus posing the question “DO YOU AGREE WITH…?”
-
-Subsequent statements are printed in the school newspaper signed by student athletes, leaders, and professors. A huge chalkboard is strategically placed on campus asking people on one side to write why they agree with whoever the figurehead is, and the other side asking why they don’t agree with that person. In addition, a table (or several tables) is strategically located on campus disseminating more information about the person everyone is agreeing with, as well as offering information about becoming a Christian (4 Spiritual Laws).
+“I Agree with” weeks began sweeping across college campuses in fall 1999 beginning at Humboldt State University, and then University of Arizona, stretching throughout the west coast, and east as far as Penn State University. The concept was born when Humboldt State decided to change a traditional Christmas ad, which they ran every year. The ad concludes with “If you have any questions about this incredible event, please ask one of us.” And then typically, it’s followed with the names of Christian students and faculty.
 
 Amidst much laughter, they decided to really get peoples attention with the ad that year, and listed just one name …Tom. No last name. Eric Leong, the campus director at Humboldt State, describes the development of the idea. “The idea came to us in a prayer meeting and we felt it was of the Lord. We printed up buttons, made posters and had Tom wear a t-shirt that said, “I am Tom!” The result was great; as Tom had a chance to share his faith in every class he was enrolled in that semester—totaling about 350 students in all. Many other students who wore buttons that said, “I agree with Tom,” had opportunities to share their faith as well.”
+
+community on that campus wears brightly colored t-shirts stating “I Agree With …”, and signs and flyers are posted throughout the campus posing the question “DO YOU AGREE WITH…?”
+
+Subsequent statements are printed in the school newspaper signed by student athletes, leaders, and professors. A huge chalkboard is strategically placed on campus asking people on one side to write why they agree with whoever the figurehead is, and the other side asking why they don’t agree with that person. In addition, a table (or several tables) is strategically located on campus disseminating more information about the person everyone is agreeing with, as well as offering information about becoming a Christian (4 Spiritual Laws).
 
 As a result of publicity, Christians are given countless opportunities to share their faith with classmates, roommates, floor mates, and friends as everyone becomes curious about who the mystery person is, and especially about why everyone agrees with him or her.
 
@@ -32,7 +34,9 @@ Devotional Newspaper Ads Pamphlets Newspaper Articles Training Material
 
 ## Do You Agree With Paul?
 
-I believe in… The powerful, persistent, and unfathomable love of the one true God, in the persons of Father, Son, and Holy Spirit, for each of us human folk… expressed perfectly in Jesus Christ, the Son of God, who entered into human history, fully God and fully man, showing us a God who is holy and perfect, unbounded in power, who compassionately knows our suffering… who calls for us to live our whole lives in an all-consuming, passionate, and life-defining relationship with our Creator… a relationship we’ve thwarted because we are all lost and guilty of wrongdoing, distanced by our spiritual poverty from the God we were meant to know… but I believe that God nonetheless calls out to us now, and I believe the Bible is the infallible and completely inspired Word of God to us…
+I believe in…
+
+The powerful, persistent, and unfathomable love of the one true God, in the persons of Father, Son, and Holy Spirit, for each of us human folk… expressed perfectly in Jesus Christ, the Son of God, who entered into human history, fully God and fully man, showing us a God who is holy and perfect, unbounded in power, who compassionately knows our suffering… who calls for us to live our whole lives in an all-consuming, passionate, and life-defining relationship with our Creator… a relationship we’ve thwarted because we are all lost and guilty of wrongdoing, distanced by our spiritual poverty from the God we were meant to know… but I believe that God nonetheless calls out to us now, and I believe the Bible is the infallible and completely inspired Word of God to us…
 
 #### Why This Packet?
 
@@ -47,7 +51,9 @@ It should be noted that this packet was designed with a staffed campus ministry 
 Before delving into the specifics of structure and planning it is important for the goals and purpose of the outreach to be clear in the minds of those planning it. We saw two primary goals for the outreach, and these goals have been consistent across most campuses that have done this. They are:
 
 - To share Christ with our campus and to get people talking about spiritual matters
-- To unify the Christian community In addition to developing these goals we also defined what success meant for the outreach. We hashed through what a biblical view of success was and concluded that a successful outreach was one in which each participant was challenged to take a step of faith. Depending on an individual’s level of spiritual maturity and experience in sharing their faith, this step could be anything from just wearing the t-shirt to sharing with their best friend to sharing with a total stranger. The Lord commands us to tell others about Him and to take steps of faith to trust that He will provide the courage and boldness we need to share Him with others.
+- To unify the Christian community
+
+In addition to developing these goals we also defined what success meant for the outreach. We hashed through what a biblical view of success was and concluded that a successful outreach was one in which each participant was challenged to take a step of faith. Depending on an individual’s level of spiritual maturity and experience in sharing their faith, this step could be anything from just wearing the t-shirt to sharing with their best friend to sharing with a total stranger. The Lord commands us to tell others about Him and to take steps of faith to trust that He will provide the courage and boldness we need to share Him with others.
 
 #### Schedule of Outreach
 
@@ -63,7 +69,10 @@ Before delving into the specifics of structure and planning it is important for 
 
 - Continue fliers everyday in classes and outside.
 - You should have a table set up in a prominent place with a Big sign that says, “Do you agree with….?” (See table section for details)
-- Everyone who bought a shirt should be wearing it! Remind them to wash it!
+- Everyone who bought a shirt should be wearing it!
+
+Remind them to wash it!
+
 - Early morning prayer before the first class.
 - People pass out pamphlets to people in main area of campus, especially between classes.
 - Check e-mail account after every day.
@@ -101,7 +110,9 @@ Before delving into the specifics of structure and planning it is important for 
 
 The structure you set up for the planning and implementation of this outreach are essential both to the success of the week and your sanity. You should have a core planning team of about 7 students committed to making the week a reality. Two of these students are the heads of the week, responsible for making it all fit together and for ensuring that all of the details have been delegated and problems addressed. The other 5 are the heads of the 5 specific teams needed to put the week together; prayer, evangelism training, communications, grassroots, and finances.
 
-It is suggested that these 7 students should meet at least once a week during the course of the planning of the outreach (give yourselves at least a semester) to touch base and make sure that everything is happening according to schedule. In addition, each of these people is also responsible for leading meetings with their respective teams however often that is necessary.
+It is suggested that these 7 students should meet at least once a week during the course of the planning of the outreach (give yourselves at least a semester) to touch base and make sure that everything is happening according to schedule.
+
+In addition, each of these people is also responsible for leading meetings with their respective teams however often that is necessary.
 
 The following will provide a more detailed description of the responsibilities each of these people has and also the skills needed to accomplish each job. However, all of these positions require both practical and spiritual leadership skills, they should be well organized, motivated, committed people of integrity, willing to give both their time and energy to make the gospel known.
 
@@ -233,18 +244,29 @@ This person handles all finance related issues.
 - Knowledge of excel
 - Ability to enforce budgets
 - Excellent communication skills
-- Good financial steward These seven people comprise your core planning team. The following sections outline the specifics of the above responsibilities each of these people has and also detail the types of decisions these people will need to make throughout the course of the planning of the week.
+- Good financial steward
+
+These seven people comprise your core planning team. The following sections outline the specifics of the above responsibilities each of these people has and also detail the types of decisions these people will need to make throughout the course of the planning of the week.
 
 #### Who Do We Agree With?
 
 The biggest question is usually “How do we chose the best person to represent the entire Christian community at our school?” Here are some guidelines that have proven as helpful in choosing the best candidate for the position. But remember the best thing to do is to pray through these qualities and see who the Lord brings to mind.
 
-1. Must be humble. Of all qualities this is one of the most important because he will be in the public’s eye. People will question why he is doing it. They will think he is the ‘leader” and others are ‘followers’.
-2. Must be able to defend his faith. He must feel confident with being asked questions, defending what he wrote in the newspaper, and know how to appropriately use scripture.
-3. He must be liked among his peers (both Christians and non-Christians) and known preferably by people from many Christian groups. This will help cast the vision to the other Christian groups.
-4. Spiritually mature and living a life above reproach. This person will be observed for the rest of the year, or the rest of his college career, so he must be someone you know lives a life that would be a great Christian witness.
-5. Willing to speak in front groups, be interviewed for a newspaper or news station, and come across clearly with the vision and mission of the week.
-6. Someone who is willing to put the time, effort and prayer into this event. To realize it will be spiritually draining. Must be a person of prayer and understand that the position will entail enduring major spiritual attacks in all areas of his life. Age does not matter! In fact, most of the campuses that have implemented this the person was a sophomore!
+Must be humble. Of all qualities this is one of the most important because he will be in the public’s eye. People will question why he is doing it. They will think he is the ‘leader” and others are ‘followers’.
+
+Must be able to defend his faith. He must feel confident with being asked questions, defending what he wrote in the newspaper, and know how to appropriately use scripture.
+
+He must be liked among his peers (both Christians and non-Christians) and known preferably by people from many Christian groups. This will help cast the vision to the other Christian groups.
+
+Spiritually mature and living a life above reproach. This person will be observed for the rest of the year, or the rest of his college career, so he must be someone you know lives a life that would be a great Christian witness.
+
+Willing to speak in front groups, be interviewed for a newspaper or news station, and come across clearly with the vision and mission of the week.
+
+Someone who is willing to put the time, effort and prayer into this event. To realize it will be spiritually draining. Must be a person of prayer and understand that the position will entail enduring major spiritual attacks in all areas of his life.
+
+#### Age does not matter!
+
+In fact, most of the campuses that have implemented this the person was a sophomore!
 
 An important note here is that we have termed this individual the “figurehead” of the outreach throughout this packet for ease of discussion. In no way does this imply that the outreach centers around this person, but rather it is focused on Jesus Christ. The reason for even using a student such as this is that it opens up so many avenues for conversation where wearing a shirt stating “I agree with Jesus” would probably scare people away. This person is meant to make Christianity more accessible to non-believers as they witness the faith of a peer. Everyone involved is rallying around Christ and the gospel message, this person is merely a tool to this end. (This may be an important argument when approaching potential participants who fear that we are worshiping or holding up an individual instead of Jesus Christ.)
 
@@ -259,7 +281,11 @@ The “Statement of Faith” includes the foundational Truths one must believe i
 - He was perfect and had to die in our place because we are sinful and separated from God.
 - He rose from the dead.
 - We must put our trust in Jesus as Savior and Lord to be saved.
-- The Bible is infallible and completely inspired. Flawless. The Bible is Truth. The statement should be free of “Christianese” words. It needs to be something that a non-believer can read and through it understand the entire gospel message. Nothing should be added that would distinguish it as a denominational focus. It can be written in any format, paragraph form, or bullet points etc. Be sure that at the end, the person people are agreeing with signs his name, with his major and year on it.
+- The Bible is infallible and completely inspired. Flawless. The Bible is Truth.
+
+The statement should be free of “Christianese” words.
+
+It needs to be something that a non-believer can read and through it understand the entire gospel message. Nothing should be added that would distinguish it as a denominational focus. It can be written in any format, paragraph form, or bullet points etc. Be sure that at the end, the person people are agreeing with signs his name, with his major and year on it.
 
 #### Who Participates?
 
@@ -267,7 +293,11 @@ It is the Outreach Coordinator’s responsibility to research the different Chri
 
 #### Casting Vision
 
-Casting vision for the outreach is probably what will make or break this week from happening. Usually it will be the Outreach Coordinators who do this (see the Structure section below). You must have things all planned out and organized before doing this. Clear goals and the definition of success are essential in casting vision to groups. It is important to have this clear in your mind before approaching the leadership of potential participants (groups, fellowships, churches, etc). As you approach the leadership teams of these organizations explain what the outreach is, why you are doing it, how the gospel has been effectively shared on other campuses through this same outreach, and whatever else you think will give them clear vision for what this is all about. It is important to approach them with a specific timeline of events and the expectations of them and their group throughout the planning and during the outreach itself. These initial meetings with the groups should be done a semester in advance to allow ample planning time. Remember that a goal is unity so you want them to feel integral to the outreach and totally involved.
+Casting vision for the outreach is probably what will make or break this week from happening. Usually it will be the Outreach Coordinators who do this (see the Structure section below).
+
+You must have things all planned out and organized before doing this. Clear goals and the definition of success are essential in casting vision to groups. It is important to have this clear in your mind before approaching the leadership of potential participants (groups, fellowships, churches, etc). As you approach the leadership teams of these organizations explain what the outreach is, why you are doing it, how the gospel has been effectively shared on other campuses through this same outreach, and whatever else you think will give them clear vision for what this is all about.
+
+It is important to approach them with a specific timeline of events and the expectations of them and their group throughout the planning and during the outreach itself. These initial meetings with the groups should be done a semester in advance to allow ample planning time. Remember that a goal is unity so you want them to feel integral to the outreach and totally involved.
 
 Once the leadership teams of all of the groups have been brought on board with outreach, the rest of the Christian community will also have to be. You can do this through several avenues. Individual fellowship meetings, at a large gathering of Christians on you campus, or through the leaderships of the groups are all possible forms. No matter the form you chose to do this there are some essential elements to making these announcements. Remember this is the first time many of these people have heard about this outreach. Your goal is to get them excited and involved. The following some tips for making this announcement:
 
@@ -279,7 +309,9 @@ Once the leadership teams of all of the groups have been brought on board with o
 - Tell people they will be trained to share their faith before the week starts
 - Have the figurehead for the week share his heart and vision
 - Describe their role/what they will be doing
-- Be creative and create energy and momentum. (ex. Have the whole room stand and ask them to stay standing if Jesus is their Lord and Savior. To stay standing if they want to see unity among believers. To stay standing if they want to reach the campus for Christ. Then have them sit down and explain how we can fulfill those desires through the “I Agree With…” week.
+- Be creative and create energy and momentum. (ex. Have the whole room stand and ask them to stay standing if Jesus is their Lord and Savior. To stay standing if they want to see unity among believers. To stay standing if they want to reach the
+
+campus for Christ. Then have them sit down and explain how we can fulfill those desires through the “I Agree With…” week.
 
 *Spiritual Preperation*
 
@@ -287,23 +319,35 @@ Spiritual Preparation is essential if a campus is to be prepared and successful 
 
 #### Prayer
 
-Praying should begin BEFORE anything. Pray before you bring this idea to your staff team, or student leadership or other Christian organizations on your campus. Pray about who the Lord would want to be the figurehead for the week, the person everyone will be agreeing with. (see the Choosing Who to Agree With section) Pray about who should take on the various roles of organizing and implementing the week. Establish a prayer coordinator who would encourage the body of believers to unite each week for prayer. Allow the prayer time to be 1-2 hours and begin early (about 6 weeks before the event.) This also means people need to be informed that it’s happening early so that they can start praying as well. Prayer should be one of the first things to organize. Prayer should not just occur before the week but each morning before the first classes begin each day of the outreach.
+Praying should begin BEFORE anything. Pray before you bring this idea to your staff team, or student leadership or other Christian organizations on your campus. Pray about who the Lord would want to be the figurehead for the week, the person everyone will be agreeing with. (see the Choosing Who to Agree With section) Pray about who should take on the various roles of organizing and implementing the week.
 
-Each prayer time should pray for the lost of the campus, the planning team, finances to come in, unity among the Christian groups on campus, Spiritual Warfare, and of course any personal prayer requests. If the group becomes too large, feel free to break off into smaller cell groups. Have it the same time and place each week. Invite all Christian groups that will be involved.
+Establish a prayer coordinator who would encourage the body of believers to unite each week for prayer. Allow the prayer time to be 1-2 hours and begin early (about 6 weeks before the event.) This also means people need to be informed that it’s happening early so that they can start praying as well. Prayer should be one of the first things to organize. Prayer should not just occur before the week but each morning before the first classes begin each day of the outreach.
+
+Each prayer time should pray for the lost of the campus, the planning team, finances to come in, unity among the Christian groups on campus, Spiritual Warfare, and of course any personal prayer requests.
+
+If the group becomes too large, feel free to break off into smaller cell groups. Have it the same time and place each week. Invite all Christian groups that will be involved.
 
 In addition, ask churches to begin praying too. Churches are great resources for prayer and financial support. You may also want to consider creating a prayer chain or a 24-hour prayer vigil throughout the outreach.
 
 #### Devotional
 
-In addition to preparing for Spiritual Warfare and prayer you should also develop other methods to prepare participants spiritually for the week. An effective way to do this is to develop a devotional for each person participating in the week to read each day prior to heading to campus. This will challenge them to think about why they are participating in the week and also encourage them during times of persecution. It should be distributed with the t-shirts (see t-shirt section) so that everyone is sure to receive one. A typical devotional will cost about $0.50 to make, so you can include that to your T-shirt price.
+In addition to preparing for Spiritual Warfare and prayer you should also develop other methods to prepare participants spiritually for the week.
 
-Important factors to include are specific items to pray about each day, questions encouraging commitment to reaching the lost, and a place to write down reflections at the end of each day. Some good topics to cover are the armor of God, being ambassador’s for Christ, being unashamed of the gospel, and taking our light to the world even after the week is over. Include a “Reflection over the Week” at the end to provide closure for what they learned and how they plan to continue sharing their faith in the future. Enclosed is an example of the devotional created for Paul Week at UC Berkeley.
+An effective way to do this is to develop a devotional for each person participating in the week to read each day prior to heading to campus. This will challenge them to think about why they are participating in the week and also encourage them during times of persecution. It should be distributed with the t-shirts (see t-shirt section) so that everyone is sure to receive one. A typical devotional will cost about $0.50 to make, so you can include that to your T-shirt price.
+
+Important factors to include are specific items to pray about each day, questions encouraging commitment to reaching the lost, and a place to write down reflections at the end of each day.
+
+Some good topics to cover are the armor of God, being ambassador’s for Christ, being unashamed of the gospel, and taking our light to the world even after the week is over. Include a “Reflection over the Week” at the end to provide closure for what they learned and how they plan to continue sharing their faith in the future. Enclosed is an example of the devotional created for Paul Week at UC Berkeley.
 
 #### Communication
 
 #### Email
 
-There are various ways the communication coordinator and team can communicate to the outside world and get responses. One of the most effective mechanisms for us was though establishing our own “Paul Week” account where people could ask questions and comments and we could send out general announcements from. It was a way the Christians could order shirts from different organizations, get their questions answered, and where we could establish follow-up with any new believers. It is best to have one person be “in charge” of what is coming in, and to have different folders/files for the information. Each person on the planning team should have a folder so that messages dealing with their area can be placed there. You should have a “Needs to respond to folder,” a positive e-mail file, and negative e-mail file. (we had a few emails from “Satan”!), slightly crazy email file, general organization file, t-shirt file, and what ever else you need to feel organized. Only give the code to the 7 people on the planning team. We put the email address on the back of our pamphlet and devotional. This is a great way to keep communication flowing with both those who are organizing the event and those who want to voice their concerns.
+There are various ways the communication coordinator and team can communicate to the outside world and get responses.
+
+One of the most effective mechanisms for us was though establishing our own “Paul Week” account where people could ask questions and comments and we could send out general announcements from. It was a way the Christians could order shirts from different organizations, get their questions answered, and where we could establish follow-up with any new believers. It is best to have one person be “in charge” of what is coming in, and to have different folders/files for the information. Each person on the planning team should have a folder so that messages dealing with their area can be placed there. You should have a “Needs to respond to folder,” a positive e-mail file, and negative e-mail file. (we had a few emails from “Satan”!), slightly crazy email file, general organization file, t-shirt file, and what ever else you need to feel organized. Only give the code to the 7 people on the planning team.
+
+We put the email address on the back of our pamphlet and devotional. This is a great way to keep communication flowing with both those who are organizing the event and those who want to voice their concerns.
 
 #### Website
 
@@ -318,19 +362,29 @@ Another area that has flexibility and creativity to it is the newspaper ad desig
 - Have sporadic “Do you agree with…” questions throughout the paper. Or the email account for any questions.
 - You could also put an ad saying when the figurehead is speaking in the main area of campus.
 
-The communications team needs to figure out how much an ad would cost depending on the size, and when the ad needs to be turned in. The more ads you put in, the more curious the school newspaper will be and you’ll probably get some free articles as well, and many of letters to the editor.
+The communications team needs to figure out how much an ad would cost depending on the size, and when the ad needs to be turned in.
 
-One of the most important communication roles the team will have maintaining relationships with and communicating announcements to the many groups participating in the outreach. The communications coordinator should keep a record of their meeting times, leader’s contact information, and email listserve’s so that contacting them with updated information is timely and efficient. Have the figurehead visit each group at least once so that everyone can meet him and answer any questions. It is also most effective if the communications team has a contact person from each group responsible for t-shirts and training for their group to prevent any breakdowns in communication.
+The more ads you put in, the more curious the school newspaper will be and you’ll probably get some free articles as well, and many of letters to the editor.
+
+One of the most important communication roles the team will have maintaining relationships with and communicating announcements to the many groups participating in the outreach. The communications coordinator should keep a record of their meeting times, leader’s contact information, and email listserve’s so that contacting them with updated information is timely and efficient. Have the figurehead visit each group at least once so that everyone can meet him and answer any questions.
+
+It is also most effective if the communications team has a contact person from each group responsible for t-shirts and training for their group to prevent any breakdowns in communication.
 
 #### Campus Presence
 
 Two main ways we are physically present on campus (aside from flyers) are those who are wearing T-shirts from the various Christian groups on campus, and a main table to draw attention to the week and answer any questions. It is good to have this in the busiest part of the campus. You want to be set up before the first class begins and maintain shifts until there are not many more people in the area in the afternoon. You may need to be flexible here. (Even on Friday afternoon we were there until 6pm with people talking in groups about their beliefs!)
 
-The table should display a HUGE sign stating “I AGREE WITH…” on it. There should be pamphlets available with a version of the four laws inside it and a testimony of the chosen person to agree with. Also, copies of the article that was place in the school newspaper can be handed out for those who didn’t read it and want to know what everyone is agreeing with. You can have a table with free books such as the New Testament, More than a Carpenter by Josh McDowell, or Case for Christ by Lee Strobel. The table can also be a place where students from different groups can pick up their shirts if they were unable to pick them up at a training meeting. You want to be careful and not display them, or those who are against the statement of faith may buy one. This could cause some confusion if they wear it on campus and don’t agree. If people didn’t order them and would like them, have them read over the statement of faith that was written and have them sign it to say they agree. Then in faith, they can buy a shirt! Two students should be at the table at one time. Shifts are advisable. Most of them can take shifts between classes. (For many students that is where they will want to congrigate to see the action, so there was never a problem of anyone watching the table. On most campuses, it must be a student in the organization that is at a table, not a staff person. You may also want to check and see if the big sign on the table needs to have in small writing what organizations are putting on the week. (Don’t do it if you don’t have to because less people may ask what it’s all about if they see it relating to Christian clubs on campus.
+The table should display a HUGE sign stating “I AGREE WITH…” on it. There should be pamphlets available with a version of the four laws inside it and a testimony of the chosen person to agree with. Also, copies of the article that was place in the school newspaper can be handed out for those who didn’t read it and want to know what everyone is agreeing with. You can have a table with free books such as the New Testament, More than a Carpenter by Josh McDowell, or Case for Christ by Lee Strobel.
+
+The table can also be a place where students from different groups can pick up their shirts if they were unable to pick them up at a training meeting. You want to be careful and not display them, or those who are against the statement of faith may buy one. This could cause some confusion if they wear it on campus and don’t agree. If people didn’t order them and would like them, have them read over the statement of faith that was written and have them sign it to say they agree. Then in faith, they can buy a shirt!
+
+Two students should be at the table at one time. Shifts are advisable. Most of them can take shifts between classes. (For many students that is where they will want to congrigate to see the action, so there was never a problem of anyone watching the table. On most campuses, it must be a student in the organization that is at a table, not a staff person. You may also want to check and see if the big sign on the table needs to have in small writing what organizations are putting on the week. (Don’t do it if you don’t have to because less people may ask what it’s all about if they see it relating to Christian clubs on campus.
 
 Other students should be passing out the pamphlets saying, “Have you heard about ….? Do you agree with …?” In one week UC Berkeley passed out 5,000 of these pamphlets!
 
-On Wednesday, bring out a chalkboard/bulletin board covered with butcher paper, (bring lots) and cover both sides of the board. On the side closer to the table write “I agree with…because…” and on the other side write “I disagree with…because”. This will encourage students to write their opinions on the boards. Allow anything. (Even email addresses to “Satan”, like we saw!) This was by far the most successful strategy we implemented at UC Berkeley. We had crowds of 50+ between classes and up until evening. We would just go to read the board, and they would approach those with the T-shirts on and facilitate a discussion. Many lasted for hours! So it is a great place for the Christians to begin conversations. I would advise bring out the chalk board on Wednesday because it is something new and many people will now know what the week is about and have an opinion on it. Have it out for the rest of the week. Something you may want to do is type up the answers and share them with your groups to hear how the week affected people. It will also give you a clearer idea on what the students believe on your campus.
+On Wednesday, bring out a chalkboard/bulletin board covered with butcher paper, (bring lots) and cover both sides of the board. On the side closer to the table write “I agree with…because…” and on the other side write “I disagree with…because”. This will encourage students to write their opinions on the boards. Allow anything. (Even email addresses to “Satan”, like we saw!) This was by far the most successful strategy we implemented at UC Berkeley. We had crowds of 50+ between classes and up until evening. We would just go to read the board, and they would approach those with the T-shirts on and facilitate a discussion. Many lasted for hours! So it is a great place for the Christians to begin conversations. I would advise bring out the chalk board on Wednesday because it is something new and many people will now know what the week is about and have an opinion on it. Have it out for the rest of the week.
+
+Something you may want to do is type up the answers and share them with your groups to hear how the week affected people. It will also give you a clearer idea on what the students believe on your campus.
 
 #### Flyers, Pamphlets, and Media
 
@@ -338,7 +392,11 @@ This section basically outlines the specifics of the job of the grassroots coord
 
 #### Flyers
 
-All of the flyers and pamphlets that you post and hand out should be the same color and also the in same font. Remember that the goal is to make people curious about who this person is that everyone agrees with and by making everything the same obnoxious color and font you create a sort of brand for the week that everyone recognizes. When we did this outreach at Berkeley we did the entire thing in one week, but at most schools it has spanned a week to a week and a half. During the first week signs asking “Do you agree with…?” are posted all over campus. Nothing else is printed anywhere and no t-shirts are worn. Through this curiosity is created so in the second week when the statement of faith is printed in the newspaper and everyone begins to wear the shirts the entire campus wants to know what is going on (a sample flyer is attached in the back of this packet).
+All of the flyers and pamphlets that you post and hand out should be the same color and also the in same font. Remember that the goal is to make people curious about who this person is that everyone agrees with and by making everything the same obnoxious color and font you create a sort of brand for the week that everyone recognizes.
+
+When we did this outreach at Berkeley we did the entire thing in one week, but at most schools it has spanned a week to a week and a half.
+
+During the first week signs asking “Do you agree with…?” are posted all over campus. Nothing else is printed anywhere and no t-shirts are worn. Through this curiosity is created so in the second week when the statement of faith is printed in the newspaper and everyone begins to wear the shirts the entire campus wants to know what is going on (a sample flyer is attached in the back of this packet).
 
 This means that the grassroots coordinator must coordinate flyer posting for two weeks. This is a great way to involve many people in the outreach. We had each group participating ask for volunteers to come posting every morning for an hour. On average we had ten or so people to cover the campus. Depending on your campus you may not have to do this everyday, but everything gets torn down at Berkeley each night so we had to re-post each morning. It is a good idea to have breakfast goodies there for the people helping and the grassroots coordinator should be there encouraging everyone as they serve.
 
@@ -356,7 +414,11 @@ See the Communications section for information about this.
 
 #### Newspaper Coverage and Talking to Reporters
 
-During the course of the week our student newspaper ran either an article or a letter to the editor each day of the outreach with the exception of Wednesday. You have little control over what letters the newspaper prints, but it is a good idea to have someone ready to write a response to a negative one. This person should probably be someone outside of the immediate planning of the outreach who has the time to put into writing a respectful and well thought out letter explaining the intent of the week. As for news articles and the like, the three people who will be interviewed most often are the two coordinators of the outreach and the figurehead for the outreach. We recommend that you try to have these three people be the only people talking to reporters so that the message and intent of the week does not get misrepresented by anyone else. Some key things to remember in any conversation with any reporter are:
+During the course of the week our student newspaper ran either an article or a letter to the editor each day of the outreach with the exception of Wednesday. You have little control over what letters the newspaper prints, but it is a good idea to have someone
+
+ready to write a response to a negative one. This person should probably be someone outside of the immediate planning of the outreach who has the time to put into writing a respectful and well thought out letter explaining the intent of the week.
+
+As for news articles and the like, the three people who will be interviewed most often are the two coordinators of the outreach and the figurehead for the outreach. We recommend that you try to have these three people be the only people talking to reporters so that the message and intent of the week does not get misrepresented by anyone else. Some key things to remember in any conversation with any reporter are:
 
 - Everything you say and do is fair game for them to write about and quote you on
 - The goal in all of this is to share the gospel and get people seeking Christ so don’t worry about defending yourself in an interview
@@ -368,11 +430,27 @@ As mentioned at the start of this section we were interviewed by many different 
 
 #### T-shirts
 
-Your T-shirt is what everyone on campus will see. Pick a color that stands out. Have the entire planning team get together to choose the color of the T-shirt. Bright yellow, lime green, and florescent orange have been used in the past. Don’t use black lettering for the print on the front of the shirt. It’s easy to counterfeit a T-shirt with black lettering so choose a color other than black for your text. Be sure to order your T-shirts well in advance of the week. To avoid being inundated by T-shirt orders have each fellowship or church collect all the T-shirt orders and sizes from their members who are participating in the week. It’s a good idea to have them pay up front so you don’t have to try to collect all the money after the week. Try to have all the T-shirts in your possession 3 weeks before the actual outreach. There will be some Christians in your area who won’t hear about the week until it is actually happening and they will want to participate. Estimate how many extra T-shirts you think you’ll need and order them 2 weeks before the week. T-shirts can be passed out at training times or at the table on the first day. Have each fellowship or church designate one person to collect all the T-shirt orders. That person is also responsible or picking up all the T-shirts once they come in. When you order the T-shirts they will come in bulk and you’ll have to split them up by fellowship or church. Have only a few people organize the shirts. Choose a verse in the Bible about living above reproach and pin it on each shirt. We want to make sure that those who wear the shirt are again reminded the witness they are bearing. The person that everyone is agreeing with has two options for their shirt. They can wear the same shirt everyone else has, “I Agree with…” or they can choose to have a shirt that say “I am…” It has been successful either way. It is often good for the person to not reveal his identity until the day he is going to speak. So, if he gets an “I am…” shirt, he should only wear it Thursday and Friday. This will cause more people to approach him, interview him, and he will be more of the center of attention at that time. Up to that, he will just be like everyone else wearing a Tshirt.
+Your T-shirt is what everyone on campus will see. Pick a color that stands out. Have the entire planning team get together to choose the color of the T-shirt. Bright yellow, lime green, and florescent orange have been used in the past. Don’t use black lettering for the print on the front of the shirt.
+
+It’s easy to counterfeit a T-shirt with black lettering so choose a color other than black for your text. Be sure to order your T-shirts well in advance of the week. To avoid being inundated by T-shirt orders have each fellowship or church collect all the T-shirt orders and sizes from their members who are participating in the week. It’s a good idea to have them pay up front so you don’t have to try to collect all the money after the week. Try to have all the T-shirts in your possession 3 weeks before the actual outreach. There will be some Christians in your area who won’t hear about the week until it is actually happening and they will want to participate.
+
+Estimate how many extra T-shirts you think you’ll need and order them 2 weeks before the week. T-shirts can be passed out at training times or at the table on the first day.
+
+Have each fellowship or church designate one person to collect all the T-shirt orders. That person is also responsible or picking up all the T-shirts once they come in. When you order the T-shirts they will come in bulk and you’ll have to split them up by fellowship or church. Have only a few people organize the shirts. Choose a verse in the Bible about living above reproach and pin it on each shirt. We want to make sure that those who wear the shirt are again reminded the witness they are bearing.
+
+The person that everyone is agreeing with has two options for their shirt. They can wear the same shirt everyone else has, “I Agree with…” or they can choose to have a shirt that say “I am…” It has been successful either way. It is often good for the person to not reveal his identity until the day he is going to speak. So, if he gets an “I am…” shirt, he should only wear it Thursday and Friday.
+
+This will cause more people to approach him, interview him, and he will be more of the center of attention at that time. Up to that, he will just be like everyone else wearing a Tshirt.
 
 #### The Speech
 
-At around noon, when it is the busiest time for students to be mulling around the table area on either Thursday or Friday, you want your figurehead to get a crowd together and share what the week is about, who he is, and what’s his testimony. It is best to pass out fliers that say, “Come here ________ speak!” You can even put the place, day and time on the pamphlets so that people can look forward to coming. It is best to do it outside to attract those who are passing by. Have two people at the designated time start announcing that he is going to start to speak. To gather a crowd, it is good to have most of the Christians take off their “I agree with…” shirts so that it doesn’t look like they are the only one’s gathering. You don’t want it to appear to be just the Christians. After he is finished speaking, allow a question and answer time. Most people will stay to listen to the questions to see how he will respond. This could be the most intimidating part of his role, but with the Holy Spirit, the body of Christ surrounding him, the Lord will bring words and scripture to his mouth.
+At around noon, when it is the busiest time for students to be mulling around the table area on either Thursday or Friday, you want your figurehead to get a crowd together and share what the week is about, who he is, and what’s his testimony. It is best to pass out fliers that say, “Come here ________ speak!”
+
+You can even put the place, day and time on the pamphlets so that people can look forward to coming. outside to attract those who are passing by. Have two people at the designated time start announcing that he is going to start to speak.
+
+To gather a crowd, it is good to have most of the Christians take off their “I agree with…” shirts so that it doesn’t look like they are the only one’s gathering. You don’t want it to appear to be just the Christians.
+
+After he is finished speaking, allow a question and answer time. Most people will stay to listen to the questions to see how he will respond. This could be the most intimidating part of his role, but with the Holy Spirit, the body of Christ surrounding him, the Lord will bring words and scripture to his mouth.
 
 #### Praise and Worship Night
 
@@ -394,58 +472,80 @@ Throughout the week there were many different reactions and responses to the out
 
 1. The open/curious person who is sincerely asking questions and who God is clearly drawing.
 2. The antagonistic person who is there to simply challenge Chirstians, but is not really there to seek the truth of the gospel of Jesus.
-
-3) The neutral person who may or may not have the right motives when
-
-approaching you but can come around if you give them answers with gentleness and respect (1 Peter 3:15).
+3. The neutral person who may or may not have the right motives when approaching you but can come around if you give them answers with gentleness and respect (1 Peter 3:15).
 
 #### Biblical Responses
 
 1. To the open person it is best to simply present the gospel either directly or indirectly through the use of the 4-point outline of the gospel (or 1 Cor. 15:1-8 which is briefest form of the gospel), or in another way which the Holy Spirit prompts you.
-2. To the antagonistic person, it is best to apply the admonition outlined in Philippians 1:27-28,where Paul tells us to conduct ourselves in a manner worthy of the gospel of Christ, to stand firm and not be alarmed by "your opponents" because "it is a sign of destruction for them, but of salvation for you, and that too, from God." In another words, if you are not moved or alarmed by them, God convicts them of what awaits them, while also confirming to them the truth of the salvation that is yours in Christ! For example, at Berkeley, there is an older guy named Jack who comes out during almost every Christian outreach and tries to persuade Christians that Christianity is wrong and contradictory through faulty arguments. For people like this it is important to FIRST, let them know that we are not here to argue with them, but are simply here to present the grace that is in Christ Jesus (2 Tim. 2:1) and SECOND to gently pose the question "What are you going to do with the person of Christ before He comes back?" to them. The discussion must culminate in what will they do with God's Son when He returns! The Bible teaches that if we are strong in our convictions they will be convicted that what we believe is true and see that they may be headed for "destruction" (Phil. 1:27-28) if they don't change their behavior.
+2. To the antagonistic person, it is best to apply the admonition outlined in Philippians 1:27-28,where Paul tells us to conduct ourselves in a manner worthy of the gospel of Christ, to stand firm and not be alarmed by "your opponents" because "it is a sign of destruction for them, but of salvation for you, and that too, from God." In another words, if you are not moved or alarmed by them, God convicts them of what awaits them, while also confirming to them the truth of the salvation that is yours in Christ! For example, at Berkeley, there is an older guy named Jack who comes out during almost every Christian outreach and tries to persuade Christians that Christianity is wrong and contradictory through faulty arguments.
+
+For people like this it is important to FIRST, let them know that we are not here to argue with them, but are simply here to present the grace that is in Christ Jesus (2 Tim. 2:1) and SECOND to gently pose the question "What are you going to do with the person of Christ before He comes back?" to them. The discussion must culminate in what will they do with God's Son when He returns! The Bible teaches that if we are strong in our convictions they will be convicted that what we believe is true and see that they may be headed for "destruction" (Phil. 1:27-28) if they don't change their behavior.
+
 3. For the neutral person it is important to pique their interest and promote an environment of trust so that they will be free to ask questions, while ultimately showing them the love that binds us (Col. 3:14, John 13:35).
 
-In addition to these three basic responses from people we also were privy to a whole host of other events, t-shirts, and postings. By the end of the week the group called Students Advocating a Non-religious Ethos (SANE) set up their table next to ours and began to debate and reason why morality can exist without God. Several t-shirts were printed and worn by students proclaiming such things as “God is Dead”, “I Agree with Faust”, “Paul Agrees with Weed”, and the like. Included in the back are some copies of the signs that were posted in response to the outreach throughout campus. We found that as the week wore on the debate seemed to get more heated. Our table and bulletin board (see the Campus Presence section) were the focal point of most of this debate. By Friday participants were even being discriminated against in their classes by teaching assistants and professors. On the more positive side, as the week wore on more and more deep and meaningful conversations occurred and many people accepted Christ.
+In addition to these three basic responses from people we also were privy to a whole host of other events, t-shirts, and postings.
 
-Spiritual Warfare was rampant during the week which was encouraging to us as it was confirmation that the outreach had eternal significance. By Thursday we could feel the difference between the feeling of oppression at our table on our main plaza and the feeling of freedom inside the Christian house just off campus where we met to pray. Be prepared and expect this! It is important to remember that there will be all types of responses from people and Satan will do his best to keep the outreach from being effective. The negative responses are predicted in the Bible and they happened even to the apostles (Acts 17). Be encouraged by them because God is sovereign and working.
+By the end of the week the group called Students Advocating a Non-religious Ethos (SANE) set up their table next to ours and began to debate and reason why morality can exist without God. Several t-shirts were printed and worn by students proclaiming such things as “God is Dead”, “I Agree with Faust”, “Paul Agrees with Weed”, and the like. Included in the back are some copies of the signs that were posted in response to the outreach throughout campus. We found that as the week wore on the debate seemed to get more heated. Our table and bulletin board (see the Campus Presence section) were the focal point of most of this debate. By Friday participants were even being discriminated against in their classes by teaching assistants and professors. On the more positive side, as the week wore on more and more deep and meaningful conversations occurred and many people accepted Christ.
+
+Spiritual Warfare was rampant during the week which was encouraging to us as it was confirmation that the outreach had eternal significance. By Thursday we could feel the difference between the feeling of oppression at our table on our main plaza and the feeling of freedom inside the Christian house just off campus where we met to pray. Be prepared and expect this! It is important to remember that there will be all types of responses from people and Satan will do his best to keep the outreach from being effective. The negative responses are predicted in the Bible and they happened even to the apostles (Acts 17).
+
+Be encouraged by them because God is sovereign and working.
 
 #### Finances
 
-If “I Agree with…” week is going to happen you’re going to need money. Everything costs money. Advertisements, T-shirts, flyers, paper to make the flyers, staples and tape to put the flyers up, paper to print the devotionals on, and who knows what else will cost money.
+If “I Agree with…” week is going to happen you’re going to need money. Everything costs money.
 
-The total cost of the week will depend on how big your campus is, how many people participate, and how much money it costs to place an advertisement in your school newspaper. At the University of Arizona, Dave Week cost a total of $2700 while at the University of California Berkeley, Paul Week cost slightly over $8,000. Advertisements are the most expensive element during the week. At Berkeley a full page ad featuring Paul’s statement of faith cost over $1000 and half page ads cost over $700. So where do you get this money from? If you know a lot of wealthy people ask them, otherwise you need to raise support. To begin with, estimate the cost of everything you think you will need. Below is an example used at Berkeley.
+Advertisements, T-shirts, flyers, paper to make the flyers, staples and tape to put the flyers up, paper to print the devotionals on, and who knows what else will cost money.
 
-Adds in the Newspaper - $4000 T-shirts - $3000 Devotionals - $300 Flyers - $300 Misc. - $400 Keep in mind that the T-shirts will also bring in revenue. At Berkeley we charged $6 for each T-shirt. The cost to produce them was $4.25 but the extra money went to help pay for the devotionals and flyers. The more people participating in the week, the less money you need to raise. Before ordering the T-shirts, get the students to place orders by size at least 2 to 3 weeks before the actual week. That way you have an idea of how much money you will be receiving from the T-shirts. It is best to have them pay up front so you don’t have to try to collect all the money when the week is over. During the week other Christians who never heard about the week will want to purchase T-shirts as well so you need to order extras. Estimate how many more you think you need and place that order at least a week before the outreach. Remember that you don’t want to lose money on the week so be sure that the T-shirts you have already sold will cover the cost of the extra T-shirts in case no one decides to buy them.
+The total cost of the week will depend on how big your campus is, how many people participate, and how much money it costs to place an advertisement in your school newspaper. At the University of Arizona, Dave Week cost a total of $2700 while at the University of California Berkeley, Paul Week cost slightly over $8,000. Advertisements are the most expensive element during the week. At Berkeley a full page ad featuring Paul’s statement of faith cost over $1000 and half page ads cost over $700.
+
+So where do you get this money from? If you know a lot of wealthy people ask them, otherwise you need to raise support. To begin with, estimate the cost of everything you think you will need. Below is an example used at Berkeley.
+
+Adds in the Newspaper - $4000 T-shirts - $3000 Devotionals - $300 Flyers - $300 Misc. - $400
+
+Keep in mind that the T-shirts will also bring in revenue. At Berkeley we charged $6 for each T-shirt. The cost to produce them was $4.25 but the extra money went to help pay for the devotionals and flyers. The more people participating in the week, the less money you need to raise. Before ordering the T-shirts, get the students to place orders by size at least 2 to 3 weeks before the actual week. That way you have an idea of how much money you will be receiving from the T-shirts. It is best to have them pay up front so you don’t have to try to collect all the money when the week is over. During the week other Christians who never heard about the week will want to purchase T-shirts as well so you need to order extras. Estimate how many more you think you need and place that order at least a week before the outreach. Remember that you don’t want to lose money on the week so be sure that the T-shirts you have already sold will cover the cost of the extra T-shirts in case no one decides to buy them.
 
 #### Up Front Money
 
-Some things will require you to pay for them before you have all the support raised. For example, most t-shirt companies will ask for a 50% deposit before they will make them. It would be best to raise all your support first, so you have some money up front.
+Some things will require you to pay for them before you have all the support raised. For example, most t-shirt companies will ask for a 50% deposit before they will make them.
+
+It would be best to raise all your support first, so you have some money up front.
 
 Even with the money from the T-shirt sales you are still going to need to raise some support. Local churches, Campus fellowships, alumni from your campus, and other Christian organizations are good resources. Send a letter to all of these people explaining what this week is about, and follow up your most likely contributors with a phone call. The following is an example of the one used at Berkeley.
 
-Dear My name is Matt, and I am writing you on behalf of the Christian community here at UC Berkeley. God has been moving among us this year here and has given many of us a heart to see the lost come to know Him and to see the body maintain the unity that we have in Christ. We are excited to see what God can do when we surrender to Him and ask for His help. An idea has come our way through some students at the University of Arizona, Penn State University, and University of Northern Colorado that we think may help reach the lost here at Cal and bring the body of Christ together. Their goal was to do something creative to spark spiritual conversations on their campuses. Here’s how. First they covered their campuses with flyers and posters with one question on it. "Do you agree with (some student’s name)?" At U of A it was "Do you agree with Dave?" At Penn State it was Adam. Then they printed a statement of faith written by the student, Dave or Adam, in their school paper covering the main tenets of Christianity. That will happen on Monday, and then every day for the rest of the week we will print statements by the faculty, student athletes, and student leaders on different days of the week. For the whole week they put up posters and handed out flyers asking the question, "Do you agree with (whoever)?" They also made t-shirts with the simple statement, "I agree with Dave." These were distributed to anyone who wanted them. This gave them the opportunity to start conversations with students when they were approached and asked about their t-shirts. Then at the end of the week they had a big rally on campus where Dave, or Adam, gave his testimony and answered questions. Our hope is to do the same thing here at Berkeley, except with someone named Paul. So ours will be called Paul Week. Our vision is to see the Christian community rally around each other in order to engage the campus in spiritual conversation, not shoving the Bible down their throat, but humbly sharing that we have many of the same concerns as the average college student, but we have met a God who wants to help us live the life we were meant to live. However, we cannot do this alone. We are writing you because we want to give you the opportunity to be a part of what God is going to do during Paul Week here at Berkeley. One way to do this is through prayer. Satan is going to muster up as much force as he can to defeat this effort to engage people with the good news, so we want to ask you to pray for us during your prayer meetings. Secondly, printing ads in the school newspaper, making t-shirts, and printing flyers and posters costs money. We would love for you to also consider partnering with us in what God is doing here at Berkeley by supporting the week financially. We need to raise about $10,000. Thank you for your time in reading this letter. If you choose to contribute financially, checks may be made out to UIC, and mailed to: Westminster House, 2700 Bancroft Way, Berkeley CA 94704, c/o Randy Bare. Receipts will be sent out. If you could notify us by e-mail at (email here) if you do contribute financially with the amount, that would help our records and let us see how much farther we have to go. Thank you again for your time.
+Dear My name is Matt, and I am writing you on behalf of the Christian community here at UC Berkeley. God has been moving among us this year here and has given many of us a heart to see the lost come to know Him and to see the body maintain the unity that we have in Christ. We are excited to see what God can do when we surrender to Him and ask for His help. An idea has come our way through some students at the University of Arizona, Penn State University, and University of Northern Colorado that we think may help reach the lost here at Cal and bring the body of Christ together. Their goal was to do something creative to spark spiritual conversations on their campuses. Here’s how. First they covered their campuses with flyers and posters with one question on it. "Do you agree with (some student’s name)?" At U of A it was "Do you agree with Dave?" At Penn State it was Adam. Then they printed a statement of faith written by the student, Dave or Adam, in their school paper covering the main tenets of Christianity. That will happen on Monday, and then every day for the rest of the week we will print statements by the faculty, student athletes, and student leaders on different days of the week. For the whole week they put up posters and handed out flyers asking the question, "Do you agree with (whoever)?" They also made t-shirts with the simple statement, "I agree with Dave." These were distributed to anyone who wanted them. This gave them the opportunity to start conversations with students when they were approached and asked about their t-shirts. Then at the end of the week they had a big rally on campus where Dave, or Adam, gave his testimony and answered questions. Our hope is to do the same thing here at Berkeley, except with someone named Paul. So ours will be called Paul Week. Our vision is to see the Christian community rally around each other in order to engage the campus in spiritual conversation, not shoving the Bible down their throat, but humbly sharing that we have many of the same concerns as the average college student, but we have met a God who wants to help us live the life we were meant to live. However, we cannot do this alone. We are writing you because we want to give you the opportunity to be a part
+
+of what God is going to do during Paul Week here at Berkeley. One way to do this is through prayer. Satan is going to muster up as much force as he can to defeat this effort to engage people with the good news, so we want to ask you to pray for us during your prayer meetings. Secondly, printing ads in the school newspaper, making t-shirts, and printing flyers and posters costs money. We would love for you to also consider partnering with us in what God is doing here at Berkeley by supporting the week financially. We need to raise about $10,000. Thank you for your time in reading this letter. If you choose to contribute financially, checks may be made out to UIC, and mailed to: Westminster House, 2700 Bancroft Way, Berkeley CA 94704, c/o Randy Bare. Receipts will be sent out. If you could notify us by e-mail at (email here) if you do contribute financially with the amount, that would help our records and let us see how much farther we have to go. Thank you again for your time.
 
 In Christ, (Your name here)
 
-"Let us not become weary in doing good, for at the proper time we will reap a harvest if we do not give up." Galatians 6:9 In addition, ask all of the campus fellowships participating if they would like to support the week financially. Some of them will and some won’t. As we found out most of the money came from a few big donors of a 1000 or more. Also remember that people can support you in ways other than financial, such as through the donation of paper or their copy machine. We e-mailed over 300 churches and had no responses. Not until 4 days before the week was going to happen did we have half of the money and then in 1 day the rest of it came in. If you are the financial coordinator you need to have patience and faith to wait for God to bring in the money.
+"Let us not become weary in doing good, for at the proper time we will reap a harvest if we do not give up." Galatians 6:9
+
+In addition, ask all of the campus fellowships participating if they would like to support the week financially. Some of them will and some won’t. As we found out most of the money came from a few big donors of a 1000 or more. Also remember that people can support you in ways other than financial, such as through the donation of paper or their copy machine. We e-mailed over 300 churches and had no responses. Not until 4 days before the week was going to happen did we have half of the money and then in 1 day the rest of it came in. If you are the financial coordinator you need to have patience and faith to wait for God to bring in the money.
 
 #### One more thing…
 
-To whom do your supporters make their checks payable to? You will need to find an organization that will give you a tax-deductible receipt. Have all the money made out to that organization. Most likely a few key students or staff will be putting a lot of money on their credit cards and they will need to get reimbursed as soon as possible. We had one student put $3000 on her credit card. Once you get their receipts make copies of them for your records and give the original to whatever organization is handling your money for them to give you a reimbursement check. Finally, send out thank you cards to all your financial supporters and a letter with a recap of the highlights of the week.
+To whom do your supporters make their checks payable to?
+
+You will need to find an organization that will give you a tax-deductible receipt. Have all the money made out to that organization. Most likely a few key students or staff will be putting a lot of money on their credit cards and they will need to get reimbursed as soon as possible. We had one student put $3000 on her credit card.
+
+Once you get their receipts make copies of them for your records and give the original to whatever organization is handling your money for them to give you a reimbursement check. Finally, send out thank you cards to all your financial supporters and a letter with a recap of the highlights of the week.
 
 #### Financial Recap
 
 1. Pray
-2. Estimate the Total Cost of the Week
-3. Up Front Money
-4. Keep a running total in Excel
-5. Create a support letter
-6. Send that letter to all the local churches and fellowships
-7. Call the local churches to explain what this week is all about
-8. Use a tax deductible organization for people to send their checks to
-9. Keep all receipts and make copies of them
-10. After the week be sure to reimburse everyone
-11. Send thank you cards to your supporters
+
+Estimate the Total Cost of the Week 3. Up Front Money 4.
+
+Keep a running total in Excel 5. Create a support letter 6.
+
+Send that letter to all the local churches and fellowships 7.
+
+Call the local churches to explain what this week is all about 8.
+
+Use a tax deductible organization for people to send their checks to 9.
+
+Keep all receipts and make copies of them 10. After the week be sure to reimburse everyone 11. Send thank you cards to your supporters
 
 #### Time Line of Events
 
@@ -518,7 +618,13 @@ Refer to the schedule of the outreach included above.
 
 #### Conclusion and Contact Information
 
-The goal of this packet has been to give you the basic framework from which to plan and implement your own “I agree with…” week at your campus. If you have any questions or found that something was unclear or omitted from this please contact us: Matt Aalseth, UC Berkeley Student eaglebrand@hotmail.com Holly Ashman, Campus Crusade for Christ Staff, UC Berkeley Hollyashman@hotmail.com Julie Dobie, UC Berkeley Alumni Julie_dobie@hotmail.com Scenarios Shaking Out during Paul Week Purpose of this time: To provide Christians a clearer picture of what to expect during the week, so they may not be caught off guard, and to provide recommendations in response.
+The goal of this packet has been to give you the basic framework from which to plan and implement your own “I agree with…” week at your campus. If you have any questions or found that something was unclear or omitted from this please contact us:
+
+Matt Aalseth, UC Berkeley Student eaglebrand@hotmail.com Holly Ashman, Campus Crusade for Christ Staff, UC Berkeley Hollyashman@hotmail.com Julie Dobie, UC Berkeley Alumni Julie_dobie@hotmail.com
+
+Scenarios Shaking Out during Paul Week
+
+Purpose of this time: To provide Christians a clearer picture of what to expect during the week, so they may not be caught off guard, and to provide recommendations in response.
 
 We’ve broken down possible scenarios according to various groups and what you might expect see happen with these groups.
 
@@ -536,7 +642,7 @@ what to expect:
 
 ∗ Be yourself. Engage with them ∗ Smile. Initiate with a look ∗ Be discerning and do not argue or debate with the non-Christian ∗ Personalize the approach ∗ Make every moment count. Give them the most attention you can ∗ Emotionally be calm and cool ∗ Be a listener. Be aware of their mannerisms/body language, and your own. ∗ If you’re worried, be honest about it to yourself …be genuine. ∗ Don’t talk down to them or use Christian clichés.
 
-#### 2) Non-Christian Friends
+2. Non-Christian Friends:
 
 what to expect:
 
@@ -547,7 +653,13 @@ what to expect:
 
 #### Recommendations/Response
 
-∗ Approach them/go in with attitude “your friendship is more important than the Paul week itself, but not more important that Christ.” ∗ While dialoging with friends about the gospel, ask them how they are feeling ∗ They can e-mail Paul if they have specific questions at Paulweek@hotmail.com 3) Those wearing the shirt/Interacting with other Christians: what to expect:
+∗ Approach them/go in with attitude “your friendship is more important than the Paul week itself, but not more important that Christ.” ∗ While dialoging with friends about the gospel, ask them how they are feeling
+
+∗ They can e-mail Paul if they have specific questions at Paulweek@hotmail.com
+
+#### Those wearing the shirt/Interacting with other Christians
+
+what to expect:
 
 - Christians out of the loop
 - For Christians whose fellowship is not participating in Paul Week, they may question their leadership about why they’re not participating in it.
@@ -558,9 +670,11 @@ what to expect:
 
 #### Response/Recommendations
 
-∗ Encourage those considering wearing the shirt who are part of a fellowship choosing not to participate to talk to their pastor. ∗ Know how to explain, “Paul Week” Have a spirit of encouragement. ∗ Use T-shirts as an opportunity for potential networks with other Christians.
+∗ Encourage those considering wearing the shirt who are part of a fellowship choosing not to participate to talk to their pastor. ∗ Know how to explain, “Paul Week” Have a spirit of encouragement.
 
-#### 4) Classroom setting: classmates, professors
+∗ Use T-shirts as an opportunity for potential networks with other Christians.
+
+4. Classroom setting: classmates, professors
 
 ∗ (assessing yourself your own actions) Living your life with integrity. (not being late for class, class work reflecting diligence etc.)
 
@@ -576,15 +690,19 @@ An integral part of evangelism is knowing how to the defend the faith: “but sa
 
 This obviously is not a comprehensive list of apologetics questions. Less attention is given to extra-biblical “evidences” for the faith. This list has an emphasis on helping the believer think through and challenge some common biased, faulty assumptions/presuppositions taken against Christianity and using it to transition into sharing the gospel.
 
-1. The atheistic position: There is no God.
+The atheistic position: There is no God.
 
 This position is contradictory. It is the absolute denial of the Absolute. Proofs for the existence of God:
 
-Cosmological proof—there must be a creator since we see creation Design argument—there is a design to the world Moral argument—since there is a moral law, there must be a moral lawgiver 2) There is no such thing as absolute truth. Everything is relative. This is a self-refuting statement. You cannot be relativistic and make assertions about objective reality at the same time. "There is no absolute truth" is a self refuting statement because its very assertion presupposes that it is objective statement –a clear assertion about reality—and therefore no longer relative statement.
+Cosmological proof—there must be a creator since we see creation Design argument—there is a design to the world Moral argument—since there is a moral law, there must be a moral lawgiver
+
+There is no such thing as absolute truth. Everything is relative.
+
+This is a self-refuting statement. You cannot be relativistic and make assertions about objective reality at the same time. "There is no absolute truth" is a self refuting statement because its very assertion presupposes that it is objective statement –a clear assertion about reality—and therefore no longer relative statement.
 
 Possible transition: “Are you absolutely sure there’s no absolute truth? If you’re not sure, we can talk about what the Bible says about truth and the Person who claimed to be this truth. . .” (John 14:6)
 
-3) It is not fair that God sends sinners to hell without giving them a chance or enough evidence.
+It is not fair that God sends sinners to hell without giving them a chance or enough evidence.
 
 If this is an argument for atheism, it is contradictory. The statement is making a moral judgment about God, that He is unfair or evil. To posit that God is evil, one must presuppose that there must be a good. If there is a good and an evil, then there must be a moral law to differentiate between the two. If there is a moral law, there must be a moral law giver, who is God.
 
@@ -596,7 +714,7 @@ Possible transition, “What I find to be really amazing is that a God of incred
 
 (transition into Christ)
 
-4) How can you believe in the Bible? Isn't it full of contradictions? (or variations on that subject)
+How can you believe in the Bible? Isn't it full of contradictions? (or variations on that subject)
 
 This is a not a fair accusation, and it is probably not based on any investigation on the unbeliever’s part. Gently seek to expose the bias already assumed by the unbeliever.
 
@@ -606,35 +724,72 @@ Or you can ask, “Have you ever read the Bible before, if not, how do you know?
 
 Possible transition: “You look like an intelligent person, have you ever taken the time to investigate the claims of the Bible or the gospel message? If you haven’t, may I take the opportunity to share with you the message of eternal life?”
 
-5. Aren’t all religions basically the same? What makes Christianity so different? Most think all religions are fundamentally the same and superficially different. But the opposite is true, all religions are at best superficially the same and fundamentally different.
+Aren’t all religions basically the same? What makes Christianity so different?
 
-Christianity is radically different on two accounts: Grace and Christ. This is a great transition to sharing about the person of Jesus Christ or talking about the grace of God for sinners through Christ.
+Most think all religions are fundamentally the same and superficially different. But the opposite is true, all religions are at best superficially the same and fundamentally different.
+
+Christianity is radically different on two accounts: Grace and Christ.
+
+This is a great transition to sharing about the person of Jesus Christ or talking about the grace of God for sinners through Christ.
 
 Personal application: Recognize that we have a great faith! It claims not only to be rational, but to be the only truth. Our hope is solid!
 
-The Transition I. Simple Suggestions A. Smile and be courteous B. Try to be calm and composed, try to act naturally and comfortably C. Listen to others and their possible concerns or questions D. If you get flustered or stumped by a particular question, respond humbly and acknowledge that you don’t have all the answers, but will try to find adequate responses from other Christians – take down a name and number so you can get back to that person.
+The Transition I. Simple Suggestions A. Smile and be courteous B.
 
-E. Just remember to give everyone we contact a positive experience of Christianity. Even if you don’t get a chance to share the entire gospel, or if you get to share a couple of lines, try to be friendly and cordial enough that would make people less hostile towards hearing the message. II. Possible questions and responses A. First off, let’s try to avoid conventional answers or Christian lingo (in our immediate responses, that is) that is very foreign to some people. Otherwise people might quickly dismiss the conversation if they initially hear the words, “Jesus,” or “Christian.”
+Try to be calm and composed, try to act naturally and comfortably C.
+
+Listen to others and their possible concerns or questions D.
+
+If you get flustered or stumped by a particular question, respond humbly and acknowledge that you don’t have all the answers, but will try to find adequate responses from other Christians – take down a name and number so you can get back to that person.
+
+E.
+
+Just remember to give everyone we contact a positive experience of Christianity. Even if you don’t get a chance to share the entire gospel, or if you get to share a couple of lines, try to be friendly and cordial enough that would make people less hostile towards hearing the message.
+
+II. Possible questions and responses A. First off, let’s try to avoid conventional answers or Christian lingo (in our immediate responses, that is) that is very foreign to some people. Otherwise people might quickly dismiss the conversation if they initially hear the words, “Jesus,” or “Christian.”
 
 A. “Who is Paul?”
 
-1. Paul is this guy I know who happens to have the same perspective on life that I do, let me explain…
-2. He’s a sophomore at Cal majoring in social welfare (This should prompt them to ask, “why do you agree with him?”)
-3. He’s a student here who had a radical change in his life a few years ago… I agree with him because the same thing that changed his life has changed mine… (go into personal testimony) B. “What does Paul say/believe?” or “What do you agree with Paul about?”
-1. It’s not only what Paul believes, but what a whole lot of other people believe(d) too (like Simon Greenleaf of Harvard law, or Sir Isaac Newton, or some other noted Christians you can think of…)
-2. Paul happens to think that many people have been misinformed about what Christianity is all about. For example, what would you say a Christian is? (Let them answer, and you’ll find that they have been misinformed!) Before you make a judgement on what Christianity is all about, shouldn’t you at least hear an accurate portrayal of its central message? Christianity is about…
-3. Paul and a whole lot others on this campus actually believe that life is more than fame, fortune, and fine spouses. We all think that there is a grander purpose in life that gives life true meaning. This purpose also brings more joy than any of these things. This purpose is to glorify God and to know Him personally…
-4. He thinks that humans make mistakes. Do you think that we all make mistakes? The biggest failure we’ve ever made is in the way each of us live our lives (go into the doctrine of sin)…
-5. Obviously, there are many, many other ways to transition. The important thing is to be natural and be friendly. The best way to prepare yourself is to PRACTICE. You might want to pair up with a friend before the big week and role play with one another.
+Paul is this guy I know who happens to have the same perspective on life that I do, let me explain… 2.
 
-C. “Who are all the people wearing those shirts?” or “Why are people wearing those shirts?” or, “Why are you wearing that shirt?”
+He’s a sophomore at Cal majoring in social welfare (This should prompt them to ask, “why do you agree with him?”)
 
-1. It’s because we all agree with Paul… (this should lead to the two other questions) III. The Classroom (or other big group setting)
+He’s a student here who had a radical change in his life a few years ago… I agree with him because the same thing that changed his life has changed mine… (go into personal testimony) B.
 
-A. Same questions as above 1. We’re all wearing these shirts because we believe in something that is very important to us (This statement should peak their interest, and make others look bad if they attack “what is important to you”). I’d be willing to talk to anyone that’s interested about it after class so we don’t disrupt the 2. 3. lecture.
+“What does Paul say/believe?” or “What do you agree with Paul about?”
 
-Paul is a student at Cal who thinks there are some pretty important issues in life that many of us just haven’t considered. I’d be willing to talk to anyone that’s interested after class… Not in a classroom, but in a big group – Paul and many others think that there are many of us who are honestly dissatisfied with life at one point or another. I know I was. I agree with Paul in that we don’t have to be. Let me explain how things have changed in my life (go to personal testimony)
+It’s not only what Paul believes, but what a whole lot of other people believe(d) too (like Simon Greenleaf of Harvard law, or Sir Isaac Newton, or some other noted Christians you can think of…) 2.
 
-Remember, this isn’t a strict outline that you must follow. Just be yourself and be friendly (I hope that being friendly is being yourself!) Pray that you’ll be discerning and humble, and loving as well. For the classroom or big group settings, try to peak people’s interest and stress that it’s something very important to you… then it’ll reflect poorly on others for their antagonistic position. In addition, I think most of us are comfortable and best prepared to share our faith by giving a personal testimony format… so you might want to practice this, but also be sure to get some Biblical references to share the Good News.
+Paul happens to think that many people have been misinformed about what Christianity is all about. For example, what would you say a Christian is? (Let them answer, and you’ll find that they have been misinformed!) Before you make a judgement on what Christianity is all about, shouldn’t you at least hear an accurate portrayal of its central message? Christianity is about… 3.
 
-PLEASE PRACTICE with a friend or leader in your fellowship. It never hurts to be prepared. Also, you might want to go to office hours and get good with your professor before this week. That way he/she will be less prone to criticize you!
+Paul and a whole lot others on this campus actually believe that life is more than fame, fortune, and fine spouses. We all think that there is a grander purpose in life that gives life true meaning. This purpose also brings more joy than any of these things. This purpose is to glorify God and to know Him personally… 4.
+
+He thinks that humans make mistakes. Do you think that we all make mistakes? The biggest failure we’ve ever made is in the way each of us live our lives (go into the doctrine of sin)… 5.
+
+Obviously, there are many, many other ways to transition. The important thing is to be natural and be friendly. The best way to prepare yourself is to PRACTICE. You might want to pair up with a friend before the big week and role play with one another.
+
+C.
+
+“Who are all the people wearing those shirts?” or “Why are people wearing those shirts?” or, “Why are you wearing that shirt?”
+
+It’s because we all agree with Paul… (this should lead to the two other questions) III.
+
+The Classroom (or other big group setting)
+
+A. Same questions as above 1.
+
+We’re all wearing these shirts because we believe in something that is very important to us (This statement should peak their interest, and make others look bad if they attack “what is important to
+
+you”). I’d be willing to talk to anyone that’s interested about it after class so we don’t disrupt the lecture.
+
+Paul is a student at Cal who thinks there are some pretty important issues in life that many of us just haven’t considered. I’d be willing to talk to anyone that’s interested after class… 3.
+
+Not in a classroom, but in a big group – Paul and many others think that there are many of us who are honestly dissatisfied with life at one point or another. I know I was. I agree with Paul in that we don’t have to be. Let me explain how things have changed in my life (go to personal testimony)
+
+Remember, this isn’t a strict outline that you must follow. Just be yourself and be friendly (I hope that being friendly is being yourself!) Pray that you’ll be discerning and humble, and loving as well. For the classroom or big group settings, try to peak people’s interest and stress that it’s something very important to you… then it’ll reflect poorly on others for their antagonistic position.
+
+In addition, I think most of us are comfortable and best prepared to share our faith by giving a personal testimony format… so you might want to practice this, but also be sure to get some Biblical references to share the Good News.
+
+PLEASE PRACTICE with a friend or leader in your fellowship. It never hurts to be prepared.
+
+Also, you might want to go to office hours and get good with your professor before this week. That way he/she will be less prone to criticize you!

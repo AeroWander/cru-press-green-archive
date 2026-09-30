@@ -122,7 +122,11 @@ Registration deadline(s) including discounts List of what to bring Registration 
 
 ### Promotional Ideas
 
-- Posters • Mailers • Skits • Student mail box stuffers • • • • • Bring a friend discounts Meeting announcements Telephone contacts Ad in campus newspaper On-line tools (web sites, email, Facebook, etc)
+- Posters
+- Mailers
+- Skits
+- Student mail box stuffers
+- Bring a friend discounts Meeting announcements Telephone contacts Ad in campus newspaper On-line tools (web sites, email, Facebook, etc)
 
 ### Registration
 

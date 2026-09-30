@@ -5,20 +5,20 @@ also_topics: []
 type: "Article"
 themes: ["Evangelism tools", "Personal evangelism & gospel conversations"]
 audience: ["Staff & team leaders"]
-words: 2110
+words: 2291
 summary: "A 2012 catalog article, nearly identical to the following year's version, listing Cru's evangelism tools and strategies for staff use under the Evangelism Model framework. It briefly profiles resources including Gospel4ALL, CoJourners materials, Passages, C456, Soularium, Perspective, QuEST, and OverflowToday, with notes on format and availability."
 source: "added/2012 Evangelism Resources and Strategies.pdf"
 ---
 
-## Gospel4all
+Strategies and
 
-“evangelistic movements,” not just “movements that do evangelism.” But what is an evangelistic movement? How would you know if you had one? And, more to the point, how are we doing in building one currently? “Evangelistic Movements - An Outcome Based Assessment” enables leaders and teams to assess the current reality of evangelism momentum in their movement, setting the stage for more effective strategic planning. Available at CruPressGreen.com. (Search for “Evangelistic Movements - An Outcome Based Assessment.”)
+## Resources
+
+## Gospel4all
 
 Cru plays a vital role in making the gospel inescapable on campuses across the nation as we build movements of Win-Build-Send in the power of the Holy Spirit.
 
-## Building Biblical Convictions
-
-The Gospel for Every Student & Faculty (Gospel4ALL) is our priority (or strategic path step) for evangelism on the USCM Strategic Plan. Gospel4ALL efforts help us excel still more as we pursue the vision of giving every student and faculty member an opportunity to say “yes” to Jesus. The Evangelism Model provides the framework that enables leaders to think well about evangelism—to understand its foundations and dynamics, to plan strategically, to evaluate effectiveness, to troubleshoot issues, and to innovate new solutions. We have three primary tools to explore, communicate, and reinforce the Evangelism Model.
+The Gospel for Every Student & Faculty (Gospel4ALL) is our priority (or strategic path step) for evangelism on the USCM Strategic Plan. Gospel4ALL efforts help us excel still more as we pursue the vision of giving every student and faculty member an opportunity to say “yes” to Jesus.
 
 The “Gospel4ALL Evangelism Strategies and Resources” is a toolbox of proven strategic options for missional teams to consider as they develop their local evangelism plans.
 
@@ -26,11 +26,19 @@ The “Gospel4ALL Evangelism Strategies and Resources” is a toolbox of proven 
 
 As we launch and build movements embedded with our Win-Build-Send DNA, our vision is to see truly
 
+“evangelistic movements,” not just “movements that do evangelism.” But what is an evangelistic movement? How would you know if you had one? And, more to the point, how are we doing in building one currently? “Evangelistic Movements - An Outcome Based Assessment” enables leaders and teams to assess the current reality of evangelism momentum in their movement, setting the stage for more effective strategic planning. Available at CruPressGreen.com. (Search for “Evangelistic Movements - An Outcome Based Assessment.”)
+
+## Building Biblical Convictions
+
+The Evangelism Model provides the framework that enables leaders to think well about evangelism—to understand its foundations and dynamics, to plan strategically, to evaluate effectiveness, to troubleshoot issues, and to innovate new solutions. We have three primary tools to explore, communicate, and reinforce the Evangelism Model.
+
 ## Evangelism Design: A Comprehensive Framework
 
 The Evangelism Model has been informing our thinking about evangelism for the past 15 years. Various tools and studies have helped reinforce this biblically based framework. Yet we’ve lacked a consistently used, comprehensive, written statement of the Evangelism Model to use in leadership development and training. That is until now. “Evangelism Design: A Comprehensive Framework” is a seventeen page publication, unpacking the Evangelism Model principles:
 
-The Master: God Evangelism is first & foremost a work of God. The Masses: The Audience The audience is the defining context.
+The Master: God Evangelism is first & foremost a work of God.
+
+The Masses: The Audience The audience is the defining context.
 
 The Messengers: Believers Believers are the primary initiators.
 
@@ -46,13 +54,17 @@ Built around The Evangelism Model, this study guides the user through 14 key Bib
 
 Jacked is a student-oriented devotional with key passages on evangelism and filled with inspirational stories, gathered and retold by Shelby Abbott. This tool is built around the categories of the Evangelism Model and provides additional resources for small group discussions. Jacked is available at CruPress.
 
-## Equipping for Conversational Evangelism Cojourners
+## Equipping for Conversational Evangelism
+
+## Cojourners
 
 Our bread and butter evangelism occurs in a gospel conversation between an equipped believer and a willing student or faculty member. CoJourners is our equipping paradigm to teach believers how to conversationally enter the spiritual journey of others and lead them to Christ. CoJourners teaches evangelism through four primary roles:
 
 Explorer: Discovering insights into others’ spiritual lives.
 
-Guide: Showing others how to come to Christ. Builder: Helping others move beyond their issues or obstacles.
+Guide: Showing others how to come to Christ.
+
+Builder: Helping others move beyond their issues or obstacles.
 
 Mentor: Encouraging others to continue on in their spiritual journey.
 
@@ -86,7 +98,9 @@ The CoJourner curriculum is what you need to teach your local movement or evange
 
 Also on CruPress Green, Overflow Today is a treasure chest of 3-minute video interviews and 5-minute podcasts delivering evangelism tips from the experts and insights from top books on evangelism. OverflowToday provides excellent resources for individual viewing, small group discussion, and large group trainings and can be accessed through CruPress Green or the OverflowToday website.
 
-## Fostering Gospel Conversations Quest
+## Fostering Gospel Conversations
+
+## Quest
 
 QuEST (an acronym for Questions Exploring Students Thinking) is an interview tool for initiating spiritual conversations. QuEST enables students to engage in spiritual conversations and assists in gathering useful information about student outreach and student thought. There are three versions of the QuEST interview, each exploring a spiritual conversation but from slightly different angles. Interview results may be submitted online.
 
@@ -106,13 +120,11 @@ A short film is a visual story—told in a matter of minutes. This medium is gro
 
 How can we help our students have more opportunities to share Christ with their friends? Just Ask! What is the Just Ask! project? Just Ask! is a relational guide that takes advantage of Cru’s great listening tools (like the four above) to mobilize a small group in connecting spiritually with friends. And it cultivates for a lifestyle of relational witness with friends, family and acquaintances—an essential skill for a 100% Sent lifetime laborer! To find out more about being part of the Just Ask! Field Test, contact: Aaron.Emerson@uscm.org
 
-Conducting Large Group Gospel Events Communicating Conversationally Knowing God Personally
+## Communicating Conversationally
+
+## Knowing God Personally
 
 What more needs said?
-
-## Speaker’s Forum
-
-US Campus Ministry “Speaker Events” help accelerate the mission of reaching every student with the gospel. As a proven “harvest” strategy leading to evangelistic decisions, the Speaker Forum provides matching grants for approved national speakers, while funds last. These grants cover up to 50% of actual expenses, but not exceeding the individual grants allotted to each speaker. Find out more about the Speakers Forum at CruPress Green.
 
 Back Story: Life@large Revisited
 
@@ -126,29 +138,37 @@ A major revision to Life@Large has been accomplished. The storyline of the gospe
 - Invitation
 - Reunion
 
+The redesigned booklet provides a gospel narrative, apologetic touch points and rich imagery. Released in February 2010 and available through CruPress.
+
+## One-verse Evangelism
+
+Many people feel that to be effective in evangelism they must memorize a complex illustration and a multitude of verses. But the Gospel is most powerful when shared with love, clarity, and simplicity. One-Verse Evangelism is a simple, interactive way to share Christ’s love conversationally and visually. It is based on asking questions and sharing. It’s easy to learn because it uses just one verse. On CruPress Green, simply search for “One Verse Evangelism.”
+
+## Life Stories: Personal Testimonies
+
+We continue to have “classic” approaches to equipping believers to share their own journey to Christ. There is a need for upgrading our approach and resources in order to more relevantly equip students for the broad range of opportunities they encounter.
+
+## Conducting Large Group Gospel Events
+
+## Speaker’s Forum
+
+US Campus Ministry “Speaker Events” help accelerate the mission of reaching every student with the gospel. As a proven “harvest” strategy leading to evangelistic decisions, the Speaker Forum provides matching grants for approved national speakers, while funds last. These grants cover up to 50% of actual expenses, but not exceeding the individual grants allotted to each speaker. Find out more about the Speakers Forum at CruPress Green.
+
 ## E2 Forums: Executive and Entrepreneurial Leadership
 
 The purpose of the Executive and Entrepreneurial Leadership Forum is to assist the local level in reaching campus leaders by bringing highly successful business professionals together to share the Gospel with top university Student Leaders. The local professionals share stories of Christ’s work in their lives, their families and their business successes and failures. A manual and other forum resources (i.e. everything you need to know) are available (thanks to the Upper Midwest Region & Erika Ruch) at: E2 Forums.
-
-The redesigned booklet provides a gospel narrative, apologetic touch points and rich imagery. Released in February 2010 and available through CruPress.
 
 ## Team Meetings
 
 For Greeks, check out Greekmovement.com.
 
-## Sharing the Gospel Online One-verse Evangelism
-
-Many people feel that to be effective in evangelism they must memorize a complex illustration and a multitude of verses. But the Gospel is most powerful when shared with love, clarity, and simplicity. One-Verse Evangelism is a simple, interactive way to share Christ’s love conversationally and visually. It is based on asking questions and sharing. It’s easy to learn because it uses just one verse. On CruPress Green, simply search for “One Verse Evangelism.”
+Sharing the Gospel Online
 
 Everystudent.com
 
 Everystudent.com gives the opportunity to make the gospel “findable” to many who are searching for God. It is an easy way for your students to help friends find out about God and your movement can help an entire campus consider the claims of Christ. Everything you need to know to make the most of this powerful multi-dimensional outreach tool is found in The Everystudent.com Guidebook at:
 
 Everystudentinfo.com
-
-## Life Stories: Personal Testimonies
-
-We continue to have “classic” approaches to equipping believers to share their own journey to Christ. There is a need for upgrading our approach and resources in order to more relevantly equip students for the broad range of opportunities they encounter.
 
 Meettheprof.com
 
@@ -158,15 +178,13 @@ Steve.Pogue@facultycommons.org
 
 ## Giving Gospel-bearing Gifts
 
-the context of love can help us be more effective at engaging all kinds of students and mobilizing them to start movements everywhere so that every person on earth knows someone who truly follows Christ. New resources are being developed and new partnerships cultivated. Four helpful articles available at CruPress Green are:
-
 ## Fsks
 
 Combining the universal love of free stuff with our desire to tell others about Jesus, more than one million Freshman Survival Kits (FSKs) have been distributed on campuses since 1996. FSKs are the #1 tool for launching new ministries. But the kits also give staff members or student leaders a friendly and low-pressure opportunity to talk to students about God. When combined with spiritually themed questionnaires, FSKs help establish the foundation for future conversations. Go to the article on CruPress Green: “Freshman Survival Kits”
 
-Win, Build, Send in the Context of Love Good Words, Good Deeds Cru: Joining in God’s Story The Christian and Good Deeds
+## Testing Gospel-centered Groups
 
-## Testing Gospel-centered Groups Alpha Course
+## Alpha Course
 
 Developing and deploying effective small groups for seekers is a challenge. But why reinvent the wheel, especially when there is a wheel already cruising across the USA & globe? Last summer, Cru announced plans to increase collaboration with Alpha USA. The US Campus Ministry is now testing the Alpha Course to build models and learn how it can strategically contribute to our outreach and movement launching. For more information, contact:
 
@@ -180,4 +198,12 @@ Larry.Stephens@uscm.org
 
 ## Demonstrating the Gospel in Action
 
-As we win, build, and send students, we are discovering ways to connect the compassionate works and words of Christ. Doing win, build, send in
+As we win, build, and send students, we are discovering ways to connect the compassionate works and words of Christ. Doing win, build, send in the context of love can help us be more effective at engaging all kinds of students and mobilizing them to start movements everywhere so that every person on earth knows someone who truly follows Christ. New resources are being developed and new partnerships cultivated. Four helpful articles available at CruPress Green are:
+
+Win, Build, Send in the Context of Love
+
+Good Words, Good Deeds
+
+Cru: Joining in God’s Story
+
+The Christian and Good Deeds

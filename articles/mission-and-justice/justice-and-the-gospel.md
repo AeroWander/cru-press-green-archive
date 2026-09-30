@@ -36,7 +36,9 @@ Luke 18:1-8: Jesus teaches his disciples to pray always and never lose heart. Th
 
 ## Bible Study Launch Questions
 
-- Do you ever have selfish reasons for serving the poor/oppressed? • Have you ever lost steam in your efforts to seek justice? • How can we as Christians sustain our motivation to tackle injustice?
+- Do you ever have selfish reasons for serving the poor/oppressed?
+- Have you ever lost steam in your efforts to seek justice?
+- How can we as Christians sustain our motivation to tackle injustice?
 
 ## Explore and Apply
 
