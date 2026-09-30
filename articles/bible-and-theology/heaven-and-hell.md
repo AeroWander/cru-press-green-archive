@@ -1,0 +1,351 @@
+---
+title: "Heaven and Hell"
+topic: "bible-and-theology"
+also_topics: ["evangelism"]
+type: "Article"
+themes: ["Knowing God & doctrine", "Apologetics"]
+audience: []
+authors: ["Byron Straughn"]
+series: "Postcards from Corinth"
+words: 9164
+summary: "'Alternative Endings,' a booklet in CruPress's Critical Concept Series Volume 1, written by Byron Straughn, presenting a biblical portrait of heaven and hell aimed at correcting popular misconceptions (heaven as cute and ethereal, hell as funny or reserved for only the worst people). Covers what Scripture actually teaches about the intermediate state after death versus the future new earth, why these realities matter now, and how to answer others' questions about them."
+source: "Discipleship/Mature Teaching/Heaven and Hell.pdf"
+---
+
+The reason for the Critical Concept series is that there are important topics not covered in our Transferable Concepts that are, for any number of reasons, of critical concern to us today. Important concepts like this require more in-depth treatment, which is a discipleship challenge when so few are reading books. And so we have the Critical Concept series. Each article is roughly the length of a book chapter-about 16 pages. So it’s not a book, but it’s not a pamphlet either.
+
+Volume 1 contains five booklets addressing the following topics: Heaven and Hell: Alternative Endings Worldviews: War of the Worlds God’s Will: The Art of Discerning the Will of God Missions/ Great Commission: Mission Impossible Christ-centered Bible Study: Hearing the Music of the Gospel
+
+### Order Online at Crupress.com
+
+Critical Concept Series
+
+## White
+
+## Papers
+
+### Alternative Endings
+
+## Alternative Endings
+
+A Biblical Portrait of Heaven and Hell by Byron Straughn They never look quite right. Skin always a little too pale or translucent. Overdressed. And no one sleeps like that—flat on their back with their arms folded over their abdomen.
+
+Why is it that I always notice this at funerals? Why can I never tell anyone I notice this at funerals?
+
+It’s taboo to talk about death. But why?
+
+Funerals can give us some of the most sobering moments of our lives, the purpose, meaning, and brevity of human existence coming out of the shadows and drawing into sharp focus. It’s only then, for a brief open-casket viewing, that we see our frailty and that our myopic tendencies are exposed for what they are: petty and trivial. Could our refusal to talk about death actually be unbelief—doubting that heaven holds a better life for us than this one? Or is it simply a matter of an attention deficit—being captivated by motion and distracted by shiny objects that herd our thoughts toward temporary, fleeting, vanishing things?
+
+Like a funeral, heaven and hell can be nothing more than the pleasant or not-so-pleasant afterthoughts of our Christian life. But they were intended to be the lifeblood that animates it, much as they do the Scriptures. For even when not explicitly referred to, these two realities lie just beneath the words of every page of Scripture. In this article we want to uncover what is implicit in every page of Scripture and every day of our fleeting lives, and that is this point: heaven and hell, not the here and now of this world, are the ultimate reality. Three considerations should provide us some needed perspective:
+
+1. What are heaven and hell like?
+2. Why are heaven and hell important to us now?
+3. How do we answer questions our friends have about heaven and hell?
+
+Let’s take these in order.
+
+1. What are heaven and hell like?
+
+The Bible tells us a lot about heaven and hell. But before we jump into those facts, I’d like to toss some mental stowaways overboard.
+
+First, let’s make clear what isn’t true about heaven.
+
+- Heaven isn’t now. Somewhere in the world, between twenty-five and thirty wars are being fought right now. Enough said.
+- Heaven isn’t for everyone. Some people won’t be there. I know that sounds harsh and exclusive, but it’s the truth. We’ll get to this more later.
+- Heaven isn’t cute and ethereal. I’m not judging you if you have Precious Moments figurines on your bookshelf or mantle; I’m just saying heaven will not look like those. Nor will heaven look like what we see in cartoons or movies, where we float on clouds and God is Morgan Freeman.
+- Heaven isn’t a state of mind or a mindless state. In some forms of Eastern thought, people aspire to be liberated from cravings, anger, and afflictive states. Nirvana is where there is nothing and where nothing is grasped. However, heaven is not nirvana.
+
+Similarly, let’s shed some extra baggage on hell:
+
+- Hell isn’t funny. Gary Larson’s Far Side comics are often hilarious, but what he depicts about heaven, and especially about hell, are just plain wrong. No one will ever laugh in hell.
+- Hell isn’t a bearable annoyance. Often we are led to think that hell is just a bad hair day stretched out for a long time. Or something like this crosses our mind: My life is hell. Life can be difficult, but this life is not what the Bible describes as hell.
+- Hell isn’t just for Hitler and those Columbine shooters and maybe a few more. Lost Springs, Wyoming, boasts a population of one. Jesus clearly indicated a population for hell that’s much greater than that of Lost Springs: “For wide is the gate and broad is the road that leads to destruction, and many enter through it” (Matthew 7:13, NIV).
+
+Now, back to our question “What are heaven and hell like?” We should begin by keeping the big picture in mind. Heaven and hell are not ideas tacked onto a religious faith, manipulating people into adherence to some moral code. They are part of the larger story we see through the pages of Scripture. Heaven and hell are the final, ultimate, and logical ends of the story—ends we all decide for ourselves without coercion. What the Bible Says About Heaven Here are the biblical posts that frame what we know about heaven. While we may at times make some biblically informed speculations about heaven, this is not that. What we are looking at here are the explicit teachings of Scripture, which must inform any speculation.
+
+We must first, however, begin with an important clarification between heaven and the new earth or new creation. Scripture teaches that when we die we go to be with Christ, immediately joining him in heaven. For example, Jesus tells the thief crucified along with him, “today you will be with me in paradise” (Luke 23:43). The Scripture also speaks of a new earth: a transformed creation that will be the eternal dwelling place of God’s people. It’s easy to blur these concepts. I blur them in this article. Even in Scripture, vision into the future is often blurry lacking distinction and clarity. Some theologians have suggested the following taxonomy of terms and I think it’s a helpful way to understand them even if at times we use them interchangeably: When a Christian dies, he or she enters into what theologians call the intermediate state, a transitional period between our past lives on Earth and our future resurrection to life on the New Earth. Usually when we refer to “Heaven,” we mean the place that Christians go when they die. When we tell our children “Grandma’s now in Heaven,” we’re referring to the intermediate Heaven. By definition, an intermediate state or location is temporary. Life in the Heaven we go to when we die . . . is not our final destination. Though it will be a wonderful place, the intermediate Heaven is not the place we are made for. It’s not the place God promises to refashion for us to live in forever. God’s children are destined for life as resurrected beings on a resurrected Earth. We must not lose sight of our true destination. If we do, we’ll be confused and disoriented in our thinking about where, and in what form, we will spend eternity.1 What follows then is really a description of the New Earth found in Scripture, our eternal future dwelling not our brief intermediate spiritual existence.
+
+The new earth: created and hospitable One of the things Christians often overlook is how earthy are the descriptions of heaven (the new earth) found in Scripture. For example, you’ll find many literary connections between Genesis 1—3 and Revelation 21—22, where the old creation and new creation are compared and contrasted. Here are but a few of those connections: Genesis Revelation Morning and evening (1:5) No night (21:25)
+
+Two great lights— the sun and moon (1:16) No need for the sun or the moon to shine on the city, for the glory of God gives it light (21:23)
+
+People to rule over the creation (1:26-28) The faithful inheriting the new creation (21:7)
+
+God present with his creation (3:8) The dwelling place of God with people (21:3)
+
+Death a reality (2:17) No more death (21:4)
+
+Rivers flowing through the new creation (2:10-14) The river of the water of life flowing from the throne (22:1)
+
+The tree of life and the tree of the knowledge of good and evil (2:9)
+
+The tree of life (22:2)
+
+Curses as consequences of disobedience (3:14-19) No curse (22:3)
+
+Hiding from God’s face (3:8) Seeing God’s face (22:4) In making this connection, Scripture is driving several blocks out of its way to let us know that heaven will not be ethereal but the fulfillment and full flowering of creation. I’m not saying there will be zip codes or anything like that, but heaven will be physical, earthy, and material. Our temptation to think of it otherwise is sub-biblical and leads us to picture it as clouds or fog or like LA during a smog alert—not very inspiring imagery.
+
+Heaven will be as created as anything else in the universe. I’m not sure how it will all work out, but it’s certainly worth pondering within scriptural parameters. To that end, let me suggest a template.
+
+In 1 Corinthians 15 the apostle Paul addressed the question of what our new bodies will be like in the new creation. He provided us with the following analogy:
+
+“Someone may ask, ‘How are the dead raised? With what kind of body will they come?’ . . . When you sow, you do not plant the body that will be, but just a seed, perhaps of wheat or of something else. But God gives it a body as he has determined, and to each kind of seed he gives its own body” (1 Corinthians 15:35, 37-38).
+
+Conceptually, Paul was trying to help us avoid extreme continuity or extreme discontinuity as we imagine our bodies in relation to heaven. Extreme continuity would be to picture our current bodies transplanted into a heavenly world—that’s weird. Extreme discontinuity would be to picture our bodies as something ghostlike and entirely spiritual—that’s weird too. So he used, instead, the analogy of a seed.
+
+As a seed goes into the ground (symbolizing death), it is transformed into something else. The seed is very different from what it becomes, but it is related: organically connected, a transformed continuation. See the balance?
+
+It’s helpful to have that in our minds as we encounter passages that deal with heaven such as John’s famous description: “The great street of the city was of pure gold, like transparent glass” (Revelation 21:21). The streets are made of gold, but not gold as we know it. Gold is not see-through; otherwise, celebrities would be wearing it. John saw something familiar (gold) but different.
+
+As the template of continuity/discontinuity can keep us from overspiritualizing heaven, so we also want to be aware that Scripture uses symbolic language to describe the new heavens and new earth—language meant to convey concepts, not actual geography.
+
+Symbolism is shorthand for reality. When you see a symbol for a women’s room, you know what it means, but women don’t look like that graphic, do they?
+
+If you take symbols to be reality, the reality will seem less real, disturbing even. Which is why my children were terrified by the Grinch movie. Cartoons—Dr.
+
+Seuss in particular—make for disturbing reality. Ironically, Scripture utilizes symbols because heaven will be far more real, beyond our ability to imagine. C. S.
+
+Lewis gives a helpful analogy of this called “a very likely misconception”:
+
+Let us picture a woman thrown into a dungeon. There she bears and raises a son. He grows up seeing nothing but the dungeon walls. This unfortunate woman was an artist and when they imprisoned her she managed to bring with her a drawing pad and a box of pencils.
+
+As she never loses hope of deliverance she is constantly teaching her son about the outside world. With her pencil she attempts to show him what fields, rivers, mountains, cities and waves on a beach are like. He’s a dutiful boy, and does his best to believe her when she tells him that the outside world is far more interesting and glorious than anything in the dungeon. . . . On the whole he gets on very well until he says something that causes his mother to pause. Finally it dawns on her that he has, all these years, lived under a misconception. “But,” she gasps, “you don’t think the real world is full of lines drawn in lead pencil?” “What,” says the boy. “No pencil marks?”
+
+In an instant his whole notion of the outer world becomes a blank . . . he has no idea of that which will exclude and dispense with the lines—the waving treetops, light dancing on the water, the colored three dimensional realities which are not enclosed in lines but define their own shapes at every moment. The child will get the idea that the world is somehow less visible than his mother’s pictures. In reality it lacks lines because it is incomparably more visible.2 Heaven will be a new earth and it will be inhabitable, material, sensual, and glorious.
+
+The ideal city: populated and social In addition to the new earth in our future, there’s a new Jerusalem on that new earth. Again, John is our tour guide: Then I saw a new heaven and a new earth, for the first heaven and the first earth had passed away, and there was no longer any sea. I saw the Holy City, the new Jerusalem, coming down out of heaven from God, prepared as a bride beautifully dressed for her husband. And I heard a loud voice from the throne saying, “Now the dwelling of God is with men, and he will live with them. They will be his people, and God himself will be with them and be their God.” (Revelation 21:1-3) One misconception people have of heaven is that it is rural. Though the Bible begins with Adam and Eve in a garden setting, heaven is described in Revelation as “the Holy City, the New Jerusalem” (21:2). Heaven, or the new earth, will be communal. We won’t be scattered across our world like settlers or angelic pig farmers, but we will interact and live life concentrated together.
+
+The city, New Jerusalem, is described as holy. With this city will come culture, but it won’t be culture shaped by rebellion and idolatry. The new heavens and the new earth will be cooler— cooler than LA, cooler than Soho, way cooler than Idaho. Tragically, it’s hard to picture a godly culture of staggering beauty. Have you ever cringed at the thought of a Christian movie? Christians want to be biblically accurate, which is honorable, but then do a so-so job in other aspects of the movie. This makes us anticipate the culture of heaven to be of B-movie quality.
+
+But God created beauty; the greatest artists of human history manifest but an anemic reflection of his artistry. So imagine a worldwide culture whose desire is to see the justice, holiness, truth, love, and grandeur of God’s being expressed in all its fullness, with capacities greater than Monet or Michelangelo to express it. If there were graffiti in such a city (which I doubt), it would be of more value than a Rembrandt. It’s hard to not think of a city without attaching to it crime, trash, and traffic. That’s because cities concentrate sinful humanity—they magnify our sinfulness and rebellion, catalyze it, excite it like uranium in a nuclear reactor. This is a bit off-color, but have you ever thought about sewage? It’s what comes out of us. It is inseparably tied to what it means to be human. We put out waste. It’s not just you or me; it’s all of us, all the time, for all of history. But imagine a holy city, the magnification and synergizing of a redeemed humanity. What comes out of us will only be pure and holy, undefiled and unstopping adoration for the Creator and Redeemer. What sort of art, music, fashion, writing, and architecture might be created in such a city? This might be a good time to make a connection. This new earth is characterized by its “city-ness.” God’s people will live together, love together, work together, and talk together The new heavens and the new earth will be cooler—cooler than LA, cooler than Soho, way cooler than Idaho. forever with their God. City-ness on an emotional level speaks to our desire to be fully known by God and others and to know God and others more fully—heaven is the extinction of loneliness and isolation.
+
+The perfect marriage: a covenant of love and joy In Scripture one of the most vivid descriptions of heaven involves marriage. Yet this is fascinating: heaven is the disappearance of marriage and at the same time the ultimate consummation of marriage.
+
+Here’s what I mean. Jesus tells us that in heaven people won’t get married but will be like the angels (Luke 20:35-36). So in heaven my wife will no longer be my wife—though that doesn’t mean you can go hitting on her! At the same time, heaven is the consummation of marriage and is what the best human marriages could only point to and foreshadow. Notice how the apostle John goes on to describe heaven in his Revelation. He sees “the New Jerusalem coming down out of heaven from God, prepared as a bride beautifully dressed for her husband” (Revelation 21:2, emphasis added). This wife/bride imagery isn’t new to John, since marriage in its original design (laid out in Genesis) was meant to foreshadow the union of God and his people, Christ and his church. Heaven is the consummation of this marriage. The image of the city and the wedding are both corporate ones, highlighting the communal nature of heaven. That sounds great, but it could lead us to fear the loss of personal identity: knowing that God loves the world feels different from knowing that God loves me. I think that the Scriptures make a point to assuage this fear and communicate the personal nature of heaven. Such a promise seems to lurk behind this passage: “To him who overcomes, I will give . . . a white stone with a new name written on it, known only to him who receives it” (Revelation 2:17). A name that only you and Jesus know—that’s pretty personal (I hope mine’s not Spanky or Weazer).
+
+That sense we now have with a spouse or a close friend “that I know this person in a way no one else does” may be how we feel about Jesus in heaven.
+
+C. S. Lewis reasons, “We were all made to fit a place in the divine contour of God. Each of us will know and forever praise an aspect of the divine beauty better than anyone else. If this were not so it seems strange that God would make more souls than one.”3 The final temple: the holy and eternal dwelling place of God In one of his dialogues, Jesus was primarily talking about his body and his coming crucifixion, but we learn from his words that Jesus understood himself to be the ultimate temple of God’s people:
+
+Then the Jews demanded of him, “What miraculous sign can you show us to prove your authority to do all this?”
+
+Jesus answered them, “Destroy this temple, and I will raise it again in three days.” (John 2:18-19)
+
+The physical structure that stood in Jerusalem, the centerpiece of Israel’s worship, was a shadow of the reality, which is Christ.
+
+The concept is further developed in the New Testament as we find that we as Christ’s body are a part of this temple.
+
+We are living stones within it (1 Peter 2:5; Ephesians 2:21-22).
+
+It is no surprise, then, that John’s vision of heaven in Revelation is of a glorious temple. But as Jesus and his people are (as we have seen) the new temple, it’s probably best to see this as symbolism and not as a temple with a living room the size of Rhode Island. It is a temple in the sense that God is dwelling among his people.
+
+Though the temple is not a building, it is a place. In fact, the new earth itself is a temple. It’s like the temple expanded and took over the entire earth, one giant location, covered with God’s people, where God chooses to dwell, “For the earth will be filled with the knowledge of the glory of the LORD, as the waters cover the sea” (Habakkuk 2:14).
+
+Conclusion: heaven is more Envisioning heaven is not without its challenges. In particular, there is the tendency to see biblical symbolism as reality, to see heaven as ethereal, and to think of heaven in terms of negations: what won’t be there—marriage, sin, pain, sorrow, and so forth.
+
+I like how Lewis describes the effect negation has on our imagination.
+
+Our present outlook might be like that of a small boy who, on being told that the sexual act was the highest bodily pleasure should immediately ask whether you ate chocolates at the same time. On receiving the answer “No”, he might regard absence of chocolates as the chief characteristic of sexuality. In vain would you tell him that the reason why lovers in their carnal raptures don’t bother about chocolates is that they have something better to think of. The boy knows chocolate: he does not know the positive thing that excludes it.4 It’s true: to think of a future existence as only timeless, painless, sinless, or sexless conjures up the idea of an eternal nap. (“Put your heads down on the desk, kids. Let’s have eternal rest.”)
+
+And so negation spray-paints over our glorious hope and arouse fears of our eternal home. Hopefully this survey of biblical teaching on heaven has helped to restore some of that hope.
+
+In speaking of our new life, Jesus stated, “The thief comes only to steal and kill and destroy; I have come that they may have life, and have it to the full” (John 10:10). It’s clearly Satan who’s spraying graffiti on our portrait of heaven, always trying to make us think that heaven will be less. But, as Jesus made clear, eternal life is life in abundance, life super-sized: more beautiful, more logical, more creative, more personal, more loving, more active, more, more, more . . . not less.
+
+What the Bible Says About Hell If heaven is the ultimate marriage, then hell is the final divorce. In keeping with these analogies, our understanding of heaven is informed by our knowledge of hell and vice versa. The two realities are on extreme opposite trajectories, making heaven unfathomably amazing and hell unthinkably hideous.
+
+Because hell is a difficult doctrine, one that we may be tempted to explain or smirk away, it’s critical that we focus on the biblical data. As the great nineteenth-century preacher Charles Spurgeon admonishes:
+
+Some have staggered over the doctrine of eternal punishment, because they could not see how that could be consistent with God’s goodness. I have only one question to ask concerning that: Does God reveal it in the Scriptures? Then believe it, and leave to him the vindication of his own consistency. If we do not see it to be so, it will be nonetheless so because we are blind.5 Gloom of darkness There is a gothic thread of blackness woven through the Bible. Tracing this theme, darkness is seen to be the realm in which Satan rules or operates (Luke 22:53; Colossians 1:13; 1 Peter 2:9), a way of communicating hopelessness and despair (Psalms 88:18; 107:10) or behavior and lifestyles that are evil and ungodly (John 3:19; Ephesians 5:8-11). If God is light, then darkness is associated with all that is against him. Except for those of us living in Alaska, our days are generally divided between darkness and light. This is undoubtedly not an accident but instead a live-in metaphor for our spiritual reality: this world is filled with both the blessings of God as well as the darkness of sin and Satan. But again, this world is not ultimate. It is either dusk or dawn for people here, and we are all heading to a place of light or darkness, the rightful inhabitation for the children of God or the fitting destination for his enemies.
+
+Some may argue that hell will not literally be dark, that darkness is simply a metaphor. It is most certainly a metaphor, but why not descriptive of reality as well? Half night and half day is a fairly apt metaphor for life in this world, and—wuddaya know?—it literally is twelve or so hours a day of each.
+
+My point is that the physical is deeply enmeshed in the spiritual, just as humans are an amalgam of body and soul. We should therefore be careful of dichotomies, seeing descriptions as only true of the spiritual state of affairs and not the physical. If our world is any indicator of the organic relationship between the physical and spiritual, there’s good reason to assume that the meeting of utter moral and spiritual darkness will not take place in a festival of light (Revelation 21:22-24).
+
+Lake of fire Perhaps the picture of hell that lives in most people’s minds is “the lake of fire,” as found in the book of Revelation. Look who goes there: the beast and the false prophet are thrown into the lake alive (19:20), and the devil is banished there to be tormented forever with the beast and false prophet (20:10). But it’s not only these heinous offenders who plunge into the underworld, for Scripture underscores that there will be precisely two—no more and no less—groups of people on Judgment Day: those who belong to God and those who prefer the devil’s company. “If anyone’s name was not found written in the book of life, he was thrown into the lake of fire” (Revelation 20:15).
+
+The description of fire also carries with it the idea of duration, at least in Jesus’ use of the imagery. “It is better for you to enter the kingdom of God with one eye than to have two eyes and be thrown into hell, where “ ‘their worm does not die, and the fire is not quenched’ ” (Mark 9:48). This is the horror of hell: its absolute finality and hopelessness. Torture, rape, war, incest—there are unquestionably staggering atrocities suffered in this life, but what makes hell to be hell is that it is without end.
+
+Interestingly, Scripture’s only other use of this consuming fire imagery is as a description of God’s holiness and judgment: “Our ‘God is a consuming fire’ ”
+
+(Hebrews 12:29). This has led some to suggest that for those who are in Christ, God’s holiness will be an unending source of praise, while for those who have rejected God (still in their sin), it will be an eternal consuming fire. If this were the case, hell would obviously not be the absence of God but his unbearable presence.
+
+Gnashing of teeth I’ve heard it suggested that hell will be hell only from the vantage point of heaven. In other words, hell will have a certain appeal for those who inhabit it. This vision of hell reminds me of the postapocalyptic movies where quarantined zones (usually the island of Manhattan) are set aside as the lawless playground of zombies or street gangs free to do whatever their evil hearts desire. But Jesus, on multiple At some point God stops bridling people and lets them go, giving them what they want, giving them what they deserve. occasions, used the vivid words “wailing and gnashing of teeth” to speak of the sorrow, regret, and pain experienced in hell (Matthew 8:12; 13:42, 50; 22:13). From his description, I take it that hell will be hell to those who are in it. They will not enjoy it, not even perversely so.
+
+Reward for sin “The wages of sin are death” (Romans 6:23; see also 2:5-11). What do people who never turn from their sin receive? Hell. What does all their labor and passion given toward their own selfish desires earn them? Hell.
+
+Hell is what we’re owed, and Scripture reminds us that payday is never further than around the bend. “Behold, I am coming soon!” declares the risen Jesus. “My reward is with me, and I will give to everyone according to what he has done” (Revelation 22:12). On that day we will all receive our paycheck. Apart from Christ, it will be hell. The first chapter of Romans focuses on God’s judgment of sinful humanity and contains this sobering refrain: “God gave them over,” “God gave them over,” “he gave them over” (verses 24, 26, 28). This phrase emphasizes an aspect of God’s judgment we often overlook: God has given sinners what they wanted. That is, he has stopped restraining them from their sin and self-destruction. He has given them over to it. Similarly, hell is a monument to free will. Or as G. K. Chesterton put it, “Hell is God’s great compliment to the reality of human freedom and dignity of human choice.” At some point God stops bridling people and lets them go, giving them what they want, giving them what they deserve. Display of justice The cross is the clearest display of God’s justice this side of eternity, and we learn a number of things about God and his character by looking at it.
+
+- God is a God of justice. Through the Cross, he punished the sins of everyone who would ever trust in Christ.
+- God’s justice is inseparable from his love, wisdom, and power (Acts 2:23; Romans 5:8; Ephesians 3:10). If they could be separated, we would not be looking at a crucified Savior absorbing God’s judgment out of love for us.
+
+Believers have seen God’s justice in the Cross and will praise him forever (Revelation 7:10). Those who persist in their rebellion will experience God’s justice in hell firsthand.
+
+I have to say that I don’t think the doctrine of hell is intuitive. No more than the Cross is. Both are equally scandalous to reason. Both are foolishness to the world.
+
+While as believers we can see the initial contours of their wisdom, neither hell nor the Cross is truly comprehensible from earth’s vantage point. The Scriptures help us to begin to see that vantage point, but not until we see God face-to-face and behold the infinite beauty of his being will hell seem right.
+
+We cannot fully comprehend hell’s justness, nor the Cross’s, until we fully comprehend who has been mocked, rejected, and despised.
+
+Ultimate Ends As I said in the beginning, heaven and hell are not a tacked-on doctrines, mere parting gifts. We are all on a spiritual journey, all heading toward one destination or the other. Heaven and hell are the ultimate and logical ends of the journey.
+
+Here’s what C. S. Lewis had to say about it:
+
+In the long run the answer to all those who object to the doctrine of hell is itself a question:
+
+“What are you asking God to do?” To wipe out their past sins and, at all costs, to give them a fresh start, smoothing every difficulty and offering every miraculous help? But He has done so, on Calvary. To forgive them? They will not be forgiven.
+
+To leave them alone? Alas, I am afraid that is what he does.6 But that still leaves us with a major question. Are heaven and hell relevant only to our eternal state, or do they have an impact in this life?
+
+2. Why are heaven and hell important to us now?
+
+Wasn’t it Albert Camus who thought that our only real decision in life is when to kill ourselves? The perspective of Camus, being an atheist, makes the point that what we believe about the afterlife casts a shadow on how we live here.
+
+Similarly, believing heaven to be a visit to your grandmother’s, or believing hell to be a 30˚ hotter version of spring break, would seriously hinder your pursuit of God in this life.
+
+What should meditating on the glory of heaven, along with the horror of hell, do to us? For us as believers, we see at least four ways this should affect our Christian lives. Convention requires me to make these all begin with the same letter. I’ve chosen ‘H’. Here we go.
+
+Hope Usually we use hope to refer to a possibility without guarantee (“I hope I can fill up my gas tank for under $500”). In the Bible, hope is tied to promise, not possibility. That is, hope is waiting for a promise to be fulfilled:
+
+“Let us hold unswervingly to the hope we profess, for he who promised is faithful” (Hebrews 10:23).
+
+Here’s how heaven and hell instill hope.
+
+Hope from the perspective of hell Contemplating hell reminds us that no matter how bad or bleak things seem, while we are in this world, there is still hope.
+
+In an episode of ER a patient overcome with guilt and anguish tries to commit suicide by injecting himself with some horrible drug that I can’t remember (perhaps diet Mountain Dew). George, one of the ER doctors, slaps the syringe out of his hand. To which the suicidal patient responds, “I am in hell. Don’t you understand? I am in hell already. I might as well die.”
+
+The truth is, he was not in hell. And if he saw hell for what it was, he would have quickly chosen to remain in this life, for in this life there is always hope. There is still time to turn to God and turn away from sin. Still time for salvation, redemption, and restoration.
+
+In the final apparition of A Christmas Carol, the character of Ebenezer Scrooge stares into the faceless hood of the Spirit of Christmas Yet to Come and asks despairingly, “Tell me! Are these the shadows of things that must be, or are they the shadows of things that might be?” The answer, as it is for anyone still inhabiting this world, is “might be.” As long as we are here, there is hope.
+
+Hope from the perspective of heaven Contemplating heaven reminds us that our citizenship is in heaven (Philippians 3:20), that we are traveling to a better city whose architect is God himself (Hebrews 11:10), and that the best things in this life—friendships, periods of joy, successes— are just rest stops along the way, not our final destination. If we don’t keep our eyes on heaven, their focus invariably lowers to the horizon of this world, and that inevitably brings disappointment, even despair. We were made for eternity. If pondering our eternal destination is escapism, then the message of Jesus in the Gospels is, go to expedia.com and book some tickets! Over and over, Jesus pleads with us to fix our eyes on heaven. “Store up for yourselves treasures in heaven, where moth and rust do not destroy, and where thieves do not break in and steal” (Matthew 6:20). In fact, the disappointments in our life are at the gracious allowance of God, as he uses them to rouse us from our temporal, materialistic stupor.
+
+Humility Humility from the perspective of hell Though we have trusted in Christ for our salvation, this does not mean our minds have fully embraced hell as being our just desserts. In fact, knowing and experiencing God’s love over time can make the idea of hell, and especially the idea that we were ever bound there, unimaginable. We begin to think that God loves us for who we are, not because of how Christ has remade us.
+
+Yes, we are God’s beloved children, but only because of Christ. Apart from Christ, the only side of God we would have experienced is his judgment. Our appreciation of God’s grace to us is proportional to our apprehension of hell and how much we deserved it.
+
+What, after all, makes spoiled brats spoiled? Isn’t it that they see themselves as deserving, as entitled to the privilege they enjoy? What spoiled brats need is to spend a summer in Third World squalor. Then they’ll understand how undeserving and blessed they truly are. This is what the contemplation of hell does for us. Without it, we would become spiritual brats.
+
+It is Jesus alone “who rescues us from the coming wrath” (1 Thessalonians 1:10). Hell squashes pride, grows humility, and rips the ice cream cone out of the hands of our inner brat. Humility from the perspective of heaven How do you humble the human heart? Treat it like a mutt and rub its nose in what its done or treat it like Paris Hilton and give it a Porsche for doing absolutely nothing. The horrors of hell show us what our sin deserves, while heaven’s shocking and garish display of grace shows us how unworthy we are. Heaven humbles us from the opposite direction. In Revelation we overhear the great chorus of the saints that will echo throughout eternity: “Salvation belongs to our God, who sits on the throne, and to the Lamb” (Revelation 7:10). Think about that. The gift of the gospel will be remembered forever. I can’t even remember what I got for Christmas last year; how will I remember anything for eternity? Well, I would suggest that the experience of God and the experience of joy will be great enough to keep us humble forever. And I would also suggest that only an eternal hell would provide the complementing bookend to eternal humility. The blessings of God in our life are the first ripples of heaven. And while it’s thankfulness that initially washes over us, a trough of humility should follow. I don’t deserve this. How can this be? Holiness Holiness from the perspective of hell One of the things that happens to us as we reflect on hell is that we see sin for what it is and we learn to take it more seriously. I’m not a doctor. Medically speaking, I know as much about the inner workings of cancer as I do about the digestive system of marsupials. Okay, I don’t even know what a marsupial is. But I take cancer seriously, and I do so because I’ve seen its results. I know what it does and where it leads. Likewise, knowing that the end result of sin is hell, and But if it is not beneath God to promise reward, it should not be beneath us to aspire to it. knowing how horrible hell is, causes me to take sin seriously. If the Scripture said the punishment for sin were a thirty-minute timeout in the corner of heaven, I’d give it little thought. Consequences reflect and define the severity of the offense. Should you find yourself in a state penitentiary, you don’t want to bunk with the guy serving five life sentences— whatever he did, it can’t be good.
+
+Contemplating hell should shock us from the desire to justify sin, however small it may seem. The thought of hell reminds us what an awful thing it is to rebel against God and how severe that rebellion is.
+
+Someone sent me a link to an anti-abortion website. We all know that abortions happen daily—about four thousand times daily. That’s pretty daily. Honestly, I don’t think about this much, certainly not daily. But the hellacious images on the website made me nauseous and awoke me, not just to the evil of abortion, but also to my apathy toward evil. Similarly, the image of hell awakens us from apathy to our own sin and to sin in general—societal sin, cultural sin, global sin. Holiness from the perspective of heaven Heaven urges us to live a holy life, pursuing faithfulness even when we grow weary. The motivation is not just about the prospect of heaven but about the promise of reward. And in no place are these concepts as tightly bound than in the words of Jesus: “Rejoice and be glad, because great is your reward in heaven” (Matthew 5:12).
+
+Some struggle with the idea that we would serve God for a reward, seeing that motivation as selfish or perhaps utilitarian. I get that. But if it is not beneath God to promise reward, it should not be beneath us to aspire to it. I think this struggle flows from a distorted view of rewards. We’re used to rewards having no connection with the action being rewarded. If you award me a trophy—say, a gold emasculated male holding a laurel wreath—for teaching Braille to the blind, I grant you that is absurd. But what if my reward lay in seeing the blind reading? Pursuit of reward is not a misplaced motivation when the reward is the action in its fulfillment. As C. S. Lewis observes, we don’t see love as mercenary when it seeks the reward of marriage or a general as selfish for seeking the reward of victory.
+
+I don’t think it far from the mark to believe our rewards will be closely tied to our enjoyment of God, and this seems hinted at in many New Testament passages—“Blessed are the pure in heart in heart, for they will see God” (Matthew 5:8), for example. Jonathan Edwards described it like this: In heaven every person’s capacity for joy will be completely filled, but some people will be rewarded with a greater capacity for joy. That capacity for joy will be determined by their humility and holiness in this life.7 I find that helpful and motivating.
+
+Though my good works do not save me, they will not be overlooked. “I tell you the truth,” Jesus said, “no one who has left home or wife or brothers or parents or children for the sake of the kingdom of God will fail to receive many times as much in this age and, in the age to come, eternal life” (Luke 18:29-30). That’s what I’m talkin’ about!
+
+Harvest Sticking with the H theme, I’m calling the last one “harvest,” as in spiritual harvest. And those who are not harvested for salvation in this life stand to be harvested for judgment at the end of time (Revelation 14:14-20).
+
+Harvest from the perspective of hell It is not emotionally manipulative, then, to warn those who have not trusted in Christ of hell. After all, the reality of hell is the truth—a hard truth, but the truth nonetheless. Apart from Christ, there is no hope, only “a fearful expectation of judgment and of raging fire that will consume the enemies of God” (Hebrews 10:27).
+
+Contemplating hell should instill in us a sense of urgency. Not only is life short but also in its shortness our eternal destinies are decided. We make our beds in this life and sleep in them in the next (I’m rather pleased with how I stated that). People don’t have the luxury or the right of deciding when they will die, and death could come at any moment. Time is urgent and procrastination is a child of unbelief. Harvest from the perspective of heaven Heaven shows us the great privilege we have in being ambassadors for Christ (2 Corinthians 5:16-21). And this life provides a window of opportunity that Scripture tells us to make the most of. “The Lord is not slow in keeping his promise, as some understand slowness. He is patient with you, not wanting anyone to perish, but everyone to come to repentance. . . . Bear in mind that our Lord’s patience means salvation” (2 Peter 3:9, 15).
+
+Heaven further teaches that our efforts in the spiritual harvest will be rewarded. A part of that reward will be the eternal joy of knowing we played a role in someone’s redemption. This is something the apostle Paul eagerly anticipated, “What is our hope, our joy, or the crown in which we will glory in the presence of our Lord Jesus when he comes? Is it not you?” (1 Thessalonians 2:19). Spiritual Centrum Biblical doctrines are like vitamins. Some doctrines, such as salvation, are like vitamin C—you need a fresh-squeezed glass of it just about every day. Other doctrines, like the zinc in my Centrum vitamin, you can go without for a while, but sooner or later you’ll begin to feel the motivational effects, a lagging in spiritual vitality. The doctrines of heaven and hell provide spiritual motivations far beyond eternal security. Hope, humility, holiness, and the harvest are but some of them. We may not reflect upon heaven and hell every day, or need to, but to ignore them will have serious long-term effects on spiritual motivation. And not only do we need to pay attention to these doctrines of heaven and hell for our own benefit, but also we should brush up on them because others are interested too. Will they get their ideas of heaven and hell from Hollywood movies and cartoons, or will they learn what these realities are really like, according to the Bible?
+
+3. How do we answer questions our friends have about heaven and hell?
+
+We’ve already looked at two important questions about humanity’s ultimate ends: (1) “What can we know about heaven and hell from the Bible?” and (2) “Why are heaven and hell important to our lives now?” But when it comes to this subject, people have lots of questions. Let’s look at some of the more common ones.
+
+Won’t worshiping God get boring?
+
+Let me say two things about this.
+
+First, maybe heaven would be boring if you equate worship strictly with singing “Shine, Jesus, Shine” ad infinitum. But even if it were, you would still find extreme joy in praising Jesus because you will love him more than you could imagine. However, since worship in the Bible is never limited to just singing, then, no, heaven will not be boring. Worship will not be a specific activity you perform; it will be all that you are and all that you do.
+
+Second, realize that God isn’t like a favorite song or movie. Those things are finite and created. Of course you would get bored with them. They weren’t made to fill eternal appetites or longings. (When we try to use them like that, it’s called idolatry.) By contrast, in true worship we explore the complexity and depth of God’s beauty, majesty, wisdom, and glory forever.
+
+The more we learn of God, the more we will praise him. And the more we praise him, the more we will love him. And the more we love him, the more we will want to learn about him. . . . It’s a cycle of joy. It’s happiness and love snowballing and never ending. Didn’t Jesus teach about love and forgiveness, not hell and judgment? Of course Jesus was about grace and forgiveness, but to see him in that light alone is a distortion. He is a Lion and a Lamb (Revelation 5:5-6). The Jesus who said to turn the other cheek is the same one who turned over tables in the temple and addressed the religious leaders with such sentiments as “. . . hypocrites! You are like whitewashed tombs, which look beautiful on the outside but on the inside are full of dead men’s bones and everything unclean” (Matthew 23:27). Does that sound like Ned Flanders to you?
+
+As a matter of fact, Jesus spoke more about hell than anyone else recorded in Scripture (In Matthew alone: 3:12; 7:22-23; 10:28; 13:30, 41-42, 47-50; 33; 25:10, 19-31, 33, 41, 46; 26:24).
+
+And in the end, Jesus will do more than speak about judgment. When he comes again, he will personally judge the world (Acts 17:31). The same Jesus depicted as blessing the little children is described by John in his Revelation as “someone ‘like a son of man’ dressed in a robe reaching down to his feet and with a golden sash around his chest.” His hand and hair were white like wool, as white as snow, and his eyes were like blazing fire. His feet were like bronze glowing in a furnace, and his voice was like the sound of rushing waters. In his right hand he held seven stars, and out of his mouth came a sharp double-edged sword. His face was like the sun shining in all its brilliance (1:13-16). People who misunderstand Jesus tend to dichotomize love and justice, grace and truth. But these qualities are wed in the person of Christ, nailed together on the cross. Is hell really forever?
+
+Yes, it is, though it’s easy to understand why people would rather believe it isn’t.
+
+Hell is a difficult thing to talk about, but it is not for us to defend God or cover up this aspect of his gracious revelation. Hell is not a doctrinal blemish on God’s face. And one of the most loving things we can do for others is to stand firm about hell as the consequence for our rebellion apart from Christ. Nevertheless, people go on trying to soften hell. Their attempts typically fall into one of these alternatives:
+
+1. Denying the existence of hell altogether
+2. Believing that no one is actually banished to hell
+3. Shortening the duration of hell’s punishment by (a) saying that the wicked eventually repent in hell and move up to heaven, or (b) saying that the wicked eventually are destroyed by the fire and are annihilated out of existence In short, people try to get rid of, bypass, or shorten hell. Consider these biblical responses to the alternatives that hell’s critics propose:
+1. The no-hell view. I’m not going to offer a reply to this because it’s plainly unbiblical.
+
+The earlier section on hell brings out the Bible’s description of it, which assumes its existence.
+
+2. The empty-hell view. Hell will be populated—significantly.
+
+As I’ve already noted, Jesus warned, “Wide is the gate and broad is the road that leads to destruction, and many enter through it”
+
+(Matthew 7:13). Also see Matthew 25:46 and Revelation 20:10, 15.
+
+3a. The released-from-hell view.
+
+There is no “second chance” after death mentioned in Scripture. What appears instead is a drumbeat insistence on the decisiveness of this life’s choices: “Man is destined to die once, and after that to face judgment”
+
+(Hebrews 9:27). See especially Matthew 12:32; 25:41, 46; 26:24; Luke 16:26; John 8:21; and Romans 2:1-16.
+
+3b. The annihilated-in-hell view.
+
+The Scriptures use phrases that underscore hell’s eternal duration: “the smoke from her goes up for ever and ever”; “for whom blackest darkness has been reserved forever”; “their worm does not die, and the fire is not quenched” (Revelation 19:3; Jude 13; Mark 9:48, emphasis added). Other passages that describe hell’s duration as eternal include these: Matthew 25:46; Mark 9:42-48; 2 Thessalonians 1:9; Jude 6; and Revelation 14:11; 20:10.
+
+I recommend that you be suspicious of those who would dismiss or soften hell.
+
+After all, the first lie spoken by Satan was a denial of God’s judgment. As Eve wondered about the consequence of eating from the fruit of the tree, Satan assured her, “You will not surely die” (Genesis 3:4).
+
+If we were to surrender hell, we would gut the gospel of its truth and its power.
+
+And how could a powerless gospel save?
+
+Consider this soberly: our reticence to talk about hell could lead to people’s going there. What about people who have never heard the gospel?
+
+This article doesn’t afford enough space to adequately address this issue; it will be treated in a separate article in the Critical Concept Series. All we can say from Scripture is this:
+
+- We are all deserving of hell apart from Christ.
+- God goes to great length to get the gospel to people.
+- Believers have a responsibility to proclaim the gospel to the world.
+
+Some people suggest that there is a plan B to salvation. For example, they may say that God knows those who would have trusted him, if given the chance, and that he redeems them on that basis.
+
+But if God has a plan B, he has not seen fit to tell us about it in Scripture.
+
+Therefore, we should labor to share the gospel as though there is no such a plan (as there very well may not be).
+
+There’s only one person smart enough to figure out what to do with each and every person on the planet, and he’s on top of it. So don’t worry about it.
+
+How will I be happy in heaven knowing someone I love won’t be there?
+
+Scripture says that “there will be no more death or mourning or crying or pain” in heaven. The enemies of God will hold no power or leverage over heaven. They may not consent to joy themselves, but they will be powerless to diminish, by even an ounce, the joy of God’s people. In heaven our love and intimacy with God will be such, that we will not experience grief for those who have rejected him. They will feel more like enemies to us, though from the perspective of our rather trivial love for God here, I don’t think we can see it.
+
+Do all dogs go to heaven?
+
+Yes. And eternal rewards for those who have killed cats.
+
+Will Satan rule over hell?
+
+No! God alone rules over hell, showing his rightful dominion as he exerts his wrath.
+
+Then comes the end, when [the Son] delivers the kingdom to God the Father after destroying every rule and every authority and power.
+
+(1 Corinthians 15:24 ESV)
+
+Amen.
+
+Byron Straughn works with Campus Crusade for Christ to accelerate the development of laborers in biblical and theological depth. Though his high school was destroyed by a volcano, he was able to cope and go on to study at Virginia Tech and The Southern Baptist Theological Seminary. He and his wife, Amy, have had the distinct privilege of Elvis coming to their wedding. They both enjoy laughing with their children, Graeme, Elinore, and Jane.. “The kingdom of the world has become the kingdom of our Lord and of his Christ, and he will reign for ever and ever” (Revelation 11:15).
+
+Notes 1. Randy Alcorn, “Intermediate Heaven vs. Eternal Heaven.” Found on the website epm.org.
+
+2. C. S. Lewis, The Weight of Glory (HarperOne, 2001), 108.
+3. C. S. Lewis, The Problem of Pain (New York: HarperCollins, 2001), 152.
+4. C. S. Lewis, Miracles (New York: Macmillan, 1947), 160.
+5. Charles Spurgeon, Metropolitan Tabernacle Pulpit 49 (1903; reprint, Pasadena, TX: Pilgrim Publications, 1977).
+6. Lewis, Problem of Pain, 130.
+7. Concept found in John Gerstner, Jonathan Edwards on Heaven and Hell (Grand Rapids, MI: Baker, 1980). Critical Concept Series Vol. 1 Published by CruPress Design: Devon Sayers Series Editor: Rick James CruPress is the publishing division of the Campus Ministry.
+
+To Order go to: www.CruPress.com Or call 1.800.827–2788 ©2008, CruPress All rights reserved.
+
+Scriptures taken from the Holy Bible, New International Version ®NIV ®©1973, 1978, 1984 by International Bible Society. Used by permission.
+
+ISBN 1–56399–249–3

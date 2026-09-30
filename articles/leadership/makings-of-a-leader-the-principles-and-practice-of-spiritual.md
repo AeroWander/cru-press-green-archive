@@ -1,0 +1,239 @@
+---
+title: "Makings of a Leader the Principles and Practice of Spiritual Leadership by Andrea Buczynski"
+topic: "leadership"
+also_topics: []
+type: "Article"
+themes: ["Leader character & development"]
+audience: ["Staff & team leaders"]
+authors: ["Andrea Buczynski"]
+series: "White Papers"
+words: 7812
+summary: "A lengthy 'Critical Concept' article/investigative Bible study by Andrea Buczynski, Campus Crusade's Vice President for Global Leadership and Development, on the principles and practice of spiritual leadership. It explains the roles and responsibilities of a leader (direction setter, spokesperson, coach, and others), traces how God develops leaders over a lifetime, and uses Nehemiah as a model of spiritual and practical leadership maturity."
+source: "Launching a New Ministry/Ministry Leadership/Makings of a Leader.pdf"
+---
+
+MAKINGS OF A LEADER 1 INVESTIGATIVE BIBLE STUDY 1
+
+### Makings of a Leader the Principles and Practice of Spiritual Leadership by Andrea Buczynski
+
+As Campus Crusade’s Vice President for Global Leadership and Development, Andrea Buczynki has spent a considerable portion of her life giving, observing, and teaching leadership. In this Critical Concept, Andrea provides an explanation and overview of the roles and responsibilities of a leader that are the foundation of our ministry’s leadership model. She then goes on to consider leadership through the matrix of time and how God develops leaders through a life-long process.
+
+Finally, Andrea takes these concepts of leadership and considers what difference spiritual growth and maturity makes, providing a clear understanding of what it means to be a spiritual leader, Nehemiah serving as a godly example. Very practical, very helpful, and very insightful.
+
+Critical Concept Series
+
+## White
+
+## Papers
+
+### Makings of a Leader
+
+## Makings of a Leader
+
+The Principles and Practice of Spiritual Leadership by Andrea Buczynski “If I were in charge of the world, a chocolate sundae with whipped cream and nuts would be a vegetable.” —Judith Viorst Most of us have our own ideas about what we would do differently if we were in charge of the world. We could easily make a list of changes that we would like to see.
+
+Sometimes they are in response to the pain and need that we witness, or they are just realities that we don’t like. The aspiration to make things better is part of being made in the image of God. And sometimes the desire for change comes simply from our own selfish desires for life to be more comfortable, more convenient, and easier.
+
+If I were in charge… Large and in charge, “the big dog….”
+
+Well, perhaps the second one isn’t so flattering. I don’t want to think of myself as a big dog, or a dog at all, certainly, but the language that we have about leaders and leadership has a lot do to with power— the ability to make decisions that will cause a difference.
+
+Leadership is a large topic today. Everyone is looking for leaders—business owners, voters, non-profit organizations, and neighborhoods. What are we looking for?
+
+We want to find people who are worth following. People who will take us to a new place, who will help solve the problems we are facing, who will bring us together.
+
+Leaders Make a Difference What inspired Bono to start the One campaign to end poverty in Africa? How did the Susan Komen Foundation get started in its quest to eradicate breast cancer? What motivated five-year-old Hannah Taylor to start the Ladybug Foundation to end homelessness? Each of them—Bono, Susan and Hannah—saw people in desperate states and said, “It shouldn’t be this way,” and each one took action.
+
+Author Warren Bennis says, “A true leader is the one who examines what practices are no longer moving the organization in the direction of its vision and mission, and who is willing to create a set of new practices to accomplish it.” Dr. Alice Matthews says, “Leadership is helping a community face their problems, and then mobilizing and acquiring resources to help them solve their problems.”
+
+This is the common theme of leadership: calling and motivating people to action in pursuit of something better. Historically, we can look at people who have changed things—leaders of the Reformation, John Wilberforce, Abraham Lincoln, Elizabeth Cady Stanton, Louis Pasteur, Florence Nightingale, Ghandi, Martin Luther King—the list can go on and on. What do they have in common? Each one saw a reality from a different point of view. It was simply unacceptable to leave things as they were. In their various ways, they committed to effecting change—some quietly and behind the scenes, others through public platforms.
+
+What Leaders Do:
+
+Roles and Responsibilities Roles When we describe what a leader does, we must begin with how a leader thinks and acts. Leaders do some common things, though their styles may vary. Let’s call them “roles.” That picture of a more desirable future is where leaders start. I was sitting in a room with some regional CCC leaders. People were anxious and there was a nervous buzz. Rumors of big changes had emerged over the previous few weeks. I was kind of skeptical about the whole thing. The rumors were about massive changes; I couldn’t see a good reason for it. But when the leader stood up and said, “We have to go after every student. God won’t let us go for less than that,” I knew we were in for big change because what we were currently doing would not get us there. That leader was in the midst of setting direction. He was telling us what the North Star would be. Some of us in the room were mired in our current reality. We knew things weren’t working, but could not see all the things that would need to change. He helped us see the view that he was seeing.
+
+Often, the first questions leaders consider are: What is God is calling us to do? Where are we going? Direction setters help identify the destination, the North Star, or the compass point around which everything else is determined. Leadership implies that you have identified the challenge before you asked others to commit themselves to following you. When considering if they will make the journey with you, people want to know three things: What we will do and for whom— what is our mission? What will it look like when we’ve accomplished it—what’s our vision? And, what is important to us as we go about this work—what are our values? Mission, vision, and values are the big-picture parts of setting direction. In order to pursue the direction the Lord has given, leaders think about resources. Whose cooperation do we need to move forward? Who else is interested in this same outcome? The spokesperson represents the cause and communicates the vision—the why and the what. This role is critical to grass roots support and the good will needed for partnerships. Spokespersons mobilize the cooperation and the resources necessary to accomplish the mission. If you’ve ever asked business people to provide food or gifts for an outreach, you’ve acted as a spokesperson. If you’re actively meeting with faculty, administration, and leaders on campus, you’re acting as a spokesperson.
+
+The coach builds a team and prepares them to go after their vision. People want to know how they can help accomplish this direction—what do they need to do? Coaches determine the way to grow the core of leadership for that movement— the team (including disciples and associates). A coach considers the strengths and weaknesses of individuals and the team to help them reach their greatest effectiveness in doing what God’s called them to do. Coaches identify and close the gaps in their thinking and skills that prevent the team from being fruitful. They equip, model, teach, train, and enable others to act. As Jim Green says, they help people “to soar!” As the team goes after the mission, problems emerge. The way isn’t as straightforward as it looked. Solving the original problem leads to more problems that stand in the way of change. The famous adage “leaders eat problems for breakfast” is pretty close to the truth if you are trying to effect change in a longstanding situation. Leaders must engage as change agents—pursuing useful and adaptive change in light of the direction.
+
+Change agents have a healthy dissatisfaction with the status quo. To them, the gap between the way things are and the way things ought to be calls for action. Change is not done simply for change’s sake. We change, adapt, and innovate to bring us closer to accomplishing our mission. Recognize that in a changing culture, staying with the status quo is more risky than adaptive change. You engage as a change agent when you evaluate the overall result of your efforts and realize they are not what they could be. You engage as a change agent when you compare the results against the vision, and not simply look to see if things are a little better than last year.
+
+Responsibilities When leaders are acting out of their convictions, you can hear it in their voices—the urgency and the passion. As a listener, you can’t help but hear their cause and say yes. Lead-ers speak to people’s hearts and minds, to get to the deeper yes.1 Leaders understand how to influence people. In our leadership framework, these influencing skills are the respon-sibilities of a leader—vision casting, strategy formulating, aligning, and motivating.
+
+Vision casting is communicating a picture of the future that motivates people to act. We see examples all the time: The kid who gave his blanket to a homeless person can tell that story and motivate thousands of people to donate blankets. What will it look like should God be gracious and help us accomplish our mission? Vision casting is helping people see through the mundane to the goal at the end. It is helping them see that the goal is worthy and satisfying. Vision paints the picture of what things could be in the future. Vision touches the heart. Vision is the starting point for leading the journey. Vision inspires and keeps us focused. Effective vision is phrased in a way that draws others to willingly sacrifice time, effort, and resources to bring it about. Effective leaders need to build, communicate, and lead from a shared vision. The methods for communicating vision are as varied as our personalities, but simple language that creates a verbal picture is what’s needed. How will your neighborhood look different when there are spiritual movements everywhere? Or your city? What would the local shopping mall be like? How about the public schools? Tell the story of what you might experience in that future.
+
+One of the leaders I used to work with said, “I cannot communicate vision. I can’t do that.” And there was no amount of persuading her to try it. She was convinced that she could not communicate vision; however, I caught her one day, describing what she did when she went on campus. She had a charm bracelet and each charm represented a university in her region. She would show the bracelet, handling one charm at a time, and say, “And here’s what I’m praying that God will do through you on this campus!” It was one of the most effective vision-casting tools I’ve ever seen. Her true commitment and conviction came through the simple process of sharing what she was praying for! And students loved hearing her say it. She brought hope and vision to their hearts. A second skill is strategy formulation—coming up with wise relevant ways to accomplish the vision. Strategy answers the question, “How can we do this?” We need to be able to tell those who are hearing the vision how we intend to get Motivating is about tapping into a person’s core values so that they want to work together to fulfill the mission— sustaining the me-too response even in the face of change and challenge. there, or involve them in the process of figuring it out. When that happens, people can see the dream become a real possibility.
+
+Sharing the vision engages people’s hearts and minds; strategy engages their hands and feet! It brings the vision to life in a practical and simple way.
+
+Aligning is the third skill that a leader needs—bringing people together to focus on the same direction. However, inspiring a me-too response in the hearts of those on the team is not enough. Aligning involves asking for people’s commit-ment and participation, not just assuming it. Efforts move forward with impact when everyone moves together in the same direction in order to carry out strategies and accomplish vision. Aligning has to do with people sharing a vision, owning the responsibility, working together, and cooperating in order to fulfill the vision.
+
+Aligning takes more work than one might think. The process of fostering ownership can be as simple as teaching the Scriptures and helping people see the Great Commission applies to everyone. It can be as complicated as getting leaders to agree on a common approach when they come from differ-ing cultural perspectives or have competing values. Aligning is about eliciting commitment for an idea or an initiative, not just getting intellectual agreement about a good idea. It means that you’re asking people to join with you and put their shoulders to the task!
+
+Motivating is about tapping into a person’s core values so that they want to work together to fulfill the mission—sustaining the me-too response even in the face of change and challenge. When you read the stories of Moses and the Israelites in the wilderness, you can see that keeping people motivated in a long-term effort is not easy. It is easy to get distracted or discouraged in the face of obstacles. It’s easy to forget why you started down that path. The motivating responsibility of a leader means you’re keeping people in touch with the whys, the big picture, and the result that will be worth the effort.
+
+These four responsibilities are essential for getting people on board for that better future and helping them sustain their response in the face of challenges. We want people to live out of that deeper yes! However, without a deep relationship with the Lord and developed character, these same skills can be very self-serving and possibly manipulative.
+
+These skills will need to be exercised in every leadership roles; i.e., direction setting, as a change agent, coach, or spokes-person. As a direction setter, casting the vision, forming the strategy, aligning, and motivating are all necessary to define the mission, build the team, and keep them moving. As a spokesperson, casting the vision, sharing the strategy, inviting people to be involved, and keeping them involved are all necessary to bring the resources and cooperation needed for the mission. As a coach, casting the vision, sharing the strategy, building the capabilities, and empowering others are necessary to have a growing team able to do the mission. As a change agent, any change worth doing will need a compelling vision, a well thought out strategy, an assessment of who’s on board, and a lot of motivation to see it through. The Heart of a Leader Behind the Roles and Responsibilities Leadership requires courage and conviction! At the center of any successful effort is a leader whose whole heart is into his or her cause. Determination and creativity are necessary to see any effort through to its completion. The difference between good leadership and poor leadership lies in the heart of the leader.
+
+In recent years, we have seen big leader-ship failures in corporations (Enron, big banks, BP) and government as leaders put determination and creativity to work for their own ends.
+
+What provides the boundaries to the get-there-at-any-cost mentality? Character! Most leadership failures come from the heart and not from skills.
+
+Leaders by virtue of their position can choose to use power as a force to bless others or as a means to gratify selfish desires. Determination and creativity from a person who respects and serves others is an entirely different experience than from someone who only cares about the end goal.
+
+Leaders’ values are at the core of their leadership. Decisions made every day come from that core. Is it more important that we get something done, no matter how it happens? Or are there lines that we won’t cross because of some moral compass that gives us direction? Under what circumstances are we vulnerable to making choices that are self-interested?
+
+The temptations leaders experience related to power, money, or sex are many.
+
+The promise of fame, respect, and prosperity are alluring. Today’s adulation of celebrities can make the platform of leadership seem more important than the actual function of leadership. The shortcuts that are taken often involve bending the rules, seeing yourself as the exception, seeing others (including au-thorities) as obstacles, and seeing your own needs as supreme.
+
+I have been heartbroken as leaders that I have followed and respected go down those paths. When a couple I knew left the ministry because of an embezzle-ment of finances, I recalled the conversation I had with them some six years earlier. “Are you a lifer?” she asked me.
+
+We had shared our stories with each other and sensed the deep work that God had done in each of us. “We’re lifers!” she went on to say. Sadly, their direction changed when the embezzle-ment was discovered. They entered into a process to examine what led to that action.
+
+Influence of the World Around Us I was sitting in a classroom in Harare, Zimbabwe, listening to an African leader talk about leadership in the African context. As he thoughtfully led the class discussion, he explored the African worldview, values, and cultural practices. The values had both positive and negative practices associated with them.
+
+One could see how leaders demonstrated both positive and negative aspects in their leadership.
+
+When I was in Rome with a group of European leaders, they protested that the four roles previously mentioned must be lived out by a team. It is impossible for one person to embody all four roles. Their desire for working together is high. There is a strong concern when one person is viewed with all the power. Given the history in Europe, it is understandable that leadership style is more collegial and egalitarian.
+
+Countries are close together and have experienced invasions from each other as part of their history.
+
+In the U.S., we recognize a leader as one with lots of energy, charisma, and great communication skills. With the nature of media being what it is, someone’s public persona is often more important than the substance of their point of view. How leaders handle blunders gets more time in the news than the merit of their ideas. In a gathering of young leaders, I asked the question, “How would you describe a leader?” Their answers all related to personality—someone who is outgo-ing, enthusiastic, and confident was the common answer.
+
+In the U.S., it is common for people to challenge their leaders. The culture is more individualistic and egalitarian.
+
+Independent action is valued. In Asia, it is not proper to challenge leaders; it is a sign of disrespect. The culture is more communally oriented. There is greater distance between leaders and followers.
+
+Expressing appreciation for and gratitude to leaders is a common practice.
+
+If you ask the same question in other parts of the world, you will get some different answers. Societal values shape how people recognize and respond to normal leader behaviors. Numerous studies have identified the characteristics of culture that influence behavior (Hofstede, Schein, the Globe Study, etc).
+
+No matter what part of the world you are from, your view of power and authority influence people’s willingness to follow leaders. What is esteemed as effective leadership will be endorsed by followership. These values tend to be deeply ingrained into our thinking and practice because they are reinforced by parents, by our spiritual upbringing (or lack), our education, the laws and norms of the country, and the stories that are told celebrating leaders.
+
+The influence of what we see around us is so strong we often don’t realize it is there. We end up taking our cues about leadership from the world around us, rather than from the Scriptures.
+
+What is distinct about Christian leadership?
+
+Source of Life and Direction For a Christ follower, one has to realize that his or her leadership has a different source than simply culture or upbringing or giftedness. Loving God with our whole hearts, minds, souls, and strength is at the heart of life and leadership. This was Jesus’ message. If we examine His life, He repeatedly talks about His relationship with God the Father, and later God, the Holy Spirit. In the Gospel of John, Jesus describes Himself at least twenty-four times as one who was “sent.” Doing God’s will was His need; He described it as food.1 His actions and His teaching came from the Father who sent Him.2 You cannot read the Gospel of John without recognizing that Jesus was not on His own agenda. Power was not something that He was after. In fact, Philippians 2 describes Him as “being in very naturea God, did not consider equality with God something to be grasped.”3 He, wholeheartedly and without interruption, followed the Father’s will. He was not on His own.
+
+Jesus invites us to the same relationship with the Father that He experienced as source of life, direction, and power. He makes it possible for us to have that relationship through His sacrifice on the cross and His resurrection from the dead, having fully satisfied God’s holiness and our need for forgiveness. As we come to Him, by His grace through faith, we enter His Kingdom where His values reign.
+
+Humility, Service, and Accountability Interestingly enough, we can see the influence of culture in the world in which Jesus lived. Both the Jewish religious world and the Roman political world showed leadership as a function of power and prominence. From Matthew 23 we can see that the religious leaders of the day set up rules that people lived by—rules that were heavy and burdensome to people. The leaders themselves looked for ways around those rules. Jesus condemned these leaders for their hypocrisy and show of importance—seeking the seats of honor and being called by title. “The greatest among you will be your servant. For whoever exalts himself will be humbled and whoever humbles himself will be exalted.”4 Jesus turned the world system on its head in regard to leadership. He calls our attention to the Father in heaven, our Master, and to Himself as our Teacher. He takes the power structure around titles and says, most importantly, that we are all brothers.
+
+When the mother of Zebedee’s sons asked if her sons could sit at His right and left hands in His Kingdom, her action caused the other ten to be angry with them. Jesus used this moment to teach. “You know that the rulers of the Gentiles lord it over them, and their high officials exercise authority over them. Not so with you. Instead, whoever wants to become great among you must be your servant, and whoever wants to be first must be your slave—just as the Son of Man did not come to be served, but to serve, and to give his life as a ransom for many.”
+
+In both contexts, among the Jewish religious leaders and among the Gentile rulers, the cultural emphasis was on power, prominence, and authority. He did not admonish them for desiring to lead, but Jesus’ emphasis in both was the same—humility and service. It is the opposite of what we expect in the world.
+
+One Big Prerequisite to Being a Christian Leader There is this great story in I Samuel 16 about God selecting the new king for Israel. Eight sons in Jesse’s family—the oldest seemed the logical choice to Samuel. “But the Lord said to Samuel, ‘Do not consider his appearance or his height, for I have rejected him. The Lord does not look at the things man looks at. Man looks at the outward appearance, but the Lord looks at the heart.’” What was God looking for that Samuel could not see? After meeting seven of the sons, Samuel finally meets God’s choice. “I have found David son of Jesse a man after my own heart; he will do everything I want him to do.”5 Why did He reject Saul, the first king of Israel? Saul was not faithful to follow God’s ways. He acted outside his role when he took on the role of priest and offered a sacrifice. Samuel the prophet was taking a little too long to get there. So Saul decided that checking this sacrifice item off the list was more important than waiting for the appointed person to do it. It was a gross act of pride and fear. He lost God’s anointing because of it. God is serious about His purposes and His ways. So He looks for people who are trustworthy. Second Chronicles 16:9 says, “The eyes of God range throughout the earth to strengthen those whose hearts are fully committed to Him.”
+
+Chip Ingram, Bible teacher and pastor, said, “God loves us unconditionally. He does not trust us unconditionally.” God entrusts His agenda to those who are obedient. He tests us for our faithfulness to Him and our readiness to act on His behalf little by little. In Luke 16:10, He tells us, “Whoever can be trusted with very little can also be trusted with much….” Anyone who wants to do great things for God can anticipate some tests of faith, integrity, and obedience.6 He is looking for people who take Him more seriously than anything else—“those who are humble, contrite, and tremble at His word.”7 Miles Stanford in his book The Green Letters, wrote this: “When God wants to grow an oak tree, He takes years. When God wants to grow a squash, He takes six months.” God’s Training Program Sovereignly Designed and Placed In Psalm 139:13–16, God tells us that He was intimately involved in how we were made. The verbs in that passage of Scripture are those of handcrafts—knitting, weaving, and embroidering (in one translation). All our days are in His book! Ephesians 2:10 tells us, “We are His workmanship, created in Christ Jesus for good works, which God prepared in advance for us to do.” And then in Acts 17:26 He says that He determines the times set for us and the exact places where we should live. A sovereign act of God relates to who we are, whom we are born to, as well as where and when. The times in which you live now are part of God’s plan for you. Like David, we each have a purpose in our generation. “For when David had served God’s purpose in his own generation, he fell asleep.” 8 In creating us, He has given us certain capacities and natural abilities. Dr. Robert Clinton uses this definition—giftedness “God loves us unconditionally. He does not trust us unconditionally.” God entrusts His agenda to those who are obedient. is a combination of natural abilities, spiritual gifts, and acquired skills. Together they form a powerful combination that God can use for His own glory.
+
+Natural abilities are what you are born with—mental abilities, social skills, physical dexterity, etc. In Psalm 139:13, it says, “For you created my inmost being; you knit me together in my mother’s womb.” There is nothing random about you! Exodus 31:3 describes Belazel, “And I have filled him with the Spirit of God, with skill, ability and knowledge in all kinds of crafts…” And God used him to build and oversee the building of the tabernacle just according to the pattern God showed to Moses.
+
+Acquired abilities are those things you have learned along the way that enhance your natural abilities. We can see in the Scriptures that God used the acquired abilities of many people. Moses, Hebrew by birth, grew up in the Pharaoh’s household, understanding the ways of the Egyptians. While the Scriptures don’t tell us exactly how, we can see the hand of God in Moses’ early life, preparing him for what would be his later life task. The combination of his birth, his education, and his wilderness training (herding sheep) gave him a unique package of acquired abilities for use by the Master. Spiritual gifts, as you know, are our God-given capacity for releasing a Holy Spirit empowered ministry for others. Scripture gives us different lists of the ways the Holy Spirit gives us gifts: I Corinthians 12, Ephesians 4, and Romans 12. The Developmental Path Dr. Clinton, in his book, The Making of a Leader, outlines some common patterns in spiritual leadership development. There are three types of formation in Dr. Clinton’s research: character formation, ministry formation, and strategic formation.
+
+Character formation is primary! Usually there is some kind of testing in at least three areas: faith, obedience, and integrity. How a person’s leadership expands depends on how the leader responds to the Lord’s shaping process. That process is always about how the leader responds to God in the various circumstances he faces, and his willingness to do what God wants.
+
+Ministry formation is next. For a season, there is lots of learning about people, relationships, and ministry. Insights are gained that may become the basis of a personal ministry philosophy. There is increasing awareness of giftedness and an increasing effectiveness as a leader.
+
+Often, when a developing leader becomes somewhat comfortable with leading, the shaping process goes back to character formation! Leaders often undergo a transition period that can be intense and can last a long time (possibly a decade!). The timing and duration will be individually customized. The result is a shift deep in the person’s heart where their focus moves from doing to being. It is often the release from an identity based on performance. This season may be characterized by intense pressure, family crisis, ministry conflict, and other kinds of pressures. Young leaders who have a track record of fruitfulness can, and do, misinterpret this season as a lack of affirmation or a redirection of sorts. They can easily give up; the challenges are too many. Persevering with the Lord through these circumstances is an important season for a developing leader. Completing this transition sets up a season of focus— where the person’s ministry has focus in gifted areas. The leader’s giftedness is recognized and others begin to bring opportunities their way. Other gifts may emerge as the leader continues to grow. This “focus” season is a time of significant fruitfulness and contribution.
+
+Strategic formation builds on the character and ministry formations, shaping the person to reach their full potential and God-given purpose. There’s no pattern; each person’s journey is individual. This is a deep work in the leader’s heart that leads to spiritual discernment and following the Lord’s direction—that’s important. For the leader to realize their potential, they must be able to recognize His voice and be willing to respond to it. The leader’s credibility has more to do with the fact that people watch the leader walk with the Lord and they trust their integrity, rather than authority that comes from position. The years of preparation find fulfillment in a role that matches the leader’s giftedness, influence mix, and ministry philosophy.
+
+Important in this lifelong process is the growing awareness and reality of God as “my Leader.” As an individual becoming more like Christ, I am less interested in my own agenda and more interested in His.
+
+Challenges One of the challenges in growing as a leader is that in normal adult development, studies show that a young leader is more likely to resort to manipulation, coercive behavior, and other tactics when first assuming leadership roles. Power as a result of position is often the only way that power is understood. From Jesus’ teachings, we know this isn’t the way to go, but it may be all we know at the time. That’s why the character part of leadership is so important for a leader who is a Christian.
+
+The battle between my flesh and its quest for authority, recognition, and significance can only be quelled by the Holy Spirit’s work in my life to live a surrendered life, as a follower of Jesus, motivated by love. Our hearts are desperately wicked, personally ambitious, and desirous of glory.
+
+Unless these parts of us are trained to die to self and surrender to God, they make our efforts in leadership more about us and less about God.
+
+I think Dan Allender gets it right when he says, “Here are the things nobody will tell you about leading. It’s about crisis, complexity, loneliness, betrayal, and weariness.”9 As he goes on to say, each one of those has its own temptations. It is easy to trust in your experience, or your friends, rather than the Lord. It is easy to repeat the past without seeking the Lord for the path in a new situation. It’s easy to take our examples from the culture, rather than from the Word. We see those lessons throughout the Scriptures.
+
+Taking the initiative to change the way things are puts you in a place of vulnerability. You are living out loud in public. People see your strengths, weaknesses, limitations, and frailties.
+
+If you read the book of Exodus, you’ll read a great description of the kinds of people-realities that leaders deal with regularly. “Why didn’t you leave us in Egypt?”
+
+Leading requires moral courage.
+
+Taking people to new places that are better requires that you are able to hold onto the Lord in the midst of criticism.
+
+Keep a steady course on the path He is showing you.
+
+Leading is not an antidote for the need for significance. It requires humility and a heart secure and settled in the Lord.
+
+An Example from Real Life Let’s take a look at someone who had a vision of a better future and was burdened by the Lord to pursue it.
+
+Imagine the circumstance that would find you in exile serving under a foreign leader. Your country has been conquered by others, several generations earlier. You have lived this way your entire life—in a foreign nation whose way of life was entirely different and pagan. What is your job? Ensure that the king’s drink is safe for him to consume. No small task there. Such a position would require trustworthiness of character, some pleasantness of personality, and possibly a handsome appearance, since one is constantly in the king’s presence. One small mistake would be very costly. That is where we find Nehemiah—a Jew, now serving in Persia, Susa, under Artexerxes.
+
+One day in November or December, Nehemiah hears a report about the conditions in Jerusalem. “Those who survived the exile and are back in the province are in great trouble and disgrace.
+
+The wall of Jerusalem is broken down and its gates have been burned with fire.”
+
+Some deep grief within him is stirred.
+
+He responds by sitting down and weeping. Warren Wiersbe in his book, Be Determined, describes the scene this way. “Instead of a magnificent city, Jerusalem was in shambles; and where there had once been great glory, there was now nothing but great reproach.”10 Nehemiah was clearly upset about this picture of Jerusalem, home of God’s own chosen people, once glorious, now in ruin. What is his response? He mourns, fasts, and prays. We see his heart in his prayer to the Lord in chapter 1, verse 5. He intercedes on behalf of Israel, recalling the character and promises of God,11 confessing his and Israel’s sins against the Lord, pleading for favor before the king. As you read his prayer, you can already tell that the news he received was spurring him to some type of action, but he was not relying on himself to accomplish this. He put the problem squarely in God’s hands.
+
+Four months later, March or April, he is before the king with a sad face. It was customary to keep monarchs sheltered from any unpleasantness (we see that same reality in Esther 4:2). As the king inquired about his sadness, Nehemiah quickly responded favorably toward the king, but honestly. He told him about the condition of Jerusalem and how its broken-down gates grieved him. “What is it that you want?” says the king. Nehemiah, willing to wait to see what God would do, was ready with an answer. It is clear by implication that as a direction setter, Nehemiah had thought long and hard about what to do and what it would take to do it, so that when there was an opportunity he would be ready.
+
+What Nehemiah models so well is the ability to entrust his burden to the Lord and then trust Him for the right timing. It could have been easy in his trusted position as cupbearer to try to speak to the king on other occasions. He waited for the right moment, and even in that moment, we see his quick prayer to the Lord before answering the king. We read in Nehemiah what Isaiah says the Lord esteems: “one who is humble, contrite, and trembles at His word.” 12 We also observe Nehemiah’s ability to know what kind of resources he would need in order to do what he was burdened with: rebuild the walls of Jerusalem and remove its disgrace. Serving as a spokesperson, he thoughtfully asks for all that he needs—time, permissions, and resources—and he receives it. As he says, “The gracious hand of my God was upon me.” He takes no credit for what God did.
+
+Once in Jerusalem, he surveys the work needed to complete the rebuilding. He knows the reality while at the same time he looks toward the future. “I had not told anyone what my God had put in my heart to do for Jerusalem.”13 He carried a vision of Jerusalem restored.
+
+He appeals to the Jews in Jerusalem. “You see the trouble we are in: Jerusalem lies in ruins, and its gates have been burned with fire. Come, let us rebuild the wall of Jerusalem, and we will no longer be in disgrace. I also told them about the gracious hand of my God upon me and what the king had said to me.”14 Nehemiah appealed to them on several levels—their personal safety, their patriotism for their country, and their faith. No doubt those Israelites living in Jerusalem had a deep-seated desire for the same things as Nehemiah. They were not able to see a way through it, though. Nehemiah could cast that vision because he was banking on God’s promises, so he could call them to work with confidence that it was the right thing to do (aligning). And they responded positively.
+
+How would they rebuild the wall? The strategy involved more than forty different groups of people, from the high priest to the local jeweler. Everyone had a part in rebuilding the section of the wall and the gates nearest to them. And so the work began.
+
+As in leading anything, no work worth doing goes unopposed. Right at the outset, opposition shows up; Sanballat and Tobiah start by ridiculing the work, mocking, and scoffing at the work of the Israelites to discourage them. To be willing to stand up and keep going in the face of adversity is a true test for a leader. Bill Hybels asks this question, “What does it take to stop you?” In this case we see that nothing Sanballat or Tobiah throws at Nehemiah and the Israelites will cause them to stop. After the ridicule doesn’t work, they plot to fight against the Israelites. What is Nehemiah’s response? “We prayed to our God and posted a guard both day and night.…” He continued to trust the Lord in the midst of every difficulty, as well as take practical action.
+
+The threats escalated, “If you build it, we will burn it down.” People from nearby came repeating their threats, ten times over. The Israelites themselves were tired and vulnerable. It’s at this point Nehemiah’s leadership shines through. He motivates the workers by reminding them of the Lord. “Don’t be afraid of them. Remember the Lord, who is great and awesome, and fight for your brothers, your sons and your daughters, your wives and your homes.” He appeals to their deeply held values— God, their nation, their future, and their families. While motivating them, Nehemiah, as coach, also devises a strategy in case of attack. Half the people did the work; the others were equipped with weapons. Since they were spread out, he told them to listen for the blast of the trumpet. If they heard it, they were to come there immediately and fight. No one took off their weapons. They all slept inside the gates so they were ready in case of an attack.
+
+Keeping everybody engaged, motivated, and prepared is what a good coach does. He watches for those signs of discouragement and reminds people of why this particular work is important. He equips them for the work with new skills and strategies. Nehemiah’s mention of sons and daughters pointed to the future of Jerusalem, not just the current conditions. His vision of restoration was communicated in terms of relationships and legacy. What led to the conditions in Jerusalem was not just the lack of a protecting wall around the city. As the work of rebuilding advanced, other problems came to the surface. There was a famine and the people were hungry. In order to buy grain, those without land sold their children into slavery to pay the high prices being asked by their own countrymen! Those with land were mortgaged to the hilt. There was a group of greedy people profiting from all of this. Nehemiah called it what it was—usury—against the Law of God.15 He immediately took action by calling an assembly (change agent). He confronted the people who were wrong and demanded that they repent and make restitution by giving back the children and the land. Nehemiah’s appeal here was based on the Law and the way God wanted them to treat each other. He compared their practices to the practices of the Gentiles around them. To guarantee that the practice would stop, he extracted a commitment by way of an oath from the nobles, officials, and priests.
+
+In addition to making these corrections, we can see Nehemiah’s righteous example. He did not take from the food allotted to the governor. Why? Out of reverence for God and compassion for the people. God’s law forbade leaders from taking advantage of people. To use the governor’s allotment meant there would be additional tax on an already over-taxed people. Nehemiah had no desire to make their lives more difficult by claiming this right. He served as a model to the people for how to live (character).
+
+Many times in leading change, the original change vision reveals many things that are not right. It’s in meeting these challenges along the way that leaders are tested in their character and in their perseverance. Standing up for what is right and good requires a heart that discerns right from wrong, deeply rooted in the Word of God. The courage to stand and call it out requires a Holy Spirit–filled faith and determination. We are still a people who respond with passion for seeing wrongs righted, and for seeing those without Christ have an opportunity to accept Him.
+
+The final attempt to stop the rebuilding came as a personal threat to Nehemiah. Sanballat and Tobiah changed their tactics in very devious ways. They were no longer scoffing or making threats; they schemed to get rid of Nehemiah. They sent him an invitation to a meeting that was a day’s journey away from Jerusalem. Nehemiah refused; they asked five times in total! After his fifth refusal, they sent him a letter accusing him of planning a revolt against the king. His short reply was, “Nothing of the kind is happening here!” In addition, a false prophet suggested that Nehemiah take refuge in the Temple because of a threat on his life. Only priests were allowed in the sanctuary.16 Had Nehemiah taken this threat seriously and sought refuge in the Temple, he would bring judgment on himself and the nation for desecrating the holy place. He correctly perceived the false nature of the threat and disregarded it.
+
+The wall was completed in fifty-two days. And the Scripture says, “All our enemies lost their confidence.” They saw what God could do on behalf of those who trust Him.
+
+Leading in Our World Today Our world is different than Nehemiah’s. Thomas Friedman has written that our world is flat and hyper-connected. Anyone can lead people to change the world. The media available today enables almost anyone with an opinion to gain a following, launch a cause, and make progress without even meeting together once. Seth Godin has written that your tribe is out there waiting for you to lead. No one needs permission to lead, nor needs to be empowered. The world is yours.
+
+On the other hand, sustaining a following requires the resonance of integrity and credibility. In that way, our world is the same as Nehemiah’s. No matter how we are dressed up, with all our gadgets and toys, we are still people who long to make a difference in our world. We are still a people who respond with passion for seeing wrongs righted, and for seeing those without Christ have an opportunity to accept Him. In that way we are the same. People are still looking for clear direction, a worthy cause, a way to be involved, and people who are willing to serve as leaders.
+
+These changes in our society mean that there is a greater weight on who we are and whether we really embody the changes that we long to see. We want to see every person on the planet have the opportunity to know Christ. We have to ask ourselves, “Am I really salt and light? Are we the city on a hill?” People who have only superficial contact with us in this fast-paced, socially networked world can still detect true motivations and worthy causes.
+
+A person’s ability to lead is still and will always be about the person they are. Only by the grace of God are we able to step out, knowing our weaknesses, confident in His strength. Only by the power of the Holy Spirit are we able to be the loving, patient, joyful people the world expects of Christians. Only out of love for Jesus are we willing to lay aside personal ambitions to follow His agenda for the glory of God.
+
+About the Author Andrea Buczynski, serving with cru for 35 years, is currently Vice President for Global Leadership Development & Human Resources.
+
+Notes 1 NIV, Zondervan, John 4:34.
+
+2 NIV, Zondervan, John 5:19–23; John 7:16.
+
+3 NIV, Zondervan, Philippians 2:6.
+
+4 NIV, Zondervan, Matthew 23:2–11.
+
+5 The Holy Bible: New International Version, Grand Rapids: Zondervan, 1996, c1984, S. Acts 13:22.
+
+6 The Making of a Leader, Robert Clinton, NavPress, 1980. 7 Isaiah 66:2b.
+
+8 The Holy Bible: New International Version, Grand Rapids: Zondervan, 1996, c1984, S. Acts 13:36.
+
+9 Leading with a Limp, Dan Allender, Colorado Springs, Colo.: WaterBrook Press, 2006.
+
+10 Be Determined, Wiersbe, Warren W., Wheaton, Ill. : Victor Books, 1996, c1992, S. Nehemiah 1:1.
+
+11 Deut 28:63–67; 30:1–10.
+
+12 Isaiah 66:2b.
+
+13 The Holy Bible: New International Version, electronic ed., Grand Rapids: Zondervan, 1996, c1984, S. Nehemiah 2:12.
+
+14 The Holy Bible: New International Version, electronic ed., Grand Rapids: Zondervan, 1996, c1984, S. Nehemiah 2:17–18.
+
+15 Deuteronomy 23:19–20; 24:10–13; Exodus 22:25–27. 16 Numbers 3:10; 18:7 © CruPres 2012, All Rights Reserved

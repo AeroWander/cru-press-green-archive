@@ -1,0 +1,246 @@
+---
+title: "Discerning God’s Will"
+topic: "life-and-character"
+also_topics: []
+type: "Article"
+themes: ["Calling, vocation & God's will"]
+audience: []
+authors: ["Rick James"]
+series: "Postcards from Corinth"
+words: 8501
+summary: "The first booklet ('The Art of Discerning God's Will') in CruPress's Critical Concept Series, Volume 1, written by Rick James. Argues that God reveals his will gradually rather than all at once, to cultivate dependence and intimacy, and surveys the various channels through which his will can be discerned: emotions, reasoning, accumulated wisdom, circumstances, counsel of others, Scripture, and impressions of the mind, with cautions on weighing each responsibly."
+source: "Discipleship/Mature Teaching/Discerning God_s Will.pdf"
+---
+
+The reason for the Critical Concept series is that there are important topics not covered in our Transferable Concepts that are, for any number of reasons, of critical concern to us today. Important concepts like this require more in-depth treatment, which is a discipleship challenge when so few are reading books. And so we have the Critical Concept series. Each article is roughly the length of a book chapter-about 16 pages. So it’s not a book, but it’s not a pamphlet either.
+
+Volume 1 contains five booklets addressing the following topics: Heaven and Hell: Alternative Endings Worldviews: War of the Worlds God’s Will: The Art of Discerning the Will of God Missions/ Great Commission: Mission Impossible Christ-centered Bible Study: Hearing the Music of the Gospel
+
+### Order Online at Crupress.com
+
+Critical Concept Series
+
+## White
+
+## Papers
+
+### The Art of Discerning God’s Will
+
+The Art of
+
+## Discerning God’s Will
+
+by Rick James I think we all wish that God would simply write out his will for our lives, in the same way that I would rather get a prescription from the doctor than have to change my lifestyle or undergo invasive surgery. Sadly, God has other priorities for our growth and relationship with him than simply giving us the right answer.
+
+In fact, giving us an immediate answer would undo many of God’s greater purposes: learning to entrust our future to him, learning to rely on him, cultivating intimacy, engaging our hearts in search of discernment, and so forth.
+
+A few bread crumbs each day, rather than the whole loaf of bread, ensures our coming back to the bird feeder. And that, it seems, is how God’s will is mediated to us—through divine bread crumbs (or manna) of wisdom and through our hunger to know, the embarrassingly selfish motivation for following the trail of crumbs closer and closer to the source.
+
+And what is truly amazing—beyond comprehension, actually—is that, though “all things were created by him and for him”
+
+(Colossians 1:16, NIV), he tolerates our narcissistic approach to his throne.
+
+The idea that discerning God’s will ultimately draws us closer to him is fairly intuitive. So intuitive, in fact, that I’m compelled to believe there’s much more going on in the exercise. I mean, if I think I’ve figured out the strategy of the world’s greatest chess player, he’s either not the world’s greatest chess player or else I’m missing something. But at least it’s a starting point—a simplistic why, but a why nonetheless. And this simple why leaves me to move on, at least momentarily, to consider the hows.
+
+As people would rightly repudiate my experience alone to serve as guide, we can find scriptural evidence for discerning God’s will in the following ways.
+
+Discerned through desires and emotions:
+
+Your feelings can be influenced by the Spirit, and so likes and desires, as well as strong negative feelings, can provide clues to God’s leading.
+
+Discerned through reasoning: Logic can be a valuable tool in discerning God’s leading. A pro/con list is an example.
+
+Discerned through wisdom: Your accumulated knowledge of how God works in the Bible, the world, and your life can guide you.
+
+Discerned through circumstances: Open doors, closed doors, or an alignment of circumstances can point you to God’s direction.
+
+Discerned through the counsel of others: Christians who have a mature understanding of you and/or the Lord can provide guidance as to what God may be saying to you.
+
+Discerned through the Scripture: Most importantly, biblical principles inform our discernment of God’s will.
+
+Discerned through the mind: The Holy Spirit is not divorced from your mind or your distinct impressions. Dreams, thoughts, and images thus can be informed by God to give direction, and it is most often through prayer that we receive these.
+
+These different vehicles of God’s communication give us a palette of colors that, if mixed skillfully by a mature Christian, can yield a beautiful portrait of where God is leading. And therein, as they say, lies the rub—“if mixed skillfully.” An immature Christian will have a tendency to use only one color (say, emotions) and create a rather disturbing self-portrait (a reflection of his or her own wants and desires, perhaps).
+
+If you were here and we were good friends, then I, having been a Christian for a long time, would suggest that we paint together. We could talk through and analyze your situation, and I could make sure you didn’t kick over the bucket of paint or coat the walls with an atrocious shade of violet. But you’re not here, and so we’ll have to settle for a basic-level course in painting or color theory: we’ll take a closer look at the different genres of God’s discourse with us—the ways by which he communicates his will.
+
+But first a disclaimer. To understand something, we need to analyze it—take it apart. But analysis is by nature atomistic and reductionistic: in the process, that which is being studied becomes less than what it really is. And so the disclaimer is this: God’s will is as dynamic, and at times as mysterious, as the wind. Our color palette is a watery medium for capturing the true color of God’s speech, and our empowerment by the Spirit is a necessary prerequisite for perceiving it. Anyway, I just thought we ought to stare into the glorious and blinding light of God’s will before refracting it into the rainbow of bands that comprise it.
+
+Emotions As in every other area of life, our emotions have an important voice in discerning God’s will. What we have to be careful of, however, is the fact that emotions have a really loud and obnoxious voice. Emotions like to sit in the middle of a crowded room of other factors, screaming, crying, and manipulating all other faculties of judgment until they get their way. Fine. Have it your way, you spoiled brat. The power, passion, and subjectivity of emotions lead many Christians to disregard their input on discerning God’s will. While that perspective is understandable, I think we miss something by banishing emotions from the discussion. God speaks to us as humans and, like it or not, emotions are a large part of what it means to be human. Yet we can’t be ignorant or be an enabler, and if we are to invite emotions to the table of discernment, we need some ground rules: we must force the barbarian to put on a tie and act civilized. In discerning God’s will, some of those ground rules are as follows. We should not make decisions based on emotions alone. Emotions need an objective chaperone to keep them in line, such as the counsel of others or strong circumstantial support. If you’re feeling something, but no one else is, there’s a good chance it’s just indigestion, and you court folly by moving forward without ratification from other people, other facts, other revelation.
+
+The voice of our emotions is usually a chorus, and so it’s also helpful to isolate the voices. This is one of the reasons that decisions concerning marriage and vocation are so difficult: there are conflicting emotions. “I don’t know if I want to marry you” can reflect such thoughts as I don’t know if I like your family, I was planning on going to grad school, I don’t want to have kids in the near future, and I find your presence generally repulsive. You must try to isolate the voices. I’ve talked to dozens of young people over the years about their confusion over going into the ministry. Ultimately I ask, “If you were independently wealthy and had no friends or family, what would you do with your life?” What I’m trying to do is help them separate out their different emotions— feelings for ministry from feelings about peer pressure, school loans, family approval, and financial support. If you can get at the base emotion or the core desire behind the emotions, you will often find that God’s Spirit has already been there before you, influencing, leading, and gently persuading. To listen solely to our emotions and desires in discerning God’s will is to court folly, but to exclude it is to handicap ourselves, blindfolding one of our senses. Saint Augustine, in his commentaries on John’s Epistles, wrote, “Love [God], and do what you want.” The phrase, like this principle, can seem reckless, but its truth cannot be ignored: if we are walking closely with God (and that is absolutely critical), our desires will reflect his desires and form an important clue in discerning his will.
+
+Logic, Reasoning, and a Sound Mind Luke, in the prologue to his Gospel, uses these words: “Since I myself have carefully investigated everything from the beginning, it seemed good also to me to write an orderly account for you, most excellent Theophilus” (Luke 1:3). If there is a phrase that captures our use of reasoning in living out God’s will, it would be Luke’s “it seemed good to me.” That’s exactly how reasoning and logic feel.
+
+Logic is the duct tape we use to put together the pieces of our confusing and disparate universe. Unlike our other discerning senses, logic is as tangible as a piece of produce, allowing us to sniff, squeeze, and weigh options.
+
+Logic is our default sense—our eyes—that we rely on hundreds of times a day. You don’t need to pray about whether to step out onto the freeway when a car is coming.
+
+Logic, in a microsecond, does the math: squishy humans plus heavy steel equals bad. (Logic has a limited vocabulary, as language is elsewhere in the brain.)
+
+Because reason is a sense that we are most familiar with, it is highly advisable for young Christians to rely heavily upon it in discerning God’s will. Young Christians do not yet have a biblically informed mind or years of wisdom in walking with the Lord, and as a result, their palette of colors to discern God’s will is more limited. It’s often best for a young Christian (and not a bad idea for a mature Christians as well) to prayerfully and reasonably weigh all the factors bearing upon the decision.
+
+This is not unspiritual, only simplistic.
+
+Its only danger is that by relying upon reasoning too much, we may never learn to use our other spiritual senses. In Scripture, Christians are clearly exhorted to be led and directed by the Spirit of God, and “the Spirit’s leading” is not a euphemism for logic, however uncomfortable that may make us.
+
+The Sound Mind Principle Perhaps the best vehicle for applying reasoning to our decision making and discernment is what is called the sound mind principle, authored by the founder of Campus Crusade for Christ, the late Dr.
+
+Bill Bright. (Use of the word “homemaker” will alert the reader that this was penned a half a century ago, but it’s a timeless principle.)
+
+Every sincere Christian will want to make his God-given time, talents, and treasure available to Christ so that his fullest potential will be realized for Him. For one Christian, this talent which God has given him may be prophetic preaching, evangelism or teaching; for another, it may be business; for another, the ministry or missions; for another, homemaking, as expressed in Romans 12:5; I Corinthians 12; I Corinthians 14; Ephesians 4; and other scriptures.
+
+As you evaluate the talents that God has given you in relation to your training, personality, and other qualities, may I suggest that you take a sheet of paper and make a list of the most logical ways through which your life can be used to accomplish the most for the glory of God. With the desire to put His will above all else, list the pros and cons of each opportunity. Where or how, according to the “Sound-Mind Principle,” can the Lord Jesus Christ through your yielded life accomplish the most. . . . But note a word of caution. The “Sound-Mind Principle” is not valid unless certain factors exist.
+
+1. There must be no unconfessed sin in your life; following I John 1:9 takes care of that: “If we confess our sins, God is faithful and just to forgive us our sins and to cleanse us from all unrighteousness.”
+2. Your life must be fully dedicated to Christ according to Romans 12:1,2. [“I urge you, brothers, in view of God’s mercy, to offer your bodies as living sacrifices, holy and pleasing to God—this is your spiritual act of worship. Do not conform any longer to the pattern of this world, but be transformed by the renewing of your mind. Then you will be able to test and approve what God’s will is—his good, pleasing and perfect will.”] . . .
+3. Place your faith in the trustworthiness of God with the confidence that the Lord is directing and will continue to direct your life according to His promise that the “steps of a righteous man are ordered of the Lord.”1 Did you get all that? It’s just a prayerful, Spirit-led pro/con list. So let’s say I’m wondering if God is leading me to be an astronaut. I pull out a piece of paper, pray, confess any known sin that may be a hindrance to the Spirit’s influence, and by faith (trusting God to lead me in the process) start making a list. Afterward, as I ponder the results of my list, I want to do so with this question squarely in mind: “In light of how God has made me and what he has done in my life, what is the best way for me to glorify God in this decision?” So here goes:
+
+Cons:
+
+- I’m claustrophobic.
+- I can’t even name the planets in our solar system in their proper order.
+- I’ve never wanted to be an astronaut.
+- I hate heights.
+- I get motion sickness driving over sixty miles per hour.
+- I believe that money invested in NASA should be diverted to education and health care.
+
+Pros:
+
+- I’ve seen both Aliens and Predator.
+
+Okay, I got a little silly here. But we can see from my list that, in light of what I know about how God has made me, being an astronaut is probably not the best way for me to glorify God with my life or to expand his kingdom.
+
+While my little exercise here was not in any way as difficult as the issues you’ll be wrestling with, you can at least see how the process works.
+
+Wisdom Wisdom is practical, applied knowledge. “Is not wisdom found among the aged? Does not long life bring understanding?” (Job 12:12). Wisdom is our pool of knowledge about how life works, how God works, how people work, and how we work. Discerning God’s will through wisdom is similar to geometry. You have a problem that is best approached through a specific truth, truism, or principle (theorem). Wisdom is the number of theorems you know, how well you know them, and whether you know which type of problem to use them on. If you scan the Bible’s wisdom literature, such as the book of Proverbs, you’ll find a list of such theorems: truisms about God, the world, people, and ourselves. (Some of them can almost seem contradictory, underscoring that the heart of wisdom is in knowing when to apply which truth.)
+
+Let’s say you don’t have enough money to pay your bills. This is a problem. But what principle should you apply? Is this a time to wait and trust God to supply, a time to ask for a raise, a time to change jobs, or a time to rethink your lifestyle? Is God telling you to budget, save, resign, repent, tithe, work, pray, or trust? Or is this a spiritual attack? Living wisely is the practice of applying practical experience to sniff out the difference and, at the very least, narrow the options. But this is not all the Bible has to say about wisdom, for it is not simply a formula of intellect plus experience equals wisdom, but the equation also factors in the heart and experiential knowledge of God. The book of Proverbs puts it this way: “The fear of the LORD is the beginning of wisdom, and knowledge of the Holy One is understanding” (Proverbs 9:10). The attitude of the heart being described is one of humility and submission: a heart that acknowledges the supremacy of God’s ways above our own, that contritely recognizes the folly of our own motives and will, and that submits itself to God’s sovereign workings—disciplines, blessings, provisions, and direction. Such a heart attitude Wisdom is the number of theorems you know, how well you know them, and whether you know which type of problem to use them on. leads to a deep and vital relationship and experience of God and to wisdom far beyond proverbs.
+
+Perhaps this example will make the distinction clear. When I was about five, my mother told me not to walk across the street without looking. I learned dozens of these safety proverbs. But as I grew up and grew in my relationship with her, I understood that the heart behind the proverb was love for me and concern for my safety—I understood the person behind the proverb. I think one of the things the author of Proverb is trying to communicate is that knowing the person behind the Proverbs (God) is a whole lot more effective (wise) than memorizing a thousand proverbs of his activities without such intimate knowledge.
+
+The problem new believers have with wisdom is that they don’t really have any. Not intimate experiential wisdom about how God works, anyway. Not yet. They do, however, have helpful applied knowledge about life and themselves that can aid in decision making. But if they are going to make use of godly wisdom (which they should), they’ll need to seek it outside themselves.
+
+This wisdom is dispensed in one of two sources. First, mature believers are trained detectives in discerning God’s will. Having tracked him for years, they can recognize his footprints in the muddy swamps of apparent chaos and randomness, discerning which direction he seems to be headed. The second source of wisdom is God himself: “If any of you lacks wisdom, he should ask God, who gives generously to all without finding fault, and it will be given to him” (James 1:5).
+
+Although we have no basis to know which choice is best, God can help us discern. Therefore, an answer cannot come from our past experience (our own wisdom); it must be mediated by one of the other venues, such as impressions, circumstances, or reasoning. In such cases God is not implanting experiential wisdom (memories we never had) in our minds but communicating his wisdom to us. This is “wisdom that comes from heaven”
+
+(James 3:17). Thus, even as young Christians, we are not cut off from wisdom’s counsel, though we do not possess much of it ourselves.
+
+Circumstances Like notes in a song, the arrangement of circumstances can betray the mind and intent of the songwriter (God).
+
+Patterns of circumstances can be clustered in various ways: how God has spoken to you in the past, strings of open doors, redundancy in how God has used you, repetition of advice leaning determinatively toward one alternative, and so on. This isn’t a bad steering wheel by which to navigate the future, but never underestimate the ability of God’s children to wreck their Father’s car. This method of discernment can go off the track in one of two ways.
+
+The search for patterns within circumstances can become a search for a sign. Hey, this burn mark on my grilled cheese sandwich looks like the boot of Italy. I guess I’m supposed to get a job there. Of the variegated ways God could speak to you, I’d guess your grilled cheese sandwich is way down the list. While God could inscribe his commandments on a piece of sourdough bread as easily as on a slab of stone, he typically does not use such “signs,” because it instigates superstition and irresponsibility within us and it ignores the fact that Satan can cook a mean grilled cheese sandwich himself.
+
+In 1 Thessalonians 2:18, for example, Paul observes that “we wanted to come to you—certainly I, Paul, did, again and again—but Satan stopped us.” Those closed doors could just as easily have been taken as a sign that God didn’t want Paul to visit the Thessalonians.
+
+That wasn’t it. Satan was holding the door closed, and while the apostle Paul possessed the discernment to see through the peephole, we—for the most part—lack that capacity of discernment.
+
+The other problem with “signs,” as opposed to legitimate patterns of circumstances, is that we tend to see what we want to see. Have you ever thought something like this? If the traffic light turns green in the next five seconds, I should ask her out on a date.
+
+Typically, if we really want to ask the person out, when the light turns green, we’ll see it as confirmation. And if it doesn’t, we’ll ignore it. This was a silly exercise that means absolutely nothing.
+
+Ideally, the circumstances that you look to should be organically related to the issue at hand. If you have been presented with a ministry opportunity, for example, you could ask whether God has used you in this way in the past. And the pattern should be observed over a large swatch of time as well as witnessed by others. “Yeah, God does seem to use you in that way.”
+
+With that said, if a 200-foot-high flaming grilled cheese sandwich appears over the person you were thinking of asking out, you might, well, ask her out.
+
+The Counsel of Others I have already sung the praise and extolled the wisdom of mature believers as sounding boards and experienced detectives of God’s will. In fact, I have praised them so much that it has no doubt made them prideful and arrogant and perhaps no longer useful. But I should follow such words of praise with a caveat (this is going to really sound cynical): everybody has a bias.
+
+If there is one drawback to the counsel of mature believers, it is that often they seem less biased than they really are. This doesn’t mean they don’t have godly wisdom—they do. It only means that you should factor in a potential bias. I wouldn’t, however, say this is a weakness. Others in your life care about you and want what’s best for you; it’s just that their picture of what’s best is to some degree biased. They (whoever “they” are) are not God. That’s all I’m saying. And so you would be wise to bring in the advice of several trusted, mature friends, not just one, “Plans fail for lack of counsel, but with many advisers they succeed” (Proverbs 15:22).
+
+I suggest this caution as a parent.
+
+Throughout my Christian life and ministry, I’ve taken some fairly radical steps of faith and encouraged others to do the same. Example 1:
+
+I left my job to enter the ministry with no immediate, foreseeable way to pay my bills. Example 2: My pregnant wife and I signed up to go to a country where food was scarce.
+
+Example 3: I’ve been in at least one location where being a Christian was an offence that could get you arrested. I’m pretty sure God led me to do these things, yet if one of my now-grown daughters asked for my thoughts on whether she should do any of them, I can’t hear myself saying, “Great idea, honey. Just try not to get caught or captured by the insurgent terrorists.”
+
+I want my kids to walk with God, but I’m biased because I care. If it were up to me, I’d shelter my kids from trials, suffering, spiritual battle, and any number of other things beneficial to their spiritual growth. Should they ask for my counsel on major decisions? I should hope so, and God would want them to. Should they get other counsel? Absolutely. (It’s important to note that I’m talking about my teenage children. When they were eight years old, cleaning their room or going to school was not advice and getting a second opinion was not an option.)
+
+As you seek for wise counsel, I encourage you to find individuals like Timothy. The apostle Paul describes Timothy in this way: “I have no one else like him, who takes a genuine interest in your welfare” (Philippians 2:20). That’s what you want—someone whose agenda is you, even if it comes saddled with a bias. Scripture As the worker opened the cash register at Starbucks today, I immediately began to pray, “Oh God, lead me. Is it your will for me to club the cashier and stuff the wad of $20s in my pocket?” No, that didn’t happen. But do you see the point? General principles concerning God’s will abound in Scripture, and discernment is superfluous where God’s will has been made explicit.
+
+But I’m not just talking about explicit scriptural statements, as important as they are. Over time, over years, as our minds marinate in the Scriptures, we grow in our understanding of God to the extent that we are able to discern his will on issues far from explicit in the Bible. Just like in my marriage, I could project with a great deal of accuracy what my wife would say to questions I’ve never heard her answer. I just know her very well. It is in this way, through both the explicit and the implicit, that God’s Word leads us in his will. As opposed to the other way: randomly opening to any page in the Bible prompted by the question “Will I die in a disfiguring car accident?” or “When will I get married?” This confuses the Bible for a fortune cookie or magic eight ball. To such a question, I can only respond, “I’m seeing a dark cloud of confusion shrouding your future.” But what do you do with specific questions? For example, I may know from Scripture that God desires me to glorify him in my job, but this doesn’t answer the question of whether I should take the job as the chicken wing delivery guy. And you’re not going to find a verse in Scripture that directly deals with the question of chicken wing delivery, unless you want to make a terribly misguided case from Isaiah 40:31: “They will soar on wings like eagles.”
+
+To find wisdom on such specific questions, you will need to prayerfully meditate upon the Scriptures, and as you meet with the Lord, he can guide your thoughts and give direction to these specific questions even without a verse that addresses it directly. You will also want to bring into your discernment some of the other spiritual senses.
+
+In any and all ways that God uses the Scriptures to lead us, a correct handling (2 Timothy 2:15) and study of the Word will only aid in that communication. I’ve seen people find confirmation of God’s will in completely wrong interpretations of a biblical passage. I believe that God can still use even our misunderstanding of a passage to lead us, but we don’t want to make a habit of being irresponsible in our use of his Word. It is rather sobering to think of some of the insanity contrived in the last two thousand years and predicated on a perverse interpretation of Scripture.
+
+The Bible provides its own example of such distortion. In the Gospel of John, the Jewish council is deliberating on what to do with Jesus. Earlier, the high priest, Caiaphas, had received a prophecy from God for the nation of Israel. The prophecy was that “Jesus would die for the Jewish nation, . . . to bring them together and make them one” (John 11:51-52). A divine message. What could be clearer? But notice how they interpret and apply God’s word.
+
+Then one of them, named Caiaphas, who was high priest that year, spoke up, “You know nothing at all! You do not realize that it is better for you that one man die for the people than that the whole nation perish.”
+
+Over time as our minds marinate in the Scriptures, we grow in our understanding of God to the extent that we are able to discern his will on issues far from explicit in the Bible. He did not say this on his own, but as high priest that year he prophesied that Jesus would die for the Jewish nation, and not only for that nation but also for the scattered children of God, to bring them together and make them one. So from that day on they plotted to take his life. (John 11:49-53) Their disturbing application of the divine oracle? God wants us to kill Jesus!
+
+Have I achieved my goal of sobering you to your need to handle the Word responsibility? Good, then we can move on. Mind, Dreams, and Impressions In just the first two chapter of Matthew’s Gospel, we encounter the following supernatural guidance given through dreams: After he had considered this, an angel of the Lord appeared to him in a dream and said, “Joseph son of David, do not be afraid to take Mary home as your wife, because what is conceived in her is from the Holy Spirit.” (Matthew 1:20) Having been warned in a dream not to go back to Herod, they returned to their country by another route. When they had gone, an angel of the Lord appeared to Joseph in a dream. “Get up,” he said, “take the child and his mother and escape to Egypt. Stay there until I tell you, for Herod is going to search for the child to kill him.” (Matthew 2:12-13) After Herod died, an angel of the Lord appeared in a dream to Joseph in Egypt and said, “Get up, take the child and his mother and go to the land of Israel, for those who were trying to take the child’s life are dead.” (Matthew 2:19-20)
+
+I don’t have dreams like this. In my dreams, I’m usually retaking a test I failed in school, missing my high school graduation (or showing up naked to it), falling from forty thousand feet, or being chased by deranged wood gnomes. In some ways, I’d prefer for God not to speak to me in dreams because it would kind of creep me out. And perhaps he never will, as God often relates to us in ways we are comfortable being related to. But the Bible contains all manner of visions, dreams, and prophecies, and we’d be silly mortals if we attempted to limit God or doubt his ability to use such methods today.
+
+In fact, there have been a considerable number of reports coming from the Arab world recently that illustrate this:
+
+“There is an end-time phenomenon that is happening through dreams and visions,” said Christine Darg, author of The Jesus Visions: Signs and Wonders in the Muslim World.
+
+“He is going into the Muslim world and revealing, particularly, the last 24 hours of His life—how He died on the cross, which Islam does not teach—how He was raised from the dead, which Islam also does not teach—and how He is the Son of God, risen in power.”
+
+“We receive lots of letters about people who have had dreams about the Lord, visions, even miracles,” [Nizar] Shaheen [host of a Christian program seen throughout the Muslim world] said. “When they watch the program, they say yes, we had a dream or a vision, and they accept Jesus as Lord.”2 I’m no expert on metaphysics, but the giving of dreams and visions bespeaks God’s ability to bypass our normal “knowing” faculties and relate information directly to our minds. In cultures hostile to Christianity, like those in the Arab world, we might see why God would use such a vehicle of communication to call people to himself.
+
+The fact that God can, but often doesn’t, communicate to our minds directly underscores that his primary goal is not simply to give us the right answer but rather to grow us in our knowledge of and relationship with him through the process. But rest assured, if getting you information becomes mission critical—like if you were the parents of the Messiah and a king was sending his soldiers to massacre every child in town—he could arouse you from sleep and dispatch you with marching orders at a moment’s notice.
+
+Impressions, which seem less spooky and perhaps more common, can only be described as an inaudible whisper in the ear from the Spirit of God. They can come in the form of a thought, strong feeling, or mental picture. But more commonly they have some attachment to our immediate environment where the whisper tends to be a poke in the ribs saying, “Pay attention! This event (this phrase, this word, this place, this person) is in some way important or significant.”
+
+This poke-in-the-ribs impression demonstrates God’s ability to use any piece of raw material in our life to communicate to us. Sheep and shepherds, for example, have come to acquire a great deal of spiritual meaning and significance through God’s use of them in the Scriptures.
+
+But in biblical times, sheep were just part of the day-to-day minutia of agrarian life, with no more intrinsic spirituality or meaning than a mailbox or lawnmower today. What was important was the fact that God said, “Look again at that sheep or shepherd, but this time I want you to see something important.”
+
+God can use anything to impress meaning upon us. He can animate a line from a book, movie, or song. Or he can take out his yellow highlighter and underscore something that someone says to you in a conversation. The options are as broad as the bric-a-brac that encompass your life. And when such an impression strikes you, I advise you to collect it like it was a butterfly specimen, carefully storing it to be labeled and identified later as more data filter in.
+
+Now let’s briefly look at the warning label.
+
+If it is an important decision, I would not suggest acting on impressions without corroboration from some of the other vehicles of discernment we’ve considered. An interview with a non-Christian artist, musician, or writer would explain why. The intuitive or creative muse is a human faculty, almost indistinguishable from a spiritual impression. In fact, God’s impressions may come mediated through this intuitive faculty. Thus an intuitive whisper can be no different from a thought, emotion, or mental picture that all humans experience, and it can be endowed with spiritual significance by the Spirit of God . . . or not.
+
+I’ve also noted over the years that it’s best to be careful how you communicate spiritual impressions to others. Not because people may think you’re crazy (though there is that), but because such claims tend to carry with them the authority of “Thus saith the Lord,” and they shut down all discussion. I’ve actually heard a guy tell his girlfriend, “I think the Lord is leading us to get married.” What is the poor girl supposed to do with that?
+
+Prefacing our thoughts about how God is leading and what he is saying with “The Lord has impressed upon me . . .” can be, and often is, manipulative. It’s a way to trump the thoughts and opinions of others and stamp your own with divine inspiration—it’s just you, the Scriptures, and the pope. Even if the Lord really has impressed something upon you, it’s best not trumpet that fact. Simply share it, and if it truly was from the Lord, then he will bless it and convince others of its truth.
+
+I wouldn’t have brought this up, but the Lord impressed upon me to share this warning with you.
+
+Primary Colors As I’ve already noted, there really is a God’s Will 101 and a God’s Will 301. Young Christians are the most prone to dabble in the more miraculous and subjective of the modes of communication (they’re sexier), while crustier old Christians tend to default to the safer venues of wisdom and reasoning. The order should be switched. Young Christians, not familiar with the spiritual terrain, should stick with the primary colors of God’s communication, while mature Christians should desire to experience God in new ways, challenging their traditions, and tasting new wine.
+
+Using a Full Palette Okay, let’s say you tied me up, blindfolded me, clogged my nostrils with carrots, gagged me with my own socks, and put mittens on my ears. Now, as part of your sick experiment, you told me to find the local 7-11. Untying myself, I can at least feel my way well enough to get out the door. Ripping the mittens off my ears, I can now hear cars and traffic and make my way to the road. Removing the carrot corks from my nose, I can smell hot dogs that have been grilling since last Thursday—I’m getting close. In fact, the more senses I use, the easier it becomes to locate the object of my desire: the 7-11. An admittedly bizarre illustration, but I hope it makes the point. The different vehicles by which God communicates to us are like senses, and my goal is to use as many as possible, seeking with each to affirm and corroborate what the other senses are telling me. I’m looking for alignment in the data. I’m looking to be a good detective assembling all the clues. I’m looking for all my senses to be telling me the same thing. Since vocation is a huge issue for discerning God’s will, pull up a chair and let me tell you how I found myself in ministry. It demonstrates the convergence of the senses.
+
+As a strapping young lad, I worked in an advertising agency writing ads and commercials. A great job—didn’t even seem like work. Yet I had a growing sense that I was supposed to be doing something else with my life. I was dissatisfied. I felt like I was out of my assigned seat in the universe. The first significant event in what I guess was about a six-month process came when I was watching a missionary conference on TV. As the delegates came in from around the globe, I began to cry uncontrollably, and as I’m not typically a weepy guy, I had to think: Hmm, what’s going on here? Shortly after that event, I picked up a Christian magazine and read an article on the return of Jesus. I thought, What would I want to be doing if Jesus returned in the next few years? The answer came without so much as touching the space bar—ministry, I would want to be doing ministry. In fact, the reflection brought to mind that years earlier I had told God that I wanted to serve him with my life in full-time ministry. (I guess I had forgotten.)
+
+At this point circumstances at work were getting frustrating, while concurrently a Sunday school class I was teaching and a Bible study I was leading were both flourishing. Circumstances duly noted, I decided it was time to get the opinion of some older, wiser believers. They not only affirmed that God did seem to be leading me in the direction of full-time ministry, but they also confirmed my gifting for ministry. Speaking of the confirmation of others, I was newly married at the time and I reasoned—rightly so—that if God were truly leading me in this direction, I should expect him to The answer and direction are not resident in the clue itself but in how God’s Spirit leads us to read that clue. be leading my wife, Katie, as well. (While this may seem obvious, never underestimate the cluelessness of a newly married man.) Well, God in fact had been leading both of us, but Katie’s clues were different from mine, and when added to my experiences, they really filled out the picture. Every day we prayed. And every day we kept our eyes open, looking for the next clue.
+
+Scripture reveals the heart of God, but it also reveals our heart as well. We tend to see in Scripture both what the Lord is saying to us and what we want to see affirmed, and it seemed that everywhere I turned in Scripture it was saying to pursue full-time ministry. Whether it was God showing me, or me just finding what I was looking for in the Bible, it didn’t much matter. Either or both said something significant. In light of the growing body of evidence, we decided to take a step forward in faith. There was a ministry training school that prepared people for the ministry, but it wasn’t free (part of ministry training, I guess). In fact, it cost about $5,000 when you added in airfare. As I sent out letters for financial support, I asked the Lord to give final confirmation. If I was on the wrong track, now would be the time for him to intervene and stop me from making the hugest mistake of my life. Well, on the day we were scheduled to go to the airport, the last $500 came in the morning mail—really, really, cool.
+
+Looking back on the decision and how God orchestrated it, I think he used just about every color on the palette. Together, all of the clues led, in my mind, to an unmistakable conclusion, though individually nothing I experienced would have been clear enough or weighty enough to prompt me to leave my job. By and large, that’s how clues operate, that’s how evidence operates, that’s how God operates. The Golden Rule of Painting And yet all of this work—all of it—is worthless if our heart is unaligned and unsubmitted to Christ’s lordship. Whatever data I’ve collected becomes irrelevant because I can always make it say what I want it to say; I can always fudge the numbers. If I make a pro/con list, I’ll weight the side I want to win; I’ll see only those circumstances that affirm the direction in which I want to head. With my flesh sabotaging the investigation, I will suppress important evidence and manufacture false testimony.
+
+It isn’t that any of us sets out to subvert the will of God. I don’t know many Christians who honestly believe they wouldn’t do anything God asked, if he clearly asked them to do it. But while we won’t knowingly say no to God, we do exercise selective listening. We hear what we want to hear. We see only those things that conform to our will and ratify what we—in our hearts—want to do.
+
+Unfortunately, the nature of evidence is such that any shred of it can be taken to substantiate the opposite of its intent or meaning. If I’m praying about going to Africa with the Peace Corps, and if I find a map of Africa sitting on top of a trash can, I can either see the Lord affirming the mission or see him telling me that the idea belongs in the garbage. Clues are like that, which is why Satan can manipulate them and why we can manipulate them. The answer and direction are not resident in the clue itself but in how God’s Spirit leads us to read that clue. Either one of the interpretations of the Africa map is coherent. The question is what God is saying through the map, and the only way to get at that truth is through complete submission: desiring God’s will above all things. That submission is the only assurance of objectivity. In the following verses from Romans, the apostle Paul firmly establishes the relationship between submitting ourselves unreservedly to Christ and knowing God’s will—“his good, pleasing and perfect will.”
+
+I urge you, brothers, in view of God’s mercy, to offer your bodies as living sacrifices, holy and pleasing to God—this is your spiritual act of worship. Do not conform any longer to the pattern of this world, but be transformed by the renewing of your mind. Then you will be able to test and approve what God’s will is—his good, pleasing and perfect will. (Romans 12:1-2)
+
+Sacrificing goats and sheep is not an idea that readily makes us nod our heads knowingly—“I know what you mean, man.” In fact, the concept can be altogether lost on us. But the desired effect of the word picture was to communicate complete and total sacrifice: a heart willing to surrender all of its personal ambitions and desires, completely dead to self and completely given up to the Lord. Such a state of heart, according to the passage, is what enables us to distinguish among clues, count the ballots without cheating, and accurately perceive the will of God. The clues to solve the riddle are all there, but a surrendered heart is the necessary piece to put the puzzle together.
+
+Mass Media: An Appeal to Everyone At the core of desiring God’s will above all else is desiring his approval above that of all others. The question is not, do we desire the will of God? Of course we do. The question is, do we desire it exclusively? Our greatest temptation is to imagine a future that satisfies all the significant others in our life. Rather than discerning God’s plan for our life, we are tempted to write our own plan—one that makes everyone happy. I once had a guy in a Bible study I was leading who, from all evidences, was being called to be a pastor. He was, however, an English and drama student, and his parents were naturally proud of him, as he excelled in both areas. His teachers, too, had high aspirations for him, seeing in this guy a great deal of natural talent and potential. And of course there were all his friends and fellow students within his major, who would have found it comical to picture him as a minister rather than an actor.
+
+One day he called me to get together because he wanted to tell me how God had been leading him in regard to his future. (He was at that point a senior in college.) The plan, as he laid it out, was for him to write evangelistic plays. Genius! That combined English, acting, and serving God. Most appealing, however, was that the plan would have made everyone he cared about—parents, friends, peers, me, and God—deliriously happy (or so he thought). This, in turn, would make him very happy. A win-win-win-win scenario. The only problem with the plan was that it wasn’t God’s; it was his. It was something he had brilliantly crafted to get everyone’s stamp of approval, including mine.
+
+But I couldn’t stamp it and I told him that I believed God wanted him to be a minister, not a playwright, even if his plays were evangelistic. That did not make him very happy. But what’s spiritual counsel for if not to crush your spiritual delusions with a steel-toed work boot? I recognized what he was doing immediately because I’ve constructed similar plans. Who hasn’t? Now, of course, I’m in ministry, so I tend to think God is calling everyone into ministry (it’s like happily married people playing matchmaker to their single friends), so in keeping with what I’ve said elsewhere in this article, he should definitely have found a second opinion. I’d like to think that if I perceived God calling him to be an actor, I still would have challenged him on the plan. But who knows? We all have a desire to make people happy. Or perhaps more accurately, we all have a desire for acceptance by those significant to us. But making everyone happy just isn’t possible. I have no idea what God has planned for your life, but I guarantee you that at one time or another it will be at cross-purposes with the desires of those whom you most respect and admire, because God will design it so. At some point it will be important for you to choose between God and everything and everyone else (though usually not all at once), for the life that is ultimately pleasing to God is one lived for his approval alone.
+
+The choice we make to put God’s will over ours or others’ is as important as what we choose. The choice to honor God with our vocation is more important than what that vocation is. Back to the Golden Rule The reason total surrender to the will of God is the Golden Rule, and not just another rule, is that it can stand in place of the other rules. It’s not one more thing to remember about discerning God’s will; it’s the only thing you absolutely have to remember. If you desire to do God’s will above all else—above all personal desires and personal relationships—you can rest with complete and utter confidence in the conviction that God will direct you. He may use any number of the ways we looked at to communicate to you, but communicate he will. Before you take this article and file it away somewhere, you could ignore everything I’ve said and circle random letters throughout the article in hopes that God will use the ‘ransom note’ method to communicate his will or you could stop everything and pray. Right now in prayer you could offer your life, plans, and future completely to God. In the imagery of Romans 12, you could offer yourself as a living sacrifice to do his will.
+
+The decision to yield every aspect of our life to the Lord is sometimes referred to as a lordship decision, as in it we are choosing to place all that we have, all that we are, and all that we might be or do under Jesus’ lordship—completely open to God’s alternate leading on every issue and decision. If this is your desire, express it now to God. (As many Christians have done through the years you may want to write out this lordship commitment and keep it in your Bible.) Notes 1 Bill Bright, “The Paul Brown Letter,” GodSquad, http:// www.godsquad.com/pdfs/paulbrown.pdf.
+
+2 Chris Mitchell, “Visions of Jesus Stir Muslim Hearts,” CBN News, February 20, 2007, http://www.cbn.com/ cbnnews/69001.aspx.
+
+Rick James works with Campus Crusade for Christ and currently functions as the publisher of Crupress, producing ministry resources for the Campus Ministry. Rick and his wife, Katie, live in West Chester, Pennsylvania, with their three teenage children: Avery, Whitney, and Will. NOTES Giving us an immediate answer would undo many of God’s greater purposes: learning to entrust our future to him, learning to rely on him, cultivating intimacy, engaging our hearts in search of discernment, and so forth.
+
+CruPress is the publishing division of the Campus Ministry. ©2008, CruPress All rights reserved.
+
+Critical Concept Series Vol. 1 Published by CruPress Design: Devon Sayers Series Editor: Rick James To Order go to: www.CruPress.com Or call 1.800.827–2788 Scriptures taken from the Holy Bible, New International Version ®NIV ®©1973, 1978, 1984 by International Bible Society. Used by permission.
+
+ISBN 1–56399–249–3

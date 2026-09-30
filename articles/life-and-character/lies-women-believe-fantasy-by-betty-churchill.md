@@ -1,0 +1,196 @@
+---
+title: "Lies Women Believe Fantasy by Betty Churchill"
+topic: "life-and-character"
+also_topics: []
+type: "Article"
+themes: ["Dating, marriage & singleness", "Sexual purity"]
+audience: ["Women"]
+authors: ["Betty Churchill"]
+words: 4993
+summary: "Chapter excerpt from Fantasy by Betty Churchill, opening with a dialogue about a young woman rationalizing premarital sex with her boyfriend. The piece distinguishes God-given conviction from destructive guilt and unpacks how women can confuse the two when justifying compromises in dating relationships."
+source: "Building Community/Men and Women/Women/Lies Women Believe.pdf"
+---
+
+Fantasy is a collection of insights from several contributing writers, about all the stuff women talk about and some they don’t, but should. Sex, dating, relationships, the “m” word (not marriage, the other one), but, of course, we talk about marriage, too, as well as the beautiful people, the need to be in control and how God, Jesus and the Spirit fit into it all.
+
+Like its male counterpart, Flesh, Fantasy is divided into three sections: small group discussion material, topical articles, and a month of daily devotionals.
+
+Partial List of Topics: Masturbation, How Far is Too Far, The Role of Fathers, Confession-Forgiveness, Community, Filling of the Spirit, Cosmetic Surgery, Worship, Singleness, Faith, Homosexuality, Why Wait?, Body/Self Image, and Pornography. Contributions by Henry Cloud and Shellie R. Warren
+
+## Order Online at Crupress.com
+
+## Conflicts of Interest
+
+So I’ve been meeting with my friend Sabine (if I’ve got to use a fake name, I’m at least going to make it interesting). She’s about your age. She grew up in church and knows all the Sunday school answers. But now she’s decided that she’s not sure if what she’s been taught is true. She needs to figure it out for herself. So she’s figuring it out with her boyfriend … Polaris, we’ll call him. (That actually was the name of a guy who waited on me the other day.) Anyway, I’m all for her figuring it out and developing convictions and beliefs of her own. That’s part of becoming an adult.
+
+But part of Sabine’s “figuring it out” involves sleeping with Polaris. Granted, this is not the first boyfriend she’s slept with. But she does recognize the unhealthy consequences of her past relationships and will be quick to say that they were all an effort to fill a void that God should probably be filling. But of course, Polaris is different. This time she feels like she’s separating herself from the guilt-evoking voices of her parents, pastors, and friends in the past, and she feels pretty good about it. She’s happy. This is different from any other relationship she’s ever had, and she’s pretty sure she’s going to marry him. They’ve been dating three months. She turns twenty-two this Wednesday.
+
+I’m sipping my mango chai latte and thinking, For Pete’s sake, I’m writing a book about this very stuff; I should I have something to say. I don’t, really. Nothing’s coming to me. Nada. Zip. So I start asking questions.
+
+“If you audibly heard from God and He said, ‘Sabine, God here. Stop it.’ Would you?” She said she’d like to think she would. She loves God and everything. But then again, she admits to being stubborn.
+
+I said, “Really, don’t you mean ‘rebellious’ more than ‘stubborn’? That would be a little closer to the truth.” (I did laugh a little to soften the blow.) A hesitant nod.
+
+“So, basically, you’re waiting for an experience or a feeling that is not guilt, but rather is conviction?” “Exactly.”
+
+“Seeing God’s word written out in Scripture is not convicting for you?”
+
+“Not so much.”
+
+“Because?”
+
+“I’m not sure what I think about the Bible.” “So, what you’re saying is you want an experience that you know without a doubt is God telling you this is wrong—apart from the Bible?”
+
+“Yep.”
+
+“Is this sex you’re having so good that you are now questioning the whole Bible?”
+
+“Mmm … not totally, but sort of.”
+
+“So, what do you expect conviction to be like?” “I don’t know. You tell me.”
+
+“Let me think about it and get back to you.” I’m wagering I could have this same conversation with at least half of you who are reading this right now. You trust your experiences and what feels right over just about anything else. So there are all Conflicts of Interest sorts of things to think about here. I’ll go ahead and admit, too, that I don’t really expect anything I say to change Sabine’s actions. Polaris is too tangible and comfortable and fun. And like she says, it’s not so much the sex; it’s the fun of waking up every morning with him. “It’s like a fun surprise every day.”
+
+“So, really, it’s the security of him?” I said. “You could say that.”
+
+As I told her, I’m not so worried about her sleeping with him as I’m worried about her heart toward God.
+
+GUILT VS. CONVICTION Let’s start here. How do you know the difference between your momma’s voice and the Holy Spirit’s? Could they ever be the same? Here’s my verbal processing about that.
+
+Voices/impressions/thoughts in your head—they’re hard to sort out sometimes. Was that God or was that something I ate?
+
+One of the roles of the Holy Spirit in your life is to convict you of sin. Oh, joy. Actually, it is a pretty good thing in the long run, though not always fun in the moment. If you’ve made a decision to follow Christ, then you’ve got your own built-in alarm. God is not going to let you get away with much. Unfortunately, we all too quickly learn to use the snooze button. We’ll “deal with it later” or we’ll “stop next time.”
+
+Sometimes we confess our sin, but we still feel a nagging sense that all is not right. If we’re still feeling guilty, that’s when we might want to get suspicious.
+
+If conviction is from God, guilt is diabolical. It’s from the devil even if it is disguised in the voice of your mother or your preacher or your Sunday school teacher. (Before I have your momma calling me, let me say that the Holy Spirit can use those voices as well.)
+
+Guilt: Its intent is to make you believe that you’re a failure and all bad all the time—you are a bad, bad person.
+
+Conviction: It’s specific. When you did X, that was wrong. And often (especially when you ask Him to) God gives you a specific action point—a way to confess to others, repent, or make restitution. Guilt: brings feelings of shame, disgust, and hopelessness.
+
+Conviction: feeling of deep sorrow, yet also a sense of hope for change.
+
+Guilt: driven by regret for personal consequences Conviction: driven by remorse for an affront against God’s holiness Guilt: You feel like you’ve really messed up, so you don’t want to go anywhere near God.
+
+Conviction: You sense the power of God’s holiness and your need to stay connected to Him so that you don’t mess up again.
+
+Both the devil and the Holy Spirit can put thoughts in my head, remind me of things people have said, or bring people into my life to speak lies or truth. However, there are some surefire things I know are of God. The Spirit clearly uses the power of Scripture to convict. Reminding me of verses, or as I read and study, often He brings areas to mind that I need to deal with. Also, He can use a recurring theme that keeps popping up in my thoughts, almost like a nagging e-mail reminder or a song I can’t get rid of. That’s usually how I know it’s the Spirit—when it doesn’t go away. I can’t get away from dealing with it, making a choice, or acting on my repentance.
+
+Most recently, it was an apology for a sarcastic e-mail I’d sent. Probably two or three times a week, I’d think about needing to apologize. But then I would think, I’ll do it later. Finally he e-mailed me about something different (the guy I’d e-mailed, 132 Conflicts of Interest © 2010, CruPress, All Rights Reserved. CruPress.com not the Holy Spirit). I replied, asking forgiveness, and he was very positive in return. To be honest, I think he’s probably not a believer, and that e-mail may have made a difference in whether he stays at our church. There are so much more important things than my pride.
+
+I think the best biblical example is in 2 Corinthians 7. God obviously used Paul’s previous letter to convict his friends in Corinth. Paul basically says he is sorry that his letter upset them, but not really, because it brought them to repentance.
+
+Godly sorrow [conviction] brings repentance that leads to salvation [“salvation” can also mean “rescue” or “deliverance from sin,” referring more to spiritual growth] and leaves no regret, but worldly sorrow [guilt] brings death. See what this godly sorrow has produced in you: what earnestness, what eagerness to clear yourselves, what indignation, what alarm, what longing, what concern, what readiness to see justice done. At every point you have proved yourselves to be innocent in this matter. (2 Corinthians 7:10-11, NIV)
+
+As you can see … Guilt: leads to depression, more sin, death. Conviction: leads to a desire to make things right between you and God and all parties involved. Then there’s the situation where you feel nothing at all. That’s probably what my friend Sabine would say about herself right now. All she feels is the lovin’ from Polaris. You know, I think that kind of situation happens when you’re not really willing to change. You hear what you want to hear. Repentance means turning from it, letting go of it. When we’re not willing to repent, that’s the beginning of a hard heart. The harder the heart, the less sensitive it is to conviction. The longer you refuse to deal with it, the easier it is to turn off the alarm. However, not so with guilt. It becomes much easier to warp your thoughts and lay it on thick.
+
+Turns out, I had more to say about that than I thought.
+
+HEAD VS. HEART One of my past eighteen roommates was a basketball coach. (She would require that I say here, in exchange for printing this story, that she was one of my favorite roommates, if not my most favorite roommate of all time.) She spent one summer working at an inner-city Christian sports camp and had the privilege of doing the sex talk with the middle school girls. She was wrapping it up with a poignant rhetorical question: “So, why then, ladies, if you know what kissing leads to, would you want to defraud your brothers in Christ that way?”
+
+Before the room could appreciate the dramatic pause to reflect on that thought, a precious sixth grader in the front row shot her hand straight up, much like the ponytail sticking straight up on top of her head. Not waiting to be called on, she blurted out her response: “ ’Cause, Coach Harris, sometimes you’ve got to have some of that sugar, ’cause that sugar is good!”
+
+The room immediately erupted into “No, she didn’t! No, she didn’t! You’ve got to kick her out of here!” And the talk was over.
+
+The sixth grader was on to something. That sugar is good, and bottom line, sometimes, in spite of everything we know, after having read all the Bible verses and worked through all the workbooks, we’ve still got to have some of that sugar. I am just like the rest of you. Sometimes I just want what I want. Today is actually one of those days. I am under an intense deadline to finish this book and am having some intense PMS. In a few minutes I will be having some homemade peanut butter cups, because that sugar is good, too. Conflicts of Interest Premeditated sin. Okay, I don’t know if it’s sin, but it is over my caloric allotment for the day. (Look at me—trying to justify already.)
+
+Anyway, here’s what I’m getting at. We are emotional beings, and most of the time, if we’re not allowing the Holy Spirit to guide us, we’re being led by those emotions. Pretty much, in any given day, I do what I feel like doing. Now, granted, there is truth that shapes and directs those feelings, so it generally works out fine. However, what if what I feel like doing is contrary to what I know to be true, as in the case of Sabine? Her feelings are causing her to question everything she knows to be true—or at least thought was true. It gets messy.
+
+This makes me think of the difference between King Saul and King David—fascinating story in the books of Samuel. Do read it on your own. But here’s the greatly abridged version.
+
+God chose Saul to be king and blessed him, but right off the bat, Saul only halfway obeyed God’s command to wipe out every living thing among the Amalekites. Saul felt that was a bit extreme and felt there would probably be no problem with keeping some of the best oxen, sheep, and so on for himself. That was just the beginning of a pattern of selfish decisions followed by feigned repentance out of fear of consequences. He was driven by an emotional heart, mostly jealousy and pride. David, on the other hand, even when Saul was trying to kill him, chose to act out of faith—what he knew to be true—rather than anger. When he had the opportunity to kill Saul while he was somewhat indisposed (that is, going number one in a cave, or maybe number two—we don’t really know). He knew that Saul was anointed king by God, though he was a poor one, so he spared his life. Saul’s consequence was the loss of the kingdom and death upon his own sword, with (ironically) an Amalekite to finish the job for him. David, on the other hand, was a man after God’s own heart, and his kingdom was blessed. Jesus came from the line of David.
+
+Someone once said there are only eighteen inches from your head to heart, but it may take years to travel the distance. To experience in your heart what you know to be true in your head is often a long road. My own addendum to that bit o’ wisdom is this: going the other direction—getting your emotions to shape what’s in your head—is a very short jaunt.
+
+Emotions are certainly not all bad. We are created in God’s image, emotions included. The danger comes when we allow our emotions to rule our head. When the two are in conflict, I almost always put my money on the head.
+
+It seems like a long jump from King David to getting some of that sugar. But really, both situations boil down to taking God at His word over what I feel in this moment.
+
+I’m not saying we should set aside our emotions and discount their value. I think we need to enter into those emotions with the Lord. Be honest with Him. He understands and shares in our emotions. Sometimes our emotions are valid and based in genuine loss or grief or pain. Other times they’re based on things that are not true—lies we’ve believed or warped thinking. Sometimes our emotions are based in our sinful desires—pride, selfishness, and so forth. Those are things you have to work through with the Lord, offering Him your heart for change.
+
+My friend Margaret likes to say that all wise counsel comes back to Genesis 4:7. That’s where God says to Cain, “If you do well, will not your countenance be lifted up? And if you do not do well, sin is crouching at the door” (NASB). Basically, if you act in faith and do the right thing, then you’ll feel well and good. We want it to be the other way around: we want to feel good so that we’ll be 134 Conflicts of Interest © 2010, CruPress, All Rights Reserved. CruPress.com motivated to do good. It doesn’t work that way so much. When you don’t do well, sin awaits—you become trapped in a cycle. Like Saul, you are controlled by your emotions. All of this is closely tied to our next conflict … TRUTH VS. LIES Imagine what it was like to find out that the earth is not flat. Your whole life, you’ve lived in fear of one day taking a different way home from work and maybe taking a misstep in the dark, and lo and behold, you’ve done it—you’ve fallen off the edge into the abyss. What freedom to discover the truth. It’s round! You can’t fall off! And think of the ramifications. Okay, so maybe it didn’t change the life of the workaday peasantry, but for the scientists and astrologers and wise men and such, it changed everything. A paradigm shift if ever there was one. It changed all the maps. It changed … well, their travel plans. It changed … some kind of math formulas … probably. … I’m sure it changed a bunch of stuff.
+
+They didn’t necessarily choose to believe the earth was flat—they didn’t know there was an option. It’s what they had been told. Sometimes I think there are lies like that, things we’ve just believed our whole lives, consciously or subconsciously—things we don’t know to question. Like the fact that we landed on the moon in 1969. We’ve been told our whole lives that we landed on the moon, but what if we really didn’t? Then we would have to question everything else our government tells us. And maybe the moon really is made of cheese. And maybe … the food pyramid has been a lie all along. And maybe … Anyway, some lies are like that—so ingrained in our grid of reality that we don’t recognize them. When we do, it makes us question and adjust all our beliefs, e.g. as “My value is based on my performance and/or my appearance” or “Men are not trustworthy.”
+
+Then there are some lies that sound true, and they are mostly true (about 90 percent), but they’re just warped enough to mess things up. That’s really Satan’s best ploy. To take the truth and twist it just enough—just enough to tempt Eve to take a bite. He promised that, if she’d eat the forbidden fruit, her eyes would be opened and she’d be like God. She would know good and evil. (Genesis 3:5) There’s some truth in that. Here eyes were opened and she did for the first time understand the difference between good and evil, and she was like God in that way. But she was not really like God at all. She was now susceptible to evil—just as Satan had planned.
+
+The problem with lies is that we unwittingly make decisions and choices based on them, then take action in light of them, and the consequences can be detrimental. What if the real lie were that the earth is round and then you didn’t know to be careful and then one day you did take that misstep because you didn’t know and … anyway. It’s late. Nancy Leigh DeMoss has written a book called Lies Women Believe. Below is an excerpt of ten or so of the lies that I think women at your age in particular struggle with, followed by the truth.
+
+### Ten (or So) Lies Women Believe
+
+For many women, there is a disconnect between what they know intellectually and what they feel to be true. And therein lies one of our problems: we trust what we feel to be true rather than what we know to be true.
+
+1. God Doesn’t Love Me We look at our difficult circumstances and our feelings tell us, “Nobody loves me, not even God. He may love the world; He may love everyone else; but He really doesn’t love me. If He did, I would not feel so lonely and unloved.” We’d never say this aloud, but that is what we feel to be true. So the seed of a lie is planted in our minds. We dwell on the lie until we believe it to be true. Sooner or Conflicts of Interest later, our behavior reflects what we truly believe, and we end up in bondage.
+
+Truth: (Romans 8:32, 38 -39)
+
+- God’s love for me is infinite and unconditional.
+- I don’t have to perform to earn God’s love or favor.
+- God always has my best interests at heart.
+2. God Should Fix My Problems This way of thinking is deceptive on two counts. First, it reduces God to a cosmic genie who exists to please and serve us. This sets us up for disillusionment and disappointment with God. Second, it suggests that the goal in life is to be problem free—to get rid of everything that is difficult or unpleasant.
+
+Truth: ( Isaiah 46:10, Hebrews 5: 8 )
+
+- Life is hard.
+- God is more concerned about glorifying Himself and changing me than about solving all my problems.
+- God has an eternal purpose He is fulfilling in the midst of my problems.
+- God wants to use my problems as part of His sanctifying process in my life.
+- No matter what problem I am facing, God’s grace is sufficient for me.
+3. I Can’t Help the Way I Am This lie makes us into helpless victims of other people and outside circumstances. The suggestion is that someone or something else is responsible for who we are—that we have no more control over who we are and what we do than a marionette does. We somehow believe that we are destined to be controlled by whomever and whatever is pulling our strings. This lie leaves us without hope that we can ever be different. Truth: ( Romans 6:6-7, 1 Thessalonians 5:24)
+- If I am a child of God, I can choose to obey God.
+- I am responsible for my own choices.
+- I can be changed through the power of God’s Spirit.
+4. I Should Not Have to Live with Unfulfilled Longings We are encouraged to identify our longings and do whatever is necessary to get those “needs” met. Therefore, if you’re hungry, eat. If you want something you can’t afford, charge it. If you crave romance, dress or act in a way that will get men to notice you. If you’re lonely, share your heart with a married man at work. At best, this way of thinking has left many women still unfulfilled, still groping, still searching for something to fill the inner emptiness.
+
+Truth: ( Luke 1:38, 1 Peter 5:7)
+
+- I will always have unfulfilled longings this side of heaven.
+- The deepest longings of my heart cannot be filled by any created person or thing.
+- If I will accept them, unfulfilled longings will increase my longing for God and for heaven.
+5. I Can Sin and Get Away with It The enemy causes us to believe the following:
+- “There will be no judgment on my sin.”
+- “I won’t reap what I sow.”
+- “The choices I make today will not have consequences.”
+- “I can play with fire and not get burned.” Truth: ( Galatians 6:7-8, Ezekiel 18:19-22)
+- The choices I make today will have consequences; I will reap what I sow.
+- Sin’s pleasures last only for a season.
+- Sin exacts a devastating toll. There are no exceptions.
+- If I play with fire, I will get burned. I will not escape the consequences of my sin.
+6. I Can Make It without Consistent Time in the Word and in Prayer The essence of Satan’s deception is that we can live our lives independently of God. The enemy 136 Conflicts of Interest © 2010, CruPress, All Rights Reserved. CruPress.com doesn’t care if we “believe” in God, if we are doctrinally orthodox, or if we fill our schedules with a lot of “spiritual activities,” as long as he can get us to run on our own steam rather than living in conscious dependence upon the power of the Holy Spirit.
+
+Truth: ( Psalm 19:7,107:20,119:105)
+
+- It is impossible for me to be the woman God wants me to be apart from spending consistent time cultivating a relationship with Him in the Word and prayer.
+7. I Have to Have a Husband to Be Happy Marriage is good and right, and it is God’s plan for most people. There can be (and ought to be) great joy and blessing in the context of a God-centered marriage. However, Satan twists the truth about marriage by suggesting to women that the purpose of marriage is personal happiness and fulfillment, and they cannot be truly happy without a husband to love and meet their needs.
+
+Truth: ( Hebrews 13:5, Psalm 23:1)
+
+- Happiness is not found in (or out of) marriage.
+- There is no person who can meet my deepest needs. No one and nothing can make me truly happy apart from God.
+- God has promised to provide everything I need. If He will receive more glory by my being married, then He will provide a husband for me.
+- Those who wait on the Lord always get His best. Those who insist on getting what they want often end up with heartache.
+8. If I Feel Something, It Must Be True The enemy wants us to believe that if we feel unloved, we are unloved. If we feel we can’t cope with the pressure, it must be true that we can’t make it. If we feel God has deserted us or that He has acted unjustly in a manner that concerns us, then perhaps He has let us down. If we feel our situation is hopeless, then there must be no hope. If we don’t feel saved, then maybe we aren’t. If we don’t feel forgiven, then we must not be. The truth is that, due to our fallen condition, our feelings often have little to do with reality. Truth: ( Philippians 4:4, 6-9)
+- My feelings cannot always be trusted. They often have little to do with reality and can easily deceive me into believing things that are not true.
+- I must choose to reject any feelings that are not consistent with the Truth.
+9. If My Circumstances Were Different, I Would Be Different We are saying, “Someone or something made me the way I am.” We feel that if our circumstance were different—our upbringing, our environment, the people around us—we would be different. If our circumstances make us what we are, then we are all victims. Because if we’re victims, then we’re not responsible—we can’t help the way we are. But God says we are responsible, not for the failures of others, but for our own responses and lives. Truth: ( Philippians 4: 11-12)
+- My circumstances do not make me what I am; they merely reveal what I am.
+- If I am not content with my circumstances, I am not likely to be happy in any other set of circumstances.
+- I may not be able to control my circumstances, but my circumstances do not have to control me.
+- Every circumstance that touches my life has first been filtered through His fingers of love.
+10. I Shouldn’t Have to Suffer Many modern-day evangelistic efforts have promised sinners unending peace and joy, a home in heaven, and a prosperous life in between here and there if they will simply come to Jesus. By convincing us that our sufferings are undeserved or unnecessary, the enemy succeeds in getting us to resent and resist the will and purposes of God. Conflicts of Interest Truth: ( 1 Peter 5:10 , 2 Corinthians 4 :17-18)
+- It is impossible to be holy apart from suffering. There is a redemptive fruit that cannot be produced in our lives apart from suffering.
+- We have been called to suffer.
+- True joy is not the absence of pain but the presence of the Lord Jesus in the midst of the pain.
+- Suffering is a pathway to sanctification, a doorway into greater intimacy with God.
+11. It’s All About Me In spite of all the talk about poor self-image, our instinctive reaction to life is self-centered: How does this affect me? Will this make me happy? Why did this have to happen to me? What does she think about me? It’s my turn. I need my space. It’s not enough for us to be the center of our own universe. We want to be the center of everyone else’s universe as well, including God’s. Truth: (Colossians 1 :16-18, Revelation 4:11)
+- God is the beginning and ending and center of all things. All things were created by Him and for Him. It’s all about Him.
+- My life is dispensable. I was created for His pleasure and glory.
+
+I can almost guarantee that several things on this list are as ingrained in you every bit as much as the belief that the earth is round. But now that you’ve seen it on a list, it should be gone by the morning. A first step is always awareness. I would encourage you, as you locate something on the list, to pray about it and to journal some thoughts about it as well as about the ways it has shaped your life. As you become more aware of it in your day-to-day life, you can begin to weed it out. You can refuse to take actions predicated on the belief, and then your life will begin to align more with the truth, which backwashes into your thought processes and eventually reaches the emotional level.
+
+Okay, so that’s a lot to take in, admittedly. You could camp out there for the next week or two and look at each one of those individually. Not a bad idea, really.
+
+UNRESOLVED CONFLICTS So, back to my friend Sabine and the fabulous Polaris. I’ll meet with her again next week, once I get this book to print. At least now I have some thoughts down on paper to discuss with her, some more questions to ask. My fear is that she will have to learn like most of us do—by experiencing the consequences of her own choices. She’ll have to feel it to believe it. God does work that way sometimes, through our emotions, but it’s usually a much harder path. She may not feel the consequences for a while, maybe not even for a long while, except maybe for the hardening of her heart toward God. Which is really the most serious consequence of all.
+
+138 Conflicts of Interest © 2010, CruPress, All Rights Reserved. CruPress.com

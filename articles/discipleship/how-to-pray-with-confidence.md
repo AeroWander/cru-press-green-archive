@@ -1,0 +1,152 @@
+---
+title: "How to Pray with Confidence"
+topic: "discipleship"
+also_topics: []
+type: "Article"
+themes: ["Prayer"]
+audience: []
+authors: ["Bill Bright"]
+series: "Transferable Concepts"
+words: 3567
+summary: "Transferable Concept Nine, an article by Dr. Bill Bright, teaches foundational biblical truths about prayer for Christians. It answers basic questions (what prayer is, who can pray, why, to whom, when, and what to include), stressing that a clean heart, faith, and a forgiving spirit are necessary for answered prayer, and illustrates prayer's power through early Campus Crusade for Christ history."
+source: "Building Community/Prayer/9. How To Pray With Confidence.pdf"
+also_filed: ["Discipleship/Basic Growth Concepts/Transferable Concepts/How To Pray With Confidence.pdf"]
+---
+
+## Dr. Bill Bright Transferable Concept Nine
+
+Have you ever considered that you have immediate access to the most powerful Person in the universe? During the last 40 years, I have had the honor of meeting several presidents of the United States. compassion for the world, to go and share the good news of the gospel everywhere. But we huddle in unbelief in our little prayer meetings and talk of peripheral, superficial matters. We are content to see accomplished in the name of Christ only what we are capable of accomplishing through our own intellect, eloquence, and organizational skills.
+
+Every president has a very heavy schedule and tens of thousands of friends and supporters who would like to be invited to meet with him. Because of limited time, only a few are invited. Those who are must go through meticulous security checks before they are allowed to meet the president.
+
+## God’s Response to Prayer
+
+For more than a year before Campus Crusade for Christ began, I led church teams into college dormitories, fraternities and sororities in the Los Angeles area; yet, to my knowledge, not a single person committed his or her life to Christ at any of these meetings.
+
+As a child of God you have the opportunity for an instant audience with the King of kings, the Lord of lords, the President of presidents. Whatever the need, whatever the time, His calendar is cleared to be with you; His schedule is open for your appointment; His full attention is devoted to you.
+
+But when God called this ministry into being in the spring of 1951, we immediately formed a 24-hour prayer chain and divided the prayer time into 96 15-minute periods. Scores of Christians invested fifteen minutes in prayer every day on behalf of our new ministry at the University of California.
+
+## The Untapped Power of the Holy Spirit
+
+Not only do you have the ear of the greatest Person in the universe, but has it ever occurred to you, as you kneel in your place of prayer, that you have been given the privilege of being used of God to help change the lives of individuals and nations. God has literally made available to you His vast reservoir of power, wisdom, love and grace, if only you are willing to believe him, to trust and obey Him.
+
+During the very first sorority meeting at UCLA after the prayer chain began, more than half of the sixty women present expressed a desire to receive Christ. Over the next few months, more than 250 students at UCLA. So great was their influence for Christ that the campus chimes began to play Christian hymns at noon each day!
+
+Why are we so spiritually impotent and fruitless today compared to the first-century Christians? I believe the answer is found in the word unbelief.
+
+This unprecedented demonstration of God’s blessing was no accident. God was responding to the prayers of many of His children.
+
+Our Lord Jesus Christ has commissioned us, as a demonstration of His loving concern and Because so many Christians — new and old alike — know so little about prayer, I wish to share with you some simple, basic truths and answer some vital questions about prayer.
+
+Does this sound too exclusive? No. Jesus Christ came to die for all people in all lands. He promises rest for all who are weary and heavy-laden.
+
+## 1. What Is Prayer?
+
+Someone has said, “Prayer is a dialogue between two people who love each other -- God and man.” Simply put, prayer is communicating with God. Every Christian has a direct line of communication with God, available at all times. But most Christians never lift the phone off the hook and often forget the line exists until an emergency arises.
+
+Prayer is much more than words, however. It is an expression of the heart towards God. It is an experience, a relationship, not an activity. The fact still remains, however, that you cannot expect God to answer your prayers unless you come to Him in the name and authority of the Lord Jesus as your only mediator and confess your sins and receive Him as your Savior and Lord.
+
+## Heart Attitudes Conducive to Prayer
+
+Those who have clean hearts can pray. You must not only ask in the name of Jesus. You must also come with a clean heart. The psalmist says, “If I regard iniquity in my heart, the Lord will not hear: Therefore, you cannot expect God to answer your prayers if there is any unconfessed sin in your life. Just as the omission of one ingredient in a cake recipe can result in failure, so the omission of confessing any known sin can result in prayer failure.
+
+As a child of God you are invited to come boldly before His throne. “Since we have a great high priest who has gone through the heavens, Jesus the Son of God,” Paul writes, “let us...then approach the throne of grace with confidence, so that we may receive mercy and find grace to help us in our time of need.”
+
+To me, real prayer is simply communicating with God, inviting Him to talk to you as you talk to Him. There is more to prayer, but this is basic to true prayer. Those who have a forgiving spirit can pray. One of the most frequent hindrances to prayer is an unforgiving spirit. Jesus said, “When you stand praying, if you hold anything against anyone, forgive Him, so that your Father in heaven may forgive you your sins.”
+
+## 2. Who Can Pray?
+
+Anyone can pray. However, only those who walk in faith and obedience to Christ can expect to receive answers to their prayers. On the eve of His crucifixion, Jesus promised to those who belong to Him, “You may ask me for anything in my name, and I will do it.” Those who pray in faith can pray. You must also have a believing heart if your prayers are to be answered. The same Lord who says, “All authority in heaven and on earth has been given to me” and, “Surely I am with you always, to the very end of the age” also says, “You may ask me for anything in my name, and I will do it” and, “If you believe, you will receive whatever you ask for in prayer” and, “According to your faith will it be done to you.” Yet few of us take seriously these words, and few dare to claim what God has so generously promised us.
+
+By coming to Christ and worshipping Him, you are changed into His image: “We, who with unveiled faces all reflect the Lord’s glory, are being transformed into His likeness with ever-increasing glory, which comes from the Lord, who is the Spirit.”
+
+This explains the scriptural emphasis on the worship of and prayer to the only true righteous, holy and loving God.
+
+According to the Scriptures, “There is one God and one mediator between God and men, the man Christ Jesus, who gave himself as a ransom for all men...” Jesus Himself claims to be the only way to God. He says, “I am the way and the truth and the life. No one comes to the Father except through me.”
+
+## 3. Why Are We to Pray?
+
+You pray because God commands you to pray. The New Testament commands to pray are many. Here are a few: Pray continually. Watch and pray. Pray with thanksgiving. Pray in the Spirit. Always pray and not give up. Pray for those in authority. Pray for boldness. You pray because of our Lord’s example. Jesus Christ, the very Son of God, was obedient in prayer. I’m not suggesting that you need to spend long hours each day in prayer, though some are called to this high privilege. But you can “pray continually,” bringing everything to God in prayer. Those who obey God’s command to pray are blessed and used of God. taught addressed the Father.
+
+You pray to have fellowship with God. God waits anxiously for you to come to Him in prayer. Proverbs records, “The prayer of the upright is His delight.” This should motivate you to spend more time with our Lord because you wish to please and delight Him. You pray to communicate with God. He said, “Call to me and I will answer you and tell you great and unsearchable things you do not know.” Prayer is not just an “escape hatch” for you to get out of trouble, please yourself or gain your selfish ends. It is your line of communication with God. As His child, you have direct access to His throne. He loves you so much that He has made Himself available to you at all times. Through prayer you talk to God and He responds to you.
+
+It is meaningful and encouraging to realize that as you are praying, both Jesus and the Holy Spirit are interceding. Paul tells us in Romans 8:34, “Christ Jesus, who died -- more than that, who was raised to life -- is at the right hand of God and is also interceding for us.”
+
+## 5. When Should We Pray?
+
+There is a sense in which I pray without ceasing, talking to God hundreds of times a day about everything. I begin my day on my knees in prayer, worshipping, praising and adoring our great and gracious Creator, God and Father. I acknowledge Jesus Christ as my Lord and Master. By faith, as an act of my will, I appropriate the fullness of the Holy Spirit. You pray to receive spiritual nurture. Just as a child needs food to grow physically, so you need food to grow spiritually. You can miss a meal and not feel any ill effects, but if you go without food for a week, you begin to weaken and run out of energy. So it is with your spiritual life. You can go through one day without any apparent ill effects, but if you continue this practice, you will become undernourished, losing the strength to live a victorious life and to maintain the boldness necessary for a vital witness for Christ. I pray for wisdom about the numerous decisions I must make that day. I pray for the salvation of friends and strangers, the healing of the sick, and the spiritual and material needs of the Campus Crusade for Christ ministry, as well as the needs of various members of the staff and leaders of other Christian organizations and their ministries. I pray for our leaders and for those in authority over us. I even pray about small personal matters that are of concern to me alone. And God answers!
+
+You pray to obtain results. Genuine, biblically-based prayer does change things. It so changes those who pray that God is free to reveal His will to them. Prayer also releases God’s great power to change the course of nature and people and nations. The faithful prayers of Spirit-filled, believing Christians have proven this many times over.
+
+I then like to spend whatever time is appropriate reading and meditating on God’s Word. I often kneel quietly before the open Bible and talk with God. I ask the Holy Spirit, who inspired its writings, to make my reading meaningful and edifying to me.
+
+## 4. to Whom Do We Pray?
+
+You pray to the Father in the name of the Lord Jesus Christ through the ministry of the Holy Spirit. Jesus says: “When you pray, go into your room, close the door and pray to your Father, who is unseen. Then your Father, who sees what is done in secret, will reward you.”
+
+As I read, I pause to thank God for His loving salvation and provision, to confess any sins in my life that the Scriptures may reveal, to ask Him for the boldness and faith His apostles displayed, and to thank Him for new insights into His divine strategy for reaching the world with the good news. I often pause to pray about some special truth or claim a promise.
+
+Your prayers are validated by Jesus Christ and are interpreted to God the Father by the Holy Spirit. But since God is one God, manifested in three persons, it is perfectly acceptable to pray to Jesus or to the Holy Spirit. There is no jealousy between the three persons of the Trinity. But the scriptural pattern which Jesus In the evening I kneel once again to worship my Lord, to read His Word and to ask of Him, “Lord, is there anything in me that is displeasing to You, anything I need to confess?” If the Holy Spirit reveals any sins and weaknesses, I confess them and claim by faith God’s victory for my life. Then I can know that since my last conscious thoughts are of Him, my subconscious thoughts will continue to worship Him all night long. Thus when I awaken, my first thoughts will be of our dear Lord.
+
+## 6. What Should Be Included in Prayer?
+
+Certain basic elements should be included in prayer. These can be easily remembered by the word “ACTS,” an acronym for the following words: Adoration, Confession, Thanksgiving, and Supplication.
+
+## Adoration
+
+To adore God is to worship and praise Him, to exalt Him in your heart and mind and with your lips. Your relationship to your heavenly Father should be one of complete trust, faith and obedience. Likewise, your prayer should express your complete trust in Him and reflect your confidence that He hears you. As a result, you approach Him in adoration and praise, with reverence and awe, with love and gratitude. If you are filled with God’s Holy Spirit and recognize that He controls all things, you can thank God not only for the many blessings of each day, but also for the problems and adversities.
+
+May I suggest that you meditate quietly on all of your daily blessings, such as your salvation through knowing Christ, assurance of sins forgiven, the opportunity to serve Christ, the chance to go to school, your good health, family of loved ones, a good job, food and clothing? Thank God for each one of them.
+
+## Supplication
+
+For many Christians, prayer is like window shopping — they spend much time looking but never buy anything. Supplication includes petition for you own needs and intercession for others. You are to pray for everything and in specific terms.
+
+Reading aloud psalms of praise and other similar portions of Scripture can greatly enrich your prayer time. A cold, ungrateful heart will soon be warmed, and praising God will come easily.
+
+## Confession
+
+The Christian who needs to be restored to fellowship with Christ should begin with confession. Isaiah declares:
+
+“Listen now! The Lord isn’t too weak to save you. And He isn’t getting deaf! He can hear you when you call! But the trouble is that your sins have cut you off from God. Because for sin He has turned his face away from you and will not listen anymore.”
+
+If your discipline of prayer begins with worshipful adoration of God, the Holy Spirit will reveal any sin in your life that needs to be confessed. By seeing God in His purity, His holiness and His love, you become aware of your own sin and unworthiness. As the Holy Spirit makes you aware of sin, you’ll want to confess it.
+
+## Thanksgiving
+
+Nothing pleases God more than your consistent expression of faith. And there’s no better way to demonstrate your faith than to say, “Thank You.” The writer of Hebrews makes it clear that without faith it is impossible to please God. God’s Word commands, “Give thanks in all circumstances,” because “this is God’s will for you in Christ Jesus.” To fail to give thanks is to disobey God.
+
+As you talk to God, pray that your inner person may be renewed and quickened -- be made alert and alive, vital, refreshed, always sensitive to and empowered by the Holy Spirit. Pray about your problems, pray for wisdom and guidance, pray for strength to resist temptation, pray for comfort in time of sorrow -- pray for everything. There is nothing too small or too great to bring before the Lord.
+
+Then pray for others. Christians often do not realize the importance of intercession. The apostle Paul continually prayed for his converts. He also asked them to pray for him. You should pray for other Christians and encourage them to pray for you. Always pray daily for your husband or wife, for your children and for your parents. Then pray for your neighbors and friends.
+
+Pray for various other Christians to whom God has given special responsibility. Pray for presidents and kings and for all those in authority over you.
+
+Pray especially for the salvation of souls, for a daily opportunity to introduce others to Christ and to the ministry of the Holy Spirit, and for the fulfillment of the Great Commission in our generation. Begin with your campus or your community. Pray for and seek to find one or more Christian friends with whom you can establish prayer partnerships.
+
+Don’t underestimate the power of intercessory prayer for the salvation of souls. My mother and father were married for 35 years before he received Christ. Their love for each other was strong, but dad’s indifference to the Lord must have caused my mother to experience much heartache and shed many tears. Nevertheless, she kept praying -- for him, and for my brothers and sisters and me —until finally she began to see results, and our entire family had received the Lord. some way equal faith? Of course not.
+
+Just claim the promise of 1 John 5:14, 15, “We are sure of this, that He will listen to us whenever we ask Him for anything in line with His will. And if we really know He is listening when we talk to Him and make our requests, then we can be sure that He will answer us.” Then pray for your loved ones and friends with confidence that He will hear you and answer your prayers as He promised.
+
+The ACTS pattern has helped many Christians to develop a more well-rounded prayer life.
+
+God does not require you to have great faith. You simply are to have faith in a great God. Jesus says: James instructs you to “ask in faith without any doubting” for the double-minded person cannot expect God to answer His prayers.
+
+You see, it’s the quality, not the quantity, of the faith that is important. The Holy Spirit uses 3 basic means to produce faith in the one praying.
+
+First, He uses the Word of God. As you study the Scriptures you learn more and more about the character of God -- His love, His wisdom, his power, his works, His sovereignty. The more you know of God, the more you trust Him. “Faith,” Paul writes, “comes from hearing the message, and the message is heard through the word of Christ.”
+
+How can you expect answers to your prayers? Four imperatives must be followed: abide, ask, believe, and receive. Let’s look at each of these for a moment: Second, He uses fellowship with other Christians and various circumstances and experiences. For example your faith in God grows as you observe a friend being used of God to introduce others to Christ. When he shares his experience with you, this encourages you to believe that God can use you, too.
+
+## Abide, Ask, Believe, Receive
+
+Abide: Jesus says abiding is the key to successful praying. “If you abide in me, and My words abide in you, you will ask what you desire, and it shall be done for you.” in other words, if you are abiding in Christ -- if your life is totally yielded to Him and His Word is abiding in you so that you know His will -- you can ask anything you want because your will is to do His will. Abiding, then, is simply living a life of faith and obedience in the fullness for the Holy Spirit, surrendered to the Lordship for Christ with no unconfessed sin, and being totally available to God. Third, He uses strong impressions or convictions. Paul recorded in Philippians 2:13, “It is God who works in you to will and to act according to his good purpose.”
+
+Receive: By faith, claim the answer to your request. If you know you are abiding in Christ and are controlled by the Holy Spirit and are praying according to the Word and will of God, you can expect God to answer your prayer. So be prepared to receive the answer. Imagine right now that you are receiving the answer to your request, and begin to thank God for it. Ask: If you expect answers to your prayers, you must ask. James says: “You do not have, because you do not ask God. When you ask you do not receive, because you ask with wrong motives, that you may spend what you get on your pleasures.”
+
+Adapted from How to Pray With Confidence Copyrighted 1971, 1998 by Bill Bright, NewLife Publications, Campus Crusade for Christ. All rights reserved. Used by permission.
+
+Jesus says, “You may ask me for anything in my name, and I will do it. Until now you have not asked for anything in my name. Ask and you will receive, and your joy will be complete.”
+
+Believe: Jesus promises in Matthew 21:22, “If you believe, you will receive whatever you ask for in prayer.” Believing is at the heart of answered prayer. But how do you get this faith to believe? Should you try to work up some kind of state of mind that will in Dr. Bill Bright was the founder of Campus Crusade for Christ International.

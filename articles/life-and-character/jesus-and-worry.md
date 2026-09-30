@@ -1,0 +1,56 @@
+---
+title: "Jesus and Worry"
+topic: "life-and-character"
+also_topics: []
+type: "Article"
+themes: ["Identity & emotional health", "Trials & suffering"]
+audience: ["Students"]
+authors: ["Steve Weaver"]
+words: 1851
+summary: "An article by Steve Weaver expounding Matthew 6:25-34, arguing that Jesus gives three reasons Christians should not worry: it is foolish, futile, and faithless. Draws on the birds and lilies illustrations and Philippians 4:6-7 to teach trust in God's provision instead of anxiety."
+source: "Discipleship/Mature Teaching/Jesus and Worry.pdf"
+---
+
+## Steve Weaver
+
+We have plenty to worry about. Jeffrey Kluger wrote this in TIME magazine in 2006:
+
+It would be a lot easier to enjoy your life if there weren’t so many things trying to kill you every day. The problems start even before you’re fully awake. There’s the fall out of bed that kills 600 Americans each year. There’s the early-morning heart attack, which is 40% more common than those that strike later in the day. There’s the fatal plunge down the stairs, the bite of sausage that gets lodged in your throat, the tumble on the slippery sidewalk as you leave the house, the high-speed automotive pinball game that is your daily commute. Other dangers stalk you all day long. Will a cabbie’s brakes fail when you’re in the crosswalk? Will you have a violent reaction to bad food? 1 Also, with increased medical knowledge has come an increased number of worries. While previous generations only feared death, we live in constant fear of cancer, diabetes, lung disease, heart attack, stroke, and much, much more. With all of these reasons to worry, and many more, it must be perfectly ok to worry, right? Wrong! In the following text, Jesus provides three important reasons why Christians should not worry. Worry for the Christian is foolish, futile, and faithless.
+
+Therefore I say to you, do not worry about your life, what you will eat or what you will drink; nor about your body, what you will put on. Is not life more than food and the body more than clothing? Look at the birds of the air: they neither sow nor reap nor gather into barns, yet your heavenly Father feeds them. Are you not of more value than they? Which of you by worrying can add one cubit to his stature? So why do you worry about clothing? Consider the lilies of the field, how they grow: they neither toil nor spin; and yet I say to you that even Solomon in all his glory was not arrayed like one of these. Now if God so clothes the grass of the field, which today is, and tomorrow is thrown into the oven, will He not much more clothe you, O you of little faith? Therefore do not worry, saying, ‘What shall we eat?’ or ‘What shall we drink?’ or ‘What shall we wear?’ For after all these things the Gentiles seek. For your heavenly Father knows that you need all these things. But seek first the kingdom of God and His righteousness, and all these things shall be added to you. Therefore do not worry about tomorrow, for tomorrow will worry about its own things. (Mt 6:25-34)
+
+Three times in this passage, Jesus asserts His kingly authority by commanding His disciples to not worry (vv. 25, 31, and 34). Since Jesus commands us not to worry, to worry is a sin! Whenever we worry, we are disobeying a direct command from Christ our King. Likewise, the apostle Paul wrote under the inspiration of the Holy Spirit in Philippians 4:6-7:
+
+Be anxious for nothing, but in everything by prayer and supplication, with thanksgiving, let your requests be made known to God; and the peace of God, which surpasses all understanding, will guard your hearts and minds through Christ Jesus. We make excuses for worry every day. We even brag to each other about being worried. “I was so worried about you.” “I worry so much!” Can you imagine if we took other sins so lightly? “I just lust so much!” It’s one thing to sin; it’s another to be proud of it. After issuing His command in verse 25, Jesus gives three reasons why Christians should not worry in verses 26-30.
+
+## D Don’t Worry Because Worry Is Foolish
+
+Jesus gave three specific categories of things that the Christian should not worry about: what we eat and drink, our bodies, and our clothing. To each of these Jesus offers a response. First Jesus addresses worrying about what we eat or drink. Now we must keep in mind that Jesus is speaking in a first century world in which the provision of food and drink could not be as easily assumed as it is today. We live in a world of refrigeration and preservatives where it is possible to stockpile large quantities of food and drink in advance. That was not a luxury that Jesus’ hearers had. Nevertheless, Jesus portrays worry about the availability of these daily provisions as foolish. Since many of us don’t have to worry from meal to meal about whether we will have something to eat (we have to decide what to eat), we can apply this worry over food to our worry about any provision that we need. When we’re tempted to worry about the supply of any necessity of life, Jesus’ instructions remain applicable: “Look at the birds of the air . . .”
+
+Jesus essentially asks, “Have you ever seen a bird sowing seed, or reaping, or gathering grain into a barn? Yet, you’ve never seen one bird starve to death either. This is because your heavenly Father feeds them!” Notice the rebuke here. Jesus does not say “their heavenly Father,” but “your heavenly Father”! The point is that the One who feeds the birds is “your heavenly Father.” Can you imagine how much birdseed it would take to feed the estimated 200 to 400 billion individual birds in the world? It would easily bankrupt Bill Gates. Yet God feeds those birds every single day! But Jesus’ point here is that humans are of more value than birds (v. 26c).
+
+## Don’t Worry Because Worry Is Futile
+
+After addressing the category of eating and drinking, Jesus addresses the issue of worry about one’s body. This is an issue that is still alive and well today as healthcare and fitness industries are multi-million dollar entities. Everywhere you go you can find health food today: even McDonalds! The pharmaceutical industry is the single most profitable industry in the United States. The reason is that health and promises of an extended life sell!
+
+There is nothing wrong with using the gifts of medicine and technology that God has provided to care for our bodies. There is certainly nothing wrong with being health-conscious in our diet. But the problem comes when our society’s emphasis on health and long life results in worry about matters that are ultimately out of our control. Jesus says, “Don’t worry about your body, because worry is futile.” It doesn’t work. Jesus asks the question: “Which of you by worrying can add one cubit to his stature?” A cubit originally referred to the distance from the tip of one’s finger to the elbow and later to a measurement of 18 inches. Jesus is asking then, “Can you add 18 inches to your height simply by thinking about it?” Of course not! Jesus’ point is that worry is futile. It accomplishes nothing! The word translated “stature” in verse 27 normally refers to one’s age (not height) and the word for cubit could refer to an amount of time. Thus, Jesus could have been asking, “Can you add a span of time to your life by worrying about it?” Again, the answer is “Of course not.” In fact, medical studies have repeatedly shown that those who worry the most age fastest and die earliest. There’s something else for you to worry about!
+
+Regardless of whether Jesus is referring to the futility of extending one’s height or one’s life through worry, the result is the same. Worrying is futile. This is a good question to consider when tempted to worry about the health of your body. Can you change anything about your body through worrying about it? Since the answer is no, you shouldn’t worry!
+
+## Don’t Worry Because Worry Is Faithless
+
+“Why do you worry about clothing?” Jesus again points to nature by saying “Consider the lilies . . .” Jesus not only points to the birds of the air to illustrate the foolishness of worry, he also points to the flowers of the field to show the faithlessness of worry. The flowers of the field don’t labor over their sewing machines to produce the beautiful garments that adorn them. The Greek word in the text that is translated “lilies” can refer to a variety of flowers. Perhaps Jesus was pointing his hearers to a field of purple anemones or buttercups, which would have been a wonderful comparison with the purple robes of royalty worn by King Solomon. Even Solomon in all his glory was not dressed as beautifully as these flowers! we stop worrying about life’s necessities that life’s necessities will be provided to us.
+
+Jesus presses the point in verse 30. God clothes the grass of the field with this splendor, even though their existence is temporary. He refers to the common practice of the day of cutting down grass and flowers to use as fuel for the fire of ovens. In other words, God dresses the field this beautifully when he knows that they will soon be cut down and used as fodder for the fire! If God does this, how much more will He clothe you, who are eternal beings with immortal souls? Endnotes 1 Jeffrey Kluger. How Americans Are Living Dangerously. Time, 26 Nov. 2006. http://www.time.com/time/magazine/ article/0,9171,1562978-1,00.html 2 Arthur T. Pierson. George Mueller of Bristol and His Witness to a Prayer-Hearing God. Fleming H. Revell Company, 1899.
+
+3 Robert H. Mounce. Matthew (NIBC). Hendrickson Publishers, 1991.
+
+Jesus then addresses His hearers with the title “O you of little faith”. This expression is actually the translation of one compound Greek word oligopistos, literally “little faiths”. Here we discover that worry is not only a sin because it disobeys the commands of God; it is an ugly sin because it disbelieves the promises of God!
+
+Excerpted from The Authority of the King: Jesus and Worry (Exposition of Matthew 6:25-34) by Steve Weaver. July 23, 2007. http://pastorsteveweaver. wordpress.com/?s=worry.
+
+Unbelief: what a terrible sin against a great and a good God. Whatever is not of faith is sin (Romans 14:23)! Worry is fundamentally a failure to believe God’s promises, such as: • • • I will never leave thee nor forsake thee. Heb. 13:5 I can do all things through Christ who strengthens me. Philippians 4:13 But my God shall supply all your needs according to his riches in glory. Philippians 4:19 George Mueller once said, “The beginning of anxiety is the end of faith, and the beginning of true faith is the end of anxiety.”2 Robert Mounce comments, “Worry is practical atheism and an affront to God.”3 Therefore . . . don’t worry! (v. 31) This is what the Gentiles (pagans) do. Your heavenly Father knows what you need. Worry implies that God doesn’t know about and doesn’t care about our needs!
+
+Instead, we are to seek God’s kingdom and righteousness. This verse is often quoted but probably not always understood. What Jesus is calling on His disciples to seek is His kingdom, His kingly rule, which means we are to submit to His authority and obey what He has commanded.
+
+When we obey Christ’s commands, He promises to supply all our physical needs. Therefore it is only when

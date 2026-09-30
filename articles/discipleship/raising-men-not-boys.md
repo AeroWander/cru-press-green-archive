@@ -1,0 +1,124 @@
+---
+title: "Raising men Not Boys"
+topic: "discipleship"
+also_topics: ["life-and-character"]
+type: "Article"
+themes: ["Discipleship & follow-up", "Identity & emotional health"]
+audience: ["Student leaders"]
+series: "Postcards from Corinth"
+words: 3797
+summary: "Chapter excerpt from Postcards from Corinth, a discipleship resource, on discipling men through the lens of masculinity and the men's movement. The author, drawing on personal ministry stories, argues that culture leaves men confused about what manhood means and calls campus leaders to help young men move from boyhood to godly manhood, referencing 1 Corinthians 13:11."
+source: "Building Community/Men and Women/Men/Raising men Not Boys.pdf"
+---
+
+Postcards is the Users Guide for personal discipleship. While The Compass provides content for one-on-one discipleship, Postcards tackles the practice, philosophy, and difficult challenges that are a part of discipleship.
+
+Here, for example, is a partial list of the topics covered: Habitual Sin, Authority Issues, Christian Counseling, Fasting, Theological Conflicts, Coaching Through Trials, Challenging to Conferences, Confronting Sin, Ministering Cross-Culturally, The Role of Faith, Difficulties in Sharing the Ministry of the Spirit, Selection, Conflict Resolution, Why Does Leadership Matter, Conducting Basic Follow-up... Postcards contains 47 articles on all critical issues of discipleship.
+
+## Order Online at Crupress.com
+
+
+
+## The wisdom of the men’s movement
+
+Discipleship is a sexual issue. By this I mean it cannot be blind to gender. Our spiritual growth takes place within a male or female body so at some point we are led to consider the question: What does it look like, not simply to be a godly individual, but a godly male or female? What follows is a general overview of some of the current principles being taught in male discipleship as well as my own thoughts and synthesis from years of discipling men.
+
+A few years ago, I had the opportunity to speak to some men in our region. There were more than 250 guys in the room. We were seated in a coliseum setting with a table strategically placed in the middle. Many were in groups from their schools wondering what was in store for them. Most were expecting a talk of some sort, but few were ready for what took place.
+
+I stepped into the middle of the coliseum as an announcer does, preparing to describe the fight. With a loud, booming voice I called out to the men, igniting their passion to compete with one another, and I placed forth the challenge. “Perhaps there are guys in here that have a grudge against another guy. It could be that you’re tired of getting spooned in the conference bed you’ve been sharing, or another guy stole the eye of the girl you were checking out. Maybe there’s a school that you’ve wanted to conquer for some time.” My intent was to get them ready to battle. I wanted them to challenge each other at the arm wrestling table I had prepared for them.
+
+Schools tested schools, pitting their gladiator against another. Roommates brought their “issues” to the table, while friends dared each other. As they competed, the roar of the crowd escalated. In that moment I remember thinking how great it is to be a man. I laugh about it today as I reflect back to the moment two of the skinniest guys in the room tore off their shirts and made their way to the table. No concern for their physique, no embarrassment, just satisfaction in being able to go at it with one another.
+
+I barely remember what I spoke on that evening. What I do recall is the moment we shared in competition and I’ll never forget the end of our time together. I invited the men to stand up and lock their arms around one another, shoulder to shoulder. There we all stood in a giant circle, I gazed into the eyes of every guy in that room and I made this comment, “Some of us are athletic, others gifted in different ways. Several are good looking, and some of you aren’t. A number are intelligent. Some are wealthy, while others have little financial means. It doesn’t matter; what all of us have in common is that we are men and we need to be proud of that.”
+
+I once heard it said that we live in a culture where manhood seems more like a problem to overcome. Reader’s Digest published an article by Tucker Carlson in January of 2003 where he addresses the issue of how television portrays manhood. It was titled, “You Idiot! If you believe what you see on TV, all men are morons.”
+
+Spend some time with the guys on our campuses or take a good look on the inside of ourselves to see that there is some confusion about what it means to be a man. In the book Raising a Modern Day Knight Robert Lewis quotes a poem written by a young man who wrestled with his own personal manhood vacuum. He wrote:
+
+What is a man?
+
+Is he someone who is strong and tall, Or is taut and talented as he plays ball?
+
+Is he someone who is hardened and rough, Who smokes and drinks and swears enough?
+
+Is he someone who chases women hard, With a quest to conquer, but never dropping his guard?
+
+Is he someone with a good business mind, Who gets ahead of the others with his nose to the grind?
+
+Or is he someone who tries his best, Not really caring about any of the rest?
+
+What is a man? Does anyone know?
+
+TELL ME!
+
+Who is the prototype? To whom shall I go?
+
+These students are going to come to us as they wrestle with these issues, and what an awesome responsibility and privilege we have to raise up men not boys. I love the passage in 1 Corinthians 13:11 where Paul talks about putting childish ways behind. He says “When I was a child, I talked like a child; I thought like a child, I reasoned like a child. When I became a man, I put childish ways behind me.” In Paul’s days I think it was clearer what those steps to manhood were. But I believe we can restore a sense of understanding to our culture and call them to a clear vision of what it means to be a man.  WHAT IS A MAN?
+
+I get so frustrated when I read the trash that is out there about men and what our society is doing to undermine who we are. At times we buy into the lie that we are shallow and  insensitive. Raymond from the hit TV show “Everybody Loves Raymond” captures well what our culture thinks about us. Some would say that all we think about is food, sleep and sex. As true as that is, there is so much more to who we are.
+
+Peggy Noonan wrote a remarkable article on October 12, 2001 called, “Welcome Back, Duke” where she captured well the significance of being a man and what we bring to the table in times of crisis and pain. You would do well to take some time to look it up and read it. She talks about masculine men and draws upon the pictures that are forever etched into our psyche from September 11, 2001.
+
+When I am coming alongside of the guys on our campuses, I work hard to connect them with images of true manhood. On my shelf at home are movies like Apollo 13, Braveheart, Gettysburg, Glory, and Saving Private Ryan. The pictures that I have in my mind are of those men who made a difference. It’s the men coming off a landing craft, the door dropping down, bullets taking lives as the soldiers storm the beach. It’s Eric Liddell standing on principle as he drops out of his Olympic race to honor the Sabbath and then later traveling to China to be a missionary. It’s Derek Redmond’s dad coming out of the stands to help his son, supporting the injured man, swatting the official away and taking his boy across the finish line. With all the negative stuff that’s out there, men need a positive vision of what a man can do—what a man can be.
+
+The greatest place we can take our men to see what authentic manhood looks like is God’s Word. 1 Corinthians 15: 45-49 introduces two masculine identities—Adams and Christ. We fall under one of them. Robert Lewis in his series “Quest for Authentic Manhood” describes it this way:
+
+THE FIRST ADAM Manhood is set on a natural course. At his core is the idea of getting all you can.
+
+Manhood is based on instinct and reaction. At his core is selfishness. Manhood is without Transcendent meaning. A finite, temporal existence with a temporal perspective on life.
+
+THE SECOND ADAM Manhood is set on a heavenly course. You are able to see life as bigger than what is in front of you.
+
+Manhood is based on revelation, not on instinct and reaction. Jesus was a man under authority and so are we.
+
+Manhood is life giving. Masculinity is best expressed when it is here for others.
+
+As I work with men on the campus, above all else, I want to point them to the person of Jesus and how manhood played itself out in His life—He is our ultimate model. Most of my life has been spent trying to achieve a certain level of success. Early on, life centered on basketball and my relationships with the opposite sex. In marriage and in ministry, life revolved around what I could accomplish. Although many around me would not have perceived me to be selfish, at my core, I wanted what felt good and looked good. I reacted to life around me instead of looking at life as bigger than just me. When I began to look at the life of Jesus, I saw that in every situation He brought life to those around him. Whether He was with the woman at the well, a prostitute, or whoever, He gave them life and they were never the same.
+
+Over the past few years I have been working with my three sons, helping them to know and understand the manhood definition that has been passed onto me. It is the same definition that I’ve had the privilege of sharing with college-age men through the “Quest for Authentic Manhood” material by Robert Lewis. A while back I walked into the bathroom of one of the guys that I worked with and there hanging above the toilet for every man to see was Lewis’s definition:
+
+AN AUTHENTIC MAN:  Rejects Passivity Accepts Responsibility:
+
+A will to obey A work to do A woman to love Leads Courageously Over Feelings Gives Direction, Protection, Provision Expects the Greater Reward God’s reward REJECTS PASSIVITY According to Robert Lewis, and I would agree, men have a natural tendency to avoid social and spiritual responsibility. A friend of mine who directed Campus Crusade at a school in our region once told me that the majority of those stepping up to the tasks of the ministry were the women. They saw the need and were willing to fill the gap. One male student shared with me that he would often sit back and wait for someone else to initiate instead of stepping up to take responsibility. Sounds like Adam in Genesis 3:6, doesn’t it?
+
+“When the woman saw that the fruit of the tree was good for food and pleasing to  the eye, and also desirable for gaining wisdom, she took some and ate it. She also gave some to her husband, who was with her, and he ate it.” (Genesis 3:6) I have the same potential to be like Adam. I have to fight passivity in the spiritual and social areas of my life: as a husband, a father, and as a member of my church and community. At 6’6”, 230 pounds I hardly think of myself as passive and if you ever played basketball with me you’d understand why. I love contact, as a matter of fact; I had a good friend say to me one time, “You’re the only person I know that can make fly fishing a contact sport.”
+
+But, there are many times when I just want to sit on my butt and pretend that I haven’t a clue what is going on in life around me. Like when I’m at home and the three boys have my wife, Cristi, tied up in knots (literally), and I quietly close the door of my office. Or when I place the burden of the kids’ problems at school on my wife, expecting her to check the homework and deal with the teachers. And then there’s the Sunday school class of boys that needs a male presence and once again I hesitate at just the right moment and let a woman meet that need. I’ve had to be reminded at times what it means to reject passivity.
+
+ACCEPTS RESPONSIBILITY I want the young men that I spend time with to understand what it looks like to accept responsibility. I want them to know what it means to have a will to obey God. I help them see that their work and responsibility goes far beyond their major in school and into the work that Jesus has called them to: in ministry, in their families, and in their community.
+
+Finally we explore the mysteries of loving a woman and what that looks like outside and inside of marriage. I want to help them understand a sense of duty. I seek to model how I lead my wife, my boys and my ministry, so they can see what it looks like to step up to the plate in these areas and what it looks like to fail miserably. My goal is to give these men a sense of vision; I want to challenge them to walk with Jesus, to desire spiritual transformation, and hunger to take responsibility.
+
+A few years back, there were three guys that I was discipling at Rutgers. We sat down together and began to unravel this definition of manhood—rejecting passivity and accepting responsibility. Initially the guys felt uncomfortable because much of what we discussed went against current cultural thinking. As we met together and wrestled with the tension of our feelings placed up against the principles of God’s Word, I began to see these men step up and take responsibility within our movement on the campus. They led and inspired others to lead. They took the initiative in their relationships with the women that they were dating as they saw that the responsibility and direction of those relationships rested on them. Today, they continue to walk with Jesus and lead in their homes and in their church.
+
+LEADS COURAGEOUSLY We were created to lead and that leadership requires courage—the third principle. It’s the same courage that it takes to say, “Let’s roll” on a hijacked airplane or the courage necessary to charge into a burning building when everyone else is leaving. As men we have the ability to muster up that courage to give direction, protection and provision when we are able to master our feelings and lead out of principle. Robert Lewis says, “That in order to do this we have to come under the authority of a power you respect more than yourself. That is called conversion to the lordship of Jesus Christ.”  A GREATER REWARD Finally I lead the guys I work with toward the greater reward. One of my favorite set of verses in the Bible is from Hebrews 12:1-3.
+
+Therefore, since we have so great a cloud of witnesses surrounding us, let us also lay aside every encumbrance, and the sin which so easily entangles us, and let us run with endurance the race that is before us, fixing our eyes on Jesus, the author and perfecter of faith, who for the joy set before Him endured the cross, despising the shame and has sat down at the right hand of the throne of God.
+
+For consider Him who endured such hostility by sinners against Himself, so that you may not grow weary and lose heart.
+
+These verses capture how we are able to go after the greater reward. I want the guys that I am working with to learn to come to grips with their sin and go soul to soul with other guys in the areas in which they struggle. One of the greatest satisfactions in my life has been helping create an environment where a college-age man is able to get his sin out into the open and experience forgiveness from his peers. How wonderful it is to finally look beyond the temporary satisfaction of our sin and seek the greater reward—God’s reward.
+
+CONTENT DRIVEN – I DON’T THINK SO!
+
+We’ve all been doing ministry long enough to know there are a thousand ideas and tons of materials on discipleship and men related issues. I’ve gotten a lot out of the David English’s “Quest for Authentic Manhood” material and would encourage any  of you to check it out if you haven’t. But I’d be the first to admit that there are other resources out there that are equally good.
+
+What I’ve learned in my years of working alongside of men is that success comes from relationship and not the content. Content is secondary because my greatest concern is for them and their walks with the Lord. There is a great scene in the movie An-toine Fischer where Antoine challenges the Navy psychologist. He gets in the doctor’s face calling for him to get involved in his life and not just jump in for a moment and leave.
+
+I realize that if I tried to get into the life of every guy I’ve worked with, I would fail. So what I do is, create an environment where they are learning how to connect with other men, those in the same life-stage who that can help them process life spiritually and emotionally. In this way, they don’t become dependent solely on me. One of the tools that I’ve used to help guys process life together is a series of studies on very predictable, emotional, and developmental phases of life that men experience. In his series, Quest for Authentic Manhood, David English encourages men to process with each other the various life stages that they go through emotionally and the spiritual implications of those struggles. The idea is to get guys to connect with each other to process life. One of the things David has shared is that often we have a high drive on our campuses for competence in the ministry. Within that drive to conquer it is possible to lose out on authenticity and relationship. It’s great to be effective, but what we really want and need is intimacy with the Lord and each other. We need to be pulling back and asking what is really going on in our walks with the Lord and how can we lead out of that relationship. Connectedness with the Lord and with other men really helps foster that environment.
+
+I try to use common experiences that men enjoy such as competition, food, and outdoor activities to get them connected. Within those opportunities, I teach them to be transparent with others.
+
+On summer projects, our staff do an activity called Soul to Soul, where we help the guys create an environment in which they get to know each other quickly and as naturally as possible. Each of the guys shares their personal life story as deeply as they feel comfortable in a small group atmosphere of affirmation and confidentiality. They may incorporate their family background, spiritual background and anything important to getting to know them better. Then the rest of the guys in that group ask questions about that individual’s story. Following the question time, the men gather around and pray for that guy and give him affirmation.
+
+Most of the guys I’ve worked with have never experienced this kind of acceptance. I’ve discovered that the more vulnerable I’ve been and the more I’ve been able to share from my own struggles as a man, the more they have been willing to open up and share things that they’ve never put on the table before. As a result of connecting and processing together, the content we cover has purpose and consequently growth occurs. SEX AND PORNOGRAPHY Early in my staff career I realized how difficult it is for most of us to have deep conversations about sex and pornography with guys. I was sitting across from a student on a summer project and had spent a significant amount of time trying to tap into his life. Finally, with all the courage he could muster, he shared his struggle with homosexuality and the battle that he’d faced for so many years. It was apparent from the student’s application that those who knew him had never gone below the surface in this area of the student’s life.
+
+That’s not a huge shock. It’s not like you and the guy you’re hanging out with are playing x-box in his dorm room and you naturally transition into a question, “Have you been playing with anything that you shouldn’t be lately?” Most of the applicants I review for summer project have seldom talked extensively about this subject. In the years that I’ve been working with men I’ve made the attempt, in the context of relationship, to ask the clarifying questions like, “By struggling, what do you mean?” or “What are the bad choices that you’ve made?” This helps men to talk about the Internet, pornography, and other areas that might be difficult.
+
+Alcoholics Anonymous has been one of few programs that has actually seen success in healing addiction. Many who come through the 12-step program cite step 5 as the turning point: “Admitted to God, ourselves, and one another the exact nature of our wrongs.” Step 5 is powerful because it’s predicated on James 5:16, “Therefore confess your sins to each other and pray for each other so that you may be healed.” This is not the end of the battle, but it is a turning point. In my role as a discipler, I seek to ask the questions that will surface the exact nature of the wrongs. Only then does the healing begin.
+
+CONCLUSION Manhood isn’t a problem to overcome. I love being a man and wouldn’t trade it for anything. It’s the joy of conquering a mountain top in the midst of a hail storm, the simplicity of quietly sitting around a fire with your friends and poking the embers. It’s walking into your son’s room while he’s sleeping and praying about how you’re going to lead him. It’s holding your wife securely and providing an environment for her to flourish and feel safe. It’s never taking your eyes off of Jesus and always expressing dependence upon him.
+
+I could never do it alone and God never intended me to. I have those in my life that have challenged me to move from being a boy to becoming a man and I’d never want to go back. And as a man I take responsibility for helping others make their rite of passage.  Resources “Quest For Authentic Manhood” by David English can be ordered through New Life Resources.
+
+“Defining Decisions” by David English can be ordered through publishing@gravitation studios.com

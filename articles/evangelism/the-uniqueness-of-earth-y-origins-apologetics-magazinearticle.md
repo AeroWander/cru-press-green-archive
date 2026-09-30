@@ -1,0 +1,140 @@
+---
+title: "The Uniqueness of Earth Y-origins Apologetics MagazineArticle Excerpt"
+topic: "evangelism"
+also_topics: []
+type: "Article"
+themes: ["Apologetics"]
+audience: ["Seekers"]
+series: "Y-Jesus / Y-Origins"
+words: 3389
+summary: "An excerpt from Y-Origins Apologetics Magazine presenting the \"fine-tuned universe\" argument for God's existence, citing statistics on the improbable precision of cosmic, galactic, solar, and planetary conditions required for life. It uses illustrations like lottery odds and quotes from physicists such as Paul Davies and Stephen Hawking to argue design is more plausible than chance."
+source: "Evangelism/outreach/Uniqueness of Earth.pdf"
+---
+
+There are many great apologetic books that you could leave with students if only they would read them. But they probably won’t. They might, however, skim through a magazine. So we compiled the most convincing apologetics for the existence of God and the best evidence for Jesus into two highly graphic magazines and had the designers of Relevant magazine make it look really cool. Y-Origins deals with proofs for the existence of God ranging from arguments from Intelligent Design to the nature of man (mind, aesthetics, morality, etc.).
+
+Y-Jesus presents the classic evidence for Christ including “Lord, Liar, Lunatic,” Evidence for the Resurrection, Claims to Deity, New Testament Reliability and Fulfillment of Prophecy. Y-ORIGINS
+
+### Order Online at Crupress.com
+
+WHAT ARE THE ODDS? • ARTICLE TWO • 17
+
+## What Are the Odds?
+
+## It’s Becoming Clear That the Earth Is Just Right for Life to Exist—and Everywhere Else Is All Wrong
+
+IN HIS MOVIE SIGNS, M. NIGHT SHYAMALAN PRESENTS US WITH A PRIEST (PLAYED BY MEL GIBSON) WHO HAS LOST HIS FAITH. THROUGH THE DEATH OF HIS WIFE, THE PRIEST HAS COME TO THE CONCLUSION THAT LIFE IS RANDOM. HE HAS DECIDED THAT HE WILL NO LONGER PRETEND TO SEE GOD IN THE PICTURE.
+
+As Shyamalan zooms in his lens, he shows us that life is without focus: there is no recognizable pattern. But typical of Shyama-lan, he turns the lens one more screw to the right, and at this magnification a pattern emerges. Gibson’s character is able to see the hand of a great Designer lurking behind all that had seemed random. His wife’s dying words, his daughter’s obsession with water, his son’s asthma—everything served a larger purpose.
+
+(Psalm 19:1, New Living Translation) But after Copernicus in the 1500s, many scientists began to think differently about the cosmos. They looked out at the universe with a magnified eye and deduced that laws and forces explained the phenomena of the heavens adequately on their own. These scientists now saw the cosmos as totally autonomous and independent of a Designer. system, and our planet itself, appear designed to support intelligent life on Earth. And as we calculate the odds that such fine-tuning could have appeared on its own, we are faced to consider numbers that are just another way of saying, “Impossible.”
+
+### They Don’t Call These Numbers Astronomical for Nothing
+
+At the end Mel Gibson returns to the priest-hood and makes a blockbuster called The Passion of the Christ. Well, not exactly, but his character comes full circle—from faith to skepticism and back to faith. Meanwhile, Shyamalan takes his audience on the same circuitous journey on the issue of God and design in the world.
+
+Since Galileo proved Copernicus correct in his theories about the solar system, this Copernican principle that Earth is ordinary has become the bedrock for natural-ism. Most recently, however, with newer technology and under greater magnification, what has been discovered is that the governing laws and forces themselves have a degree of design that once again point us back to a Designer.
+
+An article in U.S. News & World Report remarks, “So far no theory is even close to explaining why physical laws exist, much less why they take the form they do. Standard big bang theory, for example, essentially explains the propitious universe in this way: ‘Well, we got lucky.’ ”1 In many ways the evidence for intelligent design of the universe has come full circle. When early humans looked at the heavens, they could not escape the concept of a Creator. As the Hebrew Scripture says, The heavens tell of the glory of God. The skies display his marvelous craftsmanship. This evidence for intelligent design is referred to as the fine-tuned universe because only an exceptionally fine-tuned universe like ours could have come into existence and have the necessary ingredients to harbor life. Not only the universe, but also our galaxy, solar On Christmas Day in 2002, Jack Whitaker, of Scott Depot, West Virginia, got lucky, becoming the largest single-ticket lottery jackpot winner ever in North America. His prize? A Powerball jackpot of $314.9 million. Over a hundred million other tickets didn’t match. (Perhaps you were the proud 18 • ARTICLE TWO • WHAT ARE THE ODDS? © 2010, CruPress, All Rights Reserved. CruPress.com owner of several of them.) What are the odds of that? And what are the odds that every time I go to the Quikie-Mart I’m stuck in line behind someone purchasing several hundred tickets?
+
+If someone won even two such lotteries consecutively, we would all assume the results were rigged. And yet, when it comes to life existing in our universe, the odds are far more remote than winning a hundred Powerball lotteries consecutively. Physicist Paul Davies comments, “The conclusion must be that we live in a world of astronomical unlikelihood.”2 these odds really are. Can they be a result of anything other than design?
+
+### A Finely Tuned Universe
+
+Dr. Robin Colins states in The Case for a Creator, “Over the past thirty years or so, scientists have discovered that just about everything about the basic structure of the universe is balanced on a razor’s edge.”5 Over 35 different characteristics of the universe and its physical laws must be precisely fine-tuned for physical life to be possible.6 Following are six of those characteristics: force were altered by 0.000000000000000 00000000000000000000001 percent, neither Earth nor our Sun would exist—and you would not be here reading this.9 4. The balance of matter and antimatter. In the formation of the universe, the balance between matter and antimatter, and the excess of matter over antimat-ter, needed to be accurate to one part in ten billion for the universe to arise.
+
+5. The mass density of the universe. For physical life to exist, the mass density of the universe must be fine-tuned to better than one part in a trillion trillion trillion trillion trillion (1060).10 Thus, the mass contained in all dark and visible matter, including stars, is essential for the existence of our universe.
+
+Astrophysicist George Smoot explains that the degree of fine-tuning required for life to exist on Earth would be similar to shooting an arrow all the way to the planet Pluto (four billion miles away) and having the arrow come within a hundred yards of the target.3 Donald Page of Princeton’s Institute for Advanced Study has calculated that the odds against our universe forming on its own is one out of 10124, a number beyond the scope of the wildest imagination.4 As a comparison, it is estimated that the number of grains of sand on all the beaches on Earth is approximately 1,00018, a number that is not even close.
+
+As we consider the odds for the fine-tuning of our universe, galaxy, solar system, and planet, let’s keep in mind just how extreme 1. A large enough expansion rate. The birth of the universe had to begin with enough force, or life couldn’t exist. Stephen Hawking states, “If the rate of expansion one second after the big bang had been smaller by even one part in a hundred thousand million million, the universe would have recollapsed before it ever reached its present size.”7 2. A controlled expansion rate. Although the expansion rate had to be great enough for the universe to avoid a big crunch, if its outward force had been even a fraction greater, that would have been too much for gravity to form stars and planets. Life could never have been possible.8 3. Force of gravity. If the gravitational 6. Space-energy density. The space-energy density of the universe requires much greater precision than the mass density. For physical life to be possible, it must be fine-tuned to one part in .
+
+While the design of the universe has been gradually unfolding over vast periods of time, all of this minute fine-tuning was programmed into the initial conditions of the first microsecond of the big bang. At that instant the rate and ratios of expansion, mass, density, antimatter, matter, etc., were set in place, eventually leading to human life.
+
+“SO FAR NO THEORY IS EVEN CLOSE TO EXPLAINING WHY PHYSICAL LAWS EXIST, MUCH LESS WHY THEY TAKE THE FORM THEY DO. STAN- DARD BIG BANG THEORY, FOR EXAMPLE, ESSENTIALLY EXPLAINS THE PROPITIOUS UNIVERSE IN THIS WAY: ‘WELL, WE GOT LUCKY.’” —U.S. NEWS & WORLD REPORT
+
+WHAT ARE THE ODDS? • ARTICLE TWO • 19 In addition to the 35 different characteristics of our universe that must be just right for life to exist, over 100 characteristics of our galaxy, solar system, and planet must be fine-tuned to support physical life.12
+
+### A Finely Tuned Galaxy
+
+Galaxies are clusters of stars containing from millions to trillions of stars. Our own galaxy is called the Milky Way. It’s unknown how many galaxies the universe contains, but it may be around a trillion. Surprisingly, given the great number of these star groups, most galaxies are incompatible with life. others do not.
+
+When we focus in even closer, on our own star and its planets, the odds for life being possible become even more extreme.
+
+### A Finely Tuned Solar System
+
+As the story goes, it was the medieval church that believed the Earth to be the center of universe, with the Sun revolving around it, and it was those boys in the lab, Copernicus and Galileo, who assigned us a more random place in the universe—like, say, third place.
+
+The Sun’s metal content. Only two percent of all stars have enough metal content to form planets. Too much metal in a star will allow too many planets to form, creating chaos. Our Sun has just the right amount of metal for planets to form safely.
+
+Effect of the Moon. The Moon stabilizes the Earth’s tilt and is responsible for our seasons. If it weren’t there, our tilt could swing widely over a large range, making our winters a hundred degrees colder and our summers a hundred degrees warmer. In order for life to exist in a galaxy, it needs to meet several criteria.13 The following are just three of the fine-tuned characteristics a galaxy needs to support life:
+
+Shape of the galaxy. The Milky Way is spiral-shaped. Of the three types of galaxies—elliptical, irregular, and spiral—only the spiral type is capable of hosting human life. But things didn’t go down exactly like that. Copernicus and Galileo saw their systems as promoting the Earth, not demoting it. Galileo, in his writings, heralded the fact that Earth reflects the glory of the Sun as humankind reflects the glory of God. Galileo was right, for our location—our precise location—in the solar system bears the fingerprint of grand design. Consider just a few of dozens of proofs:
+
+This is the revolutionary message of Copernicus’s universe. True, back in the old days the Church wasn’t crazy about him messing around with the position of the Earth, and that’s why there aren’t any parochial schools named St. Copernicus. But then, maybe there should be.
+
+### A Finely Tuned Planet
+
+Not too large a galaxy. Our Milky Way is enormous, measuring 100,000 light-years from end to end. However, if it were any larger, too much radiation and too many gravitational disturbances would prohibit life like ours.
+
+Not too small a galaxy. On the other hand, a stable Earth orbit that is necessary for life could not exist if our galaxy were any smaller. And a smaller galaxy would result in inadequate heavy elements, such as iron and carbon, essential to life.
+
+Our Milky Way galaxy meets these and many other conditions essential for life. Most of the The Sun’s distance from the center of the galaxy. Our Sun is positioned thousands of light-years from the center of the Milky Way, near one of its spiral arms.14 This is the safest part of the galaxy, away from its highly radioactive center.
+
+The Sun’s mass not too large. If the mass of the Sun were any greater, it would burn too quickly and erratically to support life.
+
+The Sun’s mass not too small. On the other hand, if it were smaller, its greater flaring would disrupt Earth’s rotation rate. You may believe that aliens have sent life to Earth from a far distant galaxy (the premise of that memorable drama from 2004, AVP: Alien vs. Predator). You may believe that the government is hiding something outer spatial in Nevada’s mysterious Area 51. Or you may simply believe that there is undoubtedly intelligent life on other planets. In any case, we have all been raised on the assumption that, given enough time, intelligent life will spring up anywhere in the cosmos (with perhaps a few more eyeballs or reptilian features). Yet new evidence from cosmology is really saying the opposite. Here are a few of the features conducive to life on this planet and exceedingly rare in the universe:
+
+20 • ARTICLE TWO • WHAT ARE THE ODDS? © 2010, CruPress, All Rights Reserved. CruPress.com Water. Earth has an abundance of water, which is essential for life. Mars once had water and therefore might have harbored life. But water is only one of many requirements for life.
+
+## The Math Miracle
+
+Oxygen. Earth is the only planet in our solar system in which we can breathe. Attempting to breathe on other planets, such as Mars or Venus, would be instantly fatal, Mars having virtually no atmosphere and Venus having mostly carbon dioxide and almost no oxygen. Implicit in all of the scientifi c discoveries of fi ne-tuning in the universe is the foundational importance of mathematics to exploring the nature of the universe. Because mathematics is the lens by which we study the universe, we can miss the genius behind the lens itself. Earth’s distance from the Sun. If the Earth were merely one percent closer to the Sun, the oceans would vaporize, preventing the existence of life. On the other hand, if our planet were just two percent farther from the Sun, the oceans would freeze and the rain that enables life would be nonexistent.
+
+Plate tectonic activity on Earth. Scientists have determined that if the plate tectonic activity were greater, human life could not be sustained and green-house-gas reduction would overcompensate for increasing solar luminosity. Yet, if the activity was smaller, life-essential nutrients would not be recycled adequately and greenhouse-gas reduction would not compensate for increasing solar luminosity. for adequate plant growth, and life would be impossible.
+
+Physicist Eugene Wigner, in a widely quoted paper entitled “The Unreasonable Effective-ness of Mathematics in the Physical Sciences,” notes that scientists often take for granted that the math they use to study and quantify the miracles of the universe is miraculous itself. Wigner states, “The enormous usefulness of mathematics is something bordering on the mysterious. … There is no rational explanation for it. … The miracle of the appropriateness of the language of mathematics for the formulation of the laws of physics is a wonderful gift which we neither understand nor deserve.”19 For life to exist, each of these conditions needs to be just right. Over 100 other conditions of our galaxy, solar system, and planet also require precise fi ne-tuning for life on Earth to exist.15
+
+### One Blooming Rock
+
+Such is the nature of mathematics that no one would claim to have invented an equation but only to have discovered or uncovered something that was always true. As the great scientist Johannes Kepler stated, “The chief aim of all investigations of the external world should be to discover the rational order and harmony which has been imposed on it by God and which He revealed to us in the language of mathematics.”
+
+Ozone level in the atmosphere. Life on Earth survives because the ozone level is within the safe range for habitation. However, if the ozone level were much greater, there would be too little UV radiation for adequate plant growth. Yet, if the ozone level were much smaller, there would be too much UV radiation In a recent book entitled Rare Earth, Peter Ward (professor of geological sciences and curator of paleontology at the University of Washington in Seattle) and Donald Brown-lee (professor of astronomy, University of Washington) explore the conditions necessary for life to emerge. They conclude that Even as we calculate the extreme precision by which the universe was designed, we are alerted to yet another contour of design in the universe: the mathematical laws of physics. WHAT ARE THE ODDS? • ARTICLE TWO • 21 the conditions favorable for life must be so rare in the universe that “not only intelligent life, but even the simplest of animal life is exceedingly rare in our galaxy and in the universe.”16 This has led their readers to the conclusion expressed by the reviewer from the New York Times: “Maybe we are alone in the universe, after all.”17 is very far from discredited prescien-tifi c myth. In fact no observation has ever laid the presumption to rest. And today, four centuries after the scien-tifi c revolution, the doctrine is again reemerging. In the last decades of the twentieth century, its credibility is being enhanced by discoveries in several branches of fundamental science.
+
+Neither Ward nor Brownlee has a theistic agenda (their personal beliefs about God are absent from their text). In fact, on a less cheery note they predict, “This will be the ultimate fate of Earth: life on our planet will eventually be roasted out of existence.” (Thanks for breaking it to us so gently.) Yet their research does undergird the theistic premise that Earth and the intelligent life found on it are unique and against almost all odds of occurring elsewhere in the universe.
+
+It seems a little strange, if there is an intelligent Designer to the universe, to think that he would have orchestrated life only here in such a vast universe. But maybe, just maybe, effi ciency is not his number-one design criterion. Maybe it’s not a criterion at all, as effi ciency always implies a limited amount of resources.
+
+It seems ludicrous to claim that life exists on only one tiny speck in a universe of ten billion trillion stars. Yet, incredibly, Earth appears to sit alone in a hostile universe devoid of life, a reality recently portrayed in National Geographic:
+
+If life sprang up through natural processes on the Earth, then the same thing could presumably happen on other worlds. And yet when we look at outer space, we do not see an environ-ment teeming with life.
+
+We see planets and moons where no life as we know it could possibly survive. In fact we see all sorts of wildly different planets and moons—hot places, murky places, ice worlds, gas worlds—and it seems that there are far more ways to be a dead world than a live one.18 Michael Denton, senior research fellow in human molecular genetics at the University of Otago in New Zealand, poetically summarizes the evidence from the fi ne-tuned universe:
+
+No other theory or concept imagined by man can equal in boldness and audacity this great claim … that all the starry heavens, and every species of life, that every characteristic of reality exists for mankind. … But most remarkably, given its audacity, it is a claim which
+
+### Notes
+
+1. Gregg Easterbrook, “Before the Big Bang,” U.S. News & World Report, special edition, 2003, 16.
+2. Paul Davies, Other Worlds (London: Penguin, 1990), 169.
+3. Fred Herren, Show Me God, 3rd ed. (Wheeling, IL: Day Star, 1997), 213.
+4. Dietrick E. Thompsen, “The Quantum Universe: A Zero-Point Fluctuation?” Science News, August 3, 1985, 73.
+5. Quoted in Lee Strobel, The Case for a Creator (Grand Rapids, MI: Zondervan, 2004).
+6. Hugh Ross, The Creator and the Cosmos, 3rd ed. (Colorado Springs, CO: NavPress, 2001), 224.
+7. Stephen Hawking, A Brief History of Time (New York: Bantam, 1990), 121–122.
+8. John D. Barrow and George Silk, The Left Hand of Creation: The Origin and Evolution of the Expanding Universe (New York: Basic, 1983), 206.
+9. Lawrence M. Krauss, “The End of the Age Problem and the Case for a Cosmological Constant Revisited,” Astrophysical Journal 501 (1998): 461–466.
+10. Ross, 53.
+11. Ibid., 187.
+12. Ibid., 187–193.
+13. Guillermo Gonzalez and Jay W. Richards, The Privileged Planet (Washington, DC: Regnery, 2004), 132–138.
+14. Ibid., 132–138.
+15. Ross, 175–199.
+16. Peter D. Ward and Donald Brownlee, Rare Earth (New York: Copernicus, 2000).
+17. William J. Broad, “Science Times,” New York Times.
+18. Joel Achenbach, “Life beyond Earth,” National Geographic (January 2000 Special Millenium Issue), 45.
+19. Eugene Wigner, “The Unreasonable Effectiveness of Mathematics in the Physical Sciences,” Communications on Pure and Applied Mathematics 13 (1960): 1–14.
+20. Quoted in Strobel.
+21. Quoted in Strobel.
+
+24 • ARTICLE TWO • WHAT ARE THE ODDS? © 2010, CruPress, All Rights Reserved. CruPress.com

@@ -1,0 +1,79 @@
+---
+title: "The Wisdom of Building Movements"
+topic: "leadership"
+also_topics: []
+type: "Article"
+themes: ["Movement building & growth"]
+audience: ["Staff & team leaders"]
+authors: ["Brian McCollister"]
+series: "Building a Movement"
+words: 2442
+summary: "An article by Brian McCollister, drawing heavily on veteran staff member Jim Sylvester's experience, on proven principles for building large campus ministry movements. Covers aligning staff around shared vision, identifying a movement's stage (penetration, concentration, saturation, continuation), establishing a credible ministry atmosphere, recognizing that movement-building takes years, and concentrating recruitment on the freshman class."
+source: "MTL/MTL/MTL2/The Wisdom of Building Movements.pdf"
+---
+
+## Brian Mccollister
+
+What are we trying to do in the Campus Ministry? Bob Francis answers the question this way, “Oh, not very much...we’re only trying to change a person’s whole reason for existing.” The apostle Paul in 2 Corinthians 5:14 stated the challenge thusly, “...that they who live should no longer live for themselves but for him who died and rose again on their behalf.” We in the Campus Ministry embrace this difficult mission of “turning lost (and self-centered) students into Christ-centered laborers.” Once we accept the challenge of our mission, the question becomes, “How can we most effectively, with the teams and resources we are given, fulfill that mission?” A foundational portion of the answer lies in the context of building spiritual movements. What kind of movements? Movements of vision, evangelism and prayer. Movements that are steeped in the purposes and values of our Lord. These are the kind of spiritual movements that change lives and change the world.
+
+## Removing the Mystery of Movements
+
+Large campus movements are often dismissed with comments about the “Bible belt” or “not being into numbers” or even “old school thinking” etc. Although it is true that God is the author of spiritual movements, God most often works within the laws of sowing and reaping. Faithfully sowing seed does not guarantee a harvest but it certainly increases the odds of obtaining a harvest. We need to remove much of the mystery of movement building by defining proven principles of sowing and reaping. Perhaps the foremost expert on campus movements is Jim Sylvester. Jim has been a part of the staff of Campus Crusade since 1972. He has been used by the Lord to build movements in the East, West and Mid-west. Like any effective leader, Jim is passionate about his mission, is a master at his craft and works hard at the right things. The following is a partial reflection of his thoughts.
+
+## What’s the Purpose of a Movement?
+
+- Healthy movements produce Christ-centered laborers. If it is our mission to turn lost students into Christ-centered laborers, is it not better to turn as many lost students into Christ-centered laborers as possible? Are we believing God for too little when it comes to the size of our ministries?
+- We need a critical mass of trained laborers for the harvest in order to continually saturate the campus year after year.
+- All of our expansion goals here and overseas are dependent on laborers...not just money, tools, methods and bodies but laborers. Large pools of laborers come from large, healthy and focused movements. Arguably, larger movements reach more non-believers and send more laborers than smaller movements.
+
+## Steps to Building a Movement
+
+1. Make sure the staff are “on board” with what you are trying to accomplish and what it will take to get you there. “Alignment” is the term we use to express the idea that we are all on the same page--we are all in agreement as to our goals and means to reach those goals. Your staff team will come from a wide array of campus experiences. Don’t assume that they have ever been part of a movement. You mustn’t suppose that smiles and nodding heads indicate that your staff team is aligned. You as the local leader are responsible for aligning the team in the following areas.
+- Ministry goals--what we’re trying to achieve. “We will be successful when...”
+- Ministry plans and strategies--the “how” of what we do.
+- Ministry philosophy--the “whys” behind the “whats” and “hows.”
+- Ministry commitment. What this will cost in terms of time, priorities and involvement. The essence of the above is contained in the word, “vision.” Staff are willing to work very hard if they simply understand for what they are exchanging their lives. The problem is not that the work is too hard but often the vision is too small. Your job is to cast that vision.
+2. Identify where you are as a movement. Remember, reality is your friend. In what stage of a movement are you? Penetration, Concentration, Saturation or Continuation? “Many campus ministries of 40 run around like they were movements of 400.” Staff are taking two days off campus to prepare for a weekly meeting talk that will be given to 30 students. If you are in the Penetration stage then you need to do a lot of penetration, that is lots and lots of evangelism. Jim has identified a key principle of ministry-- ”The staff shouldn’t stop doing penetration until those you are concentrating on can do a better job penetrating than you can.”
+3. Establish the right atmosphere for your ministry. You want to create a sharp ministry environment in which your students would not hesitate to invite anyone to be a part. This is more than just “image” or some type of phony posturing. It is being effective. You will not be able to reach the campus unless you have a ministry with the social maturity to penetrate every area of campus. You will not easily assimilate converts into a movement that reeks of the Velveeta Community Church youth group. Many campuses have expanded our name to include Athletes in Action and find it makes a big difference in how they are perceived by the campus community.
+4. Realize and communicate that building a movement takes time. The common scenario is as follows. Your team works hard for a year and when you don’t get the results you want at the end of the year, you re-tool, have a new emphasis and you’re back at year one again. What we need to do is capitalize on what happens in the first year and build on it. Jim puts it this way, “More happens in five years than you and I would ever dream. Less happens in one year than we would ever hope. In building a movement, time is our friend.”
+5. Concentrate on the Freshmen. Of all of the principles of movement building this is probably the single-most neglected factor that can most easily be remedied. We are a “mission-defined (‘Turning lost students...), value-driven (faith, effectiveness and development), strategy-minded, local learning team.” Not all strategies are equal. Reaching Freshmen is not just one of many good strategies. Perhaps, because of the strategic nature of winning (to Christ and to the cause.) Freshmen, we need to take it out of the “strategy” category and place it as a “distinctive” of our ministry. Why Freshmen? Perhaps an illustration from another field will help explain the importance of the Freshman class. Probably the job that is most like that of a team leader is that of a college football coach. A college coach understands that his success is only as good as his Freshman recruiting class. He cannot sustain a successful program based on Junior College transfers. All coaches understand this. It is a distinctive of building a successful program. A coach who has back to back talented Freshman classes will end up coaching a winning team. Coaches who successfully recruit talented Freshmen year after year are those who build dynasties. Nebraska, Colorado and Penn State don’t ever need to rebuild...they just reload. In contrast with intentional recruiting, often we act more like intramural coaches. We just see who shows up and then we divide the interested students with the other Christian groups. Successful coaches go after the right people in the right class. So how does it work?
+
+## The Foundational Freshmen Class
+
+The singular goal to stress every day of the school year is to have 80 Freshmen involved by the end of the year. This is the major hinge point from which all other success criteria will be met. These will be the leaders of your movement in 2-3 years. This is your “Foundational Freshman Class.” Structure everything around assimilating 80 Freshmen by May (teams with smaller staff resources may adjust this number). This means that staff will be doing a ton of evangelism and leading Freshmen Discovery Groups.
+
+Why 80 Freshmen? Statistically only 1/2 of your Freshmen will return in the Fall. This is reality. This means you will begin your second year with 40 Sophomores. The critical event is having your first Sophomore class of 40 because you need a large base from which will come your leaders. Your Sophomore class of 40 is your “critical mass” to have on board from which all else will flow. As you come to the end of the year you can incorporate Freshmen in planning for the following year. A secondary goal is to take or send as many as possible on projects.
+
+## The Role of Summer Projects
+
+In order to build movements, we must emphasize summer projects. Students just don’t grow fast enough during the school year. Projects are the proverbial greenhouses for students. Many students grow a year of growth in a summer because projects give students the ministry exposure and training that they can’t get during the school year. If our student leaders are those who go on projects then we must get as many students as possible on summer projects.
+
+## The Second Year
+
+Assuming you are able to begin the year with 40 Sophomores (your Foundational Freshman class) now what do you do? Our tendency is to say, “We need to concentrate on these Sophomores. The Sophomores can reach and disciple the Freshmen.” This is a wrong assumption. Although you certainly want your Sophomores doing personal ministry, most of them will lack the maturity and skills necessary to be effective. They also tend to underestimate the effort it takes to get a ministry off the ground. Although many beginning personal ministries will flop, the experience is invaluable. However, if we give the next Freshmen class to the Sophomores, we’ll have very few Freshmen entering the movement and we’ll have to start over again the following year. Remember the principle--”Staff should not stop doing penetration until those they are concentrating on can do a better job in penetration than they can.” To build a movement you must assimilate a second Freshman class of 80 students. This is what Jim calls his “Movement Builder” class. We will not have a movement until we successfully concentrate on two consecutive Freshman classes. However, now the task is exponentially more difficult. For now at the same time you must nurture and care for your 40 Sophomores while going after 80 new Freshmen. It is helpful for staff to know that the second year is the hardest year of all. Evangelism and personal ministry will be very staff intensive during these first two years since historically Freshmen and Sophomores are not our best laborers.
+
+## The Third Year
+
+The third year is where the momentum is greatly increased. If you have effectively concentrated on Freshmen for two consecutive years and used your summers wisely you should now have the makings of a movement. Your third Freshman class is your “Over-the Hill” class. “No longer are we pushing the ball uphill, we’re chasing it downhill.” Because of increased numbers of people, you’re able to penetrate new areas of campus--Greeks, athletes, international students, etc. Your student leaders are successfully transitioning from being self-centered to Christ-centered. While as Sophomores they were unskilled in evangelism and discipleship, now as Juniors, they actually can be quite capable. Remember our football coach analogy? Coaches are more than willing to invest four years in a player to receive two solid years back as a contributor. The movement takes on the flavor of “Concentration” as student leaders are now doing a better job in penetration than the staff are. Students want and value training in order to enhance their ministry and ministry skills.
+
+## The Fourth Year and Following
+
+Each successive year will be characterized by growth in size, health and maturity. In your fourth year, for example, your goal might be to win a Freshman class that will return 80 as Sophomores. Because of increased student ownership staff are able to spend time penetrating new areas of campus or new campuses within the area. The point though is this--you never stop reaching the Freshman class!
+
+## Freshmen and Success Criteria
+
+Is movement building getting away from our “success criteria?” Our success criteria of “assimilated converts” and “laborers sent” still stands. These are success criteria in that they are an indicator of our effectiveness in ministry. By continually reaching Freshmen all other success criteria will most likely be met. To illustrate: McDonald’s restaurants have as their success criteria that of making a profit. Without profit they will soon be out of business. However those who flip burgers probably don’t think of this as their job--to make a profit for the owners and shareholders. They are driven by their mission and core values of quality, service and cleanliness. Chances are, if they were told to “make a profit” they could easily do so by increasing prices and reducing costs but they would soon be out of business. Their success criteria of “profit” acts as a measure of the effectiveness of their business. and minister to them deeply.
+
+In the same way, by focusing only on assimilated converts and laborers sent, we may, for the short term, see an increase in those categories but in the end it may be our undoing. Living from our values of faith, effectiveness and development and building movements of sufficient size (numbers), health and maturity to reach our campuses, most likely will be the proven way to produce assimilated converts and laborers sent. Sizable, healthy and mature movements, historically have assimilated converts and sent laborers.
+
+## How Do You Win the Right 80 Freshmen?
+
+Are we taking a step backwards and implying that we are focusing on “gathering Christians” rather than going after the lost? Not at all. Our mission is unchanging. It is to turn lost students into Christ-centered laborers. What is important is how we meet Christians. We meet (and share the 4 Laws with) Christians in the context of doing evangelism--lots of evangelism, not in entertainment that gathers Christians. Perhaps for the first time a Christian will see a trained person share his or her faith. He will see what we are about by experiencing it.
+
+While we are an evangelistic movement, we don’t want to ignore incoming Christians. These will be some of our best laborers. To get Freshmen involved and eager to come back as Sophomores we simply need to do four common sense things. 1) Help them feel valued and wanted, 2) Help them get connected to people they esteem, 3) Communicate regularly throughout the summer and 4) Minister to them from the Word.
+
+## The Director’s Job
+
+- Give your team a vision for building a spiritual movement. Build the vision together.
+- Keep them focused by defining success week by week. Help your team set personal weekly evangelistic goals. For instance you can ask that each staff have 15 evangelistic contacts the first week, 13 the second week, etc.
+- Love your team more than the work itself. Value your team, esteem them highly as fellow-laborers

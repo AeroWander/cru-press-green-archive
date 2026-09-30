@@ -1,0 +1,56 @@
+---
+title: "How to Use the Compass"
+topic: "discipleship"
+also_topics: []
+type: "Article"
+themes: ["Discipleship & follow-up"]
+audience: []
+authors: ["Tim Henderson"]
+words: 1385
+summary: "An article by Tim Henderson explaining how disciplers should use The Compass curriculum, framed as a journey metaphor. Describes a four-step preparation process for each lesson: read the lesson, internalize the content, prepare a personal presentation (not handouts), and lead a conversation rather than a fill-in-the-blank exercise."
+source: "Discipleship/How to Disciple Others/How to Use The Compass.pdf"
+---
+
+## Tim Henderson
+
+Often times in the Scriptures, God uses metaphors of journeys to describe both life in general and a relationship with Him. In Psalm 23, David describes life as a path on which God guides us, and death as a valley through which we walk. In Matthew 7, our Lord spoke of the small gate and narrow road that leads to life. And John said that he had no greater joy than to find his children walking in the truth (3 John 4). easy, but to make great discipleship possible. If you just glance over the material 10 minutes before a meeting, they’ll know it, and you’ll feel like a loser. (I know that of which I speak.) If, on the other hand, you will take the time to rigorously interact with what you learn here, and combine it with your own passions and experience, you’ll change their lives and they’ll love you forever. They may even name their kids after you and cry at your funeral. It’s worth it, so dig in. Like most trips, this one is more fun with a companion. And like all adventures into new places, you get more out of them if you can travel with someone who has been there before. It’s extremely likely that you were led to Christ by someone who had already “crossed over from death to life.” By God’s grace they were willing to come back and get you, and walk over that bridge again with you. The same goes if you have had the privilege of being discipled. Even a stud like Paul needed a Barnabas to guide him until he was ready to lead himself. Life in Christ is not meant to be experienced alone.
+
+## Step One
+
+We recommend you go through a four step process as you get ready for each appointment. The first step is to read the lesson. You can read it aloud, read it quietly, or laminate it and read it in the shower for all I care. Just read it. As you do though, notice the main sections.
+
+This Week’s Excursion. This is a brief description of where you are headed this week. It seeks to highlight the biblical objective, or main idea, that you want your disciple to grasp. It reminds you of the forest in case all you can see are the trees.
+
+Now it’s your turn. You can guide someone else as they begin to, or continue to, walk with Jesus. In this small window of infinite consequence, you can set the trajectory for another student’s entire life. It is part of the most thrilling, exciting adventure the human spirit can ever know.
+
+The Compass is designed to assist you, the discipler, in becoming a wise and helpful guide to another younger believer. Each lesson is written directly to you, the discipler, not to your disciple. There are no lessons to hand out, no blanks to fill in. Rather, there is information for you to read, internalize, prepare, and present to your disciple.
+
+Conversation on the Journey. Here you will find the heart of the lesson. This is where we get to tell you what is on our hearts about a particular topic. Or maybe we’ll be sharing with you the sweetest way we know to communicate a key idea. Some of these will seem like a private Bible study lesson; others may explain a diagram you can sketch out on the back of a grease stained napkin. As the heading implies, it should inform you of what to talk about as you lead your disciple down this leg of the trip.
+
+The lessons aren’t designed to make lame discipleship Next Steps. Your job is not to make your disciples into smarter sinners, but to help them be more like Jesus. According to the Westminster Larger Catechism, sanctification is a work of God’s grace whereby the Holy Spirit puts into our hearts all saving graces and so stirs up, increases, and strengthens those graces, so that we more and more die unto sin and rise unto newness of life. In this section, we will give some specific ways you can challenge the thoughts and actions of your disciples so as to stir up those graces. Side Trails. Sometimes on a trip you might decide to spend an extra day or two somewhere in less hurried exploration. As you are discipling believers, the same will be true. Here we will mention an extra resource or two that you can either read yourself, or recommend to your disciple for the topics either of you desire to study in greater depth.
+
+## Step Two
+
+Step two is to internalize the content. Chew on it, think about it, look up the Scripture. Build up the concordance in your head by thinking about what other passages of Scripture speak to the same issue. If there is a passage you like better, figure out if you can work from that as your main text for the lesson. Scribble on the sheet, make up a diagram if we don’t give you one, and let your mind wander to come up with an illustration from your life that can drive the point home. Quiz yourself to see if you can remember the main points we outlined. Do a “Google” search on a key term and see where that takes you. Bust out a commentary and see if you can prove we are really heretics bent on corrupting a new generation of college students. (We’re not though, so that would largely be a waste of your time.) Anyhow, the bottom line for step two is you’ve got to think. Think, think, think.
+
+## Step Three
+
+Step three is critical. Prepare for the time. Figure out how you are going to present this to your disciples. Here’s a hint though. You don’t need to tell them about this tool. Go ahead and let them think you’re a genius. If you’ve done a good job of step two it should be easy to make a couple of cheat sheets for yourself on post it notes and stick them in strategic places in your Bible. They’ll never know. Jot down the Scriptures you want to show your disciples, and the key questions or ideas. Scratch out the diagram if you aren’t sure you’ll remember it. Write out a cool quote that you want to use.
+
+Our motive in suggesting this isn’t to encourage deception, but to facilitate learning. Most people don’t learn well from fill in the blank handouts. It’s the whole Ferris Bueller phenomena:
+
+Read Acts 17:10: “As soon as it was night, the brothers sent Paul and Silas away to Berea.” Question: Where were Paul and Silas sent away to? _____________ Anyone, anyone?
+
+It’s such an awful way to teach. Don’t do it. Instead, plan to have a conversation. Know what you want to talk about and be prepared to explain the Scriptures, but don’t pass out sheets, and don’t ask questions that would bore a 6 year old. Post it notes. Give it a shot. It will be glorious.
+
+## Step Four
+
+Finally, present the material. If you have been diligent with steps 1-3, all you really need to do is show up and love your disciples. If their heart just got broken, you probably should postpone the lesson for a week. But as long as some sweet little thing, or big studly guy, didn’t just give them the “let’s just be friends” line, then you should be all set to take them on the next stage of the great journey. Talk about what you’ve been thinking about. Open up the Scriptures, draw a diagram, and by all means listen as much as you speak. You’ll change their life.
+
+Read. Internalize. Prepare. Present.
+
+Oh, yeah, one last thing. Before you get started, you really should listen to Roger Hershey’s talks also included on The Compass. They are money. Hersh is a fantastic discipler, and a first rate trainer of disciplers. Listening to those four talks will provide you with the best overall understanding of discipleship that you could hope to have. If I were you, I wouldn’t venture out until I had listened to his talks.
+
+Article taken from The Compass.
+
+Tim Henderson is the Campus Director at Penn State University and has authored or co-authored many of the Campus Ministry resources like The Compass.

@@ -1,0 +1,322 @@
+---
+title: "Justice Week Toolkit"
+topic: "mission-and-justice"
+also_topics: ["evangelism"]
+type: "Article"
+themes: ["Justice & compassion", "Outreach events & campaigns"]
+audience: ["Student leaders"]
+series: "Extracts & Documents"
+words: 5724
+summary: "IJM's Justice Week Toolkit, a lengthy leader's planning guide for organizing a week of campus events on human trafficking and injustice. It covers a planning checklist and publicity tips, then gives instructions for eight event types (outreach days, film screenings, calls to elected officials, fundraisers, worship and prayer gatherings, a small-group Bible study, and a closing celebration night), plus wrap-up/reporting guidance."
+source: "Justice/Justice Week Toolkit.pdf"
+---
+
+### IJM Justice Week Toolkit: the Basics
+
+This toolkit will help you to organize campus events that introduce your campus to issues of injustice and provide ways to get involved in the justice movement. You’ll find tools for 8 different campus events.
+
+While all of these events can be a great part of a Justice Week, none is “required.” Feel free to use any or all of these events, to structure the week however you want, and to tailor your events to fit the specific culture of your campus.
+
+TRANSFORMATIONAL COMMUNITY 1 Justice Week Toolkit 1
+
+### Thank You for Hosting a Justice Week
+
+At IJM, we are inspired and motivated by your passion to grow the movement for justice on your campus. Whether you are interested in hosting a Justice Week through an IJM Campus Chapter, a campus ministry, or an unaffiliated group of bold, passionate and willing students on your campus, we believe your focus on justice for a dedicated week will impact your campus in a significant way. It is our prayer that you see God do incredible things as you seek to share the passion he has given you!
+
+We admire and rely on your passion, energy and vision for a world free from injustice. You are one of the most powerful parts of what IJM has to offer those in need, and we’re excited to have you on board.
+
+Gratefully, IJM Student Ministries Team
+
+### Table of Contents
+
+Justice Week Toolkit: the Basics 5 Justice Week Planning Resources Get Your Ducks in a Row: Planning Checklist 7 Get the Word Out: Generate Publicity 8 Justice Week Events Introduce Your Campus to Injustice Start the Conversation: Campus Outreach Days 12 Start the Conversation: Resources 14 Show the Truth: Film Screening and Discussion 18 Mobilize Students to Act Raise Your Voices: Call on Your Elected Officials to Take a Stand 22 Fund Rescue: Fundraising Event 26 Engage with the God of Justice Lift your Hands: Praise and Worship Service Call on God: Prayer Gathering Dig Deeper: Small Group Bible Study 30 End Strong Spread Hope: Celebration Night 36 Post-Justice Week Resources Wrap-Up: Report Back and Move Forward 39 4 International Justice Mission
+
+### Justice Week Toolkit: the Basics
+
+This toolkit will help you to organize campus events that introduce your campus to issues of injustice and provide ways to get involved in the justice movement. You’ll find tools for 8 different campus events:
+
+Introduce Your Campus to Injustice Start the Conversation: Campus Outreach Days Show the Truth: Film Screening and Discussion Mobilize Students to Act Raise Your Voices: Call on Your Elected Officials to Take a Stand Fund Rescue: Fundraising Event Engage with the God of Justice Lift your Hands: Praise and Worship Service Call on God: Prayer Event Dig Deeper: Small Group Bible Study End Strong Spread Hope: Celebration Night While all of these events can be a great part of a Justice Week, none is “required.” Feel free to use any or all of these events, to structure the week however you want, and to tailor your events to fit the specific culture of your campus.
+
+We believe a Justice Week has great potential on any college campus, regardless of the size of the group running it. Thank you for taking the leap and planning this event. We want to hear from you. Please keep us updated about how the week goes — pictures and videos are welcome! Let us know about your unique ideas and the successes of your Justice Week so that we can share your story with campuses around the country. Email us at chapters@ijm.org or post on the IJM Student Movement Facebook page your videos, photos, stories, and any questions you have.
+
+Justice Week Toolkit 5
+
+## Justice Week Planning Resources6 International Justice Mission
+
+Justice Week Planning Resources
+
+### Get Your Ducks in a Row: Planning Checklist
+
+This checklist contains a list of suggested steps to help you stay organized and plan a successful Justice Week. Please feel free to stay in contact with IJM throughout your preparation so we can help you and pray for you as you plan this event. Initial Planning E Continue to deepen your connection with the work of justice by signing up to be an IJM Prayer Partner. This will also help you to communicate the most pressing needs of IJM to your campus.
+
+E Recruit others to pray for your Justice Week including campus ministry leaders, pastors, small group leaders, family members, etc.
+
+E Talk to your faculty advisor or another staff person who can give guidance and support your efforts.
+
+E Contact IJM (chapters@ijm.org) to inform us of your plans for Justice Week. Months Before E Choose a week that will not conflict with other major events already scheduled on your campus.
+
+E Talk to the Campus Ministries or Student Life office to see if there are funds available to implement these events.
+
+E Create a detailed calendar of events.
+
+E Create a master task list and assign tasks to other members of your group E Work with the appropriate campus office to invite speakers, reserve rooms, spaces, screens, tables, computers and other materials needed for your events. Two Months Before E Request information, tools and resources from IJM, such as brochures, t-shirts, videos, books and bookmarks. Email chapters@ijm.org with any resource questions. One Month Before E Publicize the dates and locations of events to your campus and community. (See recommendations in “Get the Word Out: Generate Publicity” on page 8.) After the Event E Send a summary and pictures of your Justice Week to IJM.
+
+E Consider sending a letter to the editor to your campus paper describing Justice Week and its impact.
+
+E Plan a fun event to celebrate the hard work you put into Justice Week with everyone who helped make the events possible.
+
+Justice Week Toolkit 7 Justice Week Planning Resources
+
+### Get the Word Out: Generate Publicity
+
+Publicizing your planned events is one of the most important parts of having a successful Justice Week. It is crucial for you to promote the week early on and prepare the campus and community for the events to come. There are many ways to advertise your Justice Week, so don’t limit yourselves to these suggestions.
+
+Email can be a quick and efficient way to communicate with a large group of students, faculty and staff. Utilize any listserves you, your school, or your school’s student governing board may have in place. Send an email to the students, faculty and staff a week before Justice Week begins, on the first day of Justice Week and before your Celebration Night, if you’re having one. Make sure any emails you send are engaging and concise, and be respectful of the people on your listserves by not sending too many and keeping the information relevant to your readers.
+
+Posters and flyers can be great tools, but can also often go unnoticed – so spend some time thinking of creative ways to advertise that would suit your campus well. You can find a number of customizable promotional materials here. Email chapters@ijm.org if you are interested in having IJM flyers or brochures shipped for your event. Social media is also a great way to promote your Justice Week. Get the information out on Facebook and Twitter through the profiles of everyone who is helping plan the events. Your reach is initially limited to those who follow you or are friends with you, so the more you get others to retweet or repost the better. If you have a group page on Facebook, you’ll definitely want to utilize that to rally supporters. Consider ways to multiply your following in advance of the promotion of these events. You can also create an event page on Facebook separate from, or in addition to your group page. Some campus groups have even created YouTube videos to promote the week of events – look for example videos on our Facebook page!
+
+Media Outreach: Send a letter to the editor of your campus newspaper or local newspaper, or a press release to media outlets on and off campus. Many outlets, including campus papers and radio stations, feature a calendar that accepts community events.
+
+Church Bulletins: If you are opening your events to participation from outside campus, send an email or letter including a schedule of events to local churches approximately two weeks before Justice Week begins.
+
+Consider other activities prior to (or during) your Justice Week, like flash mobs, or 8 International Justice Mission Justice Week Planning Resources shirts, buttons or other paraphernalia to start conversations about issues of injustice and how others can get involved. A group of women at the University of Toledo held a “One Dress One Month” campaign and each wore the same dress every day for 30 days. They were able to raise awareness and funds for local anti-trafficking efforts and were even featured in local news!
+
+Network with other groups on campus (UNICEF, Cru, Invisible Childremn, Amnesty International, etc.) to make your reach even bigger. There may be other groups that share your passion who are willing to help sponsor events, run events, or help advertise. If you do this with groups that don’t share your Christian faith, be sensitive to the fact that you are coming from different places, but you still do share a lot of common ground. Justice Week Toolkit 9
+
+## Justice Week EVENTS Justice Week Events
+
+10 International Justice Mission Justice Week Toolkit 11 Introduce Your Campus to Injustice
+
+### Start the Conversation: Campus Outreach Days
+
+A Conversation Day is a way to get people thinking about justice. A Conversation Day will also give you a better idea of what other students on campus think about justice and injustice.
+
+Plan your event What You’ll Need 1. A conversation starter Soularium cards If you are conducting your Justice Week through a Campus Ministry, you may find Soularium cards—a resource developed by Cru (a national student campus ministry)—to be helpful conversation-starters. These image-based cards are designed to spark conversation and can easily be adapted to the theme of justice. Show a number of the images and ask questions such as:
+
+Which three pictures do you think represent justice?
+
+Which represent injustice?
+
+Which represents what you think God thinks about injustice?
+
+You can order Solarium cards at: www.campuscrusade.com/catalog/ SOULARIUM.html Surveys to gauge how much your campus knows about issues like modern-day slavery and other forms of injustice - you'll learn about areas of interest, as well as issues of injustice your campus may not be aware of.
+
+Check out the sample surveys on page 14-15 as a starting point.
+
+2. 3. 4. 5. As many committed people to serve as “conversation starters” as possible Targeted areas on campus where people hang out A “next step” to invite participants to engage in during Justice Week if they are interested in taking action as a result of your conversation—if you are hosting a film screening or an advocacy event, these would both be great choices.
+
+A way to record contact information from interested individuals 12 International Justice Mission Introduce Your Campus to Injustice Get the Conversation Started Distribute conversation starters among your group and then intentionally strike up conversations with people around campus – you can talk to people one-on-one, or set up a table in the Student Union or another frequently traveled area.
+
+Starting a conversation doesn’t have to be intense or difficult – you can simply approach someone and ask, “Hi, I’m part of a group that’s spending this week discussing issues of injustice. Do you have a few minutes?” Remember, part of your goal is to simply get people thinking about these issues, and to understand realistically what most of the students on your campus know about global injustice and where they stand on it. Simply taking the initiative to reach out to those around you on these critical issues is a success. At the end of the day, you’ll have generated interest, and met a lot of new people as a result.
+
+If people you speak with are interested in learning more or taking action, take down their contact information so you can communicate with them in the future. Invite them to take part in one of your upcoming Justice Week events.
+
+This is also a good time to pass out flyers for other events you are hosting that week. In addition to sharing this information with the people you speak with, these are great resources to share with those who may not have time to talk during your event but are interested in learning more.
+
+Justice Week Toolkit 13 Introduce Your Campus to Injustice
+
+### Start the Conversation: Resources
+
+Injustice and its Causes: Conversation Starter Name: ____________________ Graduation Date: __________________ 1. 2. 3. 4. How do you define “injustice?”
+
+What are the main kinds of injustice you are aware of a. In our community?
+
+- b) In the world?
+
+What do you think is the cause of injustice?
+
+Who, if anyone, should be responsible for addressing these injustices? Would you be interested in… E Getting involved with [insert name of your group here] ?
+
+E Talking with someone further about issues of injustice?
+
+If yes to any of these: Email ____________________ Phone __________________ 14 International Justice Mission Introduce Your Campus to Injustice Slavery Today: Pop Quiz Name: ____________________ Graduation Date: ___________________ 1. 2. 3. 4. How many people do you think are trafficked across borders each year? How many slaves do you think there are worldwide?
+
+How much money do you think is made off of human trafficking worldwide annually?
+
+What do you think can or should be done to combat this problem?
+
+Would you be interested in:
+
+E Getting more information about modern-day slavery?
+
+E Getting involved with [insert name of group or campus ministry here] ? If yes to any of these: Email ____________________ Phone __________________ Justice Week Toolkit 15 Introduce Your Campus to Injustice
+
+### Start the Conversation: Resources
+
+The answers to the pop quiz:
+
+1. 2. 3. There are an estimated 600,000 to 800,000 children, women and men trafficked across international borders annually (U.S. Department of State).
+
+There are an estimated 27 million slaves worldwide (Kevin Bales, Disposable People).
+
+The total market value of illicit human trafficking is estimated to be in excess of $32 billion (U.N.).
+
+Questions 1-3 and the corresponding statistics could be easily swapped with anything from any of the fact sheets found on IJM’s website: www.ijm.org/resources such as: experience was forced (World Health Organization). into sex or otherwise violently abused in her lifetime (U.N. Development Fund for Women). lifetime (U.N. Millennium Project). labor) is tied with the illegal arms industry as the second largest criminal industry in the world today, and it is the fastest growing (U.S. Department of Heath and Human Services).
+
+(UNICEF). to 50 percent are minors (U.S. Department of State). proper legal representation (New York Times). judges for every million people. In the Philippines, the average judge has a backlog of 1,479 cases (U.N. Commission on Legal Empowerment of the Poor).
+
+16 International Justice Mission Introduce Your Campus to Injustice victims (ILO). perpetrators of trafficking and slavery, which is crucial for deterrence (UNODC). *It’s important to know the source when sharing statistics.
+
+Justice Week Toolkit 17 Introduce Your Campus to Injustice
+
+### Show the Truth: Film Screening and Discussion
+
+Movie screenings are a great way to provide an engaging, vivid look at issues of injustice in the U.S. and around the world. They also provide a great starting point for additional discussion and question and answer sessions.
+
+Tips could consider securing a prominent location on campus. Although you are allowed to take donations, the movie should be free to the viewers. If you collect donations benefiting IJM, make sure the percentage of the proceeds that go to IJM is clearly communicated to attendees. not shown in a movie theater or on your campus. Make sure you have a campus IT staff-member or a tech-minded member on your team to help set up the film and avoid last-minute problems. for your audience. Include this in your advertising for the event to draw a larger crowd. groups. Plan in advance how you will break the audience up into these groups—will participants number off? Turn and discuss with their neighbors? Move about the room? Make sure you are prepared with some questions to get the conversation started and make sure the audience gets the most out of the film.
+
+Check out this list of movies that other campus groups have used for successful screenings. If you’re interested in showing either of IJM’s movies about modern-day slavery—“At the End of Slavery” —email chapters@ijm.org 18 International Justice Mission Justice Week Toolkit 19 20 International Justice Mission Justice Week Toolkit 21 Mobilize Students to Act
+
+### Raise your Voices: Call on Your Elected Officials to Take a Stand
+
+Organizing an advocacy event is a great way to educate your campus about issues of injustice, while also providing immediate opportunities to take action. IJM’s Justice Campaigns team is here to help you advocate on behalf of victims of injustice by contacting your elected representatives in Congress and asking them to pass legislation that would help fight injustices around the world.
+
+What is Justice Campaigns?
+
+Justice Campaigns is IJM’s official advocacy program. We mobilize people around the country in support of US policies that will lead to the abolition of sex trafficking and modern-day slavery and the creation of public justice systems abroad that protect the poor.
+
+For information on what legislation IJM Justice Campaigns is currently working on, visit www.ijm.org/justicecampaigns or email us at justicecampaigns@ijm.org.
+
+There are lots of different kinds of events you can host to engage other students in advocacy. These are just a few suggestions – be creative as you think about what kind of event would work best for you!
+
+Letter-writing campaign What you can do: Set up a table in a high-traffic location on your campus where students can stop and write letters to their elected representatives, urging them to take a certain action to fight slavery and human trafficking (example: “Make ending slavery a priority by passing the Trafficking Victims Protection Act Reauthorization of 2011”). Preparation: Have blank paper, envelopes and pens available so it’s easy for people to write letters. Make it simple for people to address their envelopes by printing out the addresses for the senators and representatives from your state.
+
+22 International Justice Mission Mobilize Students to Act Other ideas: If you’re holding your letter-writing campaign indoors and have access to the Internet, you can set up laptops where students can write letters to their representatives electronically. Visit the IJM Justice Campaigns website (http://www.ijm.org/justicecampaigns) for a link to IJM’s most current action alert. IJM also offers pre-printed postcards that you can sign and send to your elected representatives. The postcards call on Congress to make ending slavery a priority, and they feature the most current legislation IJM is working to pass. For those who don’t have time to write a whole letter, this is a great, simple way to take action. You can order the free postcards by emailing justicecampaigns@ijm.org. Be sure to include the address you’d like them shipped to, as well as how many blank postcards you would like to get signed.
+
+Justice Week Toolkit 23 Mobilize Students to Act
+
+### Host a Call-In Day Campaign
+
+Call-in Day What you can do: Similar to hosting a letter-writing campaign, set up a table in a high-traffic location on your campus where students can make phone calls to their elected representatives, urging them to take action to fight slavery and human trafficking. Calls take just one minute, and people can make them from their cell phones.
+
+Preparation: Print out the phone numbers of your elected representatives’ offices and have them at your table so people can make the calls easily. Offer people a sample script for their calls in case they don’t know what to say. Your script might go something like this:
+
+Hi, my name is [NAME] and I’m from [CITY]. I’m calling to ask Senator [NAME] to cosponsor the Trafficking Victims Protection Reauthorization Act of 2011. Ending human trafficking is something I really care about, and passing the TVPRA is an important step in doing that. I hope the senator will make this a priority. Thanks! Contact us at justicecampaigns@ijm.org for an up-to-date recommended script. Tips: Do a little research on your elected representatives’ position on anti-trafficking legislation. If your senators/reps have supported bills in the past, you’ll want to thank them for their support in your letters/calls.
+
+Everyone has three elected representatives (two senators and one representative in the House of Representatives), so if people have time, they can write up to three letters or make three calls – one to each of their elected representatives. 24 International Justice Mission Mobilize Students to Act
+
+### Schedule an In-District Meeting!
+
+Scheduling an in-person meeting with your elected officials is one of the most effective ways to ask your representatives to make ending slavery and trafficking a priority. Remember, meeting with constituents is part of our elected officials’ job. It is also how they gauge what is important to those living in their district or state, and it is how we help decide our government’s priorities.
+
+What you can do: Find a group of students and/or professors who are interested in meeting with your senators or representative and decide what days and times you’re all available to schedule a meeting. Call your representatives’ district offices (contact information is available through www.house.gov and www.senate.gov) and find out who the scheduler is for that office. Fax or email a meeting request to the scheduler with the dates that your group is available (check out our sample meeting request: www.ijm.org/ justice-campaigns/advocacy-resources). An office may not respond to your request right away, so be sure to call the office after a week or so if you haven’t heard back. You may need to call more than once to make sure your meeting gets on the agenda. Once your meeting is scheduled, you’ll be able to meet with your elected representatives (or their staff ) and ask them to make ending slavery and trafficking a priority. Preparation: Visit the Justice Campaigns website(www.ijm.org/justice-campaigns/ district-meetings) for information on how to plan for an effective in-district meeting. On that site, you’ll find materials on current anti-trafficking legislative priorities that you can deliver at your meeting, as well as talking points to help you prepare your group on what to say. If you have any questions or want help preparing for your meeting, email justicecampaigns@ijm.org and we’ll be happy to connect with you!
+
+Network: Again, there are going to be other groups on campus who care about these issues and may want to help you have a bigger impact. Work with other advocacy groups on campus, or even with your campus’ political groups. You can bring like-minded groups together by hosting events that both parties are interested in, and they may be able to offer some experience or help with event planning.
+
+Justice Week Toolkit 25 Mobilize Students to Act
+
+### Make Rescue Possible: Fundraising Event
+
+The generous gifts of people committed to combatting injustice can literally make a life-or -death difference to those who are waiting for rescue and help. A fundraising activity is a great addition to a Justice Week.
+
+On IJM’s Raise Awareness webpage, you will find a list of ideas to help you plan creative fundraising events that will not only meet financial needs but will also raise awareness about injustice. As you come up with your own creative ideas, please consider sending them to us – we would love to share them with other schools.
+
+Here are a few suggestions to get you started:
+
+Partner with a local business for a day of donation Many student groups have built relationships with local businesses like coffee shops, ice cream shops, salons, restaurants, etc. who are happy to partner with students to donate one day’s worth of proceeds to an important cause. Talk to your local businesses and see if they would be willing to partner with your team. In this way, you can draw others out to an event at a location where they would already go and the purchases they make go toward the work of IJM.
+
+Host a Benefit Concert Host a benefit concert in a prominent location on campus. Some campuses have hosted big names and have been able to fundraise thousands for the cause, but you can even start small and invite campus musicians who want to be more known on campus. These musicians would probably be willing to play for free, and may even be willing to donate a portion of merchandise sales from the evening to your cause.
+
+Hold an Athletic Event or Tournament This can be held for nearly any sport or game from basketball to balderdash. Secure the use of facilities (gym, fields, etc.). Request that local businesses donate prizes for winners. Advertise for participants, charging an appropriate fee based on number of people per team. Make sure the tournament itself is organized efficiently and you have enough judges/referees. Include an awards ceremony to present winning teams with trophies and prizes. Include a few words about IJM so people understand what they are supporting and why it is important.
+
+Please adhere to the Better Business Bureau guidelines when undertaking any fundraising activity on IJM’s behalf. Any time that you raise funds for IJM’s work, we ask that you please clearly articulate in your marketing materials and presentations the exact portion of the proceeds that will benefit IJM. Please contact IJM for more details or if you are unclear on the policy. 26 International Justice Mission Justice Week Toolkit 27 28 International Justice Mission Justice Week Toolkit 29 Engage with the God of Justice
+
+### Lift your Hands: Praise and Worship Service
+
+A meaningful time of worship can draw people closer to the Bible’s call toseek justice and to God’s passion for the oppressed. It can offer the opportunity to find hope in the face of overwhelming need.
+
+If you are a member of a campus ministry such as Intervarsity, Cru or Navigators, you may want to plan this worship service as one of your regular meetings during Justice Week.
+
+This may also be a powerful opportunity to draw students together from various campus ministries and groups around this call so central in scripture. Consider reaching out to various ministries on your campus to create a campus-wide worship service.
+
+If you attend a Christian college or university, your school may have a regular worship service; you can consider approaching the organizers of this time to request the opportunity to work with them to plan a justice-themed worship event during your Justice Week.
+
+Plan your service – Recommendations for success Take time to share some verses that show God’s passion for justice and his call for Christians to join him in seeking justice.
+
+Create a reflective atmosphere. For example, Northwestern College chose to have candles on stage to represent survivors of violent injustice. You can brainstorm creative ways to represent victims of injustice, the Bible’s call to justice, the perpetrators of injustice and/or those working on the frontlines to combat violence. Have a time to share concrete testimonies of how God is using people to fight for justice. You can share stories of IJM’s work, or have students from your group give testimonies of how God has changed their heart to care about and take action for justice.
+
+Choose praise and worship songs that focus on God’s justice, mercy, compassion and goodness. Set the tone at the beginning of the service to direct the audience to consider how those characteristics of God relate to justice.
+
+End the service with a challenge. You may encourage attendees to write down or share what steps they will take or how they desire to live differently in light of what they have learned about the God of justice.
+
+Remember to let the attendees know about the other events that are happening throughout the rest of the week.
+
+30 International Justice Mission Engage with the God of Justice
+
+### Call on God: Prayer Gathering
+
+Prayer plays a critical role in the work of justice, and your Justice Week may be a great time to involve your campus and larger community in prayer. Consider encouraging each Justice Week team participant to find at least three people among their family, friends or church community to commit to pray at least 15 minutes each day of your Justice Week.
+
+You can also hold a Prayer Gathering during Justice Week – this can be a significant way to engage your campus in actively advocating on behalf of victims of oppression. Your Prayer Gathering can last an hour, evening, full day or be spread over several days. You may choose a highly visible location (some student groups have chosen to set up a tent on campus to attract interest), or you may prefer a reserved room, dorm, campus center or off-campus location.
+
+Planning for Success or space reservations. through other prayer-focused organizations on campus. You may want to consider inviting local churches to join you for this time.
+
+At the event, consider:
+
+Displaying boards that have information and topics for prayer. (You can find recent stories and fact sheets on various types of our casework on IJM.org. You can use these materials to focus prayer on different types of injustice.)
+
+If you set up prayer stations based on different points of focus, you should have at least one core team member at a station to answer questions and ensure that everything goes smoothly. You may want to create a schedule.
+
+Praying through the requests and praises in IJM’s weekly prayer update emails, which you can receive by signing up to be an IJM Prayer Partner. Consider sharing about this program with attendees as well. (You can also receive prayer updates by downloading the free IJM mobile app on your iPhone, Windows Phone or Droid.) Combining this prayer time with a praise and worship night.
+
+Providing note cards where students can write notes and prayers of support to IJM frontline staff around the world. At the end of the week, mail the cards to IJM (Attn: Student Ministries, PO Box 58147, Washington, D.C. 20037) and we'll deliver them for you.
+
+Justice Week Toolkit 31 Engage with the God of Justice
+
+### Dig Deeper: Small Group Bible Study
+
+Consider setting aside time during your Justice Week to dig deeper into what the Bible says about justice. If you are planning your Justice Week through a campus ministry, you may be able to engage the entire group in this time of study. You may also want to reach out to other ministries on campus to see if they would consider joining you in this focus.
+
+You may recommend that small groups take on justice as their theme for the week, or you may want to offer people the opportunity to sign up for a new small study group just for Justice Week.
+
+Cru, a national campus ministry, worked with IJM to put together a great three-part Bible study on justice that you can use to resource small groups. You can access everything you need here: http://crupress.campuscrusadeforchrist.com/green/_ assets/resources/IJM-Social-Justice-Bible-Studies.pdf 32 International Justice Mission Justice Week Toolkit 33 34 International Justice Mission Justice Week Toolkit 35 End Strong
+
+### Spread Hope: Celebration Night
+
+Conclude your Justice Week by shifting the focus from the weight of worldwide issues of injustice to the hope of rescue and restoration. A Celebration Night is a great time to highlight the success of the events over the last week to your campus. Communicate with confidence to your campus that you have made significant progress in raising awareness to many individuals who may not have known about the reality of modern-day slavery or other issues of injustice before this week. Share the approximate number of people you reached during the course of the week.
+
+Include whatever you feel would give the event a hopeful and climactic end to the week —here are a few suggestions:
+
+The night can include a time of worship, a guest speaker and/or a call to action. Other activities to consider: steps from IJM Justice Campaigns (www.IJM.org/justice-campaigns) providing $24 or more a month, students make it possible for IJM to show up 24 hours a day. (www.IJM.org/FreedomPartner) free mobile app, available on iPhone, Android and Windows phones—you’ll get breaking news, urgent prayer requests, action steps and more. You can also follow @IJMHQ and @IJMCampaigns on Twitter and Facebook. speakers@ijm.org. items from the frontlines of the fight for justice through the resources available on IJM’s website. Email chapters@ijm.org if you are looking for additional stories. Be sure to highlight to the audience that these stories happen as a result of their awareness about the issues and partnership with organizations like IJM. 36 International Justice Mission Justice Week Toolkit 37
+
+## Post-Justice Week Resources
+
+38 International Justice Mission Post-Justice Week Resources
+
+### Wrap-Up: Report Back and Move Forward
+
+And that’s a wrap—congratulations on completing your Justice Week!
+
+Now What? Collect your growth statistics:
+
+E How many new people did you reach?
+
+E How many new members did you add to your chapter/group/movement?
+
+E How many advocacy cards did you collect?
+
+E How much in donations did you raise?
+
+We would love to hear about your justice week! Consider sending chapters@ijm.org or posting on the IJM Student Movement Facebook Page: E Your growth statistics E Pictures/video from the week E A synopsis (story) of your week E Info on any successful new events or activities you created that we can share with other campuses E Links to any media coverage you received and copies of promotional materials you created E Copies of your contact information (obviously, this should be emailed only, not posted on Facebook!)
+
+E Your own feedback:
+
+Justice Week Toolkit 39 Post-Justice Week Resources
+
+### Wrap-Up: Report Back and Move Forward
+
+The Next Steps E Take time on your own and with your team to process what you learned and accomplished over the course of the week.
+
+E Thank your team and celebrate with them—consider planning a special time of prayer with them, sending short thank you notes, or sharing a fun evening together.
+
+E Is God calling you to do something new with the momentum you generated and awareness that you raised? Consider these next steps: within a campus ministry your area 40 International Justice Mission Justice Week Toolkit 41 42 International Justice Mission
+
+“When our grandchildren ask us where we were when the voiceless and the vulnerable of our era needed a leader of compassion and purpose and hope—I hope we can say that we showed up, and that we showed up on time.” – Gary Haugen, IJM PresidentJustice Week Toolkit 43
+
+International Justice Mission is a human rights agency that brings rescue to victims of slavery, sexual exploitation and other forms of violent oppression.
+
+IJM lawyers, investigators and aftercare professionals work with local officials to secure immediate victim rescue and aftercare, to prosecute perpetrators and to ensure that public justice systems—police, courts and laws—effectively protect the poor.
+
+PO Box 58147, Washington, DC 20037 fax chapters@ijm.org All text and images © 2011 International Justice Mission
+
+### www.IJM.org/ItMatters

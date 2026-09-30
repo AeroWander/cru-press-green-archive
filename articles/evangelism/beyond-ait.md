@@ -1,0 +1,104 @@
+---
+title: "Beyond Ait"
+topic: "evangelism"
+also_topics: []
+type: "Article"
+themes: ["Apologetics", "Personal evangelism & gospel conversations"]
+audience: ["Seekers"]
+authors: ["Paul E. Little"]
+words: 3585
+summary: "An apologetics article by Paul E. Little on the identity of Jesus, arguing from his own claims to deity and the reliability of the Gospel accounts that Jesus must be Lord, liar, lunatic, or legend, and building the case for the 'Lord' option. Covers Jesus's explicit and implicit claims to be God, his moral character, and the historical credibility of the Gospels' early dating."
+source: "Evangelism/apologetic/Beyond Blind Faith.pdf"
+---
+
+## Paul E. Little
+
+It is impossible for us to know conclusively whether God exists and what He is like unless He takes the initiative and reveals Himself. We must know what He is like and His attitude toward us. Suppose we knew He existed, but that He was like Adolf Hitler -- capricious, vicious, prejudiced, and cruel. What a horrible realization that would be! question He put to those who followed Him was, “Who do you say I am?” When Peter answered and said, “You are the Christ, the Son of the living God” (Matthew 16:15-16), Jesus was not shocked, nor did He rebuke Peter. On the contrary, He commended him!
+
+We must scan the horizon of history to see if there is any clue to God’s revelation. There is one clear clue. In an obscure village in Palestine, almost 2,000 years ago, a Child was born in a stable. Today the entire world is still celebrating the birth of Jesus.
+
+He made the claim explicitly, and His hearers got the full impact of His words. We are told, “The Jews tried all the harder to kill Him; not only was He breaking the Sabbath, but He was even calling God His own Father, making Himself equal with God” (John 5:18). On another occasion he said, “I and My Father are One.” Immediately the Jews wanted to stone Him. He asked them for which good work they wanted to kill Him. They replied, “We are not stoning You for any of these but for blasphemy, because You, a mere man, claim to be God” (John 10:33).
+
+He lived in obscurity until He was thirty, and then began a public ministry that lasted three years. It was destined to change the course of history. He was a kindly person and we’re told that “the common people heard Him gladly.” And, “He taught as One who had authority, and not as their teachers of the Law” (Matthew 7:29).
+
+Jesus clearly claimed attributes which only God has. When a paralyzed man was let down through the roof wanting to be healed by Him, He said, “Son, your sins are forgiven you.” This caused a great to-do among the religious leaders, who said in their hearts, “Why does this fellow talk like that? He’s blaspheming! Who can forgive sins but God alone?”
+
+At the critical moment when His life was at stake, the high priest put the question to Him directly: “Are You the Christ, the Son of the Blessed One?”
+
+## The Life of Jesus Christ. Is Jesus God?
+
+It soon became apparent, however, that He was making shocking and startling statements about Himself. He began to identify Himself as far more than a remarkable teacher or prophet. He began to say clearly that He was God. He made His identity the focal point of His teaching. The all-important “I am,” said Jesus. “And you will see the Son of Man sitting at the right hand of the Mighty One and coming on the clouds of heaven.”
+
+The high priest tore his clothes. “Why do we need any more witnesses?” he asked. “You have heard the blasphemy” (Mark 14:61-64).
+
+So close was His connection with God that He equated a person’s attitude to Himself with the person’s attitude toward God. Thus, to know Him was to know God (John 8:19; 14:7). To see Him was to see God (12:45; 14:9). To believe in Him was to believe in God (12:44; 14:1). To receive Him was to receive God (Mark 9:37). To hate Him was to hate God (John 15:23). And to honor Him was to honor God (5:23). believe that any of the Gospels were written later than A.D. 70. For a mere legend about Christ, in the form of the Gospel, to have gained the circulation and to have had the impact it had, without one shred of basis in fact, is incredible.
+
+## Jesus Christ - Not Blind Faith
+
+As we face the claims of Christ, there are only four possibilities. He was either a liar, a lunatic, a legend, or the Truth. If we say He is not the Truth, we are automatically affirming one of the other three alternatives, whether we realize it or not. For this to have happened would be as fantastic as for someone in our own time to write a biography of the late John F. Kennedy and in it say he claimed to be God, to forgive people’s sins, and to have risen from the dead. Such a story is so wild it would never get off the ground because there are still too many people around who knew Kennedy. The legend theory does not hold water in the light of the early date of the Gospel manuscripts.
+
+(1) One possibility is that Jesus lied when He said He was God -- that He knew He was not God, but deliberately deceived His hearers to lend authority to His teaching. Few, if any, seriously hold this position. Even those who deny His deity affirm that He was a great moral teacher. They fail to realize those two statements are a contradiction. Jesus could hardly be a great moral teacher if, on the most crucial point of His teaching -- His identity -- He was a deliberate liar. (4) The only other alternative is that Jesus spoke the truth. From one point of view, however, claims don’t mean much. Talk is cheap. Anyone can make claims. There have been others who have claimed to be God. I could claim to be God, and you could claim to be God, but the question all of us must answer is, “What credentials do we bring to substantiate our claim?” In my case it wouldn’t take you five minutes to disprove my claim. It probably wouldn’t take too much more to dispose of yours. But when it comes to Jesus of Nazareth, it’s not so simple. He had the credentials to back up His claim. He said, “Even though you do not believe Me, believe the evidence of the miracles, that you may learn and understand that the Father is in Me, and I in the Father” (John 10:38).
+
+(2) A kinder, though no less shocking possibility, is that He was sincere but self-deceived. We have a name for a person today who thinks he is God. That name is lunatic, and it certainly would apply to Christ if He were deceived on this all-important issue. But as we look at the life of Christ, we see no evidence of the abnormality and imbalance we find in a deranged person. Rather, we find the greatest composure under pressure.
+
+## Is Jesus God? Some Points to Consider
+
+First, His moral character coincided with His claims. Many asylum inmates claim to be celebrities or deities. But their claims are belied by their characters. Not so with Christ. He is unique -- as unique as God. (3) The third alternative is that all of the talk about His claiming to be God is a legend -- that what actually happened was that His enthusiastic followers, in the third and fourth centuries, put words into His mouth He would have been shocked to hear. Were He to return, He would immediately repudiate them. Jesus Christ was sinless. The caliber of His life was such that He was able to challenge His enemies with the question, “Can any of you prove Me guilty of sin?” (John 8:46). He was met by silence, even though He addressed those who would have liked to point out a flaw in His character.
+
+The legend theory has been significantly refuted by many discoveries of modern archeology. These have conclusively shown that the four biographies of Christ were written within the lifetime of contemporaries of Christ. Some time ago Dr. William F. Albright, world-famous archaeologist now retired from Johns Hopkins University, said that there was no reason to We read of the temptations of Jesus, but we never hear of a confession of sin on His part. He never asked for forgiveness, though He told His followers to do so. This lack of any sense of moral failure on Jesus’ part is astonishing in view of the fact that it is completely contrary to the experience of the saints and mystics in all ages. The closer men and women draw to God, the more overwhelmed they are with their own failure, corruption, and shortcomings. The closer one is to a shining light, the more he realizes his need of a bath. This is true also, in the moral realm, for ordinary mortals.
+
+Five times in the course of His life He predicted He would die. He also predicted how He would die and that three days later He would rise from the dead and appear to His disciples.
+
+Surely this was the great test. It was a claim that was easy to verify. It either happened or it didn’t. It is also striking that John, Paul, and Peter, all of whom were trained from earliest childhood to believe in the universality of sin, all spoke of the sinlessness of Christ: “He committed no sin, and no deceit was found in His mouth” (1 Peter 2:22).
+
+Pilate, no friend of Jesus, said, “What evil has He done?” He implicitly recognized Christ’s innocence. And the Roman centurion who witnessed the death of Christ said, “Surely He was the Son of God” (Matthew. 27:54).
+
+Both friends and enemies of the Christian faith have recognized the resurrection of Christ to be the foundation stone of the faith. Paul, the great apostle, wrote, “If Christ has not been raised, our preaching is useless and so is your faith” (1 Corinthians 15:14). Paul rested his whole case on the bodily resurrection of Christ. Either He did or He didn’t rise from the dead. If He did, it was the most sensational event in all of history.
+
+## God Does Not Ask for Blind Faith
+
+Second, Christ demonstrated a power over natural forces which could belong only to God, the Author of these forces.
+
+He stilled a raging storm of wind and waves on the Sea of Galilee. In doing this He provoked from those in the boat the awestruck question, “Who is this? Even the wind and waves obey Him!” (Mark 4:41) He turned water into wine, fed 5,000 people from five loaves and two fish, gave a grieving widow back her only son by raising him from the dead, and brought to life the dead daughter of a shattered father. To an old friend He said, “Lazarus, come forth!” and dramatically raised him from the dead. It is most significant that His enemies did not deny this miracle. Rather, they tried to kill Him. “If we let Him go on like this,” they said, “everyone will believe in Him” (John11:48). If Christ rose, we know with certainty that God exists, what He is like, and how we may know Him in personal experience. The universe takes on meaning and purpose, and it is possible to experience the living God in contemporary life.
+
+On the other hand, if Christ did not rise from the dead, Christianity is an interesting museum piece -- nothing more. It has no objective validity or reality. Though it is a nice wishful thought, it certainly isn’t worth getting steamed up about. The martyrs who went singing to the lions, and contemporary missionaries who have given their lives in Ecuador and Congo while taking this message to others, have been poor deluded fools.
+
+Third, Jesus demonstrated the Creator’s power over sickness and disease. He made the lame to walk, the dumb to speak, and the blind to see. Some of His healings were of congenital problems not susceptible to psychosomatic cure. The most outstanding was that of the blind man whose case is recorded in John 9. Though the man couldn’t answer his speculative questioners, his experience was enough to convince him. “One thing I do know. I was blind but now I see!” he declared. He was astounded that his friends didn’t recognize this Healer as the Son of God. “Nobody has ever heard of opening the eyes of a man born blind,” he said (John 9:25, 32). To him the evidence was obvious. The attack on Christianity by its enemies has most often concentrated on the Resurrection because it has been clearly seen that this event is the crux of the matter. A remarkable attack was the one contemplated in the early ‘30s by a young British lawyer. He was convinced that the Resurrection was mere fable and fantasy. Sensing that it was the foundation stone of the Christian faith, he decided to do the world a favor by once and for all exposing this fraud and superstition. As a lawyer, he felt he had the critical faculties to rigidly sift evidence and to admit nothing as evidence which did not meet the stiff criteria for admission into a law court today. Fourth, Jesus’ supreme credential to authenticate His claim to deity was His resurrection from the dead. However, while Frank Morrison was doing his research, a remarkable thing happened. The case was not nearly as easy as he had supposed. As a result, the first chapter in his book, Who Moved the Stone? is entitled, “The Book That Refused to Be Written.” In it he described how, as he examined the evidence, he became persuaded against his will, of the fact of the bodily resurrection of Christ. that they were perpetrators of a deliberate lie which was responsible for the deception and ultimate death of thousands of people. It is inconceivable that, even if a few of the disciples had conspired and pulled off this theft, they would never have told the others.
+
+## The Death of Jesus
+
+Jesus’ death was by public execution on a cross. The government said it was for blasphemy. Jesus said it was to pay for our sin. After being severely tortured, Jesus’ wrists and feet were nailed to a cross where He hung, eventually dying of slow suffocation. A sword was thrust into His side to confirm His death. Each of the disciples faced the test of torture and martyrdom for his statements and beliefs. Men and women will die for what they believe to be true, though it may actually be false. They do not, however, die for what they know is a lie. If ever a man tells the truth, it is on his deathbed. And if the disciples had taken the body, and Christ was still dead, we would still have the problem of explaining His alleged appearances.
+
+The body of Jesus was then wrapped in linens covered with approximately 100 pounds of gummy-wet spices. His body was placed in a solid rock tomb A 1 1/2- 2 ton boulder was rolled by levers to secure the entrance. Because Jesus had publicly said He would rise from the dead in three days, a guard of trained Roman soldiers was stationed at the tomb. And an official Roman seal was affixed to the tomb entrance declaring it government property.
+
+A second hypothesis is that the authorities, Jewish or Roman, moved the body! But why? Having put guards at the tomb, what would be their reason for moving the body? Also, what about the silence of the authorities in the face of the apostles’ bold preaching about the Resurrection in Jerusalem? The ecclesiastical leaders were seething with rage, and did everything possible to prevent the spread of this message that Jesus rose from the dead. They arrested Peter and John and beat and threatened them, in an attempt to close their mouths.
+
+In spite of all this, three days later the body was gone. Only the grave linens remained, in the form of the body, but caved in. The boulder formerly sealing the tomb was found up a slope, some distance away from the tomb.
+
+But there was a very simple solution to their problem. If they had Christ’s body, they could have paraded it through the streets of Jerusalem. In one fell swoop they would have successfully smothered Christianity in its cradle. That they did not do this bears eloquent testimony to the fact that they did not have the body.
+
+## Was Jesus’ Resurrection Just a Story?
+
+The earliest explanation circulated was that the disciples stole the body! In Matthew 28:11-15, we have the record of the reaction of the chief priests and the elders when the guards gave them the infuriating and mysterious news that the body was gone. They gave the soldiers money and told them to explain that the disciples had come at night and stolen the body while they were asleep. That story was so false that Matthew didn’t even bother to refute it! What judge would listen to you if you said that while you were asleep you knew it was your neighbor who came into your house and stole your television set? Who knows what goes on while he’s asleep? Testimony like this would be laughed out of any court.
+
+Another popular theory has been that the women, distraught and overcome by grief, missed their way in the dimness of the morning and went to the wrong tomb. In their distress they imagined Christ had risen because the tomb was empty. This theory, however, falls before the same fact that destroys the previous one. If the women went to the wrong tomb, why did the high priests and other enemies of the faith not go to the right tomb and produce the body? Further, it is inconceivable that Peter and John would succumb to the same mistake, and certainly Joseph of Arimathea, owner of the tomb, would have solved the problem. In addition, it must be remembered that this was a private burial ground, not a public cemetery. There was no other tomb nearby that would have allowed them to make this mistake.
+
+Furthermore, we are faced with a psychological and ethical impossibility. Stealing the body of Christ is something totally foreign to the character of the disciples and all that we know of them. It would mean The swoon theory has also been advanced to explain the empty tomb. In this view, Christ did not actually die. He was mistakenly reported to be dead, but had swooned from exhaustion, pain, and loss of blood. When He was laid in the coolness of the tomb, He revived. He came out of the tomb and appeared to His disciples, who mistakenly thought He had risen from the dead. [of your heart] and knock; if anyone hears my voice and opens the door, I will come into him” (Revelation 3:20).
+
+The late Carl Gustav Jung said, “The central neurosis of our time is emptiness.” All of us have a deep longing for our life to have meaning and depth. Jesus offers us a more meaningful, abundant life, which comes through a relationship with Him. Jesus said, “I came that they might have life, and have it abundantly” (John 10:10).
+
+This is a theory of modern construction. It first appeared at the end of the eighteenth century. It is significant that not a suggestion of this kind has come down from antiquity among all the violent attacks which have been made on Christianity. All of the earliest records are emphatic about Jesus’ death. Because Jesus died on the cross, taking with Him all of humankind’s sin, He now offers us forgiveness, acceptance and a genuine relationship with Him. But let us assume for a moment that Christ was buried alive and swooned. Is it possible to believe that He would have survived three days in a damp tomb without food or water or attention of any kind? Would He have had the strength to extricate Himself from the graveclothes, push the heavy stone away from the mouth of the grave, overcome the Roman guards, and walk miles on feet that had been pierced with spikes? Such a belief is more fantastic than the simple fact of the Resurrection itself.
+
+Right now you can invite Jesus Christ into your life. You could say to Him something like, “Jesus, thank You for dying on the cross for my sins. I ask You to forgive me and to come into my life right now. Thank You for giving me a relationship with You.” Adapted from “Know Why You Believe” by Paul E. Little, published by Victor Books, copyright (c) 1988, SP Publications, Inc. Used by permission.
+
+Even the German critic David Strauss, who by no means believes in the Resurrection, rejected this idea as incredible. He said:
+
+It is impossible that One who had just come forth from the grave half dead, who crept about weak and ill, who stood in the need of medical treatment, of bandaging, strengthening, and tender care, and who at last succumbed to suffering, could ever have given the disciples the impression that He was a conqueror over death and the grave; that He was the Prince of Life. Finally, if this theory is correct, Christ Himself was involved in flagrant lies. His disciples believed and preached that He was dead but came alive again. Jesus did nothing to dispel this belief, but rather encouraged it.
+
+The only theory that adequately explains the empty tomb is the resurrection of Jesus Christ from the dead.
+
+Paul E. Little worked for twenty-five years with InterVarsity Christian Fellowship. Until his death in 1975, Little was also associate professor of evangelism at Trinity Evangelical Divinity School.
+
+## The Ability to Know God
+
+If Jesus Christ rose from the dead, proving He is God, He is alive today. He is willing to be more than worshiped. He is willing to be known and to come into our lives. Jesus said, “Behold, I stand at the door

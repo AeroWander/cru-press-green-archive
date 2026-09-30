@@ -1,0 +1,82 @@
+<main id="main">
+<section class="hero hero-home">
+  <div class="hero-in">
+    <p class="eyebrow">Campus ministry resources</p>
+    <h1>{{SITE}}</h1>
+    <p class="lede">{{COUNT}} articles, guides and studies (about {{WORDS}} words) on evangelism, discipleship, small groups, leadership and more. Search them, or browse by topic.</p>
+    <form class="searchbox" role="search" onsubmit="return false">
+      <label class="sr" for="q">Search the library</label>
+      <svg aria-hidden="true" viewBox="0 0 24 24" width="20" height="20"><circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" stroke-width="2"/><path d="M20 20l-4-4" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+      <input id="q" type="search" placeholder="Search titles, summaries, authors…" autocomplete="off" enterkeyhint="search">
+      <button id="clear-q" type="button" class="clear" aria-label="Clear search" hidden>×</button>
+    </form>
+    <div class="search-opts">
+      <label class="switch"><input id="ft" type="checkbox"><span>Also search inside article text</span></label>
+      <span id="ft-status" class="ft-status" aria-live="polite"></span>
+    </div>
+    <p class="try">Try: <button type="button" data-try="prayer">prayer</button><button type="button" data-try="&quot;follow up&quot;">"follow up"</button><button type="button" data-try="Rick James">Rick James</button><button type="button" data-try="first six weeks">first six weeks</button><button type="button" data-try="justice">justice</button></p>
+  </div>
+</section>
+
+<section class="filters-band" id="search" aria-label="Filters">
+  <div class="wrap">
+    <details class="filters" id="filters">
+      <summary><span>Filters</span><span id="filter-count" class="badge" hidden></span></summary>
+      <div class="filter-grid">
+        <label>Topic<select id="f-topic"><option value="">All topics</option></select></label>
+        <label>Theme<select id="f-theme"><option value="">All themes</option></select></label>
+        <label>Audience<select id="f-aud"><option value="">Anyone</option></select></label>
+        <label>Author<select id="f-author"><option value="">Any author</option></select></label>
+        <label>Series<select id="f-series"><option value="">Any series</option></select></label>
+        <label>Length<select id="f-len">
+          <option value="">Any length</option>
+          <option value="short">Quick read (under 5 min)</option>
+          <option value="medium">Medium (5–15 min)</option>
+          <option value="long">Long (15 min or more)</option>
+        </select></label>
+        <label>Type<select id="f-type">
+          <option value="">All types</option>
+          <option value="Article">Articles &amp; guides</option>
+          <option value="Handout">Handouts &amp; text</option>
+          <option value="Flyer">Flyers &amp; posters</option>
+        </select></label>
+        <label>Sort by<select id="f-sort">
+          <option value="rel">Best match</option>
+          <option value="az">Title A–Z</option>
+          <option value="short">Shortest first</option>
+          <option value="long">Longest first</option>
+        </select></label>
+      </div>
+    </details>
+  </div>
+</section>
+
+<section class="results-wrap wrap" id="results-section" hidden>
+  <div class="res-head">
+    <div>
+      <h2 id="res-title">Results</h2>
+      <p id="res-count" class="res-count" aria-live="polite"></p>
+    </div>
+    <button id="clear-all" type="button" class="btn-ghost">Clear all</button>
+  </div>
+  <div id="active" class="active-chips"></div>
+  <div id="topic-intro" class="topic-intro" hidden></div>
+  <ol id="results" class="results"></ol>
+  <button id="more" type="button" class="btn-more" hidden>Show more</button>
+</section>
+
+<section class="wrap browse" id="browse">
+  <h2 class="sec-title">Browse by topic</h2>
+  <div class="topic-grid">
+{{TOPIC_GRID}}
+  </div>
+
+  <h2 class="sec-title">Series</h2>
+  <p class="sec-sub">Sets of articles written to be read together.</p>
+  <div id="series-list" class="pill-list"></div>
+
+  <h2 class="sec-title">Authors</h2>
+  <p class="sec-sub">Writers with three or more pieces in the library.</p>
+  <div id="author-list" class="pill-list"></div>
+</section>
+</main>
