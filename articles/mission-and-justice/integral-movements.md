@@ -125,7 +125,7 @@ Jesus alone satisfies the deepest longings of the human heart. He alone can resc
 
 ## Appendix 1: Personal Understanding, Convictions, and Philosophy
 
-Key Passages about Declaring and Demonstrating Gospel Truth
+### Key Passages about Declaring and Demonstrating Gospel Truth
 
 There’s a host of Old Testament passages that teach us to proclaim the excellencies of our great God and Savior, and to show compassion for—or seek justice on behalf of—the widow, orphan, alien, and poor. For instance, Old Testament writers, especially the Psalmists, repeatedly exhort us to “tell of the wondrous works of God” (e.g. Ps. 145) so that his ways “may be known on earth, [his] saving power among all nations” (Ps. 67:2). Moses, the Prophets, and the Poets also repeatedly exhort us to show compassion for the poor and oppressed—to “loose the bonds of wickedness, to undo the straps of the yoke, to let the oppressed go free…to share your bread with the hungry, and bring the homeless poor into your house…” (Isaiah 58:6ff )—because God Himself “executes justice for the fatherless and the widow, and loves the sojourner, giving him food and clothing” (Dt. 10:18).
 

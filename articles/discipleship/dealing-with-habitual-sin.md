@@ -51,7 +51,7 @@ ADDRESS SINFUL BEHAVIOR BUT KEEP YOUR EYE ON THE BIG PICTURE—RELATIONSHIP
 
 First, by way of perspective, habitual sin needs to be addressed. But, the behavior itself isn’t the main issue. In other words, the struggle this person faces is not primarily moral but relational. As John Ortberg has stated, ultimately, we are to be growing in love for God and others. This is the essence of maturity and godliness, not whether we “acted out” last week. The behavior is important, not because it is a moral failure but because it hinders and even cuts off relating with God and others in holy and intimate ways. And, as Henry Cloud relates, the behavior must be dealt with otherwise there is no hope of getting to the deeper issues of relational sin and need that will lead to more lasting and profound heart change.
 
-HELP STUDENTS DEVELOP A STRATEGY FOR GROWTH AND CHANGE
+### Help Students Develop a Strategy for Growth and Change
 
 Recognizing that one needs to keep relationship primary, the person also must have a strategy to deal with the behavior. Successful plans for lasting change always include these actions:
 
@@ -69,7 +69,7 @@ Recognizing that one needs to keep relationship primary, the person also must ha
 
 These ideas are clearly not exhaustive. In fact there may be some issues beyond your training and experience to handle. That’s okay. One of the things that’s important for you to become familiar with is the other resources for growth available in your geographic area—pastoral, counseling and support groups.
 
-THE BATTLE IS WON ONE DAY AT A TIME
+### The Battle Is Won One Day at a Time
 
 Emphasize the one-day-at-time nature of the struggle. And, avoid calling students to dramatic one-time commitments. It is unwise and unrealistic to encourage them to commit to such things as purity (whatever that is) or not masturbating ever again (or this month). Most of the time people who sincerely want to walk with Christ have made countless commitments in areas of habitual sin. These can often be counter productive in that they ultimately lead to disillusionment and despair. A more effective approach is to help students take things one day at a time. This is a biblical concept. Remember God’s provision of manna for the Israelites on a daily basis? (See also Matthew 6:11; Hebrews 3:7; 4:7). This perspective also highlights the relational nature of growth. We invite God into our daily struggles and temptations and receive moment by moment His gracious power and presence. Rather than thinking in terms of victory, think of it as a process of growth and change and the benefits of the journey.
 
@@ -79,7 +79,7 @@ Encourage students that they aren’t alone. So many think they are the only one
 
 Let’s talk about a specific Blow-Pop at this point. With the explosion of the Internet, more and more young people, both men and women, are finding themselves caught in the snare of pornography. This stronghold is incredibly powerful and will affect more and more of our culture as time goes on. There are an increasing number of resources to help people ensnared by sexual sin and addiction. For group and campus settings, two excel-lent resources are the companion books written by Rick James called Flesh (for men) and Fantasy (for women). They are available through New Life Resources and will help move students out of isolation and into community with one another.
 
-LEAD FROM WEAKNESS
+### Lead from Weakness
 
 This principle goes far deeper then simply how you lead others. Perhaps the heading should read “Live from Weakness.” Some reflective questions at this point are in order: Am I living in “the light” myself (1 John 1)? Am I embracing my own weakness and brokenness so God’s power might rest on me (2 Corinthians 12:7-10)? Am I embracing the fact that apart from Christ I can do nothing (John 15:5)? Am I appropriately open-ing up my life and my heart in my daily experience with others? Thus when it comes to leading others I am simply living out who I am. Ultimately it’s not an issue of thinking about how I can get others to share their “uglies” with me but rather a natural dynamic borne out of a lifestyle of authenticity.
 
@@ -87,7 +87,7 @@ Obviously there is need for some Spirit-directed discretion here. It is inapprop
 
 However, as we practice authentic living, God will naturally give insight into how to enter into another’s life. Then, we simply take advantage of opportunities to go deeper. Practically, it means looking for ways to empathize with our disciples and how they are feeling. Over time, you earn the right to enter in.
 
-BEYOND ACCOUNTABILITY
+### Beyond Accountability
 
 Elements of what we commonly refer to as accountability are helpful in dealing with habitual sin. Accountability offers us the opportunity to come into the light and confess our sins to others. However, accountability groups or partners can take on the component of simply becoming a “tracking device” for sinful and destructive behavior. They can easily focus on the negative—avoiding certain behavior—and not on the positive of moving out of isolation and into authentic, real relationships. Account-ability relationships can become somewhat artificial in nature. We might come to the group meeting, confess our sins, and yes be accepted, but there might be little interaction or connection outside of the meeting itself.
 
@@ -95,7 +95,7 @@ Perhaps a new paradigm is needed here. Ask yourself some tough questions: Am I w
 
 Finally, never give up when it comes to seeking grace/truth relationships. There may be a few false starts in developing intimate connections that will last. Sometimes group members don’t mesh well. Sometimes people start strong but lose focus and commitment to the group. People graduate or move away. We need to convince others, and be convinced ourselves that it’s worth the risk, and the blood, sweat and tears. As a wise campus director once said to me, “Even if the group doesn’t work, you can still grow because you’ve trusted the Lord in stepping out of isolation and toward relation-ship with others.”
 
-MAKE CONNECTIONS TO EXISTING BIBLICAL MODELS OF GROWTH
+### Make Connections to Existing Biblical Models of Growth
 
 Before offering a specific application let’s look at how we view growth within Campus Crusade for Christ. We emphasize many facets of a person’s growth strategy—the importance of God’s Word, prayer, God’s love and forgiveness, and worship. But, two models are at the forefront when it comes to what it means to walk with Christ and grow in our faith: the Spirit-filled life and what’s been labeled as the Growth Model. Here is a brief sketch of what these mean. First, the foundational principles of the Spirit-filled life are:
 
@@ -127,7 +127,7 @@ One of the most powerful dynamics of a healthy recovery group is the recognition
 
 A person also receives truth, or direction, in two forms. First, there is honesty that flows from truth. If we hope to recover, we must be brutally honest about our Blow-Pop and our “sin history.” In AA, people are told upon entering the Program that their chances of recovery are good if they are willing to be brutally honest about their addic-tive behavior and their sinful attitudes. Second, people receive the truth by “working the Program.” They must work through each of the 12 steps with a sponsor (loosely compared to a discipler) who can help them navigate what it means to recover and learn to live in a healthy and mature lifestyle. They do not get coddled and told they are okay but they are presented with a strategy and the tools to grow and mature. The goal of making comparisons to AA is not to convince you to start a 12-step group, but rather to show how a relatively successful program of recovery actually mirrors in many ways biblical principles such as walking in the Spirit and moving into relationships of grace and truth. We need to show how to apply the Spirit filled life and the Growth Model directly to a person’s Blow-Pops.
 
-PUTTING IT INTO PRACTICE
+### Putting It into Practice
 
 In closing, let’s look at how you can take at least one practical step toward leading your group out of isolation and into relationship. First, read Rocky’s story together, either in a small group or one-on-one. Feel free to embellish and edit it as needed. Then, take some time to think through some questions to help students break the ice and begin living in the light. Here are just a few suggestions:
 

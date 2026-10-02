@@ -86,7 +86,7 @@ Therefore, in Luke’s gospel, the rich are tested on the ground of their wealth
 
 Therefore, Jesus’s mission laid out in Luke 4 is not a mission of structural change and social transformation, but a mission to announce the good news of his saving power and merciful reign to all those brokenhearted—that is, poor— enough to believe.
 
-What Makes the Great Commission So Great?
+### What Makes the Great Commission So Great?
 
 Having examined several common “missional” texts and come to the conclusion that these passages are often misappropriated and misunderstood, we are now in a position to turn our attention to the Great Commission, or more precisely, the Great Commissions (Matt. 28:16–20; Mark 13:10; 14:9; Luke 24:44–49; Acts 1:8). 16David J. Bosch, Transforming Mission: Paradigm Shifts in Theology of Mission (Maryknoll, NY: Orbis, 1991), 104. For ease of reading, we dropped Bosch’s parenthetical citations in these two sentences. They were: Nissen 1984: 175, 176; cf. Pobee 1987: 19, 53. Many other scholars past and present, including Eckhard Schnabel, David Hesselgrave, Robert Stein, Christopher Little, I. Howard Marshall, and Darrell Bock, have come to similar conclusions. See Schnabel, Early Christian Mission, 225. References to many of the other authors were found in David Hesselgrave, Paradigms in Conflict: 10 Key Questions in Christian Missions Today (Grand Rapids: Kregel, 2005), 125–38. 17Darrell Bock, Luke 1:1–9:50, Baker Exegetical Commentary on the New Testament (Grand Rapids: Baker, 1994), 408.
 
@@ -106,7 +106,7 @@ Fifth, the Great Commissions seem to sum up many of the major themes of the Gosp
 
 The Great Commissions, therefore, whether at the close or the outset of the narrative, are more than random parting words from Jesus. They actually shape the whole story, either as the climax to which everything points or as the fountain from which everything flows.
 
-What Do We Have Here?
+### What Do We Have Here?
 
 With all that as necessary introduction, we can now turn to examining briefly the Great Commission texts themselves. Matthew 28:16–20 We start with the most famous commission:
 

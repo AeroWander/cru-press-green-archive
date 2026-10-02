@@ -24,7 +24,7 @@ Team Members Campus Student Leaders Volunteers, Alumni, and others involved
 
 ____________________________________________________________________
 
-Love the Lord
+### Love the Lord
 
 - Walk in the power of the Holy Spirit
 - Grow in prayerful dependence on God
@@ -46,7 +46,7 @@ Live out the Missional Objectives
 - Raise up new Missional Teams to build new movements
 - Develop Christ-like Leaders
 
-Line-up Resources
+### Line-up Resources
 
 - Ensure that you and your team have the necessary resources (Money, People, Supplies, Technology) to live out the missional objectives
 - Determine with the team what it will take ($, people, supplies) to reach your scope

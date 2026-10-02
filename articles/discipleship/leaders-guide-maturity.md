@@ -29,11 +29,11 @@ Each believer needs to be part of an environment characterized by healthy relati
 
 The focus today is how to grow in a relationship with Christ. When someone first receives Christ, they are at the beginning of a new life. We might use the word “undeveloped” to describe them. Someone who is undeveloped is lacking growth or yet to realize their full potential. Most believers go through this phase at the beginning of their relationship with Christ. The key is not getting stuck there but continuing to grow.
 
-THE 5 ELEMENTS OF THE TEMPLATE
+### The 5 Elements of the Template
 
 The goal of your interaction is to effectively and relationally communicate key biblical concepts, and so each interaction contains the following elements: Comparing Our Stories; Considering Our Struggles; Exploring the Solution; Examining the Sketch; and Taking Steps.
 
-COMPARING OUR STORIES
+### Comparing Our Stories
 
 Share the story of your spiritual growth. Use an appropriate example or two of your early spiritual immaturity. Also be sure to talk about who and what God used to help you begin to grow.
 
@@ -97,7 +97,7 @@ READ SECTION C. It’s through fellowship that we build one another up. In time,
 
 READ SECTION D. God gives us the power to influence others for Christ through His Spirit. See Acts 1:8.
 
-TAKING STEPS
+### Taking Steps
 
 To help your friend develop a plan of action for all three relational characteristics of the growth environment, consider using the following conversation. The person’s possible responses are in brackets.
 

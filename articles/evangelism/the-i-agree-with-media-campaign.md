@@ -622,7 +622,7 @@ The goal of this packet has been to give you the basic framework from which to p
 
 Matt Aalseth, UC Berkeley Student eaglebrand@hotmail.com Holly Ashman, Campus Crusade for Christ Staff, UC Berkeley Hollyashman@hotmail.com Julie Dobie, UC Berkeley Alumni Julie_dobie@hotmail.com
 
-Scenarios Shaking Out during Paul Week
+### Scenarios Shaking Out during Paul Week
 
 Purpose of this time: To provide Christians a clearer picture of what to expect during the week, so they may not be caught off guard, and to provide recommendations in response.
 

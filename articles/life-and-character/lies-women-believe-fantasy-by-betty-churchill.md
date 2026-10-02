@@ -189,14 +189,14 @@ Truth: ( Isaiah 46:10, Hebrews 5: 8 )
 - No matter what problem I am facing, God’s grace is sufficient for me.
 3. I Can’t Help the Way I Am This lie makes us into helpless victims of other people and outside circumstances. The suggestion is that someone or something else is responsible for who we are—that we have no more control over who we are and what we do than a marionette does. We somehow believe that we are destined to be controlled by whomever and whatever is pulling our strings. This lie leaves us without hope that we can ever be different.
 
-Truth: ( Romans 6:6-7, 1 Thessalonians 5:24)
+### Truth: ( Romans 6:6-7, 1 Thessalonians 5:24)
 
 - If I am a child of God, I can choose to obey God.
 - I am responsible for my own choices.
 - I can be changed through the power of God’s Spirit.
 4. I Should Not Have to Live with Unfulfilled Longings We are encouraged to identify our longings and do whatever is necessary to get those “needs” met. Therefore, if you’re hungry, eat. If you want something you can’t afford, charge it. If you crave romance, dress or act in a way that will get men to notice you. If you’re lonely, share your heart with a married man at work. At best, this way of thinking has left many women still unfulfilled, still groping, still searching for something to fill the inner emptiness.
 
-Truth: ( Luke 1:38, 1 Peter 5:7)
+### Truth: ( Luke 1:38, 1 Peter 5:7)
 
 - I will always have unfulfilled longings this side of heaven.
 - The deepest longings of my heart cannot be filled by any created person or thing.
@@ -207,7 +207,7 @@ Truth: ( Luke 1:38, 1 Peter 5:7)
 - “The choices I make today will not have consequences.”
 - “I can play with fire and not get burned.”
 
-Truth: ( Galatians 6:7-8, Ezekiel 18:19-22)
+### Truth: ( Galatians 6:7-8, Ezekiel 18:19-22)
 
 - The choices I make today will have consequences; I will reap what I sow.
 - Sin’s pleasures last only for a season.
@@ -222,7 +222,7 @@ Truth: ( Psalm 19:7,107:20,119:105)
 - It is impossible for me to be the woman God wants me to be apart from spending consistent time cultivating a relationship with Him in the Word and prayer.
 7. I Have to Have a Husband to Be Happy Marriage is good and right, and it is God’s plan for most people. There can be (and ought to be) great joy and blessing in the context of a God-centered marriage. However, Satan twists the truth about marriage by suggesting to women that the purpose of marriage is personal happiness and fulfillment, and they cannot be truly happy without a husband to love and meet their needs.
 
-Truth: ( Hebrews 13:5, Psalm 23:1)
+### Truth: ( Hebrews 13:5, Psalm 23:1)
 
 - Happiness is not found in (or out of) marriage.
 - There is no person who can meet my deepest needs. No one and nothing can make me truly happy apart from God.
@@ -232,7 +232,7 @@ Truth: ( Hebrews 13:5, Psalm 23:1)
 
 The truth is that, due to our fallen condition, our feelings often have little to do with reality.
 
-Truth: ( Philippians 4:4, 6-9)
+### Truth: ( Philippians 4:4, 6-9)
 
 - My feelings cannot always be trusted. They often have little to do with reality and can easily deceive me into believing things that are not true.
 - I must choose to reject any feelings that are not consistent with the Truth.
@@ -240,7 +240,7 @@ Truth: ( Philippians 4:4, 6-9)
 
 We are saying, “Someone or something made me the way I am.” We feel that if our circumstance were different—our upbringing, our environment, the people around us—we would be different. If our circumstances make us what we are, then we are all victims. Because if we’re victims, then we’re not responsible—we can’t help the way we are. But God says we are responsible, not for the failures of others, but for our own responses and lives.
 
-Truth: ( Philippians 4: 11-12)
+### Truth: ( Philippians 4: 11-12)
 
 - My circumstances do not make me what I am; they merely reveal what I am.
 - If I am not content with my circumstances, I am not likely to be happy in any other set of circumstances.

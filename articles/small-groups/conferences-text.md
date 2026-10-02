@@ -24,7 +24,7 @@ Document Descriptions:
 
 All About the Fall Retreat
 
-File: All About the Fall Retreat.pdf
+## All About the Fall Retreat
 
 Description: This article is, well, all about the Fall Retreat: why we have one, how to have one, and the role served by the Fall Retreat in the overall campus calendar.
 
@@ -32,7 +32,7 @@ Tags: Fall Retreat, Conferences, Retreats, Community, Commitment
 
 The Christmas Conference
 
-File: The Christmas Conference.pdf
+## The Christmas Conference
 
 Description: This could be the most important event on the Campus Ministry calendar. Students either return second semester eager to lead and serve, or uncommitted and unmotivated; the difference is the Christmas Conference.
 
@@ -40,7 +40,7 @@ Tags: Conferences, Retreats, Community, Winter, Christmas Conference, Commitment
 
 Spring Break-Big Break
 
-File: Spring Break.pdf
+## Spring Break
 
 Description: Fall Retreat sits in the middle of the first semester; Christmas Conference bridges between semesters; and Big Break provides the major rallying point of the second semester. This article explains the pivotal role of Big Break in the ministry cycle.
 
@@ -48,7 +48,7 @@ Tags: Conferences, Retreats, Community, Commitment, Training, Big Break, Spring
 
 Men's and Women's Overnight
 
-File: Men's and Women's Retreat.pdf
+Men's and Women's Retreat
 
 Description: Explained here is the ministry strategy behind the Men’s and Women’s Overnight/Retreat, which provides a stutter-step of involvement for those on the fringe of ministry involvement.
 
@@ -56,7 +56,7 @@ Tags: Conferences, Retreats, Community, Commitment, Men, Women, Overnight
 
 Raising Funds For Conferences
 
-File: Raising Funds for Conferences.pdf
+## Raising Funds for Conferences
 
 Description: Here you’ll find step-by-step instructions for writing a support letter, allowing you to raise money (instead of spending your own) to attend a conference or retreats.
 
@@ -64,7 +64,7 @@ Tags: Conferences, Retreats, Community, Support Raising, Fund Development, Ask
 
 Challenging to Conferences
 
-File: Challenging to Conferences.pdf
+## Challenging to Conferences
 
 Description: An invitation basically says, “Come if you want,” or “Come if there’s nothing better to do.” The problem is, we often don’t want to do things that spiritually benefit us. This article explains how to give a biblical challenge to a conference instead of just an invite.
 
@@ -74,7 +74,7 @@ Tags: Challenge, Conference, Retreat, Discipleship
 
 The Power of an Ask
 
-File: The Power of an Ask.pdf
+## The Power of an Ask
 
 Description: This article looks at the reasons we fail to invite or ask people to come with us to a conference, and why we need to do so despite it possibly being awkward.
 
@@ -82,7 +82,7 @@ Tags: Challenge, Conference, Retreat, Discipleship, Ask, Invite
 
 Getting Parents Approval
 
-File: Getting Parents Approval.pdf
+## Getting Parents Approval
 
 Description: Parental approval should be considered a very significant piece of information in discerning God’s leading, and asking for that approval requires courage and humility. This article outlines a godly process for seeking the approval of parents.
 
@@ -90,7 +90,7 @@ Tags: Challenge, Conference, Retreat, Parents, Permission
 
 The Philosophy of Recruiting
 
-File: The Philosophy of Recruiting.pdf
+## The Philosophy of Recruiting
 
 Description: In this article, Eric Swanson explains the role conferences play in the spiritual lives of students, and the role recruiting plays in the life of a ministry leader.
 
@@ -98,7 +98,7 @@ Tags: Leadership, Recruiting, Conferences, Retreats, Challenge
 
 Building Vision Through Conferences and Retreats
 
-File: Building Vision.pdf
+## Building Vision
 
 Description: As the Proverb goes, “for lack of vision my people perish.” God’s people need a vision, both for the Lord and for their lives, and this is what a conference uniquely provides. This article makes clear the connection between conferences and vision.
 
@@ -106,7 +106,7 @@ Tags: Conference, Retreat, Vision, Challenge
 
 The Why and When of Conferences
 
-File: The Why and When of Conferences.pdf
+## The Why and When of Conferences
 
 Description: Some people joke that our name should be Campus Crusade for Conferences. But there’s a reason behind every conference we hold, including when it’s held. Here, you’ll learn the method behind the conference madness.
 
@@ -114,7 +114,7 @@ Tags: Conference, Retreat, Planning, Leadership
 
 Why Consider Going?
 
-File: Why Consider Going?.pdf
+## Why Consider Going?
 
 Description: For the person struggling with whether or not to attend a conference, this article is the perfect thing for them to read through and pray over.
 

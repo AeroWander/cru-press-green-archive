@@ -68,7 +68,7 @@ Another way to look at it, however, is to ask, “Is it out of bounds to have an
 
 Contrary to popular belief, God is not the consummate parent wagging His Michelangeloesque finger and saying something is wrong “Just because I said so” (although, if you ask me, He certainly has every right to do so). If God draws a line and says not to cross it, that’s because it’s not a true reflection of His nature and character and/or because it’s detrimental to us in some way—physically, emotionally, or spiritually. We know that orgasms per se are not bad. After all, God created them, and so that experience of intense physical pleasure is somehow reflective of how good God is. Yeah, it shows just a taste of His goodness and pleasure. (I know that’s possibly a little freakish to think about, but it’s true.) So then, the question becomes, are there detrimental consequences to masturbation?
 
-WHAT WILL IT COST ME?
+### What Will It Cost Me?
 
 What is it that God is trying to protect us from? I’m not a sex therapist by any stretch, but I recently had a conversation with Marnie Feree who does counsel women with sexual issues. She gave me some insight into the risks involved.
 

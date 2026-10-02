@@ -42,7 +42,7 @@ IS THIS THE RIGHT PERSON?
 
 Doubts about themselves:
 
-AM I REALLY COMMITTED?
+### Am I Really Committed?
 
 What impact would doubts like these have on a marriage? Why? How could similar doubts have an impact on our relationship with Jesus? Why?
 

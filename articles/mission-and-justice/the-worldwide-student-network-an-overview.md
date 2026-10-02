@@ -49,7 +49,7 @@ Before a person leaves college, his worldview and trajectory in life will be set
 
 Chapter Twenty One  English is spoken on almost every college campus throughout the world. It is the common language—the lingua franca. This is not true of the many villages, towns, and cities where people are less educated. You can walk onto almost any university in the world and get involved in a spiritual conversation in English without having to go through years of learning the language.
 
-WHO WILL MOST EFFECT CHANGE WITHIN A FOREIGN COUNTRY?
+### Who Will Most Effect Change Within a Foreign Country?
 
 All of the key leaders (political, social, military) in any foreign country ultimately come from universities. The most strategic way to reach a nation with the gospel is by reaching its next generation of leaders, and the greatest collection of them will always be at the campuses.
 

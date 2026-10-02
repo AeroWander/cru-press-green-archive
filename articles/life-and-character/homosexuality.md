@@ -22,7 +22,7 @@ Flesh is divided into three sections: small group discussion material, topical a
 
 Partial List of Topics Covered: Temptation, Confession, Community, Filling of the Spirit, Faith, Accountability, Pornography, Worship, Truth-Scripture, Habitual Sin, Homosexuality, Masturbation, and Sanctification-How We Grow.
 
-FLESH
+### FLESH
 
 Moments before writing this, I just put down an article in Time magazine on “R Family Vacations,” a luxury cruise for the three million United States families headed by gay parents. The cruise is being launched and funded by Rosie O’Donnell and circuits between New York, Florida and the Bahamas. In sharing this, I have no desire to fuel outrage, because Christian outrage has done little to bring Christ to these lost people. I mention this only to say that the issue of homosexuality is not going to go away. Therefore, we, as Christians, need to raise our awareness, aptitude and level of compassion for and evangelism toward the homosexual community. They are the 21st, century equivalent of the first-century tax collector.
 

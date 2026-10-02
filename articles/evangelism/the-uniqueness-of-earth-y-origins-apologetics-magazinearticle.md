@@ -57,7 +57,7 @@ While the design of the universe has been gradually unfolding over vast periods 
 
 “SO FAR NO THEORY IS EVEN CLOSE TO EXPLAINING WHY PHYSICAL LAWS EXIST, MUCH LESS WHY THEY TAKE THE FORM THEY DO. STANDARD BIG BANG THEORY, FOR EXAMPLE, ESSENTIALLY EXPLAINS THE PROPITIOUS UNIVERSE IN THIS WAY: ‘WELL, WE GOT LUCKY.’” —U.S. NEWS & WORLD REPORT
 
-WHAT ARE THE ODDS?
+### What Are the Odds?
 
 - ARTICLE TWO
 - 19 In addition to the 35 different characteristics of our universe that must be just right for life to exist, over 100 characteristics of our galaxy, solar system, and planet must be fine-tuned to support physical life.12

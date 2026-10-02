@@ -60,7 +60,7 @@ Imagine that moment when a lie concerning lust begins to ticker tape through you
 
 He then began to teach them that the Son of Man must suffer many things and be rejected by the elders, chief priests and teachers of the law, and that he must be killed and after three days, rise again. He spoke plainly about this, and Peter took him aside and began to rebuke him. But when Jesus turned and looked at his disciples, he rebuked Peter, “Get behind me, Satan.”
 
-Mark 8:29-33
+### Mark 8:29-33
 
 Wouldn’t you expect that Jesus would greet this temptation (the same one given by Satan to bypass the cross) with a passage of Scripture? But he doesn’t. He does, however, resist it with truth. He blurts out the bald, blunt and hurtful truth that Satan is using Peter to tempt him, and he will not listen to it.
 
@@ -80,7 +80,7 @@ In arming yourself against lust with the sword of Scripture, we would make the f
 
 But among you there must not be even a hint of sexual immorality, or of any kind of impurity, or of greed, because these are improper for God’s holy people.
 
-Ephesians 5:3
+### Ephesians 5:3
 
 Flee from sexual immorality. All other sins a man commits are outside his body, but he who sins sexually sins against his own body. Do you not know that your body is a temple of the Holy Spirit, who is in you, whom you have received from God? You are not your own; you were bought at a price. Therefore, honor God with your body.
 
@@ -92,7 +92,7 @@ It is God’s will that you should be sanctified: that you should avoid sexual i
 
 I made a covenant with my eyes not to look lustfully at a girl.
 
-Job 31:1
+### Job 31:1
 
 Now, don’t just memorize these verses, but meditate on them. Think about the truth encapsulated in the words. This ain’t Harry Potter. Bible verses are not spells. They are truths that, if meditated upon and believed, will protect and renew our minds.
 
@@ -100,17 +100,17 @@ Secondly, memorize more individual verses that are tailored to your situation. S
 
 Do not be deceived: God cannot be mocked. A man reaps what he sows.
 
-Galatians 6:7
+### Galatians 6:7
 
 Third, don’t simply say the verses to yourself in your head. At different times—particularly during tempting situations—verbalize these verses. Look at the following passage:
 
 Consequently, faith comes from hearing the message, and the message is heard through the word of Christ.
 
-Romans 10:17
+### Romans 10:17
 
 I long to see you so that I may impart to you some spiritual gift to make you strong—that is, that you and I may be mutually encouraged by each other’s faith.
 
-Romans 1:11-12
+### Romans 1:11-12
 
 The first passage obviously affirms the power of hearing God’s Word. The second verse is less apparent, but the point is that there is something about actually communicating and orally repeating the Word of God that is different than simply saying it in your head. You are imitating God. God did not just think creation into existence but spoke it.
 

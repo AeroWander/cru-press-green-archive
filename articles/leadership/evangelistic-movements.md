@@ -40,7 +40,7 @@ Your evangelism plan should include priorities and action plans that address two
 
 ## Evangelistic Movements
 
-An Outcome Analysis
+### An Outcome Analysis
 
 Three or four indicators delineate each of the five primary outcomes of an evangelistic movement below. Rate on a scale of 1 to 7 each indicator for your movement.
 

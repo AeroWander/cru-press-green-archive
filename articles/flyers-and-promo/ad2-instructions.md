@@ -45,7 +45,7 @@ FONTS
 
 7 Fonts Used; 0 Missing, 0 Embedded, 0 Incomplete, 0 Protected
 
-Fonts Packaged
+### Fonts Packaged
 
 - Name: CenturyGothic-Bold; Type: TrueType, Status: OK
 - Name: Helvetica-Bold; Type: TrueType, Status: OK

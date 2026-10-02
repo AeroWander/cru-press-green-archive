@@ -76,7 +76,7 @@ When David was confronted with his sin, he had two options: Confession or denial
 
 Have mercy on me, O God, according to your unfailing love; according to your great compassion blot out my transgressions. Wash away all my iniquity and cleanse me from my sin. For I know my transgressions, and my sin is always before me. Against you, you only, have I sinned and done what is evil in your sight….You do not delight in sacrifice, or I would bring it; you do not take pleasure in burnt offerings. The sacrifices of God are a broken spirit; a broken and contrite heart, O God, you will not despise.
 
-Psalm 51:1-4a, 16-17
+### Psalm 51:1-4a, 16-17
 
 David knew that there was no sacrifice that would cover all these presumptuous sins of murder, covetousness and adultery. David knew there was nothing left to do but to throw himself on the mercy of God. The confrontation of a man of God leads David back into the arms of God. Dietrich Bonhoeffer wrote, “Nothing can be more cruel than the leniency which abandons others to their sin. Nothing can be more compassionate than the severe reprimand which calls another Christian in one’s community back from the path of sin.”
 

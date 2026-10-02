@@ -248,7 +248,7 @@ Read vERSES 29-45 11. According to Daniel, the four parts of the statue represen
 15. Which of these three areas did you focus on this week? How did it go?
 16. Finally, notice the effect that the four are beginning to have on Nebuchadnezzar. What do you think he means in verse 47? Is he a worshiper of God?
 
-BIBle STUdy DaNIEl 3: yOU’RE FIREd!
+### Bible Study Daniel 3: You’re Fired!
 
 1. Last week we learned the content and meaning of King Nebuchadnezzar’s statue dream. What do you think was his favorite part?
 

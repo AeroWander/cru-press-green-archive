@@ -57,7 +57,7 @@ More information on ESM internships can be found at each movement’s web site:
 
 The Impact Fellowship Program The Epic Internship The Destino Internship
 
-Staffed Campuses
+### Staffed Campuses
 
 How many U.S. college students are on God’s heart? All 17 million of them! You can be a part of what God is doing on campuses in the United States by working with a full-time Campus Ministry staff team. You can help create new strategies, gain leadership experience, hone your small group skills, and invest yourself in something that will outlive you. Imagine the impact one year will have on the rest of your life
 

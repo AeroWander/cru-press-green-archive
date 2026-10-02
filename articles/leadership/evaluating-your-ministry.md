@@ -87,7 +87,7 @@ FOUR QUESTIONS OF EVALUATION In evaluating the components of your ministry, ask:
 - “What did we not do that we should have done?”
 - “What will we do next year?”
 
-WHO SHOULD EVALUATE?
+### Who Should Evaluate?
 
 Leaders who have had responsibilities for the preceding year should do the evaluation. You may also want to include future leadership so they will have a better idea of the “hows” and “whys” of your movement. A good rule of thumb to follow is this: Only those who will be implementing the plans should have the responsibility for making the plans. As a team, you don’t want those who won’t be around next year to plan the schedule.
 

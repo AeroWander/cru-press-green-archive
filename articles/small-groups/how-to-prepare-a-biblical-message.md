@@ -107,7 +107,7 @@ Responsibilities of Weekly Meeting Team Leader:
 
 Here are some helpful points to consider:
 
-Planning Meetings
+### Planning Meetings
 
 - Debrief the last weekly meeting, Evaluate how well the meeting is staying on track with the mission and vision of Crusade
 - Plan the next meeting and address any upcoming issues
@@ -122,7 +122,7 @@ Planning Meetings
 - Communicate with other teams to see how they use weekly meeting as a platform for announcing an event they are coordinating.
 - Make sure technical aspects are all in place
 
-Talk Content for Weekly Meeting
+### Talk Content for Weekly Meeting
 
 - The Big 11: The Gospel Message; Assurance of Salavation; Having a daily Quiet Time; Confessing our Sin; Being Empowered by God’s Spirit; How to Pray; Sharing Christ with others; The Great Commission; Biblical Community, Lordship of Christ; Eternal Perspective
 - Take content from Cru.Comm and turn into a talk
@@ -131,7 +131,7 @@ Talk Content for Weekly Meeting
 - Biblical view of Sex and Relationships
 - Intamacy (with God) series:
 
-Roles of the Leaders
+### Roles of the Leaders
 
 - Type up a schedule for emcees, speaker, anyone on stage, band, tech people during the meetings
 - Manage the meeting, including feel and flow
@@ -246,7 +246,7 @@ Announcements / Opportunities Pass out calendar. Pass out phone/email list.
 - Highlight some announcements by writing them on the chalkboard or hanging up a poster in the room.
 - Call them, “things you need to know.”
 
-Testimonies
+### Testimonies
 
 - Summer projects/Missions trips
 - Salvation

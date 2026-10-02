@@ -27,7 +27,7 @@ BIG IDEA
 
 Relationships are a gift from God. But, we have sought after ultimate fulfillment in them. The Gospel confronts the way we try to pile the deepest longings of our heart onto one person instead of God himself.
 
-RELATIONSHIPS POP QUIZ
+### Relationships Pop Quiz
 
 SAY “To begin this study we are going to take a quick Relationships Pop Quiz. Let’s read through all the questions first and then flip the sheet upside-down to see the answers.”
 
@@ -43,7 +43,7 @@ THE PROBLEM
 
 SAY “Now we are going to read a story from Scripture that deals with the topic of relationships. Can I have one volunteer who would be willing to read this story? Please read loudly and slowly so that we can catch what is going on.”
 
-READ John 4:1-26
+### Read John 4:1-26
 
 How does Jesus use the well in the story as a spiritual analogy with the Samaritan woman? The well in the story represents her spiritual thirst. Jesus showed her that she had been going after men to quench her spiritual thirst.
 
@@ -219,7 +219,7 @@ BIG IDEA
 
 Alcohol is a gift from God. But, it is often an abused gift. The Gospel confronts both the way we use alcohol to get the happiness that only God can give and the way we use legalistic solutions to fix alcohol abuse.
 
-CHURCH HISTORY POP QUIZ
+### Church History Pop Quiz
 
 SAY “To begin this study we are going to take a quick Church History Pop Quiz. Let’s read through all the questions first and then flip the sheet upside-down to see the answers.”
 
@@ -432,7 +432,7 @@ BIG IDEA
 
 Beauty is a gift from God. But, it is often a redefined and abused gift. The Gospel confronts both the way we use beauty to get the acceptance that only God can give and the way we use our moral performance to make ourselves beautiful enough for God.
 
-BEAUTY POP QUIZ
+### Beauty Pop Quiz
 
 SAY “To begin this study we are going to take a quick Beauty Pop Quiz. Let’s read through all the questions first and then flip the sheet upside-down to see the answers.”
 
@@ -637,7 +637,7 @@ BIG IDEA
 
 Sex is a gift from God. But, we abuse this gift by redefining its boundaries. The Gospel confronts both the way we pursue sex as life's highest pleasure and the way we reduce sex to either an appetite or procreation.
 
-SEX POP QUIZ
+### Sex Pop Quiz
 
 SAY “To begin this study we are going to take a quick Sex Pop Quiz. Let’s read through all the questions first and then flip the sheet upside-down to see the answers.”
 

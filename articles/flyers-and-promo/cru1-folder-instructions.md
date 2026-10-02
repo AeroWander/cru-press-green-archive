@@ -45,7 +45,7 @@ FONTS
 
 5 Fonts Used; 0 Missing, 0 Embedded, 0 Incomplete, 0 Protected
 
-Fonts Packaged
+### Fonts Packaged
 
 - Name: AvenirNext-DemiBold; Type: TrueType, Status: OK
 - Name: AvenirNext-Medium; Type: TrueType, Status: OK

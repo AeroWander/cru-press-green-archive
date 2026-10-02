@@ -215,9 +215,12 @@ def article_page(a, related, series_nav):
     chips = "".join(chip_link(t, "theme", t, depth) for t in a["themes"])
     note = f'<p class="note"><b>Note</b> {esc(a["note"])}</p>' if a.get("note") else ""
     toc = toc_entries(toc, a["title"], a.get("authors", []), a.get("series", ""), a["words"]) if a.get("toc", True) else []
-    toc_html = ""
+    toc_html = side_html = ""
     if len(toc) >= 3:
-        toc_html = f'<details class="toc"><summary>On this page <small>{sum(1 for i, e in enumerate(toc) if e[0] == 2 or i == 0)} sections</small></summary>{toc_list(toc)}</details>'
+        n_sec = sum(1 for i, e in enumerate(toc) if e[0] == 2 or i == 0)
+        toc_html = (f'<details class="toc"><summary><span class="toc-label">On this page</span>'
+                    f'<small class="toc-count">{n_sec} sections</small><span class="toc-current"></span></summary>{toc_list(toc)}</details>')
+        side_html = f'<nav class="toc-side" aria-label="On this page"><b>On this page</b>{toc_list(toc)}</nav>'
     rel = ""
     if related:
         rel = '<section class="related"><h2>Related reading</h2><div class="cards">' + "".join(card(r, depth) for r in related) + "</div></section>"
@@ -229,7 +232,7 @@ def article_page(a, related, series_nav):
         cells += (f'<a class="next" href="../{nxt["topic"]}/{nxt["slug"]}.html"><small>Next in {esc(a["series"])} →</small><span>{esc(nxt["title"])}</span></a>' if nxt else "<span></span>")
         snav = f'<nav class="pn" aria-label="Series navigation">{cells}</nav>'
     src = f'<p class="source">Original file: <code>{esc(a["source"])}</code></p>'
-    body = f"""<main id="main" class="article-main">
+    body = f"""<main id="main" class="article-main{' has-side' if side_html else ''}">
 <div class="hero hero-article"><div class="hero-in">
 <nav class="crumbs" aria-label="Breadcrumb"><a href="../../index.html">Library</a><span>›</span><a href="../../index.html#topic={a["topic"]}">{esc(tname)}</a></nav>
 <h1>{esc(a["title"])}</h1>
@@ -237,6 +240,7 @@ def article_page(a, related, series_nav):
 <p class="meta">{" · ".join(esc(b) for b in meta_bits)}</p>
 </div></div>
 <div class="reader">
+{side_html}
 <article>
 {series}
 <div class="summary"><b>In brief</b><p>{esc(a["summary"])}</p></div>
@@ -252,8 +256,7 @@ def article_page(a, related, series_nav):
 </div>
 {rel}
 </main>"""
-    scripts = ("<script>var t=document.querySelector('.toc');"
-               "if(t&&matchMedia('(min-width:900px)').matches)t.open=true</script>")
+    scripts = f'<script src="../../assets/article.js?v={VER}"></script>'
     return shell(f'{a["title"]} · {SITE_NAME}', a["summary"][:160], depth, body, topic=a["topic"], scripts=scripts)
 
 
@@ -343,6 +346,10 @@ def good_heading(t, prior_words, raw):
         return False                                                                  # "What What", "So,what"
     if re.search(r"\(con[’'t.]*\)|\bcont(inued|’d|'d)?\b", t, re.I): return False       # "(con't)" repeats
     if DROP_PHRASES.search(t) or t.lower() in LONE_WORDS: return False
+    if re.search(r"^related articles|^contributions by|over \d+ articles|^name\b.*\bphone$|\d[A-Z][a-z]|topic title", t, re.I): return False
+    if re.fullmatch(r"(?:(?:always|often|sometimes|rarely|never|high|somewhat|not at all|low)\s*)+", t, re.I): return False
+    if t.count("[") != t.count("]") or t.count("(") != t.count(")"): return False      # "Well)", "…[wait, maybe"
+    if len(re.findall(r"\b\d?\s?[A-Z][a-z]+ \d+(?::\d+)?(?:-\d+)?", t)) >= 3: return False   # a list of Bible references
     first = re.search(r"(?<![A-Za-z0-9])[A-Za-z]", t)                               # first word that starts with a letter
     if first and first.group(0).islower(): return False                              # "8) going to work"
     if re.search(r"[?.!]\s+[A-Z]{4,}$", raw): return False                           # "…tomb? ENDNOTES"
@@ -394,7 +401,7 @@ def toc_entries(toc, title, authors=(), series="", words=10**6):
             out.append((lvl, hid, t.rstrip(":")))
             prior_words.update(w.lower() for w in re.findall(r"[A-Za-z’']+", t))
     # hide the box when most short, distinct candidates were debris (long sentences don't count either way)
-    if short_distinct >= 4 and len(out) < 0.5 * short_distinct: return []
+    # (every entry left has passed the checks above, so a box is shown even when most candidates were debris)
     # one lone top-level heading over a pile of sub-headings reads badly; show them all at one level
     if sum(1 for l, _, _ in out if l == 2) < 2: out = [(2, h, t) for _, h, t in out]
     # "4 Walks · Walk Assured", "4 Walks · Walk Forgiven" → a "4 Walks" group with the sessions under it

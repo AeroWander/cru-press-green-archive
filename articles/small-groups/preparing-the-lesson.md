@@ -160,7 +160,7 @@ THE ULTIMATE ROADTRIP
 
 Gethsemane, about faith in a boat, righteous anger in the temple, and evan‑ gelism beside a dusty well in a Samaritan village. Each change in environment brought an opportunity to teach another truth. (Don’t take this too far. You don‘t have to move your group every week to match your topic.) Think about the atmosphere you‘ll be creating in your small group. Ask yourself, ”What can I do to communicate to my group that this is a safe place
 
-Bad Environments for Small Groups
+### Bad Environments for Small Groups
 
 - •
 •
@@ -275,7 +275,7 @@ THE ULTIMATE ROADTRIP
 
 6.5
 
-After Your First Group Meeting
+### After Your First Group Meeting
 
 - Take some time to thank God for your group and the meeting time.
 - Try to drop by and see each member at least once before the next meeting to get to know them better and get feedback. You might do something social, but don’t force yourself on them. Let them know you care about them as a person.

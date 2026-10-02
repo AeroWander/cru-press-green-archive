@@ -117,7 +117,7 @@ Share the topics to be covered:
 
 Say, ìNow we want to leave with a little challengeóthis study will be a good foundation to build on for the rest of your life.î Go to the ìParable of the Soilsî Bible study.
 
-Key Tip
+### Key Tip
 
 It is imperative that you be very familiar with the parable so that it comes across properly. For example, it would be easy to miss the fact that the condition of man’s heart (the different soils) is the whole point of this parable. Everything else (the same seed, the same birds flying around, etc.) is constant; the soil type is the variable.
 
@@ -224,7 +224,7 @@ It’s nice to have good looks, money, status, brains, and success. But if our s
 
 Rate yourself on each of the following statements using this scale:
 
-Always Often Sometimes Rarely Never
+### Always Often Sometimes Rarely Never
 
 □ There are certain areas in which I just have to succeed. □ I get down on myself when I fail. □ I get angry at people when they get in my way or when their actions make me look foolish. □ I am self critical. □ When I sense that I might experience rejection by someone I become nervous and anxious. □ I find myself uncomfortable around people I don’t know. □ It bothers me when someone is unfriendly to me. □ I find myself trying to impress others.
 
@@ -674,7 +674,7 @@ As follow-up after an evangelistic event (e.g., film, speaker, team meeting). Wi
 
 With your movement’s fringe contacts.
 
-Setting Up a Study and Inviting People
+### Setting Up a Study and Inviting People
 
 Pray for yourself – for wisdom and grace – and for those you wish to invite. Tell them “I think you may be interested in (or “you may find interesting”) this series of five studies from the New Testament about Jesus, His message and its relevance today. These studies are designed to be discussions and to give you a chance to look into Christianity.”
 
@@ -868,7 +868,7 @@ For an idea of how good this evidence is, compare the New Testament with other w
 
 When we examine the historical evidence relating to the Bible, one learns that there are thousands of manuscripts of the New Testament books. Therefore, we have good reason to believe that we know almost exactly what Luke, Paul and the others wrote.
 
-About the Author
+### About the Author
 
 The author of this gospel, Luke, also wrote another book in the New Testament, the Acts of the Apostles. He was the only New Testament writer who was not Jewish, and he was a doctor. Independent evidence confirms that he was a very careful and accurate historian.
 
@@ -1134,7 +1134,7 @@ She could be sure that she was at peace with God. Jesus had welcomed, accepted a
 
  2004 Campus Crusade for Christ, Inc. Permission granted to copy for personal or ministry uses, provided this credit line is included and content remains unchanged. We can be sure in this same way. We can never pay God the debt we owe Him for our sinful behavior. But if we come to Jesus as this woman did, we can know that He forgives and accepts us completely. In the last session we discussed how this happens through Jesus’ death on our behalf.
 
-C. Becoming a Christian
+### C. Becoming a Christian
 
 The sinful woman came to Jesus and recognized her sin. She trusted Jesus to forgive her and, by her actions, thanked Him for the new life He offered her. We must do the same if we want to be at peace with God, both now and eternally.
 

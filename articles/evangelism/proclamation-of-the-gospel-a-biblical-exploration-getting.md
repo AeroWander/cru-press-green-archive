@@ -70,7 +70,7 @@ How do you sort it all out? Go back to the beginning. Study the primary document
 
 That is what Getting Biblical About Evangelism is all about. It is designed to guide you in the process of building a personal (and biblical) philosophy of evangelism. Getting Biblical About Evangelism is not an exhaustive study (and hopefully it will not be an exhausting one, either), but it will provide a valuable foundation upon which Christ can build for you a lifetime of fruitfulness.
 
-Together or Alone?
+### Together or Alone?
 
 Getting Biblical About Evangelism is designed as a personal study. There are no small group discussion questions built into it. This allows you to proceed at your own rate and draw your own conclusions. However, you may find it valuable to do this study in conjunction with others. After all, they may harvest insights from the passages that you might have missed. If you do it as a group, it is quite easy and profitable to gather each week and compare the discoveries from one or more passages. Simply share your findings to each of the five key questions and reflect on their implications for today.
 
@@ -82,7 +82,7 @@ Getting Biblical About Evangelism is quite simple. It begins with studying fourt
 
 Your investigation will be guided by five key questions that can apply to any evangelistic encounter. These questions parallel the five components of the Evangelism Model:
 
-Spirit
+### Spirit
 
 - The Master: God
 - The Masses: The Audience
@@ -106,7 +106,7 @@ PART FOUR | using your CONCLUSIONS
 
 Don’t view this as a finished project. You will need to integrate into your life and ministry the applications that you have identified. With time you will add new insights from other biblical passages. Seven additional passages are suggested in the back. You will also want to communicate your findings with others. From this study, your thinking and practice in evangelism can continue to mature and bear much fruit.
 
-Study Questions
+### Study Questions
 
 The study and conclusions of Getting Biblical About Evangelism are built around the following five questions. Not every passage will provide an insight for each question. But over the whole of the study, you will find a great deal of material to build your insights for each question.
 
@@ -196,7 +196,7 @@ What practical way will you apply this truth to your life?
 
 - I will pray about and seek to share with people in each arena of my life, that is, wherever I go and whoever I might meet.
 
-Part One: Studying the Passages-Sample 7 John 1:35-51
+### Part One: Studying the Passages-Sample 7 John 1:35-51
 
 35The next day John was there again with two of his disciples. 36When he saw Jesus passing by, he said, “Look, the Lamb of God!” 37When the two disciples heard him say this, they followed Jesus. 38Turning around, Jesus saw them following and asked, “What do you want?” They said, “Rabbi” (which means Teacher), “where are you stay-ing?” 39“Come,” he replied, “and you will see.” So they went and saw where he was stay-ing, and spent that day with him. It was about the tenth hour. 40Andrew, Simon Peter’s brother, was one of the two who heard what John had said and who had followed Jesus. 41The first thing Andrew did was to find his brother Simon and tell him, “We have found the Messiah” (that is, the Christ). 42And he brought him to Jesus. Jesus looked at him and said, “You are Simon son of John. You will be called Cephas” (which, when translated, is Peter). 43The next day Jesus decided to leave for Galilee. Finding Philip, he said to him, “Follow me.” 44Philip, like Andrew and Peter, was from the town of Bethsaida. 45Philip found Nathanael and told him, “We have found the one Moses wrote about in the Law, and about whom the prophets also wrote—Jesus of Nazareth, the son of Joseph.” 46“Nazareth! Can anything good come from there?” Nathanael asked. “Come and see,” said Philip. 47When Jesus saw Nathanael approaching, he said of him, “Here is a true Israelite, in whom there is nothing false.” 48“How do you know me?” Nathanael asked. Jesus answered, “I saw you while you were still under the fig tree before Philip called you.” 49Then Nathanael declared, “Rabbi, you are the Son of God; you are the King of Israel.” 50Jesus said, “You believe because I told you I saw you under the fig tree. You shall see greater things than that.” 51He then added, “I tell you the truth, you shall see heaven open, and the angels of God ascending and descending on the Son of Man.”
 
@@ -220,7 +220,7 @@ Which truth from this passage is most important to you today?
 
 What practical way will you apply this truth to your life?
 
-Part One: Studying the Passages Acts 8:26-40
+### Part One: Studying the Passages Acts 8:26-40
 
 26Now an angel of the Lord said to Philip, “Go south to the road — the desert road — that goes down from Jerusalem to Gaza.” 27So he started out, and on his way he met an Ethiopian eunuch, an important official in charge of all the treasury of Candace, queen of the Ethiopians. This man had gone to Jerusalem to worship, 28and on his way home was sitting in his chariot reading the book of Isaiah the prophet. 29The Spirit told Philip, “Go to that chariot and stay near it.”
 
@@ -254,7 +254,7 @@ Which truth from this passage is most important to you today?
 
 What practical way will you apply this truth to your life?
 
-Part One: Studying the Passages Acts 17:16-34
+### Part One: Studying the Passages Acts 17:16-34
 
 16While Paul was waiting for them in Athens, he was greatly distressed to see that the city was full of idols. 17So he reasoned in the synagogue with the Jews and the God-fearing Greeks, as well as in the marketplace day by day with those who happened to be there. 18A group of Epicurean and Stoic philosophers began to dispute with him. Some of them asked, “What is this babbler trying to say?” Others remarked, “He seems to be advocating foreign gods.” They said this because Paul was preaching the good news about Jesus and the resurrection. 19Then they took him and brought him to a meeting of the Areopagus, where they said to him, “May we know what this new teaching is that you are presenting? 20You are bringing some strange ideas to our ears, and we want to know what they mean.” 21(All the Athenians and the foreigners who lived there spent their time doing nothing but talking about and listening to the latest ideas.) 22Paul then stood up in the meeting of the Areopagus and said: “Men of Athens! I see that in every way you are very religious. 23For as I walked around and looked care-fully at your objects of worship, I even found an altar with this inscription: TO AN UNKNOWN GOD. Now what you worship as something unknown I am going to proclaim to you.
 
@@ -280,7 +280,7 @@ Which truth from this passage is most important to you today?
 
 What practical way will you apply this truth to your life?
 
-Part One: Studying the Passages Luke 10:1-24
+### Part One: Studying the Passages Luke 10:1-24
 
 1After this the Lord appointed seventy-two others and sent them two by two ahead of him to every town and place where he was about to go. 2He told them, “The harvest is plentiful, but the workers are few. Ask the Lord of the harvest, therefore, to send out workers into his harvestfield. 3Go! I am sending you out like lambs among wolves. 4Do not take a purse or bag or sandals; and do not greet anyone on the road. 5“When you enter a house, first say, ‘Peace to this house.’ 6If a man of peace is there, your peace will rest on him; if not, it will return to you. 7Stay in that house, eating and drink-ing whatever they give you, for the worker deserves his wages. Do not move around from house to house.
 
@@ -316,7 +316,7 @@ Which truth from this passage is most important to you today?
 
 What practical way will you apply this truth to your life?
 
-Part One: Studying the Passages Matthew 28:16-20
+### Part One: Studying the Passages Matthew 28:16-20
 
 16Then the eleven disciples went to Galilee, to the mountain where Jesus had told them to go. 17When they saw him, they worshiped him; but some doubted. 18Then Jesus came to them and said, “All authority in heaven and on earth has been given to me. 19There-fore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, 20and teaching them to obey everything I have commanded you. And surely I am with you always, to the very end of the age.”
 
@@ -344,7 +344,7 @@ Part One: Studying the Passages Luke 24:45-49 & Acts 1:8
 
 45Then he opened their minds so they could understand the Scriptures. 46He told them, “This is what is written: The Christ will suffer and rise from the dead on the third day, 47and repentance and forgiveness of sins will be preached in his name to all nations, beginning at Jerusalem. 48You are witnesses of these things. 49I am going to send you what my Father has promised; but stay in the city until you have been clothed with power from on high.
 
-Acts 1:8
+### Acts 1:8
 
 8“But you will receive power when the Holy Spirit comes on you; and you will be my witnesses in Jerusalem, and in all Judea and Samaria, and to the ends of the earth.”
 
@@ -368,7 +368,7 @@ Which truth from this passage is most important to you today?
 
 What practical way will you apply this truth to your life?
 
-Part One: Studying the Passages Acts 2:1-41
+### Part One: Studying the Passages Acts 2:1-41
 
 1When the day of Pentecost came, they were all together in one place. 2Suddenly a sound like the blowing of a violent wind came from heaven and filled the whole house where they were sitting. 3They saw what seemed to be tongues of fire that separated and came to rest on each of them. 4All of them were filled with the Holy Spirit and began to speak in other tongues as the Spirit enabled them.
 
@@ -410,7 +410,7 @@ Which truth from this passage is most important to you today?
 
 What practical way will you apply this truth to your life?
 
-Part One: Studying the Passages Romans 1:8-17
+### Part One: Studying the Passages Romans 1:8-17
 
 8First, I thank my God through Jesus Christ for all of you, because your faith is being reported all over the world. 9God, whom I serve with my whole heart in preaching the gospel of his Son, is my witness how constantly I remember you 10in my prayers at all times; and I pray that now at last by God’s will the way may be opened for me to come to you.
 
@@ -438,7 +438,7 @@ Which truth from this passage is most important to you today?
 
 What practical way will you apply this truth to your life?
 
-Part One: Studying the Passages 1 Corinthians 1:17-2:5
+### Part One: Studying the Passages 1 Corinthians 1:17-2:5
 
 17For Christ did not send me to baptize, but to preach the gospel — not with words of human wisdom, lest the cross of Christ be emptied of its power.
 
@@ -468,7 +468,7 @@ Which truth from this passage is most important to you today?
 
 What practical way will you apply this truth to your life?
 
-Part One: Studying the Passages 1 Corinthians 9:15-23
+### Part One: Studying the Passages 1 Corinthians 9:15-23
 
 15But I have not used any of these rights. And I am not writing this in the hope that you will do such things for me. I would rather die than have anyone deprive me of this boast. 16Yet when I preach the gospel, I cannot boast, for I am compelled to preach. Woe to me if I do not preach the gospel! 17If I preach voluntarily, I have a reward; if not voluntarily, I am simply discharging the trust committed to me. 18What then is my reward? Just this: that in preaching the gospel I may offer it free of charge, and so not make use of my rights in preaching it. 19Though I am free and belong to no man, I make myself a slave to everyone, to win as many as possible. 20To the Jews I became like a Jew, to win the Jews. To those under the law I became like one under the law (though I myself am not under the law), so as to win those under the law. 21To those not having the law I became like one not having the law (though I am not free from God’s law but am under Christ’s law), so as to win those not having the law. 22To the weak I became weak, to win the weak. I have become all things to all men so that by all possible means I might save some. 23I do all this for the sake of the gospel, that I may share in its blessings.
 
@@ -492,7 +492,7 @@ Which truth from this passage is most important to you today?
 
 What practical way will you apply this truth to your life?
 
-Part One: Studying the Passages Philippians 1:12-30
+### Part One: Studying the Passages Philippians 1:12-30
 
 12Now I want you to know, brothers, that what has happened to me has really served to advance the gospel. 13As a result, it has become clear throughout the whole palace guard and to everyone else that I am in chains for Christ. 14Because of my chains, most of the brothers in the Lord have been encouraged to speak the word of God more courageously and fearlessly.
 
@@ -522,7 +522,7 @@ Which truth from this passage is most important to you today?
 
 What practical way will you apply this truth to your life?
 
-Part One: Studying the Passages 1 Thessalonians 1:4-2:16
+### Part One: Studying the Passages 1 Thessalonians 1:4-2:16
 
 4For we know, brothers loved by God, that he has chosen you, 5because our gospel came to you not simply with words, but also with power, with the Holy Spirit and with deep conviction. You know how we lived among you for your sake. 6You became imitators of us and of the Lord; in spite of severe suffering, you welcomed the message with the joy given by the Holy Spirit. 7And so you became a model to all the believers in Macedonia and Achaia. 8The Lord’s message rang out from you not only in Macedonia and Achaia — your faith in God has become known everywhere. Therefore we do not need to say anything about it, 9for they themselves report what kind of reception you gave us. They tell how you turned to God from idols to serve the living and true God, 10and to wait for his Son from heaven, whom he raised from the dead — Jesus, who rescues us from the coming wrath.
 
@@ -554,7 +554,7 @@ Which truth from this passage is most important to you today?
 
 What practical way will you apply this truth to your life?
 
-Part One: Studying the Passages 2 Corinthians 5:11-6:2
+### Part One: Studying the Passages 2 Corinthians 5:11-6:2
 
 11Since, then, we know what it is to fear the Lord, we try to persuade men. What we are is plain to God, and I hope it is also plain to your conscience. 12We are not trying to commend ourselves to you again, but are giving you an opportunity to take pride in us, so that you can answer those who take pride in what is seen rather than in what is in the heart. 13If we are out of our mind, it is for the sake of God; if we are in our right mind, it is for you. 14For Christ’s love compels us, because we are convinced that one died for all, and therefore all died. 15And he died for all, that those who live should no longer live for themselves but for him who died for them and was raised again. 16So from now on we regard no one from a worldly point of view. Though we once regarded Christ in this way, we do so no longer. 17Therefore, if anyone is in Christ, he is a new creation; the old has gone, the new has come! 18All this is from God, who reconciled us to himself through Christ and gave us the ministry of reconciliation: 19that God was reconciling the world to himself in Christ, not counting men’s sins against them. And he has committed to us the message of reconciliation. 20We are therefore Christ’s ambassadors, as though God were making his appeal through us. We implore you on Christ’s behalf: Be reconciled to God. 21God made him who had no sin to be sin for us, so that in him we might become the righteousness of God.
 
@@ -580,7 +580,7 @@ Which truth from this passage is most important to you today?
 
 What practical way will you apply this truth to your life?
 
-Part One: Studying the Passages John 4:1-42
+### Part One: Studying the Passages John 4:1-42
 
 1The Pharisees heard that Jesus was gaining and baptizing more disciples than John, 2although in fact it was not Jesus who baptized, but his disciples. 3When the Lord learned of this, he left Judea and went back once more to Galilee. 4Now he had to go through Samaria. 5So he came to a town in Samaria called Sychar, near the plot of ground Jacob had given to his son Joseph. 6Jacob’s well was there, and Jesus, tired as he was from the journey, sat down by the well. It was about the sixth hour. 7When a Samaritan woman came to draw water, Jesus said to her, “Will you give me a drink?” 8(His disciples had gone into the town to buy food.) 9The Samaritan woman said to him, “You are a Jew and I am a Samaritan woman. How can you ask me for a drink?” (For Jews do not associate with Samaritans.) 10Jesus answered her, “If you knew the gift of God and who it is that asks you for a drink, you would have asked him and he would have given you living water.” 11“Sir,” the woman said, “you have nothing to draw with and the well is deep. Where can you get this living water? 12Are you greater than our father Jacob, who gave us the well and drank from it himself, as did also his sons and his flocks and herds?”
 

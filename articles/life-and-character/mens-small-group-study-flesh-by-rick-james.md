@@ -332,7 +332,7 @@ Romans 2:20_ ______________________________ Love does not delight in evil but re
 
 “But what about you?” he asked. “Who do you say I am?” Peter answered, “You are the Christ.” Jesus warned them not to tell anyone about him. He then began to teach them that the Son of Man must suffer many things and be rejected by the elders, chief priests and teachers of the law, and that he must be killed and after three days rise again. He spoke plainly about this, and Peter took him aside and began to rebuke him. But when Jesus turned and looked at his disciples, he rebuked Peter. “Get behind me, Satan!”
 
-Mark 8:29-33
+### Mark 8:29-33
 
 6. What is it about Peter’s words that would be a temptation to Jesus?
 7. Notice Jesus does not respond with Scripture, but how does he use truth as a weapon?
@@ -356,7 +356,7 @@ In Joshua Harris’ book, “Not Even a Hint” he says, “Part of sin is dissa
 
 Consequently, faith comes from hearing the message, and the message is heard through the word of Christ.
 
-Romans 10:17
+### Romans 10:17
 
 13. Scripture is not clear on this point, but some have suggested that during temptation it is more powerful to say aloud the Scripture than simply think it. This is hard to deny or confirm. What do you think?
 

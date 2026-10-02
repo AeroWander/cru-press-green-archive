@@ -23,7 +23,7 @@ Describe the best date you’ve ever been on. What feelings were present? What m
 
 Point 1 - Intimacy From the beginning, relationships have been woven into the fabric of life. We were fashioned as works of art reflecting the image of our Creator: we think, we choose, we create, and we were designed to love – to experience intimacy with God and each other…
 
-Read Genesis 2:18-25
+### Read Genesis 2:18-25
 
 During the formation of the world God designed mankind to enjoy His creation with others. He had just finished calling all He made “good” (and man “very good”), yet He said it was NOT good that man should be alone (vs. 18).
 

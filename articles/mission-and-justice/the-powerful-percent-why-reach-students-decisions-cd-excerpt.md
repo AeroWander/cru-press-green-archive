@@ -33,7 +33,7 @@ A Place of Destiny “There has been at times a deep and solemn thoughtfulness a
 
 “A number of our choices young people felt that God was calling them to missionary work…so great was the power of God. The meeting continued to well after midnight and a number were saved.”
 
-The History of Seattle Pacific College
+### The History of Seattle Pacific College
 
 In 1886 the first ever Christian conference for college students was held at Mount Hermon, Massachusetts. On Friday evening, the last day of the conference, 250 students were given a challenge by Robert Wilder to consider taking the gospel to the world as foreign missionaries. One by one, coming forward to except the challenge, were 100 students from schools such as Yale, Harvard, Dartmouth, and Cornell. As a symbol of their commitment, each student signed a pledge, which simply read:
 

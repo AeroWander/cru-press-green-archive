@@ -83,7 +83,7 @@ One who wants to hear more on the subject?
 
 One who believes and follows?
 
-John 1:1-5 4)
+### John 1:1-5 4)
 
 Hebrews 9:26-28 Romans 3:21-26; 5:6-8 2. Are you trusting in yourself to be declared “innocent” when God judges you, or are you trust-ing in Jesus Christ to be your substitute?
 
@@ -106,7 +106,7 @@ It’s the idea that where we once thought that WE were right, we now see that G
 
 Who is “the man” that Paul writes about in v. 31?
 
-Jesus Christ
+### Jesus Christ
 
 How does it make you feel that one day God will “judge the world with justice” (v.31)? When God judges you, will you be declared “guilty” or “innocent”?
 
@@ -306,7 +306,7 @@ Notice again that there are no excuses or delays in Isaiah’s response. What as
 
 #### Further Study
 
-Ezekiel 1-2 Psalm 40 Psalm 99 Revelation 4-5
+### Ezekiel 1-2 Psalm 40 Psalm 99 Revelation 4-5
 
 ***End by asking, “How many of you want to be used by God?” Assuming that most or all of them want to, point out what we’ve learned from this passage that will make them prepared to be used. First we have to know God—to see Him as He really is: holy, holy, holy. Next we have to be cleansed from all sin. Then we have to be willing to go wherever God sends us, right when He calls us. That’s how we can experience the incredible fulfillment of being used by God!
 
@@ -360,7 +360,7 @@ Questions for personal reflection Questions for personal reflection Questions fo
 
 2. What can you do this week to become more aware of God’s holiness?
 
-Ezekiel 1-2 Psalm 40 Psalm 99 Revelation 4-5
+### Ezekiel 1-2 Psalm 40 Psalm 99 Revelation 4-5
 
 3. Where, or to whom, is God asking you to go to now? Is there a friend or family member you need to tell about Jesus? What ministry is He calling you to this semester? This summer? After you graduate? Are you willing to say, “Here am I, send me!”?
 
@@ -558,7 +558,7 @@ Questions for personal reflection Questions for personal reflection Questions fo
 
 Matthew 27 Mark 15 Luke 23 (For a great study, examine all seven of Jesus’ sayings on the cross!)
 
-Colossians 2:13-15 Hebrews 9:15-28; 10:5-14
+### Colossians 2:13-15 Hebrews 9:15-28; 10:5-14
 
 1. In 2 Corinthians 5, Paul writes this: “God made Him who had not sin to be sin for us, so that in Him we might become the righteousness of God…Christ’s love compels us, because we are convinced that One died for all, and therefore all died. And He died for all, that those who live should no longer live for themselves but for him who died for them and was raised again.” How does this passage affect you?
 2. Take time to thank God for the gift of His Son, who was killed for you.
@@ -611,7 +611,7 @@ The whole book of Proverbs!
 
 (See 1:7; 3:11-12; 6:23; 10:17; 15:5,32)
 
-Romans 5:1-5 James 1:2-4 1 Peter 1:3-9
+### Romans 5:1-5 James 1:2-4 1 Peter 1:3-9
 
 In v.11 the author of Hebrews borrows words from the worlds of agriculture (“produces a harvest”) and sports (the Greek word for “train” is the same word we get “gymnasium” from—it is usually used to describe athletic training). What lessons about the costs and the benefits of discipline can we learn from these two worlds?
 
@@ -843,7 +843,7 @@ Verse 31 might be better translated, “But those who hope in the Lord will exch
 
 #### Further Study
 
-Genesis 1 Job 38-41 Psalm 2 Matthew 11:28-30
+### Genesis 1 Job 38-41 Psalm 2 Matthew 11:28-30
 
 Questions for personal reflection: Questions for personal reflection: Questions for personal reflection: Questions for personal reflection:
 
@@ -889,7 +889,7 @@ Questions for personal reflection: Questions for personal reflection: Questions 
 
 live in your own strength, or if you need to exchange your strength for His!
 
-Genesis 1 Job 38-41 Psalm 2 Matthew 11:28-30
+### Genesis 1 Job 38-41 Psalm 2 Matthew 11:28-30
 
 2. What (or who) are you putting your hope in? How does it/do they compare to God? Do they promise you the same thing that God does in v.31?
 3. Go back, look at the passage again, and reflect on all the different aspects of God we looked. What part of God’s character means the most to you? Meditate on that, and maybe even memorize one of the verses that talk about it.

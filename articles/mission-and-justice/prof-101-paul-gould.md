@@ -51,7 +51,7 @@ Recognizing the strategic importance of professors, several years ago the US Cam
 
 professors—with the great dream of being able to send the whole campus—students and professors—to change the world. In so many ways we are a better campus ministry with students and professors together.
 
-The Whole Campus to the Whole World campus
+### The Whole Campus to the Whole World campus
 
 What does working with professors look like in practice? Professors coming to CRU every week? Students hanging out in the dorm eating pizza late at night with a group of Christian professors? Probably not. We can’t expect professors to jump in and do everything that the student ministry is doing and vice-versa. Some things, many things, will need to remain “student only” or “professor only.” But we have many opportunities to leverage the assets of one group to help us with the other, and multiply our impact (I’ll suggest some at the end of this article).
 
@@ -73,7 +73,7 @@ Today universities have replaced synagogues as a center of cultural influence. O
 
 University professors are a powerful ½% of our population—an Archimedean lever that can move the world.
 
-The Potential Influence of Professors
+### The Potential Influence of Professors
 
 Professors are not like students. They are unique—in fact, they make up just one half of one percent of the population in America. As you begin to think about ministering to and alongside professors, here are five principles to help you understand what makes them tick:
 
@@ -221,7 +221,7 @@ Ultimately, we can help professors understand that the most important thing is n
 - lectureships (the main responsibility is to teach)
 - adjunct positions (in which a professor teaches one or two classes on a part-time basis)
 
-PROF
+### PROF
 
 Types of Professors Adjunct Professor/Lecturer: Adjuncts are often viewed as “hired guns;” professors employed to teach a class or two, or even full-time, but they aren’t in the tenure system. They are viewed as “second class” by those professors in the tenure system.
 

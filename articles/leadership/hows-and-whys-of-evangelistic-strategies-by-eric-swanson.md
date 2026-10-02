@@ -38,7 +38,7 @@ Evangelism is 90% God and 10% us. God desires that people know Him more than we 
 
 There are hundreds of students on each campus who are ready right now to receive Christ if given the opportunity. There are several times during a college career when a student is receptive to spiritual input. We need strategies that throw out the net frequently enough and broad enough to reach those students. As we sow abundantly, we will reap abundantly. Our distinctives include the principle of “sowing broadly” and throwing out the net frequently, to see who is ready to respond today. Our main job in evangelism is to reap from those who are open, as opposed to convincing the closed (proclamation versus persuasion).
 
-ARTICLE 2ARTICLE 2TOPIC TITLEEvanGElisTIC sTRaTEGIEs
+### Article 2Article 2Topic Titleevangelistic Strategies
 
 Evangelistic strategies on the campus cannot be separated from discipleship and sending. These are linked together and ultimately tied to reaching the world. How do we know the maximum are being sent unless we are reaching the maximum?
 
@@ -56,17 +56,17 @@ Reaching and Preparing In any evangelistic strategy that we employ, we are in th
 
 Reaching the Prepared (Evangelism)
 
-Reaching the Campus Preparing the Unreached (Education)
+### Reaching the Campus Preparing the Unreached (Education)
 
 Strategies for Filtering and Reaching the Prepared Surveys. Surveys are the most frequently mentioned strategy for getting face to face with a non-believer. They can be used to precede team meeting talks, give you more information about the values and interests of your audience, and obviously provide a natural opportunity to transition into the gospel. We can also control the flow of our contacts. as we need more contacts, we take more surveys. some surveys build the Four Laws right into them.
 
 Surveys are most effectively used by individuals who see them as a way to build meaningful rapport, have an intelligent conversation with a stranger, and an opportunity to effectively communicate their faith. We have missed the boat when we regress to being merely survey takers.
 
-ARTICLE 3ARTICLE 2TOPIC TITLEEvanGElisTIC sTRaTEGIEs
+### Article 3Article 2Topic Titleevangelistic Strategies
 
 With the proliferation of the computer, there is no need to stick with the same survey week after week. It is very possible to design your survey to help you obtain information you want regarding your target audience. Each month of the year you could focus on a different survey topic (home life, aspirations, dating, stress, etc.) and have an evangelistic talk at the end of the month related to that topic.
 
-Team Meetings, Open Forums and Classroom Talks
+### Team Meetings, Open Forums and Classroom Talks
 
 Harvest Events are what we call “classics” but can also be evangelistic retreats. They provide an opportunity for every student involved to bring a non-believing friend to hear a credible presentation of the gospel. If you are employing “friendship evangelism,” harvest events are a must. They provide something to bring a friend to.
 
@@ -100,7 +100,7 @@ Whenever a method is successful, the temptation arises to think it will work any
 
 The Right People. God brings the harvest to ripeness, but He does not harvest it. He uses Christian people to accomplish that task, and He is glorified when His people “bear much fruit” (John 15:8). The right person is the person entirely filled with the Holy spirit. He abides in Jesus. He is fully committed. He takes up his cross daily and follows his Master. Without “Strategy 4,” the first three are dead letters.
 
-End
+### End
 
 The Compass is the discipleship curriculum for Campus Crusade for Christ’s Campus Ministry. It was created by Centerfield Productions, the field based division of CruPress. We’d love to hear your feedback on this lesson. Please write us at centerfield@uscm.org
 

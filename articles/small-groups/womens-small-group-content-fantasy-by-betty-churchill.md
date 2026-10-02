@@ -20,7 +20,7 @@ Like its male counterpart, Flesh, Fantasy is divided into three sections: small 
 
 Partial List of Topics: Masturbation, How Far is Too Far, The Role of Fathers, Confession-Forgiveness, Community, Filling of the Spirit, Cosmetic Surgery, Worship, Singleness, Faith, Homosexuality, Why Wait?, Body/Self Image, and Pornography.
 
-Contributions by Henry Cloud and Shellie R. Warren
+### Contributions by Henry Cloud and Shellie R. Warren
 
 “Get Your Group On”…(Trying too hard)… “Groupies”…(Too retro)…“Groupers”…(That’s a type of fish and it’s too close to “gropers”, which is interesting, but inappropriate) so…
 
@@ -195,7 +195,7 @@ Small Groups
 
 ### Study 6: Lies that Bind Believing Lies
 
-Related Articles: Conflicts of Interest, God Fathers
+### Related Articles: Conflicts of Interest, God Fathers
 
 Have you ever believed something that later on you found out was not true? Had you made decisions or acted on that false information? Describe the situation.
 

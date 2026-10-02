@@ -753,7 +753,7 @@ Objection
 
 The doctrinal differences between major religions are superficial and insignificant.
 
-Analysis
+### Analysis
 
 - This position is inconsistent:
 - It insists that doctrines do not matter while asserting its own doctrine about the nature of God.
@@ -886,7 +886,7 @@ One instructive example is seen in the differences between early Christians and 
 - Despised the poor.
 - Ignored the sick.
 
-Christians
+### Christians
 
 - Insisted that there was only one true God, the dying Savior Jesus Christ.
 - It was remarkably welcoming to those that the culture marginalized.

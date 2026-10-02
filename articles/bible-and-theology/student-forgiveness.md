@@ -74,7 +74,7 @@ Walk with God in light of who He is. Openly agree with God about your sin. Seek 
 
 THE ISSUE:
 
-HOW DO I RESPOND TO SIN?
+### How Do I Respond to Sin?
 
 4. EXAMINING THE SKETCH A. When I first trusted Christ as my Savior, how many areas of my life were perfect? How many of my sins were forgiven when I came to Christ?
 

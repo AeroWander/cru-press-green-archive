@@ -169,7 +169,7 @@ Spend a few minutes familiarizing yourself with Philippians 2:1-11 in order to a
 
 8 Finally, ask a question that would point to Christ as the solution to our heart resistance.
 
-How to Kill Self-Discovery
+### How to Kill Self-Discovery
 
 - Ask “Yes” or “No” questions. For example, “Is God’s love like human love?” (These are 100% guaranteed discussion killers.)
 - Ask leading questions when you should be using open questions, like this: “We struggle in our Christian life because we don’t understand forgiveness, don’t you think?” (Consider silence the norm if you ask this question.)

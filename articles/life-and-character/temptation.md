@@ -34,7 +34,7 @@ With that, I hope I have lured you into our topic: temptation. And, I mean tempt
 
 When tempted, no one should say, “God is tempting me.” For God cannot be tempted by evil, nor does he tempt anyone; but each one is tempted when, by his own evil desire, he is dragged away and enticed. Then, after desire has conceived, it gives birth to sin; and sin, when it is full-grown, gives birth to death.”
 
-James 1:13-15
+### James 1:13-15
 
 Satan is not to blame for every tempting thought or desire that wafts through our minds. Rather, they come from our own over-heated lusts, and bloated sex drives, and never, no-never, come from God. On a strictly pragmatic basis, Satan is not limitless in his resources. Unlike God, he cannot be everywhere—nor does he need to be. For daily enticements to sexual immorality, we do a pretty good job ourselves—thank you very much.
 

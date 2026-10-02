@@ -49,7 +49,7 @@ Welcome and Greeters, Info Booth, Lights, Video, Testimonies, Slides, Sound Guys
 
 Here are some helpful points to consider:
 
-Planning Meetings
+### Planning Meetings
 
 - Debrief the last weekly meeting, Evaluate how well the meeting is staying on track with the mission and vision of Crusade
 - Plan the next meeting and address any upcoming issues
@@ -57,7 +57,7 @@ Planning Meetings
 - Brainstorm and think outside the box
 - Pray for the weekly meeting
 
-Components of the Weekly Meeting
+### Components of the Weekly Meeting
 
 - Show up early (6:45) on Tuesdays to finalize details and prep
 - Pray as a group at 7:00 for the meeting.
@@ -67,7 +67,7 @@ Components of the Weekly Meeting
 - Communicate with other teams to see how they use weekly meeting as a platform for announcing an event they are coordinating.
 - Make sure technical aspects are all in place
 
-Talk Content for Weekly Meeting
+### Talk Content for Weekly Meeting
 
 - The Big 11: The Gospel Message; Assurance of Salavation; Having a daily Quiet Time; Confessing our Sin; Being Empowered by God’s Spirit; How to Pray; Sharing Christ with others; The Great Commission; Biblical Community, Lordship of Christ; Eternal Perspective
 - Take content from Cru.Comm and turn into a talk
@@ -76,7 +76,7 @@ Talk Content for Weekly Meeting
 - Biblical view of Sex and Relationships
 - Intamacy (with God) series:
 
-Roles of the Leaders
+### Roles of the Leaders
 
 - Type up a schedule for emcees, speaker, anyone on stage, band, tech people during the meetings
 - Manage the meeting, including feel and flow
@@ -89,7 +89,7 @@ Roles of the Leaders
 - Delegate tasks that can be done by someone else team member
 - Delegate Greeter Coordinator to a team member
 
-Things to Remember
+### Things to Remember
 
 - Use “in-house” staff speakers as much as possible.
 - Recruit teams or people to carry out elements of the meeting.
@@ -190,7 +190,7 @@ Announcements / Opportunities Pass out calendar. Pass out phone/email list.
 - Highlight some announcements by writing them on the chalkboard or hanging up a poster in the room.
 - Call them, “things you need to know.”
 
-Testimonies
+### Testimonies
 
 - Summer projects/Missions trips
 - Salvation

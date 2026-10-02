@@ -58,7 +58,7 @@ By God’s grace, we are all in different places on our journey of awareness, an
 
 “...though we live and breathe our own culture, we may actually be quite unaware of the distinctiveness of our own ethnic background.”
 
-DISCLAIMERS
+### DISCLAIMERS
 
 - Postures are not linear, but complex. One might experience many, even within the same experience, over the course of a lifetime.
 - This article is not intended as a condemnation of any of the postures. All of the authors have experienced them, and continue to navigate them by God’s grace.

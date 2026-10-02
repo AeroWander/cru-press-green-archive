@@ -106,7 +106,7 @@ To turn lost students into Christ-centered laborers through the dual mean of eva
 
 All students and volunteers are welcome to participate at any CCC conference, mission project or ministry. We do recognize that students and volunteers feel most comfortable in certain environments due to numerous factors. In light of this, CCC offers many different types of venues so that the proclamation and teaching of the scriptures can be clear.
 
-Conferences
+### Conferences
 
 - Christmas Conference-Five days with a thousand or so college students from all the states within our region gathered together for a time of tremendous worship, fellowship, teaching, and outreach.
 - Fall Retreat- A conference each fall for the students to get away, focus on the Lord, and fellowship together.
@@ -116,12 +116,12 @@ Conferences
 
 in Action Opportunities; Impact Conference (for African American students); Destino Conference (Hispanic students); and the Epic Conference for Asian American students.
 
-Missions Opportunities
+### Missions Opportunities
 
 - Spring Break Trip-One week of intense evangelism and ministry on the beach, inner city, or internationally.
 - Summer Projects- 100+ domestic and overseas summer mission trips for students. The students are trained and challenged like no other time in their life.
 
-Ministry Venues on Campus
+### Ministry Venues on Campus
 
 - Small Groups - This is a small group strategy that is evangelistic in structure. The goal is to grow students in their faith and meet them right where they are spiritually. Each group is a reflection of the movement as a whole.
 - Weekly Meeting - A weekly event that brings both believers and non-believers together for the purpose of building up Christians and reaching non-believers through body evangelism.

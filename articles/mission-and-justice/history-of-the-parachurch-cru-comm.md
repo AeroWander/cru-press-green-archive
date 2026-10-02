@@ -71,7 +71,7 @@ It is even more important, for our purpose here, to note that while these two st
 
 In the early period beyond the pages of the Bible, however, there was little relation between modality and sodality, while in Paul’s time, his missionary band specifically nourished the congregations—a most significant symbiosis. We shall now see how the medieval period essentially recovered the healthy New Testament relationship between modality and sodality.
 
-The Medieval Synthesis of Modality and Sodality
+### The Medieval Synthesis of Modality and Sodality
 
 We can say that the Medieval period began when the Roman Empire in the West started to break down. To some extent, the diocesan pattern, following as it did the Roman civil governmental pattern, tended to break down at the same time. The monastic (or sodality) pattern turned out to be much more durable, and as a result gained greater importance in the early Medieval period than it might have otherwise. The survival of the modality (diocesan Christianity) was further compromised by the fact that the invaders of this early Medieval period generally belonged to a different brand of Christian belief—they were Arians. As a result, in many places there were both “Arian” and “Catholic” Christian churches on opposite corners of a main street—something like today, where we have Methodist and Presbyterian churches across the street from each other.
 
@@ -95,7 +95,7 @@ We cannot leave the medieval period without referring to the many unofficial and
 
 We have space here only to point out that in terms of the durability and quality of the Christian faith, the 1000-year Medieval period is virtually impossible to account for, apart from the role of the sodalities. What happened in the city of Rome is merely the tip of the iceberg at best, and represents a rather superficial and political level. It is quite a contrast to the foundational well-springs of biblical study, and radical obedience represented by the various sodalities of this momentous millennium, which almost always arise somewhere else, and were often opposed by the Roman hierarchy.
 
-The Protestant Recovery of the Sodality
+### The Protestant Recovery of the Sodality
 
 The Protestant movement started out by attempting to do without any kind of sodality structure. Martin Luther had been discontented with the apparent polarization between the vitality he eventually discovered in his own order and the very nominal parish life of his time. Being dissatisfied with this contrast, he abandoned the sodality (in which, nevertheless, he was introduced to the Bible, to the Pauline epistles, and to teaching on “justification by faith”), and took advantage of the political forces of his time to launch a full-scale renewal movement on the general level of church life. At first, he even tried to do with-out the characteristically Roman diocesan structure which to a considerable extent represented the readoption of the Roman diocesan tradition. But the Lutheran movement did not, in a comparable sense, readopt the sodalities, the Catholic orders, that had been so prominent in the Roman tradition.
 
@@ -111,7 +111,7 @@ The 19th Century is thus the first century in which Protestants were actively en
 
 Organizationally, however, the vehicle that allowed the Protestant movement to become vital was the structural development of the sodality, which harvested the vital “voluntarism” latent in Protestantism, and surfaced in new mission agencies of all kinds, both at home and overseas. Wave after wave of evangelical initiatives transformed the entire map of Christianity, especially in the United States, but also in England, in Scandinavia, and on the Continent. By 1840, the phenomenon of mission sodalities was so prominent in the United States that the phrase the “Evangelical Empire,” and other equivalent phrases, were used to refer to it, and now began a trickle of ecclesiastical opposition to this bright new emergence of the second structure. This brings us to our next point.
 
-The Contemporary Misunderstanding of the Mission Sodality
+### The Contemporary Misunderstanding of the Mission Sodality
 
 Almost all mission efforts in the 19th Century, whether sponsored by interdenominational or denominational boards, were substantially the work of initiatives independent of the related ecclesiastical structures. Toward the latter half of the 19th Century, there seemed increasingly to be two separate structural traditions.
 
@@ -129,7 +129,7 @@ It is astonishing that most Protestant missionaries, working with (mission) stru
 
 The question we must ask is how long it will be before the younger churches of the so-called mission territories of the non-Western world come to that epochal conclusion (to which the Protestant movement in Europe only tardily came); namely, that there need to be sodality structures, such as William Carey’s “use of means,” in order for church people to reach out in vital initiatives in mission, especially cross-cultural mission. There are already some hopeful signs that this tragic delay will not continue. We see, for example, the outstanding work of the Melanesian Brotherhood in the Solomon Islands.
 
-Conclusion
+### Conclusion
 
 This article has been in no sense an attempt to decry or to criticize the organized church. It has assumed both the necessity and the importance of the parish structure, the diocesan structure, the denominational structure, the ecclesiastical structure. The modality structure, in the view of this article, is a significant and absolutely essential structure. All that is attempted here is to explore some of the historical patterns which make clear that God, through His Holy Spirit, has clearly and consistently used a structure other than (and sometimes instead of) the modality structure. It is our attempt here to help church leaders, and others, to understand the legitimacy of both structures; and the necessity for both structures, not only to exist, but to work together harmoniously, for the fulfillment of the Great Commission, and for the fulfillment of all that God desires for our time.
 

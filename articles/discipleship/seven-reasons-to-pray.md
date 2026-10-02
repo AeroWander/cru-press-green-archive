@@ -25,7 +25,7 @@ I am first called to prayer because it is a key vehicle to building my love rela
 
 Any of the rest of you out there trying not to look interested can follow along, too. The more, the merrier.
 
-Why Pray?
+### Why Pray?
 
 Well, as I said, sometimes you get the impression that prayer is a grocery list: “Our Father, who art in heaven… Gimme, gimme, gimme! And, by the way, my name is Jimmy!” This is sort of a, “shop ‘til you drop” Aren’t you sick (I think everybody is) of “rules” Christianity? Every day somebody’s got another rule for us to follow to be “good” Christians. Don’t get me wrong. Certainly there are commands in God’s Word and promises. Certainly Christ has standards, but we don’t become Christians because we “receive standards.” We become Christians because we receive Christ, who loves us, died for us, lives in us daily.
 

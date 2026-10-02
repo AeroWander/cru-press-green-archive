@@ -20,7 +20,7 @@ They’ve seen some encouraging things happen as their ministry continues to gro
 
 In this booklet Paul shares the insights and wisdom he’s gained through the process of launching this new work at Chico State, offering it here as a resource to the broader body of Christ—thanks Paul! It’s an invaluable guide, providing practical how-to’s for one of the most difficult tasks in ministry—starting from scratch.
 
-For Starting A College Ministry
+### For Starting A College Ministry
 
 By Paul Worcester “I get asked all the time what I would do, if I were starting a college ministry. I have grown college ministries, but never started one. Here is good advice from someone who started a campus ministry with just two students. He has been there and done it.....and done it outside the Bible Belt. This e-book is worth your time!” Arliss Dickerson Veteran BCM Director and College Ministry Advocate http://www.arlissdickerson.blogspot.com
 
@@ -414,7 +414,7 @@ Paul Worcester is the director of Challenge at Chico State in California. Paul�
 
 Appendix 1
 
-Top Books and Resources for Starting a College Ministry
+### Top Books and Resources for Starting a College Ministry
 
 1. The Fuel and The Flame by Steve Shadrach - This is the first book I would suggest you read on starting a new campus ministry.
 
@@ -468,7 +468,7 @@ Chapter Planting Manual by Intervarsity This free ebook is a step by step manual
 - campusministrycollective.com
 - reachingthenextgeneration.com
 
-Appendix 2 The Challenge Core Team
+### Appendix 2 The Challenge Core Team
 
 Who? A team of student leaders who will be the seeds of a movement impacting thousands of students on this campus and people all around the world. The core team is a great opportunity to grow closer to Jesus and get training in becoming a multiplying disciple.
 
@@ -476,7 +476,7 @@ Who? A team of student leaders who will be the seeds of a movement impacting tho
 
 “Still other seed fell on good soil. It came up, grew and produced a crop, multiplying thirty, sixty, or even a hundred times." Mark 4:8 What does it mean to be good soil? What will it take to multiply your life?
 
-Core Team Expectations
+### Core Team Expectations
 
 1. Attend Challenge every week.
 2. Attend your local church.
@@ -521,7 +521,7 @@ Appendix 3
 
 How to Share Jesus Using Gospel Appointments
 
-Benefits of Using Gospel Appointments
+### Benefits of Using Gospel Appointments
 
 1. They are simple to set up.
 2. They are an ideal setting to get to know someone. You can build trust and show them you sincerely care. (I can’t tell you how many times we have been thanked for taking the time to have a personal meeting with students. They are honored that someone would take interest in them.)

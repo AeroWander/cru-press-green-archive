@@ -12,7 +12,7 @@ source: "Discipleship/Basic Growth Concepts/Studying scripture/Piper_Questions_c
 
 Seeing and Savoring Jesus Christ
 
-Piper, Preface
+### Piper, Preface
 
 Some titles tell you virtually nothing about the book. The other day my son asked me, “Dad, what is the book To Kill a Mockingbird” about?” “Mmm,” I replied, “I think it is about . . . uh . . . ” I’m sure my eighth grade English teacher would be appalled, but the title sure didn’t help me remember the book.
 

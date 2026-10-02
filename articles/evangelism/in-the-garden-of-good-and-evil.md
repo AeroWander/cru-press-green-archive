@@ -35,7 +35,7 @@ You did, baby - you did Who put Whitey in the White House?
 
 You did, baby - you did, baby
 
-Keep a Lid on Things, Crash Test Dummies
+### Keep a Lid on Things, Crash Test Dummies
 
 I was listening to a conversation between mothers concerning childbirth. One woman claimed, “It was like having someone beat on my spinal cord with a baseball bat…for 26 hours.” A clear hierarchy began to emerge: those who had suffered, and those who
 

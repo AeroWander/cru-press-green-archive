@@ -58,7 +58,7 @@ Do you see that glorious “But …”? That is the refill mechanism. “But you
 
 What is man that you are mindful of him, the son of man that you care for him? You made him a little lower than the heavenly beings and crowned him with glory and honor. You made him ruler over the works of your hands; you put everything under his feet: O Lord, our Lord, how majestic is your name in all the earth!
 
-Psalm 8:4-9
+### Psalm 8:4-9
 
 Do you see the emptying (squeezing out) and then, the drinking in of the phrase, “O Lord, our Lord, how majestic is your name in all the earth!” This is the complete rinse cycle. This is worship—pouring yourself out to God and filling yourself with truth (God).
 

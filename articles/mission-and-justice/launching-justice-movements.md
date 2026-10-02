@@ -93,7 +93,7 @@ Later when Elisabeth was asked by an IJM Staff member to read Psalm 27, she repl
 
 - A pseudonym
 
-How To Get More Information
+### How To Get More Information
 
 For more information about IJM and their ministry, you can go to www.ijm.org. If you would like to have an IJM Campus Chapter Toolkit or a Justice Week Toolkit (excellent tools for launching an IJM movement on your campus) sent to you, you may contact Libby Swenson, Partnership Director for IJM/CRU at Libby.Swenson@uscm.org.
 

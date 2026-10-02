@@ -181,7 +181,7 @@ Questions About Life:
 4. How do you decide what is right or wrong? [ Look here for all sorts of opportunities. For example: someone says "You have to be true to yourself, and look inside for what is right." you could ask "Are you always true to yourself/do you always do the right thing in your own heart?" Why not? If someone says there is nothing that is always wrong, you could say "What about torturing one year-old babies for your personal pleasure?" ]
 5. What would you characterize as a wasted life?
 
-Relationships
+### Relationships
 
 1. Do your friends know the real you? [ If no, ‘Why not?’ or ‘What holds you back?’ ]
 2. Do people love you for what you do or how you perform--or do they love you without condition, just because you are? [ Is college different than high school in that respect? ]

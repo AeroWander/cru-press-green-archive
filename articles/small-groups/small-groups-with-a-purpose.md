@@ -234,7 +234,7 @@ To help establish these freshmen guys in the basics of walking with God and to s
 
 Try filling out questions 5 & 6 for your own group.
 
-Conclusion
+### Conclusion
 
 Assessing the needs of your group, determining the purpose of your group, and choosing the content for the group: we’ve covered a lot in this chapter! Many group leaders fail to think through these issues. They think, “Oh, we’ll just study the Bible.” Well, that beats studying Freud or Marx, but it doesn’t necessarily help your group members relate God’s Word to their present struggles.
 

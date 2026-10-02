@@ -351,7 +351,7 @@ We’ve Got the Movie The Jesus Film? Not this time. Southern Oregon University 
 
  What Would Jesus Do
 
-About the Poor?
+### About the Poor?
 
 The ministry of Portland Metro approached a partnership with Amnesty International and ( the250 ) trip with several non-Christians attending. For Easter they hosted a pizza dinner. Other ideas include renting out a gym and hanging out at a coffee shop. The legwork before hand is to align the Christian students to the idea that these are meant to be more than just social gatherings.
 

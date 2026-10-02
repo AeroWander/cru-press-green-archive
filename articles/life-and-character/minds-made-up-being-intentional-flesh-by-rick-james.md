@@ -32,7 +32,7 @@ Of all the passages relevant to our battle against lust, nothing exceeds the fol
 
 Therefore do not let sin reign in your mortal body so that you obey its evil desires.
 
-Romans 6:12
+### Romans 6:12
 
 The idea is simple enough: don’t let sin set up a kingdom in your life by which it may gain the leverage to become the controlling influence of your behavior. But even with an explanation, the insight of this verse is lost on those new to the Bible. The New Testament has what theologian Gordon Fee calls a symbolic universe—words that carry with them imported meaning. That imported meaning comes from the world of the Old Testament. Certain Old Testament analogies are obvious, says Fee, but many words and phrases contain a meaningful echo for those who have grown up with or been saturated in Old Testament stories. Fee illustrates what he means by relaying a conversation he once had with an
 

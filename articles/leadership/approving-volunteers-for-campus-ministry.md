@@ -45,21 +45,21 @@ Please give the names and phone numbers of two references: a spiritual leader an
 
 I understand the mission of Campus Crusade for Christ is to “Turn Lost Students into Christ-Centered Laborers.” As a volunteer I commit to pursue the following:
 
-A Heart for God
+### A Heart for God
 
 - By submitting to the Lordship of Christ in my daily life and ministry.
 - By spending consistent time in the Word and prayer in an ongoing relationship with Christ.
 - By being authentic in my relationship with God & others.
 - By agreeing with and living by the Statement of Faith.
 
-A Heart for Growth
+### A Heart for Growth
 
 - By communicating monthly with the Volunteer Coordinator or my staff contact for direction, training and accountability.
 - By attending a local church to receive insight and encouragement.
 - By being committed to consider & pray about attending retreats and conferences.
 - Attending times set aside for volunteer training or making arrangements to receive the training at other times if I can not make it.
 
-A Heart for Evangelism
+### A Heart for Evangelism
 
 - By taking part in the Great Commission (Matt 28:18-20) and making disciples. A Life of Integrity
 - By not drinking alcoholic beverages or using tobacco with or around students.

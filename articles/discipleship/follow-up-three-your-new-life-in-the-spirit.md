@@ -42,7 +42,7 @@ How do you think these qualities of God's character (fruit of the Spirit) will g
 
 What does Jesus say we are to do in order to see this fruit produced in us? Which of these qualities would you most like God to begin developing within you? What does He desire to equip you to do?
 
-Read Acts 1:8 What is a witness?
+### Read Acts 1:8 What is a witness?
 
 What does it mean to you to be a witness for Christ? Why do you think the Holy Spirit's power is needed to be a witness? Summary:
 

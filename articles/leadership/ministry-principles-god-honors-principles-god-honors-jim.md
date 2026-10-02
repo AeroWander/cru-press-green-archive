@@ -447,7 +447,7 @@ Jane treats way feel wonderfully valuable. Jane loves her people. She expresses 
 
 She prays them.
 
-Why?
+### Why?
 
 Well one, greatly fulfilling her life, Jane say, “Jesus taught serve least sheep had done act love Jesus Himself”. She quite model me. clearly stated world know disciples degree love another. shepherd God’s people, fall horribly short this.
 
@@ -608,7 +608,7 @@ Matthew records Jesus felt compassion looked upon multitudes, during incredibly 
 
 Strategic Harvest Field college itself wonderful harvest field, many very responsive gospel. college also provides outstanding atmosphere raising laborers, called raise disciples until church comes completion. great atmosphere college take place. me many men women whom privilege rubbing shoulders, that's reason still college campus. wonderfully strategic light Great Commission. ideal place, most ideal place, laborers raised go harvest field. college ideal situation raising laborers. Here men women open responsive gospel. time open more likely than following college years. transition point lives, investigating evaluating new concepts ideas. testing belief systems. gospel Christian world view imperative messages age group evaluate. Many respond gospel. position act upon decisions. mobility more time then ever again. more time available develop disciples ministry. Also college place hundreds thousands relate another very accessible atmosphere, whether dorms fraternities, simply classes. atmosphere able interact build relationships, build each other build multiplication ministries. Following graduation, then position move act upon knowledge gospel. locked mortgage, less dictates time. free make decision go ministry full time. college wonderfully strategic, campuses raise movements turn being lost self-‐centered being Christ-‐centered believers Christ-‐centered laborers. business trusting many raised go harvest field. appropriate dream believe wants college over world reaching world. wonderful dream worthy worthy lives-‐ reach university world. then we've always said ministry Crusade Christ, "the today, world tomorrow. reaching world’s university positioned touch entire world gospel well.
 
-Picture This
+### Picture This
 
 Another key opportunity ministry build model movements. movements showcase dynamic believing community raised evangelism discipleship, sends laborers world, looks like. atmosphere healthy movement, grow knowledge things honors produces healthy believers. believers community healthy growing honoring God, grace, love, faith, vision called to. community provides atmosphere love acceptance, which allows grow significant areas lives. Such as: much loved people, Understanding greatness glory nature God, understanding standing Christ due justification faith, understanding position Christ understanding means live eternal. builds allows grow whole people, position multipliers, reproduce lives. It's atmosphere train model ministry looks like. result now wherever calls rest lives, seen good model, good example build movement ground up. seen developed, seen evangelism discipleship, involved work God’s kingdom throughout lives. ministry process modeling takes reach local target area. could target area particular place live-‐ floor, apartment building, entire dorm, segment college community. target area could entire itself ultimately entire state, entire country, entire world. modeling looks like particular target area, being college campus. helpful divided among laborers. just sending bodies world; desire send laborers world grown healthy spiritual atmosphere developed necessary maturity skills needed ministry. laborers seen vision takes reach reach individual target areas because, saw takes movement substantial size health maturity reach entire campus. goal example Ohio State help raise movement day size, health maturity reach entire gospel continuous basis, result send abundant laborers harvest field. only way going raise movement size consistently ministry evangelism. left Ohio State regularly sending world, yet midst fruitfulness had ourselves grown size could reach Ohio State. am reminded American Crusade Christ went over Albania some years ago partnered Albanian build movement University Tirana. First did number Americans began working nations capital English speaking students, slowly surely movement grew that, eventually Albanians speak English joined. Theirs ministry honoring God, love grace, faith. serious heart country. Unbelieving able Christianity looks like movement. could look visualize part believer, Christianity modeled right before eyes. ministry should goal movements model healthy Christianity. able model relationships, show looks like body Christ interact build each other. disciples body Christ vision set task come pass. also looks like community believers develop deep koinonia feel connected with, ministered to, loved another. healthy things which developed dependence grace, faith, love vision. principles honors, able model teamwork, team students, team staff, movement team committed going same direction. Once model exists others encouraged possible position reproduce model elsewhere. Student Leaders wife Jan first got involved area Michigan Ohio, needs area least model leadership team. team had burden campus. looked throughout area, Ohio University Miami University came mind.
 
@@ -696,7 +696,7 @@ Stepping faith trusting God. ) while movement working hard everything attempting
 
 Then movement milks positives worth. means take advantage fruit comes way, celebrate positives. celebrated, enjoyed, had great sense success. thrilled part something felt very much part orchestrating, did staff team. matters maturity desire along way, well health issues desire, categorized outline follows. want go next couple steps took explain outline make sense you.
 
-Movement Maker Class
+### Movement Maker Class
 
 movement maker class next step. biggest challenge next class. now had returning freshman class which sophomores involved. had senior class four five students. had junior class students, raised freshman class neighborhood beginning school year. growth movement. had grown already; year one, had returning around freshmen, neighboring 100’s weekly meeting small groups. during second year, sense momentum growth beginning characterize movement. come weekly meeting there, large number freshmen, large number sophomores, small junior senior class. really exciting involved. juniors seniors still leading movement. very many them, leading it. going after freshman class staff team, trying hang last year's sophomore class. really stretch staff. important sophomores chance multipliers. However, need careful give critical freshmen, most highly potential Freshmen. lead freshman Christ follow up, reasonable work person. very often foundational freshman class, matter second-‐year Freshman class, good discipling raising Discovery Groups. found later on, movement structure many things going on, easier hang Freshman class. also models those Sophomores seen lead small groups. first sophomore class does model, kind clueless. ones doing everything first time, thus success rate little lower, following year some Sophomores successful. Just take thought worth. Towards end second year, found ourselves really grooming sophomores saw potential future leaders. giving responsibility. putting front each other; letting spokesmen; inviting Summer Projects; leading music; asked become emcee; did number things put position develop those future leadership. April year we, invited large number sophomores, eight, apart leadership core. invited those eight go me Summer Project did. great occurrence movement. Those sophomores, together entire summer, bonded, became close friends. took leadership project. grew leaders. saw use again again. really developed vision campus, came back next year ready hit it. had turned over first year role helping plan following year, helped develop plan.
 
@@ -1035,7 +1035,7 @@ Instead, understand why I've chosen things relate big picture. gives me directio
 
 How A Cycle Works reasons felt need cycle momentum real random rut first few years staff. seemed like lot evangelism wasn't very strategic. just simply go places find talk to, more convenient. went gathering, rather than being strategic. found used cycle momentum, never need random evangelism. never sense having “runout” evangelistic contacts. Movements seem contacts, position consolidate filter. movements utilized tools, skills, strategies manner sufficiently develops core responded initial exposure gospel. Another advantage cycles momentum enables target specific audiences. might target Freshman class, affinity groups, leaders, parts campus. gives chance specifically reach tool box plan cycle momentum particular target area. also raise various issues cycle. might say want entire cycle based issue existence God. different programs, reach hard core non-‐Christian parts campus. want raise issues, reach tool box pull sorts tools address make issue very thing we're attempting. A Disclaimer cycle momentum interested taking person away basic day day presence target area. don't want turn only event oriented evangelists. Hopefully develop confidence skills targeting different parts world gospel, become even more effective day day presence ministry. live day day basis. influence lives build relationship them. am definitely concerned burden share gospel. simply share gospel part event cycle. I've got world reach, am only going reach those area influence, only ones relationship with, never reach world. got get world. cycle momentum helps me reach world, along broader target area.
 
-Good Question
+### Good Question
 
 Questions often develop communicate ideas. determine do? large evangelistic thrust should have? really faith oriented? measure step step along way? some hang ups come along way?
 
@@ -1281,7 +1281,7 @@ Belinda share vision she literally woman take paper her hand read over over. say
 
 Strengths Needs Developed Vision Long Range Goals Short Range Goals
 
-EXAMPLE VISION PLAN MARY STRENGTHS NEEDS TO BE DEVELOPED
+### Example Vision Plan Mary Strengths Needs to Be Developed
 
 - Good skills
 - Loves
@@ -1348,7 +1348,7 @@ Think some basic doctrinal topics study personally — take semester. -‐ 3:
 
 Go summer project summer. EXAMPLE APPOINTMENTS FOR THE QUARTER BASED ON VISION PLAN MARY Week Go sharing Get know her better Ask questions her Week Lunch house Share vision goals her Encourage her she Give her Search Significance Week Go sharing Talk her quiet times personal Bible study Help her come topic study Week Meet two women being her group Week Go lunch Challenge summer project Discuss discipleship start her group Week Go sharing Discuss her progress her book (Search…) Bible study Week Work testimony Follow new believer go sharing Come over dinner week Week Set team meeting together her dorm Discuss her women — her group going? Week Go sharing Polish her testimony Discuss her progress her book (Search…) Bible study Team meeting week Week Come house special lunch Review progress her goals Rejoice together done us!
 
-EXAMPLE VISION PLAN CORRIE STRENGTHS NEEDS TO BE DEVELOPED
+### Example Vision Plan Corrie Strengths Needs to Be Developed
 
 - Enthusiastic
 - Fun-‐loving
@@ -1597,7 +1597,7 @@ sent additional motivation thy been tied greater vision trusting for. extends be
 - heart imagination been captured going.
 - am already apart want continue. i.e.
 
-Region Partnership
+### Region Partnership
 
 - am burdened Partnership expand.
 - dream region includes things long happen Expansion campuses, expansion 2. I broad base friends throughout region US.

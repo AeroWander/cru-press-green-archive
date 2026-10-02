@@ -14,7 +14,7 @@ When I informed a friend I was writing a book on witnessing to family, he told m
 
 Chapter 2: Don’t Do It!
 
-Chapter 3: Did You Think I Was Kidding?
+### Chapter 3: Did You Think I Was Kidding?
 
 Chapter 4: Pray for Somebody Else to Do It Chapter 5: Review Chapters 1, 2, and 3 He then offered several firsthand stories of how not to witness to family. And he had more from where those came from. Since then, many others have volunteered the same kinds of illustrations. Apparently, horror stories outnumber success stories.
 

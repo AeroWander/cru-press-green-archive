@@ -59,7 +59,7 @@ John the Baptist had been sent as a messenger to prepare the way. He had done hi
 
 This is what it means to close the Old Testament and open the New Testament. Jesus knew that the covenant made at Sinai had been broken again and again by a disobedient people, and after a long line of prophets sent to win them back had failed, God’s patience was approaching an end. A new covenant was to be sealed with a faithful remnant of Israel, who would then call the Gentile nations to repentance in the name of the Messiah, the judge of the living and the dead. Judgment must begin with the house of Israel. It then must be proclaimed to all the nations. This was the note of urgency with which Jesus began His ministry. Matthew fulfills Malachi!
 
-Son of Man
+### Son of Man
 
 Nothing is more revealing than the personal title which Jesus chose for Himself. We have seen that He did not like the term, “Son of David,” the popular designation of the Messiah. He realized that He was indeed “the Son of God” referred to in Psalm 2:7, and during His trial before the Sanhedrin, He acknowledged this. But the title which He used throughout His ministry was, “Son of Man.” More than forty times in the Gospels the term is used, always by Jesus referring to Himself. The disciples never used the term, but called him “Lord,” “Master,” or “Teacher.” For Jesus, the words were almost a substitute for the personal pronoun “L.” Again and again He said it: “The Son of Man has nowhere to lay His head” (Matt 8:20). “The Son of Man has authority on earth to forgive sins” (Matt 9:6). “The Son of Man is Lord of the Sabbath” (Matt 12:8). “Then they shall see the Son of Man coming in clouds with great power and glory” (Mark 13:26).
 
@@ -79,7 +79,7 @@ His dominion is an everlasting dominion Which will not pass away; And His kingdo
 
 Jesus knew that this would take place after His suffering and glorification. He claimed the title for himself, thus identifying himself, not with the Hebrew people or the Jewish nation in any exclusive way, but with the whole human race, with all the families of mankind. He knew that He was the Son of Man and the Suffering Servant.
 
-From the Beginning
+### From the Beginning
 
 As we have already seen, the vision of a universal kingdom was integral to the plan of Jesus from the very beginning of His ministry. The fact that one of the wilderness temptations involved “all the kingdoms of the world and their glory” (Matt 4:8) is conclusive. Jesus did aspire to world dominion. His ambition to rule over the nations was not wrong. The temptation was to take a short cut to that noble goal: to adopt the methods of the devil. In rejecting Satan’s methods, Jesus did not give up His aim of worldwide authority. Rather, He chose the path of suffering and redemption which He found outlined in the Scriptures.
 
@@ -97,7 +97,7 @@ Luke tells of a later preaching mission in which seventy others were sent out tw
 
 Rabbinical tradition assumed that this was the total number of nations, scattered over the earth after the Tower of Babel, and repeatedly referred to the seventy Gentile peoples. Jesus may have used this means of symbolizing His long-range purpose. The twelve were sent to warn the tribes of Israel of impending judgment. The seventy were sent later on a training mission in preparation for their ultimate mission to the whole world.
 
-Contacts with Gentiles
+### Contacts with Gentiles
 
 Most of the public ministry of Jesus was conducted in Jewish territory. Under the circumstances, the number of personal contacts with Gentiles recorded in the Gospels is surprising. He healed a Gadarene demoniac (Matt 8:28-34). Among ten lepers healed, one was a Samaritan, and Jesus remarked upon the fact that only the foreigner returned to thank him (Luke 17:12-19).
 
@@ -109,7 +109,7 @@ The centurion whose servant was healed was almost certainly a Roman. Commander o
 
 The coming of a group of Greeks precipitated the final crisis in the inner life of Jesus: His decision to move on to the cross. It is clear that these were not merely Hellenized Jews, but aliens, either inquirers or proselytes, who had accepted Judaism and thus were qualified to worship in the temple area, at least in the court of the Gentiles. Their request for an audience caused Jesus to declare: “The hour has come for the Son of Man to be glorified” (John 12:23). The deep interest of the Greeks was evidence that the world was ready for His redemptive mission to be culminated by His atoning death: “And I, if I be lifted up from the earth, will draw all men to Myself.” “All men”—Greeks as well as Jews, Gentiles, and Hebrews alike—this is the clear implication of these profound words recorded by John (12:32).
 
-The Final Week
+### The Final Week
 
 The events of that last week in Jerusalem bear eloquent testimony to the fact that Jesus, refusing to be a nationalistic Jewish Messiah, moved resolutely toward the cross, fully aware that He was to establish a new interracial, international people, the new Israel, destined to become worldwide in its scope as a spiritual kingdom. He entered the city on a donkey, in order to fulfill Zechariah’s prediction of a king who would speak peace to the nations, and whose dominion would be from sea to sea (Zech 9: 9-10). He cleansed the court of the Gentiles, declaring sternly, “My house shall be called a house of prayer for all the nations” (Mark 11:17). Standing in the temple, He denounced the chief priests and Pharisees, the official leaders of the Jewish nation, for having failed to be good stewards of the truths of the Kingdom which had been entrusted to the Chosen People, and solemnly declared, “Therefore, I say unto you, the kingdom of God will be taken away from you, and given to a nation producing the fruit of it” (Matt 21:43). He predicted the fall of Jerusalem and the destruction of the temple within that generation (Matt 24:34; Mark 13:3a Luke 21:32); but when asked concerning the end of the age, He said, in effect: “Don’t be misled. It will not be as soon as some think. For this gospel of the Kingdom shall be preached in the whole world for a witness to all nations, and after that the end shall come” (Matt 24:4-14, author’s paraphrase). Concerning His return in glory, He was purposely vague, declaring, “Of that day and hour no one knows, not even the angels of heaven, nor the Son, but the Father alone” (Matt 24:36). But when He does come, He promised, “All nations will be gathered before Him, and He will separate them from one another, as the shepherd separates the sheep from the goats.”
 

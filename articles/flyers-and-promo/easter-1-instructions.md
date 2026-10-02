@@ -44,7 +44,7 @@ FONTS
 
 10 Fonts Used; 0 Missing, 0 Embedded, 0 Incomplete, 0 Protected
 
-Fonts Packaged
+### Fonts Packaged
 
 - Name: CenturyGothic-Bold; Type: TrueType, Status: OK
 - Name: FreightSansProBold-Regular; Type: OpenType Type 1, Status: OK

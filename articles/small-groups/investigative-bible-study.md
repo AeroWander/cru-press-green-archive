@@ -248,7 +248,7 @@ For an idea of how good this evidence is, compare the New Testament with other w
 
 When we examine the historical evidence relating to the Bible, one learns that there are thousands of manuscripts of the New Testament books. Therefore, we have good reason to believe that we know almost exactly what Luke, Paul and the others wrote.
 
-About the Author
+### About the Author
 
 The author of this gospel, Luke, also wrote another book in the New Testament, the Acts of the Apostles. He was the only New Testament writer who was not Jewish, and he was a doctor. Independent evidence confirms that he was a very careful and accurate historian.
 
@@ -554,7 +554,7 @@ She could be sure that she was at peace with God. Jesus had welcomed, accepted a
 
  2004 Campus Crusade for Christ, Inc. Permission granted to copy for personal or ministry uses, We can be sure in this same way. We can never pay God the debt we owe Him for our sinful behavior. But if we come to Jesus as this woman did, we can know that He forgives and accepts us completely. In the last session we discussed how this happens through Jesus’ death on our behalf.
 
-C. Becoming a Christian
+### C. Becoming a Christian
 
 The sinful woman came to Jesus and recognized her sin. She trusted Jesus to forgive her and, by her actions, thanked Him for the new life He offered her. We must do the same if we want to be at peace with God, both now and eternally.
 

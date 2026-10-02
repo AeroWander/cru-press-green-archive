@@ -206,7 +206,7 @@ THE ULTIMATE ROADTRIP Activities to Do Together As A Group
 - Go to a group member’s hometown.
 - Go on a scavenger hunt.
 
-Creative Group Dates
+### Creative Group Dates
 
 - Dessert in the park, or on top of the parking garage, or anywhere.
 - Scavenger hunt with tape recorder, video camera, or Polaroid.
@@ -218,7 +218,7 @@ Creative Group Dates
 - Progressive dessert.
 - Kidnap someone.
 
-How to Kill the Relationships in Your Group
+### How to Kill the Relationships in Your Group
 
 - Send portions of their personal journal to the school newspaper.
 - Punch them out when they foul you while playing basketball.

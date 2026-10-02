@@ -39,7 +39,7 @@ our ministry.” *
 
 library every day at 7:30a.m, for several months, may seem like a hard pill to swallow, but for the ministry at Southern Connecticut State University, it was the way God brought them together to see more than 20 football players receive Christ! 2›› 
 
-How Can We Pray for You?
+### How Can We Pray for You?
 
 One of the Bible studies at North Carolina State went door-to-door in the dorms and asked students one simple question: “How can we pray for you?” They used a prayer sheet to help remember all the requests. The next week, the group followed-up with those who asked for prayer with questions like “One of the guys in our ministry is on “How’s your mother doing?” and “How did the football team,” staff member Chris-you do on that test?” The group was amazed tian Martin said, “and one day the coach by how open people were to prayer. approached him to ask if he knew any pastors that would like to be a chaplain for the football team.” Christian said Pas-
 
@@ -61,7 +61,7 @@ Every Thursday at noon, Morgan State students meet in a circle to pray at areas 
 
 ** Science and Prayer:**
 
-Do They Mix?
+### Do They Mix?
 
 At John Hopkins Nursing School, Campus Crusade created a partnership with Nurses Christian Fellowship and organized a prayer table. The theme was “We’d like to pray for you.” In one hour, prayer requests ranged from concerns regarding the war and the economy, to more personal requests about children and classes. Snacks were also provided.
 
@@ -355,7 +355,7 @@ We’ve Got the Movie The Jesus Film? Not this time. Southern Oregon University 
 
  What Would Jesus Do
 
-About the Poor?
+### About the Poor?
 
 The ministry of Portland Metro approached a partnership with Amnesty International and the Jewish Student group at Reed College to host a “Poverty Awareness Week.” During the course of the week, they brought in speakers and raised awareness about the needs of the poor. The entire student body was challenged to try living on just $3 a day. This provided op-portunities for Christians to share about Jesus’ view of the poor and how He treated them.
 

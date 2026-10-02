@@ -17,7 +17,7 @@ A personal development plan (PDP) is a tool to help examine the key aspects of o
 
 ## Perspective for Writing a Personal Development Plan
 
-What is a Personal Development Plan?
+### What is a Personal Development Plan?
 
 A personal development plan (PDP) is a tool to help examine the key aspects of our lives and then to pursue growth or change where it is most needed. There are many important facets to our lives and God cares about each of them. In fact, He even has a lot to say in His word about how we live on a daily basis. He cares deeply about us – our relationships, our financial health, our circumstances, our physical health, our service as well as our intimacy with Him. To make Christ Lord, all aspects of our lives must be under His control. How do I write one?
 
@@ -47,37 +47,37 @@ With that in mind, try to prioritize what really needs to change the most in you
 
 The following worksheet is a tool to help in writing your own development plan. Take your time to do this. Pray and ask the Lord to give you insight.
 
-Worksheet for Writing a Personal Development Plan
+### Worksheet for Writing a Personal Development Plan
 
 Use the following questions/phrases to help ask yourself how you are doing in each of these six areas of your life. Feel free to skip questions or add questions of your own.
 
-Spiritual
+### Spiritual
 
 - Consistency in the Word and Prayer
 - Application of the Word to my life (meditating, memorizing, journaling, confessing sin, making changes etc.)
 - Do you consistently take a Day with the Lord?
 - What would you like to continue doing or start doing to grow in intimacy with the Lord?
 
-Relational
+### Relational
 
 - How are your relationships with family, friends, church body, unbelievers?
 - If you are married, how would you describe the health of your marriage? What needs to change or improve?
 - Do you have someone in your life that you can share your dreams and struggles with?
 - Do you have “life-giving” relationships around you locally?
 
-Financial
+### Financial
 
 - Are you living according to your means? (credit card debt?, on a budget?)
 - Are you saving for the future and for retirement?
 - Are you giving according to how He has blessed you?
 - Do you have a Biblical perspective of financial stewardship?
 
-Physical
+### Physical
 
 - What are you doing to take care of your physical body? (eating, sleeping, exercise habits)
 - Are there any habits that you would like to eliminate or incorporate into your life?
 
-Personal
+### Personal
 
 - What do enjoy most in your leisure time? Do you make time for a hobby or something that “re-energizes” you?
 - Are you stretching yourself mentally? (reading, taking a class, etc.)

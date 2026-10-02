@@ -14,12 +14,12 @@ U.S. Campus Ministry
 
 PURPOSE OF POSITION FOCUS To grow as a leader who is Christ-like in character and full of faith; and to pursue expertise in three ministry arenas which have as their aim bringing the “gospel of the glory of Christ” to every student.
 
-NEW STAFF POSITION FOCUS
+### New Staff Position Focus
 
 1. New Staff Trainer/Facilitator for ongoing Training and Leadership Development
 2. Relates closely with the Local Leader(s) for ministry direction, development and shepherding
 
-KEY RELATIONSHIPS
+### Key Relationships
 
 1. GROW IN FAITH AND LOVE FOR THE LORD (Relationship with God): Practice the principles of the Spirit-filled life (Confessing sin, depending on Holy Spirit rather than trusting own efforts, etc.)
 
@@ -28,7 +28,7 @@ Develop a healthy, regular intake of Scripture and a habit of prayer Once a mont
 2. GROW AS A LEADER (Relationship with yourself ): Complete New Staff Training Curriculum Give adequate attention to my priority relationships outside of work Make a personal development plan and share it with at least one other person
 3. GROW IN LOVE FOR OTHERS (Relationship with others): Contribute to making my team a safe, loving place where we can process life together & experience ministry together Consistently demonstrate grace and truth to my team Understand and value the diverse gifts of the body of Christ represented within my team Serve my team and respectfully follow my leaders
 
-FOCUSED RESPONSIBILITY
+### Focused Responsibility
 
 1. BECOME AN EXPERT AT INTRODUCING OTHERS TO JESUS (Win) Do lots of evangelism in a variety of contexts both in one-on-one conversations and in groups Cross Cultures to more effectively share the gospel Pray for opportunities as you pray for the lost Learn how to gather new audiences in new places on campus As you share Jesus’ good news, also model His good deeds Take the initiative in the power of the Holy Spirit, leaving the results to God Share your own faith story Master CCC tools (Everystudent.com, CruPressGreen.com, Knowing God Personally, CoJourners, etc.); and invent new ones Lead people to the point of decision Equip others in how to share their faith
 2. BECOME AN EXPERT AT THE BASIC FOLLOW-UP OF NEW BELIEVERS (Build)

@@ -35,7 +35,7 @@ BUT – One book
 
 SERIES OUTLINE
 
-Part 1: Christ Promised
+### Part 1: Christ Promised
 
 - Chapter 1 - The Pattern of the Kingdom
 - Chapter 2 - The Perished Kingdom

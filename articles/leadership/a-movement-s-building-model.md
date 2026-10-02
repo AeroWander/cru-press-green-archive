@@ -16,7 +16,7 @@ source: "Launching a New Ministry/Ministry Leadership/Movement Building copy.pdf
 
 ## Through Healthy Win-build-send Movements
 
-By the CFM National Team
+### National Team
 
 The principles in this document provide leaders with a framework and a toolset to develop win-build-send movements. The model assumes that a leader has successfully launched a movement. It walks through a breadth of needs that a leader will discover as we seek to grow where we are and go where we are not. It addresses where a leader should focus, what resources they must secure, how to raise movement leaders, how to successfully plan for a growing movement and what results we should observe. This article will have 6 sections:
 
@@ -249,7 +249,7 @@ A. What are the specific changes Christ has made in my life? Are there any illus
 
 5. Closing
 
-Helpful Hints
+### Helpful Hints
 
 - Write the way you speak—make the testimony yours.
 - Choose a theme and carry it throughout the testimony.

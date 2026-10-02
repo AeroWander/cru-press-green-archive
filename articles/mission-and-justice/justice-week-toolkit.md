@@ -171,7 +171,7 @@ Raise your Voices: Call on Your Elected Officials to Take a Stand
 
 Organizing an advocacy event is a great way to educate your campus about issues of injustice, while also providing immediate opportunities to take action. IJM’s Justice Campaigns team is here to help you advocate on behalf of victims of injustice by contacting your elected representatives in Congress and asking them to pass legislation that would help fight injustices around the world.
 
-What is Justice Campaigns?
+### What is Justice Campaigns?
 
 Justice Campaigns is IJM’s official advocacy program. We mobilize people around the country in support of US policies that will lead to the abolition of sex trafficking and modern-day slavery and the creation of public justice systems abroad that protect the poor.
 

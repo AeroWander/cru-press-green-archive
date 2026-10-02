@@ -130,7 +130,7 @@ This material was designed for Coram Deo Church Community small groups. Much of 
 
 ## The Law and the Gospel
 
-WEEK FOUR
+### Week Four
 
 We have been thinking together about what it means to live all of life under the influence of the gospel. Obviously one important aspect of gospel-centered living is reading and studying the Bible. Martin Luther observed that most of the Bible’s teaching can essentially be broken into two categories: law and gospel. The “gospel” category contains all the promises God makes to His people. The “law” category contains all the commands, prohibitions, and expectations God lays out for us. If we are to live according to “every word that proceeds from the mouth of God” (Matt. 4:4), it is crucial that we understand how law and gospel relate to each other.
 
@@ -170,7 +170,7 @@ This material was designed for Coram Deo Church Community small groups. Much of 
 
 ## True Repentance vs. False Repentance
 
-WEEK FIVE
+### Week Five
 
 We have been thinking together about how to consistently live all of life under the influence of the gospel. For the past few weeks, the “cross chart” diagram has served as a visual model to help us understand how the gospel works.
 
@@ -336,7 +336,7 @@ We are to offer others a taste of the Cross, which is a demonstration of both wr
 
 ## The Gospel Helps Us Fight Fairly
 
-WEEK NINE
+### Week Nine
 
 We have seen that gospel-centered renewal works itself out in our relationships. And nothing is more common to relationships than conflict. If the gospel doesn’t affect how we deal with conflict, then it’s probably not touching us very deeply! So this week we will attempt to answer the question: How can the gospel help us fight fairly?
 

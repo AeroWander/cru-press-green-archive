@@ -167,7 +167,7 @@ One cause of resentments is that they think their children are throwing away a p
 
 Another problem is the insecurity of it all. Many parents, especially those who haven’t traveled much, ™ picture their children in the midst of a jungle somewhere with wild animals roaring at them, snakes hissing at their feet, and spiders climbing up their pant legs. Parents also worry about what will happen if they need their children. As they get older and frail, they want to know whether their children will be able to fly home in an emergency.
 
-What to do When Parents Say No:
+### What to do When Parents Say No:
 
 - Reflect on the way you’ve represented your great ideas before. You’ve sounded certain about so many other things that you are no longer very interested in. They’ve seen you dating three or four different people and every one of them, you thought, was God’s one for you. How are your parents to know this plan to go overseas is not just another of your many enthusiasms?
 - Ask them to pray with you for several months about your plans. If your parents are Christians, say to them, “Can we both seek the guidance of God during the next six months? If it’s right for me, I trust that God will show that to you. If that’s not so, then one of us is wrong. And it may be me.” This kind of humility is important.

@@ -69,6 +69,6 @@ B. Some examples of Christ-centered questions targeting the heart
 
 “He was oppressed, and he was afflicted, yet he opened not his mouth; like a lamb that is led to slaughter, and like a sheep that is silent before its shearers is silent, so he opened not his mouth.”
 
-Is 53:7
+### Is 53:7
 
 What is uniquely beautiful about Christ at this moment? Or, put another way, how is his beauty different at this moment than, say, when he raised Lazarus from the dead? What is beautiful about a God like this?

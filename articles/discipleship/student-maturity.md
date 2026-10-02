@@ -86,7 +86,7 @@ The difference in growth would be caused by the environment. The same is true fo
 
 THE ISSUE:
 
-HOW DO I MATURE IN MY CHRISTIAN LIFE?
+### How Do I Mature in My Christian Life?
 
 A. The two primary ingredients that God uses to cause growth in our lives are grace and truth. Truth gives us the understanding we need to live the Christian life. Grace provides the acceptance and encouragement we need to keep on going. But growth doesn’t happen all at once. It occurs as process over time. Thus, the formula for an ideal growth environment is:
 

@@ -80,7 +80,7 @@ Develop a schedule and stick to it. Make sure you are putting in your priorities
 
 Final Encouragement God has given you both the resources and responsibility to pursue and plan for your own spiritual growth this summer and effectively resist temptation. His grace is sufficient and He gives you the adequate resources to meet each day’s challenge as you depend on Him and walk in the power of the Holy Spirit. You might want to review the booklet, “Have You Made the Wonderful Discovery of the Spirit-Filled Life?”. You can also view the content from the booklet on the Web at www.greatcom.org/spirit/english/ or follow the link from the GodSquad under Discipleship.
 
-Digging Deeper
+### Digging Deeper
 
 Go to http://godsquad.com/summer to download additional materials to help you dig deeper beyond this basic survival guide.
 

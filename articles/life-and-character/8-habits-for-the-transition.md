@@ -97,7 +97,7 @@ Though there are a few exceptions, most people move to a new city when they grad
 
 how do we grow?
 
-Practicing Personal Disciplines (or Habits)
+### Practicing Personal Disciplines (or Habits)
 
 Our best relationships require an investment of our time. If a relationship is robbed of time, the people in it will eventually drift apart. It’s an obvious fact in human relationships and the same principles hold true of our intimacy with Christ. Relationships take an investment of our time— which, by the way, will be a precious commodity once you start a full-time job! Think for a moment about how you have (or haven’t) practiced the following disciplines in college. What effect, over time, have they had on your relationship with God? Which have had the greatest impact?
 
@@ -192,7 +192,7 @@ Do you remember the first time that you saw God use you to minister to another p
 
 A “Life Map” is a helpful tool for guiding you to a place of ministry, surfacing how God has worked in your life, and recognizing how God has used and motivated you. All of which sets a trajectory toward future service. Using the following guide, take some time to think about the significant experiences and people that have made you who you are today.
 
-Part One: Life Experience
+### Part One: Life Experience
 
 - Hero’s – Who are the people who have had a significant impact or influence on your life?
 - Hand of God – Describe the most meaningful spiritual experiences in your life starting with when you became a believer.

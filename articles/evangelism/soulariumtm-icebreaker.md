@@ -72,7 +72,7 @@ STEP 2: PREP
 
 - Watch the videos and read the articles yourself. (Don’t forget to do the action steps!)
 
-STEP 3: TRAINING DAY
+### Step 3: Training Day
 
 - Distribute Soularium to individuals or discussion groups.
 - Simply walk through the “Watch, Discuss, Practice, Share” steps in the article: “Training Videos Discussion Guide” (For large groups, see “Adapt to Fit Your Situation” below.)
@@ -82,7 +82,7 @@ STEP 3: TRAINING DAY
 
 You can easily adapt the above steps to fit the number of people you’re training to use Soularium: individuals, small groups, and large groups. If it’s a larger group, have them break down in smaller groups of 3-4 to discuss the questions and apply the action steps that you walk them through from up front. If you’d like to talk to one of the creators of Soularium email LeighAnn.Dull@cru.org.
 
-Well)
+### Well)
 
 Your Role is Critical: You set the stage When you teach another person how to use Soularium, you not only shape their experience, but the experience they pass on to others and, most importantly, the experience of the person with whom they use Soularium. So it’s critical they understand how the tool was meant to be used — the philosophy and understanding of God, people, and the gospel that shaped its design.
 

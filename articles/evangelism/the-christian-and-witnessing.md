@@ -13,7 +13,7 @@ source: "Evangelism/traning/The Christian and Witnessing.pdf"
 
 ## Ten Basic Steps—bill Bright
 
-EIGHT ESSENTIALS FOR INTRODUCING OTHERS TO JESUS CHRIST
+### Eight Essentials for Introducing Others to Jesus Christ
 
 1. You must know Christ personally.
 2. You must have no unconfessed sin in your life.

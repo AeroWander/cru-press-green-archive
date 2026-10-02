@@ -75,7 +75,7 @@ The following numbers will be updated at the end of the semester/quarter or as c
 
 Movement Profiles Movement definition: A leader with five aligned students involved in Win, Build, and Send on the most organic level. We are measuring the number of movements planted in order to get to the scope of our mission.
 
-Number of Students Regularly Involved in Cru
+### Number of Students Regularly Involved in Cru
 
 Number of Laborers Sent A graduated Christ-centered laborer is someone who is growing in his/her faith, is multiplying his/her life, and has been sent with a personal strategy to help fulfill the Great Commission.
 

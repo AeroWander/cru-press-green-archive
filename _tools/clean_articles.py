@@ -68,6 +68,9 @@ def fix_words(s):
     s = re.sub(r"\b([A-Za-z]*)(ffi|ffl|fi|fl|ff) ([a-z]+)\b", ligature, s)
     s = re.sub(r"\s*/{3,}\s*", " ", s)                                                 # "Culture ////////"
     s = s.replace("\ufffd", "")                                                          # "�" (unreadable glyph)
+    if len(re.findall(r"[A-Za-z]![A-Za-z]", s)) >= 3:                                       # "History!of!Project!Orange!"
+        s = re.sub(r"(?<=[A-Za-z,.:])!(?=[A-Za-z(])", " ", s); s = re.sub(r"(?<=[A-Za-z.])!(?=\s|$)", "", s)
+        s = s.replace("(orange(", "Orange "); count("! used as spaces fixed")
     s = re.sub(r"[ \t]{2,}", " ", s)
     return s
 
@@ -177,6 +180,35 @@ def fix_heading(block, authors_first, prior_words, author_names=()):
     count("sentence headings made paragraphs"); return raw
 
 
+TITLE_SMALL = set("a an and as at but by for from in into nor of on or per the to vs via with is are".split())
+LABELS = {"apply", "launch", "explore", "week", "discuss", "commentary", "notes", "read", "big idea", "lesson plan",
+          "action point", "scenarios", "objective", "objectives", "always sometimes never"}
+
+
+def promote_titles(blocks, title, authors_first, prior_words):
+    """A short Title-Case line standing alone before a real paragraph is a section title the PDF conversion
+    missed: make it a heading. "File: Prayer, Care, and Share.pdf" (handout bundles) becomes "Prayer, Care, and Share"."""
+    out = []
+    for i, b in enumerate(blocks):
+        p = b.strip()
+        nxt = blocks[i + 1].strip() if i + 1 < len(blocks) else ""
+        m = re.fullmatch(r"File:\s*(.+?)\.(?:pdf|docx?|pptx?)", p, re.I)
+        if m:
+            out.append("## " + m.group(1).strip()); count("file markers made headings"); continue
+        words = p.split()
+        if ("\n" not in p and not re.match(r"[#*>-]|\d+[.)] ", p) and 1 <= len(words) <= 9 and len(p) <= 64
+                and (not re.search(r"[.,;:]$", p) or p.endswith("?")) and len(nxt) > 120 and not nxt.startswith("#")
+                and p.lower() != title.lower() and p.lower().rstrip("?!") not in LABELS):
+            caps = [w for w in words if w.lower() not in TITLE_SMALL]
+            if caps and p[:1].isupper() and sum(w[:1].isupper() or w[:1].isdigit() for w in caps) >= 0.8 * len(caps):
+                t = tidy_heading(p, authors_first)
+                if t and good_heading(t, prior_words, p):
+                    prior_words.update(w.lower() for w in re.findall(r"[A-Za-z’']+", t))
+                    out.append("### " + t); count("standalone titles made headings"); continue
+        out.append(b)
+    return out
+
+
 def clean_body(body, meta):
     body = strip_furniture(body)
     authors_first = {a.split()[0].lower() for a in meta.get("authors", []) if a.split()}
@@ -204,7 +236,8 @@ def clean_body(body, meta):
         if not (UL.match(lines[0]) or OL.match(lines[0])) and "\n" not in text:
             text = split_inline_bullets(text)
         out.append(text.strip())
-    return "\n\n".join(x for x in out if x) + "\n"
+    out = promote_titles([x for x in out if x], meta.get("title", ""), authors_first, set())
+    return "\n\n".join(out) + "\n"
 
 
 def main():

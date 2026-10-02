@@ -61,7 +61,7 @@ I Thessalonians—Contains a key passage on sexual purity in chapter four as wel
 
 II Thessalonians—Corrects errors regarding Christ’s second coming.
 
-Paul’s Letters Written to Church Leaders (Timothy and Titus)
+### Paul’s Letters Written to Church Leaders (Timothy and Titus)
 
 I Timothy—Important instructions on how to have a healthy church. It covers issues like the role of women in the church (2), guidelines for spiritual leadership (3), the importance of the pastor’s own walk with God (4), and vital instructions about attitudes toward money (6).
 
@@ -69,7 +69,7 @@ II Timothy—Paul’s “swan song.” It contains a great chapter on the suffic
 
 Titus—Instructions to Titus on how to organize a new church in a pagan society. Has a great section on Christian ethics in chapter two. Philemon--Paul’s letter in behalf of a runaway, converted slave. It gives a good model of how to raise a “sticky” issue with another believer.
 
-Letters From Other Writers
+### Letters From Other Writers
 
 Hebrews—Author unknown. It teaches the superiority of Christ to all that these Jewish believers left behind in Judaism. The danger of defecting is sounded throughout. Chapter five explains why believers fail to grow (5:11-14). Chapter ten gives a challenge for believers to minister to each other. Chapter eleven is the great chapter on faith. Chapter twelve explains God’s purpose in discipline.
 

@@ -81,7 +81,7 @@ I AM FREE!
 
 I have a new master and the gospel has the power to change me. There is hope for change. I am free from the bondage to the law. I do not need to prove myself worthy. The law tutors me to Christ and replaces bondage with an appeal to living on the basis of relationship rather than performance and good works.
 
-I AM NOT ALONE!
+### I Am Not Alone!
 
 I have His presence through the Holy Spirit. He is able to counsel, comfort, and empower me to live the life God designed for me (John 16:5-15). As I live by and depend on the Spirit, I will not gratify the desires of the sinful nature (Galatians 5:16).
 

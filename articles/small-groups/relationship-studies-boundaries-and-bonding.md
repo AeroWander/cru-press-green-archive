@@ -21,7 +21,7 @@ ORDER ONLINE AT CRUPRESS.COM all you need is love · Our Need for Community
 
 What Do I Need to Know About the Passage?
 
-Hebrews 10:24-25; 3:12-13 What’s the Big Idea?
+### Hebrews 10:24-25; 3:12-13 What’s the Big Idea?
 
 Hebrews 10:24-25 The passage deals with the powerful role Christian community and fellowship play in encouraging Christians to grow and persevere in their faith. God has designed us to need one another. Often, we are unaware of how great that need is until we actually experience true Christian community – community that propels us forward in our holiness, ministries and walks with Christ. As a plant grows strong and healthy in good soil, God has designed us, too, in such a way, that we will only grow spiritually strong and healthy within the soil of a close-knit group of Christians.
 
@@ -108,7 +108,7 @@ Hebrews 10:24 Cru.Comm is the small group material for Campus Crusade for Christ
 
 What Do I Need to Know About the Passage?
 
-Romans 12:9-18 What’s the Big Idea?
+### Romans 12:9-18 What’s the Big Idea?
 
 Overview In the last study, we talked about the need for community in the life of a believer. God created us to have relationships with others. Why? Because we are made in His image - He is, by His very nature, relational. Also, relationships provide the environment we need in order to grow and mature spiritually. Without connectedness to God and others, our souls slowly wither, often leading people into depression and other related emotional problems. The focus of this study is how to reach out to others, in love, to form the connections that God designed us to have. Basically, how do we put last week’s lesson into practice? The answer: through the process of ‘bonding’. We will, however, be looking at this processes more conceptually (What is the idea?) than practically (Where do I go/what do I say to form relationships with others?).
 
@@ -130,7 +130,7 @@ We are told to “bless those who persecute” and not “to repay evil with evi
 
 “Humility” is the accurate appraisal of our own spiritual poverty and the grace we have received. It is the righteous medium between pride (an over-estimation) and low self-esteem (an under-estimation). Only a humble heart is able to love purely, without jealousy and competitiveness and not from its own neediness.
 
-Where Will this Love Come From?
+### Where Will this Love Come From?
 
 While there are a variety of ways God changes our heart, three are worthy to note from the passage and study. First, in describing a sincere love, the apostle Paul does not leave out the need to love God with zeal and passion. Our love relationship with God fuels our ability to love others. Second, while almost all of the commands involve our attitudes, Paul does command an action. He calls us to “share with God’s people” and show hospitality. While these certainly express sincere love, they also help produce it. Jesus said, “Wherever your treasure is, your heart will be also.” As we actively give to others, our hearts are taken captive in the process and are redirected toward others.
 
@@ -276,7 +276,7 @@ Now the body is not made up of one part but of many.
 
 What Do I Need to Know About the Passage?
 
-Chap Exodus 18 What’s the Big Idea?
+### Chap Exodus 18 What’s the Big Idea?
 
 Background Before going to lead the Israelites out of Egypt, Moses left his wife Zipporah and two sons, Gershom and Eliezer, with his father-in-law, Jethro. Moses crosses out of Egypt with several millions of Israelites in tow. Safely out of Egypt, Moses’ father-in-law, Jethro, comes to him, bringing with him Moses’ wife and sons who had been staying with him for safekeeping. Upon arriving, Jethro spends the day with his son-in-law observing him as he attends to his vast responsibilities as the father of a nation. Jethro, being older and wiser, and having a great deal of experience in leadership himself, makes an important observation. There are hordes of people waiting to have their court cases tried by the great judge Moses. Why? Because Moses, alone, meets with God face-to-face, so who better to decide what God’s will is? Upon seeing this, Jethro states, “What you are doing is not good. You and these people who come to you will only wear yourselves out. The work is too heavy for you; you can not handle it alone.” Jethro makes a profound observation. Moses was doing the work of a dozen men. He was wearing himself out – he was stretched too thin – and the people weren’t all that happy having to wait for him to try their case.
 

@@ -60,7 +60,7 @@ Scripture The Word of God is our sword (Ephesians 6:17). There is no time more c
 
 But among you there must not be even a hint of sexual immorality, or of any kind of impurity, or of greed, because these are improper for God’s holy people.
 
-Ephesians 5:3
+### Ephesians 5:3
 
 Flee from sexual immorality. All other sins a man commits are outside his body, but he who sins sexually sins against his own body.
 
@@ -80,7 +80,7 @@ Settle for Partial Victories Once you’re in the mud, the tendency is to stay a
 
 I made a covenant with my eyes not to look lustfully at a girl.
 
-Job 31:1
+### Job 31:1
 
 Stop mASturBAting For more on this issue, see the article on masturbation. The point here is if masturbation stays a regular practice in your life, even if you’re not lusting, then lust still maintains a foothold.
 

@@ -27,7 +27,7 @@ The book of Acts is the sequel to Luke. It opens with a greeting to Theophilus, 
 
 In verse 4, Luke quotes Jesus as saying something that seems counter-intuitive at first glance, given the urgency of their task. Jesus had told the disciples to, “Go, and make disciples of all nations.” But here he says, “Do not leave Jerusalem, but wait for the gift my Father promised, which you have heard me speak about.” It would seem that they should have gone with all haste to carry the news of the risen Savior to the ends of the earth. Understanding why they were to wait is the key to understanding this passage.
 
-What Are You Waiting For?
+### What Are You Waiting For?
 
 The conversation Jesus is referencing is recorded in John 14-16. Take a second read through those chapters and then come back here for a bit of commentary. Pay special attention to John 14:25-15:8, and 15:26-16:16.
 
@@ -42,17 +42,17 @@ And look how often he comments on how the Spirit will help us know and communica
 
 - But the Counselor, the Holy Spirit, whom the Father will send in my name, will teach you all things and will remind you of everything I have said to you. (14:26)
 
-What’s the Big Idea?
+### What’s the Big Idea?
 
 In this passage Luke shows Jesus’ call to take the gospel to the ends of the earth, and He specifies the power by which we must do this. The Holy Spirit is the source of that power, and in fact, is so indispensable that Jesus tells the disciples NOT to go tell people about Him until they are filled with the Spirit. We also need to be sure we are empowered by the Spirit, and then go tell people how they can begin a relationship with God through Christ.
 
-What’s the Problem?
+### What’s the Problem?
 
 Apart from the power of the Holy Spirit we have no capacity to influence people for Christ. All our efforts arein vain if He is not enabling us.
 
 Continued on page 2
 
-The HOLY SPIRIT
+### The Holy Spirit
 
 - when the Counselor comes, whom I will send to you from the Father, the Spirit of truth who goes out from the Father, He will testify about me. And you also must testify. (15:26,27)
 - when He comes, He will convict the world of guilt in regard to sin and righteousness and judgment. (16:7)
@@ -184,13 +184,13 @@ They will lay hands on you and persecute you. They will deliver you to synagogue
 
 As Peter and John testify of the gospel, the leaders of the day, are astonished by their courage. They can’t make sense of their bold, powerful witness. Confronted with incontrovertible evidence of a miracle, and men who can not be intimidated, they vainly order the apostles to stop speaking about Jesus. They probably aren’t surprised by the response: “Judge for yourselves whether it is right in God’s sight to obey you rather than God. For we cannot help speaking about what we have seen and heard.” (Acts 4:19,20).
 
-What’s the Big Idea?
+### What’s the Big Idea?
 
 Acts 1:8 promises that God will give power to believers so that they can speak about Jesus in a supernatural way. Not only will they have extraordinary courage, but their words will also have great effect.
 
 This passage is an example of that being lived out by the apostles. It is meant as an encouragement to us so that we would rely on the Holy Spirit and experience the thrill of being His witnesses.
 
-What’s the Problem?
+### What’s the Problem?
 
 There are many things that can keep us from sharing the gospel, including fear or our own disinterest. Without the Spirit of God living in and empowering us we’re unable to overcome the hindrances.
 
@@ -271,7 +271,7 @@ Their only hope was forgiveness in Christ. It was a small thing to suffer so tha
 
 Salvation is found in no one else, for there is no other name under heaven given to men by which we must be saved.
 
-Acts 4:12
+### Acts 4:12
 
 Allow the group to discuss how they would answer these questions. See the accompanying article, “Lost” for additional insights. You might want to print out several copies for your group.
 
@@ -297,7 +297,7 @@ In the final scene, the narrator returns and implores the nations to stop their 
 
 That is the understanding the believers had of God as they prayed to Him. Because of that, they pray with confidence that He can, and will, intervene on their behalf, as they preach the gospel. After praising God for His power, they make two requests. First, in verse 29, they ask that they might be able to speak with great boldness in the face of the threats against them. Second, in the next
 
-What’s the Big Idea?
+### What’s the Big Idea?
 
 In the crucible of radical and risky ministry, prayer becomes spontaneous, dynamic and joyful. The key to experiencing great prayer is committing great acts of faith.
 
@@ -367,7 +367,7 @@ is currently lacking in this time – in contrast to what you observe in this pa
 16. Is there currently a time when believers gather to pray for the campus? If there is, what do you see that
 17. In what way can you contribute to bringing about this kind of prayer on campus?
 
-PRAyer
+### Prayer
 
 Peter and John have been arrest-ed for preaching the gospel. Filled with the Spirit, they were bold and didn’t back down. They were then threatened and released.
 
@@ -428,11 +428,11 @@ The court was at a loss as to what to do, and (briefly) heeded the advice of the
 
 Continued on page 2
 
-What’s the Big Idea?
+### What’s the Big Idea?
 
 This study is about persecution, and bearing up under it joyfully. Despite the myriad of things against them, the apostles preached the gospel unflinchingly. By the power of the Holy Spirit, we can do the same.
 
-What’s the Problem?
+### What’s the Problem?
 
 We often have a wrong perspective on suffering, seeing it as the judgment of God and a thing to be avoided at all costs. When we yield to this we miss out on a measure of joy that can only come by suffering for Christ.
 
@@ -535,17 +535,17 @@ God does this all the time. According to Ephesians 2:10, “We are God’s workm
 
 There could hardly have been a more opportune passage for the Ethiopian to be reading. It was from Isaiah 53, which is one of the clearest Messianic prophe-cies in the Old Testament. Look at it in context. From Isaiah 52:13 through the end of chapter 53, Isaiah describes in vivid detail a man who is a servant of God, but is despised and rejected, and who is killed for the sins of others. His death produces life for us. After His death, He sees life and is given a great reward. This is probably the single clearest picture of the Messiah’s suffering in the Old Testament.
 
-What’s the Big Idea?
+### What’s the Big Idea?
 
 Ephesians 2:10 says, “We are God’s workmanship, created in Christ Jesus to do good works, which God prepared in advance for us to do.” There are divine opportunities all around us. God has set up appointments for us to walk into, if we just have the eyes to see and the will to obey.
 
-What’s the Problem?
+### What’s the Problem?
 
 If we are not looking for and open to the opportunities God gives us everyday to be His ambassadors we miss out on the opportunity to love and serve people for Christ.
 
 Continued on page 2
 
-DIvINE APPOINTMENTS
+### Divine Appointments
 
 As the Ethiopian reads this, he wonders who the man in the passage is. Philip is able to show him that it is Jesus, the Messiah. Isaiah was written more than 600 years before Jesus was born and describes perfectly how our redemption was accomplished. It would be exciting to walk through this passage with your group and observe how accurately it describes Jesus.
 
@@ -659,11 +659,11 @@ I thank Christ Jesus our Lord, who has given me strength, that He considered me 
 
 Here is a trustworthy saying that deserves full acceptance: Christ Jesus came into the world to save sinners – of whom I am the worst. But for
 
-What’s the Big Idea?
+### What’s the Big Idea?
 
 This passage is about an extraordinary and unexpected conversion. Saul, enemy of the gospel, came to faith and began preaching the gospel himself. No one is beyond the reach of the gospel. We should look for opportunities to lead people to Christ, even if we think they would never believe.
 
-What’s the Problem?
+### What’s the Problem?
 
 We tend to shrink back from sharing the gospel. Either because of our own fear or our lack of faith that the message will produce life change in those with whom we share it.
 
@@ -733,7 +733,7 @@ APPLY
 17. Why do you think Luke talks so much about evangelism?
 18. How are his descriptions of the early church like or unlike things at this campus?
 
-PAUL’s CONveRSION
+### Paul’s Conversion
 
 The name, “the Way” comes from John 14:6 where Jesus said, “I am the way and the truth and the life. No one comes to the Father except through me.”
 
@@ -796,7 +796,7 @@ A second thing to observe in this chapter is that the gospel spreads in ways gre
 
 In verse 16, Paul begins to speak in the Pisidian Antioch synagogue, arguing that Jesus is the Savior that God had promised to send. He is persuasive and clear and speaks in a way that his Jewish audience would understand and appreciate. He is invited back to speak again on the following Sabbath, only this time the entire city shows up to hear (verse 44)! Those that heard Paul’s message the first week invited their friends and neighbors to hear him the second week.
 
-What’s the Big Idea?
+### What’s the Big Idea?
 
 In this passage, Paul and Barnabas begin their first missionary journey. Two strategies can be observed here: broad sowing – taking the gospel to every person they could; and spiritual multiplication – new believers becoming messengers of the gospel.
 
@@ -810,7 +810,7 @@ Since the gospel is only good news if it gets there in time, unwise and nonstrat
 
 Continued on page 2
 
-BROAD SOWING AND MuLTIPLICATION
+### Broad Sowing and Multiplication
 
 Certainly, some had believed the gospel the first week, while others were still questioning. But whatever their maturity or faith, the people who heard Paul’s message were themselves becoming the messengers of the gospel.
 
@@ -830,7 +830,7 @@ End
 
 BROAD SOWING AND MuLTIPLICATION
 
-Acts 13
+### Acts 13
 
 LAUNCH Think of your favorite product – it might be a movie, computer, brand of shoes, anything. How did you hear about it? From how many sources and how many times? Was it through professional ads or word of mouth? What implications can you draw about effectively communicating the gospel based on that company’s ability to get news to you about their product?
 
@@ -931,11 +931,11 @@ In our culture, there are also “synagogues” or natural places to begin an ou
 
 Even within college campuses there are “synagogues.” Freshmen are perhaps the most strategic of college students. If you want to reach a campus for Christ, Freshmen are the key. Everyone is a Freshman at one point, so if you reach
 
-What’s the Big Idea?
+### What’s the Big Idea?
 
 In this study, you want to continue to help your group think strategically about ministry. Specifically, this passage shows how Paul was intentional about choosing a starting point for outreach, and how he valued discipleship in addition to evangelism.
 
-What’s the Problem?
+### What’s the Problem?
 
 The enormous task of reach-ing everyone on the planet with the good news about Jesus’ life, death and resurrection cannot be accomplished without giving careful thought to the best ways to proceed.
 
@@ -1054,11 +1054,11 @@ In verse 22, Paul begins an extraordinary speech. The next nine verses are absol
 
 Continued on page 2
 
-What’s the Big Idea?
+### What’s the Big Idea?
 
 In this passage, Paul shares the gospel with a group of pluralistic philosophers, whose worldview was very similar to that of college students today. His message is a study in how to tactfully, and effectively, create a thirst among unbelieving people to hear the gospel.
 
-What’s the Problem?
+### What’s the Problem?
 
 In a pluralistic culture the gospel message may get no traction in the minds of unbelievers. We need to be careful to speak in terms that are acceptable and meaningful to our audience or we won’t be heard and will have little influence.
 
@@ -1183,7 +1183,7 @@ This study looks at the means by which God leads His people.
 
 It surveys the Book of Acts to see how the Holy Spirit gave wisdom and direction to the first disciples.
 
-What’s the Problem?
+### What’s the Problem?
 
 The will of God is not often plainly reveled to us which leaves us open to missing it entirely or wrongly leaning on uncertain indicators as we try to figure it out.
 
@@ -1199,7 +1199,7 @@ They are: wisdom, Scripture, Godly council, our emotions, our mind, direct revel
 
 GOD’s WILL
 
-What Are Our Spiritual Senses?
+### What Are Our Spiritual Senses?
 
 proclaim the gospel. Then the passage mentions after the man was baptized “the Lord suddenly took Philip away.” God seems to be moving the disciples around like chess pieces, with direction that has not been experienced in Israel since the Exodus. It is the dawning of a new era.
 
@@ -1213,13 +1213,13 @@ Romans 12:1-3 Christians are always seeking a sure-fire way to know what the wil
 
 The message of the passage is exceedingly simple, yet profoundly true. If we desire to do God’s will with all of our heart, then He will disclose it to us. If, in the end, all we really want God to do is simply bless what we want to do, then we will not have that assurance. God gives us enough clues, that if we are looking for them, we will find them. But He also gives us just enough clues, so that if we don’t desire to follow Him, they will not be perceived, or will be interpreted wrongly.
 
-How Does God Make His Will Known?
+### How Does God Make His Will Known?
 
 How do you find where you are going when you are lost? You use your senses. You might look for familiar things, or try to hear a local highway. In a similar way, we are to use our spiritual senses to attempt to bring in as much information as we can, in order to discern God’s leading. A basic list of those senses appears in the sidebar of this page.
 
 Looking For Alignment What we are looking for is alignment among these senses: that our hearts would be telling us the same things as our circumstances, and godly, mature believers. There are many decisions we can make by wisdom and a knowledge of the Scripture; but often the decisions that have the most gravity are not as clearly spelled out and need some detective work. As we mature as Christians, we become increasingly better detectives.
 
-Tell Me Now!
+### Tell Me Now!
 
 So why doesn’t God just make it immediately clear to us what we should do? Because God has other objectives than simply having you carry out His will. He wants you to know Him better, and rely on Him. He wants to bring out heart issues you are unaware of. God uses major decisions to accomplish many purposes, purposes which could not be realized by immediate disclosure of His will.
 

@@ -166,6 +166,6 @@ For additional information contact: Scott.Santee@ uscm.org or Eric.Pederson@uscm
 
 ## Gospel in Action
 
-AT THE END OF SLAVERY (INTERNATIONAL JUSTICE MISSION)
+### At the End of Slavery (International Justice Mission)
 
 The integration of gospel proclamation with social justice concerns and ministries of compassion can create powerful synergy, leading to the growth in believers and relevant witness to others as they see or experience the body of Christ in action. A statement by the National Team (April 2006) can be found at here. We are in process of establishing a partnership with The International Justice Mission (IJM) and exploring additional partnerships (such as, Compassion International). Resources are being developed for follow-up discussions and gospel connections to be used with The End of Slavery, IJM’s documentary on human trafficking that will be shown at four winter conferences. www.attheendofslavery. com/

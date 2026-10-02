@@ -67,7 +67,7 @@ Life@Large Revisited
 
 backstory backstory There are seven billion people in the world. Seven billion stories. And yet there are themes in our stories that are universal: betrayal, love, romance, redemption, sacrifice . . . The question— and it’s a really big question—is if there’s a larger story or narrative to which all our stories relate, one that makes sense of our shared experience—a common Back Story. It’s a question you need to answer for yourself. But before coming to a conclusion, consider this story and how it intersects with your own.
 
-Intimacy
+### Intimacy
 
 Q On a scale from 1 to 10, how would you rate your desire to know God? Q Do you see yourself moving closer to, or further away from God? Intimacy OUGHTNESS. Instilled in us is a longing for the ideal world and perfect intimacy for which we were created. We sense that the evils of war and rape and death are alien to our existence. As Martin Luther King Jr. observed, we are confronted by an “eternal oughtness:” that the world is not as it ought to be, that unconditional love and perfect peace are forever elusive. From the beginning, relationships have been woven into the fabric of life. We were fashioned as works of art reflecting the image of our Creator: we think, we choose, we create, and we were designed to love—to experience intimacy with God and each other . . .
 

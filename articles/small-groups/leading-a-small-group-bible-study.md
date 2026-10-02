@@ -99,7 +99,7 @@ Share the topics to be covered:
 
 Say, ìNow we want to leave with a little challengeóthis study will be a good foundation to build on for the rest of your life.î Go to the ìParable of the Soilsî Bible study.
 
-Key Tip
+### Key Tip
 
 It is imperative that you be very familiar with the parable so that it comes across properly. For example, it would be easy to miss the fact that the condition of man’s heart (the different soils) is the whole point of this parable. Everything else (the same seed, the same birds flying around, etc.) is constant; the soil type is the variable.
 
@@ -182,7 +182,7 @@ It’s nice to have good looks, money, status, brains, and success. But if our s
 
 Rate yourself on each of the following statements using this scale:
 
-Always Often Sometimes Rarely Never
+### Always Often Sometimes Rarely Never
 
 □ There are certain areas in which I just have to succeed. □ I get down on myself when I fail. □ I get angry at people when they get in my way or when their actions make me look foolish. □ I am self critical. □ When I sense that I might experience rejection by someone I become nervous and anxious. □ I find myself uncomfortable around people I don’t know. □ It bothers me when someone is unfriendly to me. □ I find myself trying to impress others.
 

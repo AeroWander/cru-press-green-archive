@@ -170,7 +170,7 @@ Attached is worksheet to help you plan your first 6 weeks. . .
 
 In order to free people up for evangelism and gathering during this critical period and in order to conserve the fruit of existing Christians you may want to begin the year with larger open small group. The times and places can be pre-set and printed. CCC students can invite and bring their friends to these open studies without having to take time to prepare their own groups.
 
-Visibility Tips
+### Visibility Tips
 
 - Set up several “Campus Crusade for Christ” tables around high traffic areas of campus. Have a place for Bible study sign-up, surveys to fill out, a CCC calendar, the Fall Getaway Brochure, and FSK’s. You may want to offer free refreshments at each table.
 - Posters need to be placed in every living area-- S I X especially in the dorms / houses where first year students live. Two types of posters are helpful. One is for your Open House meeting, the T H E

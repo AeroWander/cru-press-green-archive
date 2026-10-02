@@ -123,7 +123,7 @@ There is more than one approach to apologetics. It’s like saying an operating 
 
 A good foundation for the new apologist.
 
-Faith and Reason, Ronald Nash (Zondervan Corp, 1994)
+### Faith and Reason, Ronald Nash (Zondervan Corp, 1994)
 
 Excellent explanation of the issues surrounding the problem of evil. A New Evidence Demands a Verdict, Josh McDowell (Nelson, 1999) Can’t remember the dates of the earliest New Testament fragments or all the prophecies Jesus fulfilled? Josh does. Overflowing with info and resources.
 
@@ -173,7 +173,7 @@ This book gives handles to a slippery word. Looks at racism, war, justice, and r
 
 These are three articles on things defined too fuzzily by society. Together only 10 pages. Make them the grist of a topical study around Valentine’s Day. It might even by somewhat evangelistic (Ephesians 5:31-32).
 
-Boy Meets Girl, Josh Harris (Multnomah, 2000)
+### Boy Meets Girl, Josh Harris (Multnomah, 2000)
 
 I know. Don’t judge me. His proposal is much more biblical than most of our emulated or Christianized versions of Friends. You can’t go back to holding hands. Authors this strongly loved or hated usually have something to say. I Kissed Dating Goodbye (revised. Multnomah, 2003) is better for high school kids.
 
@@ -253,7 +253,7 @@ A BOOK TO READ IF YOU’RE DATING THE PERSON YOU’RE DISCIPLING Boy Meets Girl,
 
 LIFE AFTER OZZY: ALTERNATIVES TO MY UTMOST FOR HIS HIGHEST Morning and Evening, Charles Spurgeon (various publishers) One page a day. Never boring. Colorful metaphors and expressions. For the Love of God, D. A. Carson (Crossway, 1998, 999) Not fluffy. Devotional-like commentary moving through the Bible Book Report  in a year, highlighting its unity. One page a day plus Bible reading schedule (included).
 
-A Godward Life, John Piper (Crossway, 1999, 2001)
+### A Godward Life, John Piper (Crossway, 1999, 2001)
 
 Provocative and thoughtful meditations on various topics and passages. Each devotional is a few pages long. Two volumes are available today, with a third due soon.
 
@@ -269,7 +269,7 @@ Almost anything you got from a CBD bargain box special. Your fifth extra copy of
 
 Books with covers of multi-racial groups eating produce and surrounded by zoo animals (Watch Tower Bible and Tract Society, a.k.a. Jehovah’s Witnesses) BREATH MINT? BOLD AND BLUNT TITLES:
 
-Don’t Waste Your Life, John Piper (Crossway, 2003)
+### Don’t Waste Your Life, John Piper (Crossway, 2003)
 
 Challenges mediocrity which plagues so much of Christianity. Anything he writes is deeply God-centered and brings eternity/life into focus. Whoredom, Raymond Ortlund (Eerdmans, 1996)
 
@@ -297,7 +297,7 @@ What is the goal of missions? Not salvation of sinners. Read this for a more bib
 
 Probably his most popular title.
 
-The Dangerous Duty of Delight (Multnomah, 2001)
+### The Dangerous Duty of Delight (Multnomah, 2001)
 
 The Jabez-sized version of Desiring God. C’mon, only if you’re the underachiever. Part of what is helpful in reading his books is allowing your thinking to be deeply changed over a long period of time. ESSENTIAL TOOLS FOR THE CHRISTIAN You will study to feed your own heart and transform your thinking to reflect God’s mind. You will also study to help teach and guide others through life. Discipling demands studying and serious thought about God’s Word. There are reference tools that are aimed at helping you understand the meaning of the Bible. They are like cutting knives that allow you to take the chunks of Scripture and then cook and savor (meditate over) them. Help your disciple learn to study and in doing so to taste and see that the Lord is good.
 
@@ -391,7 +391,7 @@ Mark [BNTC] by Morna Hooker (Hendrickson, 1993)
 
 Luke [IVPNTC] by Darrel Bock (IVP, 1994)
 
-Luke by Robert Stein (Broadman, 1992)
+### Luke by Robert Stein (Broadman, 1992)
 
 The Gospel and Epistles of John by F. F. Bruce (Eerdmans, 1983) The Gospel of John [Pillar] by D. A. Carson (Apollos/Eerdmans, 1991)—advanced The Message of Acts by John Stott (IVP, 1994)
 

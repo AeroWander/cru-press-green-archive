@@ -65,7 +65,7 @@ Is it really just those few seconds of pleasure that are so powerful? What is th
 
 Sex can make you feel more alive than ever before, and it can suck the life right out of you. It can literally create life and literally destroy it. It’s beautiful and dangerous and powerful and risky. It’s kind of like a wild animal that we treat like a big stuffed toy (very cute until you get mauled).
 
-ARE WE ANY DIFFERENT?
+### Are We Any Different?
 
 I do not live in a vacuum, as has just been made evident by my cable TV viewing. Given the statistics listed earlier, I can only assume that there is a good chance you have already had sex and are currently doing so. (I mean, not right this minute. … You know what I mean.) You’ve thought and maybe even believe the reasons to have sex listed above. I know that everything you are about to read is contrary to what you hear, see, and read—on TV, in movies, on the radio, on the Web, in magazines, from your friends, from your professors, maybe even from your doctors, your therapist, and your parents. It could all easily be turned into a Saturday Night Live skit or be mocked on The Daily Show.
 

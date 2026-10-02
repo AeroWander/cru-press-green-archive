@@ -30,7 +30,7 @@ Athletes in Action
 
 Source: AthletesInAction.org
 
-File: AIA.pdf
+## AIA
 
 Description: A summary and description of the Campus Ministry’s outreach to student athletes with links, contacts, and information for launching an AIA ministry.
 
@@ -40,7 +40,7 @@ Bridges to International Students
 
 Source: ReachingInternationals.com
 
-File: Bridges International.pdf
+## Bridges International
 
 Description: Bridges International is the Campus Ministry’s outreach to international students studying in the U.S. Here is an overview of the Bridges Movement as well as contact information and links to get connected and involved.
 
@@ -50,7 +50,7 @@ Destino—Reaching the Latino Community
 
 Source: DestinoMovement.com
 
-File: Destino.pdf
+## Destino
 
 Description: The Destino Movement is the Campus Ministry’s mission focus on the Hispanic community. Here is a summary of the mission and vision of Destino, including links and contact information.
 
@@ -60,7 +60,7 @@ Epic—Outreach to Asian Americans
 
 Source: EpicMovement.com
 
-File: Epic.pdf
+## Epic
 
 Description: Epic was formed as a contextualized approach to reach the growing number of Asian-American students on U.S. campuses. Included here are links and information for connecting with Epic or launching an Epic movement.
 
@@ -70,7 +70,7 @@ Faculty Commons
 
 Source: FacultyCommons.com
 
-File: Faculty.pdf
+## Faculty
 
 Description: Faculty Commons is a national community of university professors, instructors, and administrators who identify themselves as followers of Jesus Christ. Here is information and links for connecting with the Faculty Commons ministry.
 
@@ -80,7 +80,7 @@ The Greek Ministry
 
 Source: GreekMovement.com
 
-File: Greek.pdf
+## Greek
 
 Description: The Greek Movement is the Campus Ministry’s outreach to the men and women involved in fraternity and sorority life on campus. Here is information on how to connect to, or launch, a Greek ministry on your campus.
 
@@ -90,7 +90,7 @@ The African American Impact Movement
 
 Source: ImpactMovement.com
 
-File: Impact.pdf
+## Impact
 
 Description: The Impact Movement envisions each community of African descent fulfilling its destiny as a reflection of the redemptive power of Jesus Christ. Here are links and contact information for starting your own Impact Movement on campus.
 
@@ -100,7 +100,7 @@ Nations and Native Americans
 
 Source: NationsMovement.com
 
-File: Nations.pdf
+## Nations
 
 Description: Nations is the Campus Ministry’s outreach to Native Americans. You’ll find information here to connect with the Nations Movement or to start a Nations chapter on your campus.
 
@@ -110,7 +110,7 @@ Student Venture
 
 Source: GoCampus.org
 
-File: Student Venture.pdf
+## Student Venture
 
 Description: Student Venture is the high school and junior high ministry of Campus Crusade for Christ. You’ll find information here to get involved with Student Venture or to begin a chapter at your local middle school or high school.
 
@@ -120,7 +120,7 @@ Valor Military Ministry
 
 Source: ValorMovement.com
 
-File: Valor.pdf
+## Valor
 
 Description: Valor is the ROTC cadet and midshipman ministry of Campus Crusade for Christ. This article contains links and contact information for the Valor Movement.
 
@@ -130,7 +130,7 @@ Korean Campus Crusade for Christ
 
 Source: KCCCUSA.org
 
-File: KCCC.pdf
+## KCCC
 
 Description: KCCC is a contextualized outreach to Korean-American students. To connect with KCCC just follow the links and contact information found in this article.
 

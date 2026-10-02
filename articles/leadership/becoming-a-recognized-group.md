@@ -40,7 +40,7 @@ Article VII: Committees Regular committees will established and special committe
 
 Southeastern Community College Student Organization: Campus Crusade for Christ
 
-Name of Organization Campus Crusade for Christ
+### Name of Organization Campus Crusade for Christ
 
 Purpose of Organization Campus Crusade for Christ exists to provide regular opportunities to study and discuss the Bible, worship, and pray, all in a group setting, which also provides opportunities for fellowship, encouragement and spiritual among members. We seek to be a resource to the student body by offering opportunities to discuss spiritual matters and provide materials in the form of speakers, video’s, books and articles, all for their benefit and consideration.
 

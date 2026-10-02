@@ -107,7 +107,7 @@ Whatever the reason, we clearly observe the importance of the college campus in 
 
 Turn t h e Side U p
 
-What Is Revival?
+### What Is Revival?
 
 I can’t remember the exact image that came to my mind the first time I heard the word “revival,” but I’m pretty sure it involved a banjo or a snake handler or a faith healer or something like that. This is not revival, though it may assume the name “revival meeting.” Perhaps the following eyewitness account of the Pyeng Yang, Korea, revival of 1907 would be the best way to introduce us to revival.
 
@@ -157,7 +157,7 @@ Though we lack exposure to our spiritual history through secular textbooks, thes
 
  Turn t h e Side U p
 
-A Fifty-Year Wait?
+### A Fifty-Year Wait?
 
 As we’ll be touching on several different revivals and awakenings, it might be helpful to have a basic time line of the revivals as well as the countries that were impacted.
 

@@ -22,7 +22,7 @@ Flesh is divided into three sections: small group discussion material, topical a
 
 Partial List of Topics Covered: Temptation, Confession, Community, Filling of the Spirit, Faith, Accountability, Pornography, Worship, Truth-Scripture, Habitual Sin, Homosexuality, Masturbation, and Sanctification-How We Grow.
 
-FLESH
+### FLESH
 
 In the book, The Emperor of Scent, Guy Roberts tells the story of being asked to create a new scent for Christian Dior. He gets a call that a new shipment of ambergris—the critical ingredient of many perfumes—had washed up on shore. Ambergris is a wonderfully poetic name for what is essentially whale vomit. A whale coughs the stuff up, it floats on the surface of the ocean for about a decade, decomposes, and the next thing you know, it’s worth about $100k a yard.
 
@@ -122,7 +122,7 @@ Psalm 103:12
 
 The Lord is gracious and righteous; our God is full of compassion.
 
-Psalm 116:5
+### Psalm 116:5
 
 The writers of Scripture are grappling with a linguistic problem. How do you put the greatness of God’s mercy into words? Here’s how they describe mercy: It never fails. It overflows to successive generations. Every morning, there’s a fresh and abundant supply because God is wealthy in mercy. These are all attempts to describe the amazing depth and breadth of God’s mercy for his children.
 

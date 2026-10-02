@@ -38,6 +38,6 @@ King’s Domain Summer Project Ozark Lakes, San Diego Summer Project Santa Cruz,
 
 Ocean City, Maryland Ocean City, NJ Orlando Summer Project Bridges Chinese Trek (Salt Lake City)
 
-Bridges Ishmael Project Bridges Wilderness Trek (Yosemite)
+### Bridges Ishmael Project Bridges Wilderness Trek (Yosemite)
 
 Destino Trek Greek Summit-Breckenridge Minneapolis/St. Paul Urban Trek Rocky Mountain High San Diego Adventure Jackson Hole, WY LA Urban Project Nations: Alaska Nations: Blackfeet Indian Reservation New York Tribeca - Arts

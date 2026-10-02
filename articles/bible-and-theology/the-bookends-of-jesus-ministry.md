@@ -45,7 +45,7 @@ Did Jesus set a working model for college students? How?
 
 ## Explore Questions
 
-Read Luke 4:14-21
+### Read Luke 4:14-21
 
 1. Why do you think Jesus chose to read from Isaiah 61:1-2?
 2. In what ways in Scripture do you read about Jesus:
@@ -55,7 +55,7 @@ Read Luke 4:14-21
 - d) Releasing the oppressed
 3. How can you relate these physical attributes (poverty, blindness, etc.) to spiritual issues? For example, a person can be physically blind but also spiritually blind. What does that mean, and how can Christ - through you - help bring sight and freedom to others?
 
-Read Matthew 28:18-20
+### Read Matthew 28:18-20
 
 4. What does it mean to be a disciple?
 5. Since Jesus instructed us to obey all that He commanded, how is helping the poor correlated with making disciples?

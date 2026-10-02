@@ -286,7 +286,7 @@ What does a movement of evangelism look like? The two-year old church in Ephesus
 
 The Evangelism Model is built upon a theology of evangelism. The following passages are illustrative of its principles.
 
-God: The Master
+### God: The Master
 
 - Christ’s Purpose: God’s Glory (John 17)
 - Christ’s Passion: Love for the Lost (Matthew 9:35-38)
@@ -294,7 +294,7 @@ God: The Master
 - Christ’s Power: The Holy Spirit (Acts, the whole book, particularly 1:8; 4)
 - Our Prayers: Our Dependence (Ephesians 6:19-20; 2 Thessalonians 3:1; Colossians 4:2-4; Matthew 9:37-38)
 
-The World: The Masses
+### The World: The Masses
 
 - The Spiritual Context (Ephesians 2:2; 2 Corinthians 4:4; 2 Corinthians 10:3-4)
 - The Cultural Context (1 Corinthians 9:19-23; Compare the cultural context and messages of Acts 10:34-43 with 17:16-34)

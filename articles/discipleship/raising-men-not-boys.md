@@ -97,7 +97,7 @@ For consider Him who endured such hostility by sinners against Himself, so that 
 
 These verses capture how we are able to go after the greater reward. I want the guys that I am working with to learn to come to grips with their sin and go soul to soul with other guys in the areas in which they struggle. One of the greatest satisfactions in my life has been helping create an environment where a college-age man is able to get his sin out into the open and experience forgiveness from his peers. How wonderful it is to finally look beyond the temporary satisfaction of our sin and seek the greater reward—God’s reward.
 
-CONTENT DRIVEN – I DON’T THINK SO!
+### Content Driven – I Don’t Think So!
 
 We’ve all been doing ministry long enough to know there are a thousand ideas and tons of materials on discipleship and men related issues. I’ve gotten a lot out of the David English’s “Quest for Authentic Manhood” material and would encourage any  of you to check it out if you haven’t. But I’d be the first to admit that there are other resources out there that are equally good.
 

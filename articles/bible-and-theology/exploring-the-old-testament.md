@@ -362,7 +362,7 @@ What decision did the prophet declare that his hearers must make?
 
 ## The Tabernacle
 
-Read: Exodus 25-27
+### Read: Exodus 25-27
 
 The Tabernacle and its furnishings have many lessons for us. Examine the diagram below closely. Notice the three sections: the large area of service, the Holy Place, and the Holy of Holies. Each area was hidden from the others by curtains. When Solomon built his temple after the Israelites had settled in the Promised Land, he followed the same pattern for the inner parts, carefully following God’s instructions.
 

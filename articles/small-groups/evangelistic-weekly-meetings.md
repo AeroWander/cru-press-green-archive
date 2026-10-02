@@ -33,7 +33,7 @@ Explain you are far from an expert and back that up by sharing a humiliating dat
 
 ## Premise of Talk
 
-Read Ephesians 5:25-32
+### Read Ephesians 5:25-32
 
 “Husbands, love your wives, just as Christ loved the church and gave himself up for her to make her holy, cleansing her by the washing with water through the word, and to present her to himself as a radiant church, without stain or wrinkle or any other blemish, but holy and blameless. In this same way, husbands ought to love their wives as their own bodies. He who loves his wife loves himself. After all, no one ever hated his own body, but he feeds and cares for it, just as Christ does the church — for we are members of his body. For this reason a man will leave his father and mother and be united to his wife, and the two will become one flesh. This is a profound mystery — but I am talking about Christ and the church.”
 
