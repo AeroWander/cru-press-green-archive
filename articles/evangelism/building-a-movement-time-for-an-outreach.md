@@ -97,7 +97,7 @@ LA Metro Team CELL PHONE EVANGELISM BY JODY HANFORD
 
 ### Call your Grandmother.
 
-## Iimagine Cell Phone Themed Posters All
+## Imagine Cell Phone Themed Posters All
 
 ally” booklet and three students trusted
 

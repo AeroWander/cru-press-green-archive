@@ -111,7 +111,7 @@ the country to provide treatment for female sex addicts. Ferree is also an autho
 
 2 Nielson/Net Ratings, Sept. ember 2003, www. nielson-netratings.com.
 
-3 A. Cooper, D. Demonico, and R. Burg, “Cybersex Uusers, Aabusers, and Compulsives: New Findings and Iimplications,” Sexual Addiction and Compulsivity (2000): 5–30.
+3 A. Cooper, D. Demonico, and R. Burg, “Cybersex Users, Abusers, and Compulsives: New Findings and Implications,” Sexual Addiction and Compulsivity (2000): 5–30.
 
 4 Ibid.
 

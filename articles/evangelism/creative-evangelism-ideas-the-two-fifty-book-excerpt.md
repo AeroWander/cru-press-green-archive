@@ -35,7 +35,7 @@ prayer reaped the blessing God had for
 
 our ministry.” *
 
-## Ppraying in Front of the School
+## Praying in Front of the School
 
 library every day at 7:30a.m, for several months, may seem like a hard pill to swallow, but for the ministry at Southern Connecticut State University, it was the way God brought them together to see more than 20 football players receive Christ! 2›› 
 
@@ -77,7 +77,7 @@ Several of the next cluster of ideas relate to evangelistic media campaigns view
 
 ### Call your Grandmother.
 
-## Iimagine Cell Phone Themed Posters All
+## Imagine Cell Phone Themed Posters All
 
 ally” booklet and three students trusted
 

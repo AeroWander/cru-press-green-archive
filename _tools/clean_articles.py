@@ -51,6 +51,14 @@ def fix_words(s):
         count("odd capitals fixed"); w = m.group(0); return w[0].upper() + w[1:].lower()
     s = re.sub(r"\b[a-z][A-Z][a-z]{2,}\b", odd_caps, s)                                # "fAith" → "Faith"
 
+    def drop_cap(m):                                                                    # "Ppersonal", "Ttransition"
+        w, rest = m.group(0), m.group(0)[1:]
+        if len(rest) >= 4 and is_word(rest) and not is_word(w):
+            count("doubled drop-cap letters fixed"); return rest[0].upper() + rest[1:]
+        return w
+    s = re.sub(r"\b([A-Z])(?=[a-z])(?:(?<=P)p|(?<=T)t|(?<=A)a|(?<=B)b|(?<=C)c|(?<=D)d|(?<=E)e|(?<=F)f|(?<=G)g|(?<=H)h|(?<=I)i|"
+               r"(?<=J)j|(?<=K)k|(?<=L)l|(?<=M)m|(?<=N)n|(?<=O)o|(?<=Q)q|(?<=R)r|(?<=S)s|(?<=U)u|(?<=V)v|(?<=W)w|(?<=Y)y)[a-z]+", drop_cap, s)
+
     def split_word(m):
         a, b = m.group(1), m.group(2)
         if is_word(a + b) and not (a.lower() in PREFIXES and b[:1].isupper()):

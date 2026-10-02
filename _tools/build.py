@@ -348,7 +348,8 @@ def good_heading(t, prior_words, raw):
     if DROP_PHRASES.search(t) or t.lower() in LONE_WORDS: return False
     if re.search(r"^related articles|^contributions by|over \d+ articles|^name\b.*\bphone$|\d[A-Z][a-z]|topic title", t, re.I): return False
     if re.fullmatch(r"(?:(?:always|often|sometimes|rarely|never|high|somewhat|not at all|low)\s*)+", t, re.I): return False
-    if t.count("[") != t.count("]") or t.count("(") != t.count(")"): return False      # "Well)", "…[wait, maybe"
+    tb = re.sub(r"^(?:\d{1,2}|[A-Za-z]|[IVX]+)\)\s*", "", t)                        # "1) Personal…" is fine
+    if tb.count("[") != tb.count("]") or tb.count("(") != tb.count(")"): return False   # "Well)", "…[wait, maybe"
     if len(re.findall(r"\b\d?\s?[A-Z][a-z]+ \d+(?::\d+)?(?:-\d+)?", t)) >= 3: return False   # a list of Bible references
     first = re.search(r"(?<![A-Za-z0-9])[A-Za-z]", t)                               # first word that starts with a letter
     if first and first.group(0).islower(): return False                              # "8) going to work"
