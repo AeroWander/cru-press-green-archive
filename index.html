@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Cru Press Green Archive</title>
+<meta name="description" content="638 articles, guides and studies for campus ministry, searchable by topic, theme, audience, author and series.">
+<meta name="theme-color" content="#1f3a2e">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%232f6b4f'/%3E%3Cpath d='M9 8h6a3 3 0 0 1 3 3v13a3 3 0 0 0-3-3H9zM23 8h-2a3 3 0 0 0-3 3v13a3 3 0 0 1 3-3h2z' fill='%23fff'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="assets/style.css?v=dcf6ac5255">
+<script>(function(){try{var t=localStorage.getItem('al-theme');if(t)document.documentElement.dataset.theme=t}catch(e){}})();</script>
+</head>
+<body class="home">
+<a class="skip" href="#main">Skip to content</a>
+<header class="bar"><div class="bar-in">
+<a class="brand" href="index.html"><span class="logo" aria-hidden="true"></span><span class="brand-name">Cru Press Green Archive</span></a>
+<nav class="bar-nav"><a href="index.html#browse">Topics</a><a href="index.html#search">Search</a></nav>
+<button class="theme" type="button" aria-label="Switch light or dark mode" onclick="alToggleTheme()"><span aria-hidden="true">◐</span></button>
+</div>
+<form class="bar-search" role="search" action="index.html" onsubmit="location.href='index.html#q='+encodeURIComponent(this.q.value.trim());return false">
+<svg aria-hidden="true" viewBox="0 0 24 24" width="18" height="18"><circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" stroke-width="2"/><path d="M20 20l-4-4" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+<input id="bar-q" name="q" type="search" placeholder="Search the archive…" aria-label="Search the archive" autocomplete="off" enterkeyhint="search">
+</form>
+</header>
+<main id="main">
+<section class="hero hero-home">
+  <div class="hero-in">
+    <p class="eyebrow">Campus ministry resources</p>
+    <h1>Cru Press Green Archive</h1>
+    <p class="lede">638 articles, guides and studies (about 1.7 million words) on evangelism, discipleship, small groups, leadership and more. Search them, or browse by topic.</p>
+    <form class="searchbox" role="search" onsubmit="return false">
+      <label class="sr" for="q">Search the library</label>
+      <svg aria-hidden="true" viewBox="0 0 24 24" width="20" height="20"><circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" stroke-width="2"/><path d="M20 20l-4-4" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+      <input id="q" type="search" placeholder="Search titles, summaries, authors…" autocomplete="off" enterkeyhint="search">
+      <button id="clear-q" type="button" class="clear" aria-label="Clear search" hidden>×</button>
+    </form>
+    <div class="search-opts">
+      <label class="switch"><input id="ft" type="checkbox"><span>Also search inside article text</span></label>
+      <span id="ft-status" class="ft-status" aria-live="polite"></span>
+    </div>
+    <p class="try">Try: <button type="button" data-try="prayer">prayer</button><button type="button" data-try="&quot;follow up&quot;">"follow up"</button><button type="button" data-try="Rick James">Rick James</button><button type="button" data-try="first six weeks">first six weeks</button><button type="button" data-try="justice">justice</button></p>
+  </div>
+</section>
+
+<section class="filters-band" id="search" aria-label="Filters">
+  <div class="wrap">
+    <details class="filters" id="filters">
+      <summary><span>Filters</span><span id="filter-count" class="badge" hidden></span></summary>
+      <div class="filter-grid">
+        <label>Topic<select id="f-topic"><option value="">All topics</option></select></label>
+        <label>Theme<select id="f-theme"><option value="">All themes</option></select></label>
+        <label>Audience<select id="f-aud"><option value="">Anyone</option></select></label>
+        <label>Author<select id="f-author"><option value="">Any author</option></select></label>
+        <label>Series<select id="f-series"><option value="">Any series</option></select></label>
+        <label>Length<select id="f-len">
+          <option value="">Any length</option>
+          <option value="short">Quick read (under 5 min)</option>
+          <option value="medium">Medium (5–15 min)</option>
+          <option value="long">Long (15 min or more)</option>
+        </select></label>
+        <label>Type<select id="f-type">
+          <option value="">All types</option>
+          <option value="Article">Articles &amp; guides</option>
+          <option value="Handout">Handouts &amp; text</option>
+          <option value="Flyer">Flyers &amp; posters</option>
+        </select></label>
+        <label>Sort by<select id="f-sort">
+          <option value="rel">Best match</option>
+          <option value="az">Title A–Z</option>
+          <option value="short">Shortest first</option>
+          <option value="long">Longest first</option>
+        </select></label>
+      </div>
+    </details>
+  </div>
+</section>
+
+<section class="results-wrap wrap" id="results-section" hidden>
+  <div class="res-head">
+    <div>
+      <h2 id="res-title">Results</h2>
+      <p id="res-count" class="res-count" aria-live="polite"></p>
+    </div>
+    <button id="clear-all" type="button" class="btn-ghost">Clear all</button>
+  </div>
+  <div id="active" class="active-chips"></div>
+  <div id="topic-intro" class="topic-intro" hidden></div>
+  <ol id="results" class="results"></ol>
+  <button id="more" type="button" class="btn-more" hidden>Show more</button>
+</section>
+
+<section class="wrap browse" id="browse">
+  <h2 class="sec-title">Browse by topic</h2>
+  <div class="topic-grid">
+<a class="topic-card" data-topic="evangelism" href="#topic=evangelism"><span class="tc-count">138</span><h3>Evangelism &amp; Outreach</h3><p>Sharing the gospel one-to-one and campus-wide: conversations, tools, outreaches and apologetics.</p></a>
+<a class="topic-card" data-topic="discipleship" href="#topic=discipleship"><span class="tc-count">147</span><h3>Discipleship &amp; Spiritual Growth</h3><p>Following up, building others up, prayer, the Spirit-filled life and multiplying disciples.</p></a>
+<a class="topic-card" data-topic="bible-and-theology" href="#topic=bible-and-theology"><span class="tc-count">143</span><h3>Bible &amp; Theology</h3><p>Studying Scripture, knowing God, grace and assurance, and the history of revival.</p></a>
+<a class="topic-card" data-topic="small-groups" href="#topic=small-groups"><span class="tc-count">154</span><h3>Small Groups &amp; Community</h3><p>Leading small groups and weekly meetings, building community, conferences and retreats.</p></a>
+<a class="topic-card" data-topic="leadership" href="#topic=leadership"><span class="tc-count">141</span><h3>Leadership &amp; Movement Building</h3><p>Launching and leading ministries: vision, planning, teams, coaching and movement growth.</p></a>
+<a class="topic-card" data-topic="life-and-character" href="#topic=life-and-character"><span class="tc-count">115</span><h3>Life, Identity &amp; Character</h3><p>Identity, purity, relationships, suffering, conflict, calling and life after college.</p></a>
+<a class="topic-card" data-topic="mission-and-justice" href="#topic=mission-and-justice"><span class="tc-count">92</span><h3>Mission, Justice &amp; Culture</h3><p>The Great Commission, justice and compassion, ethnic ministry and summer projects.</p></a>
+<a class="topic-card" data-topic="flyers-and-promo" href="#topic=flyers-and-promo"><span class="tc-count">83</span><h3>Flyers, Posters &amp; Promo</h3><p>Poster copy, flyer text and promo pieces for groups, outreaches and campaigns.</p></a>
+  </div>
+
+  <h2 class="sec-title">Series</h2>
+  <p class="sec-sub">Sets of articles written to be read together.</p>
+  <div id="series-list" class="pill-list"></div>
+
+  <h2 class="sec-title">Authors</h2>
+  <p class="sec-sub">Writers with three or more pieces in the library.</p>
+  <div id="author-list" class="pill-list"></div>
+</section>
+</main>
+
+<footer class="foot"><div class="foot-in"><a href="index.html">Cru Press Green Archive</a> · Articles, guides and studies for campus ministry</div></footer>
+<script>function alToggleTheme(){var d=document.documentElement,c=d.dataset.theme||'light',n=c==='dark'?'light':'dark';d.dataset.theme=n;try{localStorage.setItem('al-theme',n)}catch(e){}}</script>
+<script src="assets/library.js?v=dcf6ac5255"></script>
+<script src="assets/app.js?v=dcf6ac5255"></script>
+</body>
+</html>
